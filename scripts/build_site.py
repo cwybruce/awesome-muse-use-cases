@@ -34,6 +34,18 @@ AUTHOR_X = {
     "url": "https://x.com/sycbruce",
 }
 
+# 作者头像：放在 assets/avatar.jpg（换图后重新构建即可）；同时用作标题栏图标
+AVATAR_PATH = os.path.join(REPO, "assets", "avatar.jpg")
+
+
+def avatar_data_uri():
+    try:
+        import base64
+        with open(AVATAR_PATH, "rb") as f:
+            return "data:image/jpeg;base64," + base64.b64encode(f.read()).decode("ascii")
+    except Exception:
+        return ""
+
 
 # ---------------------------------------------------------------- parsing
 
@@ -370,6 +382,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Awesome Muse Use Cases \u00b7 Meta Muse \u771f\u5b9e\u4f7f\u7528\u6848\u4f8b\u5408\u96c6</title>
+__FAVICON__
 <meta name="description" content="\u6bcf\u65e5\u66f4\u65b0\u7684 Meta Muse \u771f\u5b9e\u4f7f\u7528\u6848\u4f8b\u5408\u96c6">
 <style>
 :root{
@@ -467,7 +480,8 @@ footer a{color:var(--accent)}
 .featured a.title:hover{color:#4f46e5;text-decoration:underline}
 .featured .desc{font-size:13px;color:#78716c}
 @media (max-width:600px){.featured .desc{display:none}}
-.author{margin:0 0 20px;font-size:14px;opacity:.92}
+.author{margin:0 0 20px;font-size:14px;opacity:.95;display:flex;align-items:center;gap:10px}
+.author .avatar{width:36px;height:36px;border-radius:50%;border:2px solid rgba(255,255,255,.55);object-fit:cover}
 .author a{color:#fff;font-weight:700;text-decoration:underline;text-underline-offset:3px}
 .author a:hover{color:#fbbf24}
 </style>
@@ -614,6 +628,7 @@ def main():
 
     cst = timezone(timedelta(hours=8))
     build_time = datetime.now(cst).strftime("%Y-%m-%d %H:%M CST")
+    avatar_uri = avatar_data_uri()
 
     page = PAGE_TEMPLATE
     page = page.replace("__INTRO__", md_inline(data["intro"]) or
@@ -639,14 +654,19 @@ def main():
         featured_html = ""
     page = page.replace("__FEATURED__", featured_html)
     if AUTHOR_X:
+        avatar_img = ('<img class="avatar" src="' + avatar_uri + '" alt="">'
+                      if avatar_uri else "")
         author_html = (
-            "作者 X：" + '<a href="' + html.escape(AUTHOR_X["url"], quote=True)
+            "作者 X：" + avatar_img + '<a href="' + html.escape(AUTHOR_X["url"], quote=True)
             + '" target="_blank" rel="noopener">'
             + html.escape(AUTHOR_X["handle"]) + "</a>"
         )
     else:
         author_html = ""
     page = page.replace("__AUTHOR_X__", author_html)
+    page = page.replace("__FAVICON__",
+                        '<link rel="icon" href="' + avatar_uri + '">'
+                        if avatar_uri else "")
     page = page.replace("__REPO_URL__", REPO_URL)
     page = page.replace("__BUILD_TIME__", build_time)
     page = page.replace("__COMMIT__", git_commit_hash())
