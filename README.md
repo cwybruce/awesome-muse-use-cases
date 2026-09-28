@@ -32,6 +32,62 @@
 
 ---
 
+## 2026-09-28（第 2 期）
+
+今日共收录 **4 个用户案例**（1 条新鲜分享 + 3 条往期回顾补录）+ **2 条官方动态** + **1 条第三方合作动态**。
+
+### 用户案例
+
+#### 1. 把生活"托管"七天：播客早报 + 日历/收件箱/账单静默监控
+- **做了什么**：Threads 用户 @iamphisho 分享下载 Muse 一周的体验：Muse 每天自动生成**带新闻和日程的播客简报**，被动监控日历、收件箱和账单（有异常才安静提醒），主动排查日程冲突，预订和调研类事项只让他做最终拍板。"AI 接管生活好像真的要实现了。"
+- **一句话总结**：从"问一句答一句"到"默默替你盯着"，个人 agent 的正确体感。
+- **来源**：[Threads @iamphisho](https://www.threads.com/@iamphisho/post/DduxLKpAr7c)（评论区有人质疑是广告，作者否认并解释了邮件/支付权限设置）
+- **日期**：2026-09-26
+- **标签**：#效率 #生活
+
+#### 2.【往期回顾】AT&T 光纤账单砍价，24 个月省 $1,920
+- **做了什么**：X 用户 @JasonL_Capital 让 Muse 替两户家庭的 AT&T 网络账单谈价，24 个月合计**省下约 $1,920**。
+- **一句话总结**：砍价这种"打电话扯皮"的活，agent 比人有耐心。
+- **来源**：[Grenade 手榴彈整理转述 X 原帖](https://grenade.tw/blog/muse-meta-ai-agent/)（文章约 09-20 发布，原帖直链待补）
+- **日期**：2026-09-20 前后【往期回顾】
+- **标签**：#省钱
+
+#### 3.【往期回顾】保险解约：Muse 代打客服走完取消流程
+- **做了什么**：X 用户 @franklyn_chien 让 Muse **代打电话给保险公司客服**处理解约，最后只需他本人签署文件。
+- **一句话总结**：和客服扯皮几十分钟的环节，第一次被完整外包。
+- **来源**：[Grenade 手榴彈整理转述 X 原帖](https://grenade.tw/blog/muse-meta-ai-agent/)（文章约 09-20 发布，原帖直链待补）
+- **日期**：2026-09-20 前后【往期回顾】
+- **标签**：#省钱 #效率
+
+#### 4.【往期回顾】IKEA 退货：联系客服→预约→安排取件全流程托管
+- **做了什么**：X 用户 @armand_ruiz 把 IKEA 退货整件事交给 Muse：**联系客服、预约、安排上门取件**，全程由 agent 跑完。
+- **一句话总结**：退货这种"流程长、每一步都要等人"的任务，是 agent 的天然舒适区。
+- **来源**：[Grenade 手榴彈整理转述 X 原帖](https://grenade.tw/blog/muse-meta-ai-agent/)（文章约 09-20 发布，原帖直链待补）
+- **日期**：2026-09-20 前后【往期回顾】
+- **标签**：#生活 #效率
+
+### 动态
+
+#### A.【官方】Muse Charm：钥匙扣大小的随身 Muse 硬件，12 月发售
+- **内容**：扎克伯格在 Meta Connect 主题演讲结尾掏出彩蛋硬件 **Muse Charm**——钥匙扣大小的随身设备，2 英寸小屏上住着你的 Muse 角色（默认 Jolly，可自定义），按一下指纹键即用实时语音对话，不用掏手机；带摄像头可"看到"你周围发生的事，5G 独立联网不依赖手机。被多家媒体称为"电子宠物机式 AI"。价格、完整规格未公布，目标圣诞季发货。
+- **来源**：[People](https://people.com/meta-unveils-ai-gadgets-including-tamagotchi-like-muse-charm-pendant-12139475)；[tech-ish](https://tech-ish.com/2026/09/25/meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-agent-with-no-price-yet/)；[MalaysianWireless（引路透）](https://www.malaysianwireless.com/2026/09/meta-muse-charm-5g-ai-keychain/)
+- **日期**：2026-09-23（Meta Connect 发布）；媒体持续跟进至 09-27
+- **标签**：#官方
+
+#### B.【官方】Alexandr Wang：可以把你的 Muse 放到 Instagram 主页展示
+- **内容**：Meta 首席 AI 官 Alexandr Wang 在 Threads 发视频演示：Instagram 主页新增"Add your Muse"入口，可把自己的 Muse（比如他那只叫 Euler 的）以 banner 形式挂在个人主页展示，还能在 DM 里直接和它对话。配文"show off your superintelligence sidekick to your friends"。
+- **来源**：[Threads @alexanddeer](https://www.threads.com/@alexanddeer/post/DdzSypOjj3i)
+- **日期**：2026-09-27（美西时间）
+- **标签**：#官方
+
+#### C. 健康数据公司 Function 宣布接入 Muse（第三方合作）
+- **内容**：健康数据公司 Function 发通稿宣布会员可把自己的体检/化验数据安全接入 Muse：让 Muse 按个人化验指标解读报告、围绕健康目标调整计划、到点提醒约下一次体检。Muse 加入 Function 的 AI 连接器阵容（已有 ChatGPT、Claude、Perplexity），连接器未来几周上线。**注意：这是 Function 的单方面通稿，非 Meta 官方公告。**
+- **来源**：[PR Newswire（经镜像）](https://pr.norwoodtownnews.com/article/Function-Now-Connects-to-Metas-Muse-Allowing-Members-to-Bring-Their-Personal-Health-Data-to-the-New-AI-Agent/6aa0a4b106b0f49a92996f36)
+- **日期**：2026-09-28 前后（通稿抓取日期，镜像页未注明具体发布日）
+- **标签**：#健康 #第三方合作
+
+---
+
 ## 2026-09-27（第 1 期）
 
 今日共收录 **10 个用户案例** + **2 条官方动态** + **2 组媒体实测**。
@@ -41,7 +97,7 @@
 #### 1. 找回妻子忘取消的图书订阅，拿回一年退款
 - **做了什么**：用户 @chrsabraham 让 Muse 翻查账单，Muse 发现他妻子一年多前忘记取消的一个图书订阅，自动取消订阅、找到退款政策，**追回了一整年的订阅费**。
 - **一句话总结**：Muse 当了一回"账单审计员"，把 forgotten subscription 连本带利讨了回来。
-- **来源**：[Business Insider 经 IAMHIPHOPMAG 转述原 X 帖](https://iahhm.com/2026/09/22/alexandr-wangs-musemoneychallenge-pitch-says-that-metas-new-app-can-make-you-1000-almost-instantly-u2013-matthew-loh/)
+- **来源**：[Business Insider 经 IAMHIPHOPMAG 转述原 X 帖](https://iahhm.com/2026/09/22/alexandr-wangs-musemoneychallenge-pitch-says-that-metas-new-app-can-make-you-1000-almost-instantly-u2013-matthew-loh/)【链接失效：2026-09-28 检查返回 404，链接保留不断链】
 - **日期**：2026-09-15（原 X 帖）；媒体报道 09-22
 - **标签**：#省钱 #效率
 
