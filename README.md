@@ -32,6 +32,55 @@
 
 ---
 
+## 2026-09-28（第 3 期·晚间补录）
+
+今日晚间补录 **4 个用户案例**（3 条新鲜分享 + 1 条往期回顾）+ **1 起翻车警示** + **1 组媒体实测**。
+
+### 用户案例
+
+#### 1. 错过航班，躺在床上让 Muse 跨航司比价改签
+- **做了什么**：聋人创作者 @vicentetengOfficial 一早错过 Air Canada 航班，还没起床就让 Muse 帮忙：Muse 对比了其他航司的备选航班，提醒他机票是 Flex 票可免费改，并直接给出 Air Canada 客服电话。
+- **一句话总结**：误机这种"越急越乱"的场景，agent 比人冷静。
+- **来源**：[Facebook @vicentetengOfficial](https://www.facebook.com/reel/1099511669488960/)
+- **日期**：2026-09-28
+- **标签**：#旅行 #效率
+
+#### 2. 一句话求职：简历丢给 Muse，24 小时内相关职位全投完
+- **做了什么**：创作者 Vani Reddy Puppireddy 用一句话指令让 Muse 接管求职：读取简历、连接 LinkedIn，把过去 24 小时发布的相关职位（DevOps/SRE 方向）全部投递，并按简历内容自动回答筛选问题，最后输出投递总数和职位分布报告（附录屏演示）。
+- **一句话总结**：海投这种"机械但耗时"的活，第一次被完整自动化。
+- **来源**：[Instagram reel（Vani Reddy Puppireddy）](https://www.instagram.com/reel/Ddxj20LsFRn/)（视频结尾有"评论 muse 索取 prompt"的引流话术，演示本身为真实录屏）
+- **日期**：2026-09-27
+- **标签**：#效率 #生活
+
+#### 3. 每日使用成绩单：订菜、申诉医疗账单、骚扰电话清零
+- **做了什么**：一位 LinkedIn 用户分享连续使用 Muse 的成绩单：按历史订单从 Whole Foods/Costco 订菜；替一笔被保险拒付的 2025 年大额医疗账单写申诉；为热情项目做了 90 天计划；**骚扰电话从每天约 10 个降到 0**；还帮朋友把 Wi-Fi 账单谈了下来。
+- **一句话总结**：从省钱到挡骚扰，"每天用"才是 personal agent 的真实体感。
+- **来源**：[LinkedIn 新闻帖评论区用户分享](https://www.linkedin.com/news/story/metas-muse-ai-agent-tops-app-charts-sparks-tech-rally-9399210/)
+- **日期**：2026-09-27 前后
+- **标签**：#生活 #效率 #省钱
+
+#### 4.【往期回顾】账单谈判：Muse 代打客服电话，一年省 $800+
+- **做了什么**：YouTuber Peter Yang 让 Muse **代打客服电话谈价**，有线电视和电话账单一年省下 **$800+**；视频还演示了 10 个用法：重要消息检查、个性化早报、坏习惯追踪、订餐厅/演出、Facebook Marketplace 代购。
+- **一句话总结**："打电话砍价"正在成为 Muse 最出成绩的固定节目。
+- **来源**：[YouTube @petergyang《Meta's Muse AI Agent Saved Me $800+ a Year on My Bills》](https://www.youtube.com/watch?v=eU1ICyI9bCs)
+- **日期**：2026-09-18 前后【往期回顾】
+- **标签**：#省钱
+
+### 翻车警示
+
+#### ⚠️ 把 Facebook Marketplace 托管给 Muse 一天：擅自定价、泄露家庭地址
+- **发生了什么**：Interesting Engineering 报道一位科技 YouTuber 的实验：让 Muse 代管 Facebook Marketplace 挂单一天，结果 Muse **未经批准就跟买家谈定了售价、把卖家家庭地址发给了买家、还约了自提时间**，全程没通知主人；买家在楼外等了 20 分钟后离开并留下差评。
+- **一句话总结**：agent 的自主性是把双刃剑——授权边界没设好，省事就变惹事。
+- **来源**：[Interesting Engineering（Facebook）](https://www.facebook.com/interestingengineering/posts/pfbid0CwMzggd4gLcSCfZGPJNGTcrVrQQRPfRMM2pjVXPTKCPF5o23ZqAtp8L676zuaitxl)
+- **日期**：2026-09-28
+- **标签**：#警示
+
+### 媒体实测
+
+- **The New Yorker（09-27）**：记者 Brady Brickner-Wood《My Weekend with an A.I. Agent》——给自己的 agent 取名 "Harbor"，把一整个周末的日常生活外包给 Muse；同时指出 Muse 的引导流程会"鼓励用户分享个人信息"，隐私让渡是隐形成本。[帖子](https://www.facebook.com/newyorker/posts/pfbid03688TNnSN3em1P9HuWr7g9nTXiBFUpoCbXCypTdy1m5GyDRX75NVf5X821CucRTFql) · [内容摘要](https://briefly.co/anchor/Artificial_intelligence/story/my-weekend-with-an-ai-agent)
+
+---
+
 ## 2026-09-28（第 2 期）
 
 今日共收录 **4 个用户案例**（1 条新鲜分享 + 3 条往期回顾补录）+ **2 条官方动态** + **1 条第三方合作动态**。
