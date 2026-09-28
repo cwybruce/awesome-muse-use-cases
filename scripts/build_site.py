@@ -20,6 +20,14 @@ REPO_URL = "https://github.com/cwybruce/awesome-muse-use-cases"
 DEFAULT_INVITE_CODE = "YGFC1Y"
 DEFAULT_JOIN_URL = "https://muse.ai/join"
 
+# 顶部"推荐阅读"位：设为 None 可隐藏；每日构建会自动带上
+FEATURED = {
+    "label": "推荐阅读",
+    "title": "下一个风口不是更大的模型，是替你办事的 Agent",
+    "desc": "Personal Agent 发展脉络梳理 + 短 / 中 / 长期演化路径预测",
+    "url": "https://x.com/sycbruce/status/2104549031208996923",
+}
+
 
 # ---------------------------------------------------------------- parsing
 
@@ -446,6 +454,13 @@ footer a{color:var(--accent)}
   .stats{gap:20px}
   .cards{grid-template-columns:1fr}
 }
+.featured{background:#fffbeb;border-bottom:1px solid #fde68a}
+.featured-inner{max-width:960px;margin:0 auto;padding:14px 20px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.featured-tag{flex:none;font-size:12px;font-weight:800;color:#92400e;background:#fde68a;border-radius:6px;padding:4px 10px}
+.featured a.title{font-size:15px;font-weight:700;color:#1f2937;text-decoration:none}
+.featured a.title:hover{color:#4f46e5;text-decoration:underline}
+.featured .desc{font-size:13px;color:#78716c}
+@media (max-width:600px){.featured .desc{display:none}}
 </style>
 </head>
 <body>
@@ -470,6 +485,8 @@ footer a{color:var(--accent)}
     </div>
   </div>
 </header>
+
+__FEATURED__
 
 <div class="toolbar">
   <div class="toolbar-inner">
@@ -598,6 +615,19 @@ def main():
     page = page.replace("__JOIN_URL__", html.escape(data["join_url"], quote=True))
     page = page.replace("__TAGPILLS__", tagpills)
     page = page.replace("__SECTIONS__", sections_html)
+    if FEATURED:
+        featured_html = (
+            '<div class="featured"><div class="featured-inner">'
+            '<span class="featured-tag">' + html.escape(FEATURED["label"]) + "</span>"
+            '<a class="title" href="' + html.escape(FEATURED["url"], quote=True)
+            + '" target="_blank" rel="noopener">'
+            + html.escape(FEATURED["title"]) + "</a>"
+            '<span class="desc">' + html.escape(FEATURED.get("desc", "")) + "</span>"
+            "</div></div>"
+        )
+    else:
+        featured_html = ""
+    page = page.replace("__FEATURED__", featured_html)
     page = page.replace("__REPO_URL__", REPO_URL)
     page = page.replace("__BUILD_TIME__", build_time)
     page = page.replace("__COMMIT__", git_commit_hash())

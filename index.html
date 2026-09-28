@@ -94,6 +94,13 @@ footer a{color:var(--accent)}
   .stats{gap:20px}
   .cards{grid-template-columns:1fr}
 }
+.featured{background:#fffbeb;border-bottom:1px solid #fde68a}
+.featured-inner{max-width:960px;margin:0 auto;padding:14px 20px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.featured-tag{flex:none;font-size:12px;font-weight:800;color:#92400e;background:#fde68a;border-radius:6px;padding:4px 10px}
+.featured a.title{font-size:15px;font-weight:700;color:#1f2937;text-decoration:none}
+.featured a.title:hover{color:#4f46e5;text-decoration:underline}
+.featured .desc{font-size:13px;color:#78716c}
+@media (max-width:600px){.featured .desc{display:none}}
 </style>
 </head>
 <body>
@@ -118,6 +125,8 @@ footer a{color:var(--accent)}
     </div>
   </div>
 </header>
+
+<div class="featured"><div class="featured-inner"><span class="featured-tag">推荐阅读</span><a class="title" href="https://x.com/sycbruce/status/2104549031208996923" target="_blank" rel="noopener">下一个风口不是更大的模型，是替你办事的 Agent</a><span class="desc">Personal Agent 发展脉络梳理 + 短 / 中 / 长期演化路径预测</span></div></div>
 
 <div class="toolbar">
   <div class="toolbar-inner">
@@ -160,7 +169,7 @@ footer a{color:var(--accent)}
 
 <footer>
   数据来源：本仓库 <a href="https://github.com/cwybruce/awesome-muse-use-cases">README.md</a>（每日更新） · 本页面由 <code>scripts/build_site.py</code> 自动生成<br>
-  最后更新：2026-09-28 20:01 CST · commit <code>0bc433d</code><br>
+  最后更新：2026-09-28 20:37 CST · commit <code>115ce50</code><br>
   Muse = Meta 的个人 AI 助手（非 Anthropic Claude）· 品牌赞助内容已过滤
 </footer>
 
