@@ -28,6 +28,12 @@ FEATURED = {
     "url": "https://x.com/sycbruce/status/2104549031208996923",
 }
 
+# 作者 X 账号：设为 None 可隐藏
+AUTHOR_X = {
+    "handle": "@sycbruce",
+    "url": "https://x.com/sycbruce",
+}
+
 
 # ---------------------------------------------------------------- parsing
 
@@ -461,6 +467,9 @@ footer a{color:var(--accent)}
 .featured a.title:hover{color:#4f46e5;text-decoration:underline}
 .featured .desc{font-size:13px;color:#78716c}
 @media (max-width:600px){.featured .desc{display:none}}
+.author{margin:0 0 20px;font-size:14px;opacity:.92}
+.author a{color:#fff;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.author a:hover{color:#fbbf24}
 </style>
 </head>
 <body>
@@ -469,6 +478,7 @@ footer a{color:var(--accent)}
     <h1>\U0001f916 Awesome Muse Use Cases</h1>
     <p class="subtitle">Meta Muse \u771f\u5b9e\u4f7f\u7528\u6848\u4f8b\u5408\u96c6 \u00b7 \u6bcf\u65e5\u66f4\u65b0</p>
     <p class="intro">__INTRO__</p>
+    <div class="author">__AUTHOR_X__</div>
     <div class="stats">
       <div class="stat"><span class="num">__ISSUES__</span><span class="lbl">\u671f\u66f4\u65b0</span></div>
       <div class="stat"><span class="num">__ENTRIES__</span><span class="lbl">\u6761\u6536\u5f55</span></div>
@@ -628,6 +638,15 @@ def main():
     else:
         featured_html = ""
     page = page.replace("__FEATURED__", featured_html)
+    if AUTHOR_X:
+        author_html = (
+            "作者 X：" + '<a href="' + html.escape(AUTHOR_X["url"], quote=True)
+            + '" target="_blank" rel="noopener">'
+            + html.escape(AUTHOR_X["handle"]) + "</a>"
+        )
+    else:
+        author_html = ""
+    page = page.replace("__AUTHOR_X__", author_html)
     page = page.replace("__REPO_URL__", REPO_URL)
     page = page.replace("__BUILD_TIME__", build_time)
     page = page.replace("__COMMIT__", git_commit_hash())
