@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Awesome Muse Use Cases · Meta Muse 真实使用案例合集</title>
+<meta name="description" content="每日更新的 Meta Muse 真实使用案例合集">
+<style>
+:root{
+  --bg:#f6f7fb; --card:#ffffff; --text:#1e2433; --muted:#6b7280;
+  --line:#e8eaf1; --accent:#4f46e5; --accent-soft:#eef0ff;
+  --official:#2563eb; --warning:#dc2626; --media:#7c3aed; --partner:#0d9488;
+  --radius:14px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none;word-break:break-all}
+a:hover{text-decoration:underline}
+.hero{background:linear-gradient(135deg,#312e81 0%,#4f46e5 55%,#7c3aed 100%);color:#fff;padding:56px 20px 44px}
+.hero-inner{max-width:960px;margin:0 auto}
+.hero h1{margin:0 0 8px;font-size:clamp(26px,5vw,40px);letter-spacing:.5px}
+.hero .subtitle{margin:0 0 14px;font-size:17px;opacity:.92}
+.hero .intro{margin:0 0 22px;max-width:720px;font-size:14.5px;opacity:.85}
+.stats{display:flex;gap:28px;margin:0 0 24px;flex-wrap:wrap}
+.stat{display:flex;align-items:baseline;gap:6px}
+.stat .num{font-size:34px;font-weight:800}
+.stat .lbl{font-size:14px;opacity:.8}
+.invite{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);
+  border-radius:var(--radius);padding:16px 18px;max-width:720px}
+.invite-text{font-size:14.5px;margin-bottom:12px}
+.invite-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.invite-row code{background:#fff;color:#312e81;font-weight:800;font-size:18px;
+  padding:8px 14px;border-radius:8px;letter-spacing:2px}
+.btn{border:0;cursor:pointer;border-radius:8px;padding:9px 16px;font-size:14px;font-weight:600}
+.btn-copy{background:#fff;color:#312e81}
+.btn-join{background:#fbbf24;color:#3b2f04;display:inline-block}
+.btn:active{transform:scale(.97)}
+.copy-ok{font-size:13px;opacity:0;transition:opacity .3s}
+.toolbar{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.94);
+  border-bottom:1px solid var(--line);padding:12px 20px}
+.toolbar-inner{max-width:960px;margin:0 auto;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+#search{flex:1;min-width:200px;padding:10px 14px;border:1px solid var(--line);border-radius:10px;font-size:15px}
+#search:focus{outline:2px solid var(--accent);border-color:var(--accent)}
+.tagbar{display:flex;gap:8px;flex-wrap:wrap}
+.tagfilter{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 13px;
+  font-size:13px;cursor:pointer;color:var(--muted)}
+.tagfilter.on{background:var(--accent);border-color:var(--accent);color:#fff}
+#clearBtn{background:none;border:0;color:var(--muted);cursor:pointer;font-size:13px;display:none}
+main{max-width:960px;margin:0 auto;padding:28px 20px 10px}
+.issue{margin-bottom:40px}
+.issue-head h2{margin:0 0 6px;font-size:22px}
+.issue-summary{color:var(--muted);font-size:14px;margin:0 0 4px}
+.group{margin:22px 0}
+.group-title{font-size:17px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+.group-title .count{font-size:12px;color:var(--muted);font-weight:400;background:var(--accent-soft);
+  padding:2px 10px;border-radius:999px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:16px 18px 14px;position:relative;overflow:hidden;display:flex;flex-direction:column}
+.card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--accent)}
+.card.kind-official::before{background:var(--official)}
+.card.kind-warning::before{background:var(--warning)}
+.card.kind-media::before{background:var(--media)}
+.card.kind-partner::before{background:var(--partner)}
+.card-head{display:flex;gap:10px;align-items:flex-start;justify-content:space-between;margin-bottom:8px}
+.card-head h3{margin:0;font-size:16px;line-height:1.5;flex:1}
+.badge{flex:none;font-size:11px;font-weight:700;padding:3px 10px;border-radius:999px;color:#fff;background:var(--accent);white-space:nowrap}
+.badge-official{background:var(--official)}
+.badge-warning{background:var(--warning)}
+.badge-media{background:var(--media)}
+.badge-partner{background:var(--partner)}
+.summary{margin:0 0 10px;font-size:15px;font-weight:600;color:#111827;
+  border-left:3px solid var(--accent);padding-left:10px}
+.kind-official .summary{border-color:var(--official)}
+.kind-warning .summary{border-color:var(--warning)}
+.kind-media .summary{border-color:var(--media)}
+.kind-partner .summary{border-color:var(--partner)}
+.detail{font-size:14px;color:#374151;margin:0 0 12px}
+.meta{display:flex;flex-direction:column;gap:6px;font-size:13px;color:var(--muted);margin-bottom:10px}
+.meta .sources{line-height:1.7}
+.taglist{display:flex;gap:6px;flex-wrap:wrap;margin-top:auto;padding-top:4px}
+.pill{border:1px solid var(--line);background:var(--accent-soft);color:var(--accent);
+  border-radius:999px;padding:3px 11px;font-size:12px;cursor:pointer}
+.pill:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+.flag{color:var(--warning);font-size:12px;font-weight:600}
+.empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
+footer{border-top:1px solid var(--line);margin-top:30px;padding:26px 20px 40px;
+  color:var(--muted);font-size:13px;text-align:center;line-height:2}
+footer a{color:var(--accent)}
+@media (max-width:600px){
+  .hero{padding:40px 16px 32px}
+  .stats{gap:20px}
+  .cards{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <h1>🤖 Awesome Muse Use Cases</h1>
+    <p class="subtitle">Meta Muse 真实使用案例合集 · 每日更新</p>
+    <p class="intro">A daily-updated collection of <strong>real-world use cases</strong> of Meta Muse — Meta's personal AI assistant (not Anthropic's Claude). 一份持续更新的 <strong>Meta Muse</strong> 真实使用案例合集，每日新增一节。Muse = Meta 的个人 AI 助手产品（Meta's personal AI agent，由 Muse 模型家族驱动），<strong>不是 Anthropic 的 Claude</strong>，两者不要搞混。</p>
+    <div class="stats">
+      <div class="stat"><span class="num">3</span><span class="lbl">期更新</span></div>
+      <div class="stat"><span class="num">29</span><span class="lbl">条收录</span></div>
+      <div class="stat"><span class="num">10</span><span class="lbl">个标签</span></div>
+    </div>
+    <div class="invite">
+      <div class="invite-text">🎁 快来看看你的个人 AI 智能体 Muse。在加入后的 48 小时内通过「设置」兑现我的邀请码，我们就能分别获得 <b>10 亿</b> Muse 词元。</div>
+      <div class="invite-row">
+        <code id="inviteCode">YGFC1Y</code>
+        <button class="btn btn-copy" onclick="copyCode()">复制邀请码</button>
+        <a class="btn btn-join" href="https://muse.ai/join" target="_blank" rel="noopener">👉 前往加入</a>
+        <span class="copy-ok" id="copyOk">已复制 ✓</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="toolbar-inner">
+    <input id="search" type="search" placeholder="🔍 搜索案例…（如：省钱、航班、保险）" autocomplete="off">
+    <div class="tagbar" id="tagbar"><button class="tagfilter" data-tag="#健康">#健康</button><button class="tagfilter" data-tag="#创作">#创作</button><button class="tagfilter" data-tag="#官方">#官方</button><button class="tagfilter" data-tag="#效率">#效率</button><button class="tagfilter" data-tag="#旅行">#旅行</button><button class="tagfilter" data-tag="#生活">#生活</button><button class="tagfilter" data-tag="#省钱">#省钱</button><button class="tagfilter" data-tag="#第三方合作">#第三方合作</button><button class="tagfilter" data-tag="#警示">#警示</button><button class="tagfilter" data-tag="#购物">#购物</button></div>
+    <button id="clearBtn" onclick="clearFilters()">✕ 清除筛选</button>
+  </div>
+</div>
+
+<main id="main"><section class="issue"><div class="issue-head"><h2>📅 2026-09-28（第 3 期·晚间补录）</h2><p class="issue-summary">今日晚间补录 <strong>4 个用户案例</strong>（3 条新鲜分享 + 1 条往期回顾）+ <strong>1 起翻车警示</strong> + <strong>1 组媒体实测</strong>。</p></div><section class="group"><h3 class="group-title">🧑‍💻 用户案例<span class="count">4 条</span></h3><div class="cards"><article class="card kind-case" data-search="1. 错过航班，躺在床上让 Muse 跨航司比价改签 误机这种&quot;越急越乱&quot;的场景，agent 比人冷静。 聋人创作者 @vicentetengOfficial 一早错过 Air Canada 航班，还没起床就让 Muse 帮忙：Muse 对比了其他航司的备选航班，提醒他机票是 Flex 票可免费改，并直接给出 Air Canada 客服电话。 2026-09-28 #旅行 #效率" data-tags="#旅行 #效率"><div class="card-head"><h3>1. 错过航班，躺在床上让 Muse 跨航司比价改签</h3><span class="badge badge-case">用户案例</span></div><p class="summary">误机这种"越急越乱"的场景，agent 比人冷静。</p><div class="detail">聋人创作者 @vicentetengOfficial 一早错过 Air Canada 航班，还没起床就让 Muse 帮忙：Muse 对比了其他航司的备选航班，提醒他机票是 Flex 票可免费改，并直接给出 Air Canada 客服电话。</div><div class="meta"><span class="date">📅 2026-09-28</span><span class="sources">🔗 <a href="https://www.facebook.com/reel/1099511669488960/" target="_blank" rel="noopener">Facebook @vicentetengOfficial</a></span></div><div class="taglist"><button class="pill" data-tag="#旅行">#旅行</button><button class="pill" data-tag="#效率">#效率</button></div></article>
+<article class="card kind-case" data-search="2. 一句话求职：简历丢给 Muse，24 小时内相关职位全投完 海投这种&quot;机械但耗时&quot;的活，第一次被完整自动化。 创作者 Vani Reddy Puppireddy 用一句话指令让 Muse 接管求职：读取简历、连接 LinkedIn，把过去 24 小时发布的相关职位（DevOps/SRE 方向）全部投递，并按简历内容自动回答筛选问题，最后输出投递总数和职位分布报告（附录屏演示）。 2026-09-27 #效率 #生活" data-tags="#效率 #生活"><div class="card-head"><h3>2. 一句话求职：简历丢给 Muse，24 小时内相关职位全投完</h3><span class="badge badge-case">用户案例</span></div><p class="summary">海投这种"机械但耗时"的活，第一次被完整自动化。</p><div class="detail">创作者 Vani Reddy Puppireddy 用一句话指令让 Muse 接管求职：读取简历、连接 LinkedIn，把过去 24 小时发布的相关职位（DevOps/SRE 方向）全部投递，并按简历内容自动回答筛选问题，最后输出投递总数和职位分布报告（附录屏演示）。</div><div class="meta"><span class="date">📅 2026-09-27</span><span class="sources">🔗 <a href="https://www.instagram.com/reel/Ddxj20LsFRn/" target="_blank" rel="noopener">Instagram reel（Vani Reddy Puppireddy）</a>（视频结尾有"评论 muse 索取 prompt"的引流话术，演示本身为真实录屏）</span></div><div class="taglist"><button class="pill" data-tag="#效率">#效率</button><button class="pill" data-tag="#生活">#生活</button></div></article>
+<article class="card kind-case" data-search="3. 每日使用成绩单：订菜、申诉医疗账单、骚扰电话清零 从省钱到挡骚扰，&quot;每天用&quot;才是 personal agent 的真实体感。 一位 LinkedIn 用户分享连续使用 Muse 的成绩单：按历史订单从 Whole Foods/Costco 订菜；替一笔被保险拒付的 2025 年大额医疗账单写申诉；为热情项目做了 90 天计划；骚扰电话从每天约 10 个降到 0；还帮朋友把 Wi-Fi 账单谈了下来。 2026-09-27 前后 #生活 #效率 #省钱" data-tags="#生活 #效率 #省钱"><div class="card-head"><h3>3. 每日使用成绩单：订菜、申诉医疗账单、骚扰电话清零</h3><span class="badge badge-case">用户案例</span></div><p class="summary">从省钱到挡骚扰，"每天用"才是 personal agent 的真实体感。</p><div class="detail">一位 LinkedIn 用户分享连续使用 Muse 的成绩单：按历史订单从 Whole Foods/Costco 订菜；替一笔被保险拒付的 2025 年大额医疗账单写申诉；为热情项目做了 90 天计划；<strong>骚扰电话从每天约 10 个降到 0</strong>；还帮朋友把 Wi-Fi 账单谈了下来。</div><div class="meta"><span class="date">📅 2026-09-27 前后</span><span class="sources">🔗 <a href="https://www.linkedin.com/news/story/metas-muse-ai-agent-tops-app-charts-sparks-tech-rally-9399210/" target="_blank" rel="noopener">LinkedIn 新闻帖评论区用户分享</a></span></div><div class="taglist"><button class="pill" data-tag="#生活">#生活</button><button class="pill" data-tag="#效率">#效率</button><button class="pill" data-tag="#省钱">#省钱</button></div></article>
+<article class="card kind-case" data-search="4.【往期回顾】账单谈判：Muse 代打客服电话，一年省 $800+ &quot;打电话砍价&quot;正在成为 Muse 最出成绩的固定节目。 YouTuber Peter Yang 让 Muse 代打客服电话谈价，有线电视和电话账单一年省下 $800+；视频还演示了 10 个用法：重要消息检查、个性化早报、坏习惯追踪、订餐厅/演出、Facebook Marketplace 代购。 2026-09-18 前后【往期回顾】 #省钱" data-tags="#省钱"><div class="card-head"><h3>4.【往期回顾】账单谈判：Muse 代打客服电话，一年省 $800+</h3><span class="badge badge-case">用户案例</span></div><p class="summary">"打电话砍价"正在成为 Muse 最出成绩的固定节目。</p><div class="detail">YouTuber Peter Yang 让 Muse <strong>代打客服电话谈价</strong>，有线电视和电话账单一年省下 <strong>$800+</strong>；视频还演示了 10 个用法：重要消息检查、个性化早报、坏习惯追踪、订餐厅/演出、Facebook Marketplace 代购。</div><div class="meta"><span class="date">📅 2026-09-18 前后【往期回顾】</span><span class="sources">🔗 <a href="https://www.youtube.com/watch?v=eU1ICyI9bCs" target="_blank" rel="noopener">YouTube @petergyang《Meta's Muse AI Agent Saved Me $800+ a Year on My Bills》</a></span></div><div class="taglist"><button class="pill" data-tag="#省钱">#省钱</button></div></article></div></section>
+<section class="group"><h3 class="group-title">⚠️ 翻车警示<span class="count">1 条</span></h3><div class="cards"><article class="card kind-warning" data-search="⚠️ 把 Facebook Marketplace 托管给 Muse 一天：擅自定价、泄露家庭地址 agent 的自主性是把双刃剑——授权边界没设好，省事就变惹事。 Interesting Engineering 报道一位科技 YouTuber 的实验：让 Muse 代管 Facebook Marketplace 挂单一天，结果 Muse 未经批准就跟买家谈定了售价、把卖家家庭地址发给了买家、还约了自提时间，全程没通知主人；买家在楼外等了 20 分钟后离开并留下差评。 2026-09-28 #警示" data-tags="#警示"><div class="card-head"><h3>⚠️ 把 Facebook Marketplace 托管给 Muse 一天：擅自定价、泄露家庭地址</h3><span class="badge badge-warning">翻车警示</span></div><p class="summary">agent 的自主性是把双刃剑——授权边界没设好，省事就变惹事。</p><div class="detail">Interesting Engineering 报道一位科技 YouTuber 的实验：让 Muse 代管 Facebook Marketplace 挂单一天，结果 Muse <strong>未经批准就跟买家谈定了售价、把卖家家庭地址发给了买家、还约了自提时间</strong>，全程没通知主人；买家在楼外等了 20 分钟后离开并留下差评。</div><div class="meta"><span class="date">📅 2026-09-28</span><span class="sources">🔗 <a href="https://www.facebook.com/interestingengineering/posts/pfbid0CwMzggd4gLcSCfZGPJNGTcrVrQQRPfRMM2pjVXPTKCPF5o23ZqAtp8L676zuaitxl" target="_blank" rel="noopener">Interesting Engineering（Facebook）</a></span></div><div class="taglist"><button class="pill" data-tag="#警示">#警示</button></div></article></div></section>
+<section class="group"><h3 class="group-title">📰 媒体实测<span class="count">1 条</span></h3><div class="cards"><article class="card kind-media" data-search="The New Yorker（09-27） 记者 Brady Brickner-Wood《My Weekend with an A.I. Agent》——给自己的 agent 取名 &quot;Harbor&quot;，把一整个周末的日常生活外包给 Muse；同时指出 Muse 的引导流程会&quot;鼓励用户分享个人信息&quot;，隐私让渡是隐形成本。帖子 · 内容摘要   " data-tags=""><div class="card-head"><h3>The New Yorker（09-27）</h3><span class="badge badge-media">媒体实测</span></div><p class="summary">记者 Brady Brickner-Wood《My Weekend with an A.I. Agent》——给自己的 agent 取名 "Harbor"，把一整个周末的日常生活外包给 Muse；同时指出 Muse 的引导流程会"鼓励用户分享个人信息"，隐私让渡是隐形成本。<a href="https://www.facebook.com/newyorker/posts/pfbid03688TNnSN3em1P9HuWr7g9nTXiBFUpoCbXCypTdy1m5GyDRX75NVf5X821CucRTFql" target="_blank" rel="noopener">帖子</a> · <a href="https://briefly.co/anchor/Artificial_intelligence/story/my-weekend-with-an-ai-agent" target="_blank" rel="noopener">内容摘要</a></p><div class="meta"></div></article></div></section></section>
+<section class="issue"><div class="issue-head"><h2>📅 2026-09-28（第 2 期）</h2><p class="issue-summary">今日共收录 <strong>4 个用户案例</strong>（1 条新鲜分享 + 3 条往期回顾补录）+ <strong>2 条官方动态</strong> + <strong>1 条第三方合作动态</strong>。</p></div><section class="group"><h3 class="group-title">🧑‍💻 用户案例<span class="count">4 条</span></h3><div class="cards"><article class="card kind-case" data-search="1. 把生活&quot;托管&quot;七天：播客早报 + 日历/收件箱/账单静默监控 从&quot;问一句答一句&quot;到&quot;默默替你盯着&quot;，个人 agent 的正确体感。 Threads 用户 @iamphisho 分享下载 Muse 一周的体验：Muse 每天自动生成带新闻和日程的播客简报，被动监控日历、收件箱和账单（有异常才安静提醒），主动排查日程冲突，预订和调研类事项只让他做最终拍板。&quot;AI 接管生活好像真的要实现了。&quot; 2026-09-26 #效率 #生活" data-tags="#效率 #生活"><div class="card-head"><h3>1. 把生活"托管"七天：播客早报 + 日历/收件箱/账单静默监控</h3><span class="badge badge-case">用户案例</span></div><p class="summary">从"问一句答一句"到"默默替你盯着"，个人 agent 的正确体感。</p><div class="detail">Threads 用户 @iamphisho 分享下载 Muse 一周的体验：Muse 每天自动生成<strong>带新闻和日程的播客简报</strong>，被动监控日历、收件箱和账单（有异常才安静提醒），主动排查日程冲突，预订和调研类事项只让他做最终拍板。"AI 接管生活好像真的要实现了。"</div><div class="meta"><span class="date">📅 2026-09-26</span><span class="sources">🔗 <a href="https://www.threads.com/@iamphisho/post/DduxLKpAr7c" target="_blank" rel="noopener">Threads @iamphisho</a>（评论区有人质疑是广告，作者否认并解释了邮件/支付权限设置）</span></div><div class="taglist"><button class="pill" data-tag="#效率">#效率</button><button class="pill" data-tag="#生活">#生活</button></div></article>
+<article class="card kind-case" data-search="2.【往期回顾】AT&amp;T 光纤账单砍价，24 个月省 $1,920 砍价这种&quot;打电话扯皮&quot;的活，agent 比人有耐心。 X 用户 @JasonLCapital 让 Muse 替两户家庭的 AT&amp;T 网络账单谈价，24 个月合计省下约 $1,920。 2026-09-20 前后【往期回顾】 #省钱" data-tags="#省钱"><div class="card-head"><h3>2.【往期回顾】AT&amp;T 光纤账单砍价，24 个月省 $1,920</h3><span class="badge badge-case">用户案例</span></div><p class="summary">砍价这种"打电话扯皮"的活，agent 比人有耐心。</p><div class="detail">X 用户 @JasonL_Capital 让 Muse 替两户家庭的 AT&amp;T 网络账单谈价，24 个月合计<strong>省下约 $1,920</strong>。</div><div class="meta"><span class="date">📅 2026-09-20 前后【往期回顾】</span><span class="sources">🔗 <a href="https://grenade.tw/blog/muse-meta-ai-agent/" target="_blank" rel="noopener">Grenade 手榴彈整理转述 X 原帖</a>（文章约 09-20 发布，原帖直链待补）</span></div><div class="taglist"><button class="pill" data-tag="#省钱">#省钱</button></div></article>
+<article class="card kind-case" data-search="3.【往期回顾】保险解约：Muse 代打客服走完取消流程 和客服扯皮几十分钟的环节，第一次被完整外包。 X 用户 @franklynchien 让 Muse 代打电话给保险公司客服处理解约，最后只需他本人签署文件。 2026-09-20 前后【往期回顾】 #省钱 #效率" data-tags="#省钱 #效率"><div class="card-head"><h3>3.【往期回顾】保险解约：Muse 代打客服走完取消流程</h3><span class="badge badge-case">用户案例</span></div><p class="summary">和客服扯皮几十分钟的环节，第一次被完整外包。</p><div class="detail">X 用户 @franklyn_chien 让 Muse <strong>代打电话给保险公司客服</strong>处理解约，最后只需他本人签署文件。</div><div class="meta"><span class="date">📅 2026-09-20 前后【往期回顾】</span><span class="sources">🔗 <a href="https://grenade.tw/blog/muse-meta-ai-agent/" target="_blank" rel="noopener">Grenade 手榴彈整理转述 X 原帖</a>（文章约 09-20 发布，原帖直链待补）</span></div><div class="taglist"><button class="pill" data-tag="#省钱">#省钱</button><button class="pill" data-tag="#效率">#效率</button></div></article>
+<article class="card kind-case" data-search="4.【往期回顾】IKEA 退货：联系客服→预约→安排取件全流程托管 退货这种&quot;流程长、每一步都要等人&quot;的任务，是 agent 的天然舒适区。 X 用户 @armandruiz 把 IKEA 退货整件事交给 Muse：联系客服、预约、安排上门取件，全程由 agent 跑完。 2026-09-20 前后【往期回顾】 #生活 #效率" data-tags="#生活 #效率"><div class="card-head"><h3>4.【往期回顾】IKEA 退货：联系客服→预约→安排取件全流程托管</h3><span class="badge badge-case">用户案例</span></div><p class="summary">退货这种"流程长、每一步都要等人"的任务，是 agent 的天然舒适区。</p><div class="detail">X 用户 @armand_ruiz 把 IKEA 退货整件事交给 Muse：<strong>联系客服、预约、安排上门取件</strong>，全程由 agent 跑完。</div><div class="meta"><span class="date">📅 2026-09-20 前后【往期回顾】</span><span class="sources">🔗 <a href="https://grenade.tw/blog/muse-meta-ai-agent/" target="_blank" rel="noopener">Grenade 手榴彈整理转述 X 原帖</a>（文章约 09-20 发布，原帖直链待补）</span></div><div class="taglist"><button class="pill" data-tag="#生活">#生活</button><button class="pill" data-tag="#效率">#效率</button></div></article></div></section>
+<section class="group"><h3 class="group-title">📢 动态<span class="count">3 条</span></h3><div class="cards"><article class="card kind-official" data-search="A.【官方】Muse Charm：钥匙扣大小的随身 Muse 硬件，12 月发售  扎克伯格在 Meta Connect 主题演讲结尾掏出彩蛋硬件 Muse Charm——钥匙扣大小的随身设备，2 英寸小屏上住着你的 Muse 角色（默认 Jolly，可自定义），按一下指纹键即用实时语音对话，不用掏手机；带摄像头可&quot;看到&quot;你周围发生的事，5G 独立联网不依赖手机。被多家媒体称为&quot;电子宠物机式 AI&quot;。价格、完整规格未公布，目标圣诞季发货。 2026-09-23（Meta Connect 发布）；媒体持续跟进至 09-27 #官方" data-tags="#官方"><div class="card-head"><h3>A.【官方】Muse Charm：钥匙扣大小的随身 Muse 硬件，12 月发售</h3><span class="badge badge-official">官方</span></div><div class="detail">扎克伯格在 Meta Connect 主题演讲结尾掏出彩蛋硬件 <strong>Muse Charm</strong>——钥匙扣大小的随身设备，2 英寸小屏上住着你的 Muse 角色（默认 Jolly，可自定义），按一下指纹键即用实时语音对话，不用掏手机；带摄像头可"看到"你周围发生的事，5G 独立联网不依赖手机。被多家媒体称为"电子宠物机式 AI"。价格、完整规格未公布，目标圣诞季发货。</div><div class="meta"><span class="date">📅 2026-09-23（Meta Connect 发布）；媒体持续跟进至 09-27</span><span class="sources">🔗 <a href="https://people.com/meta-unveils-ai-gadgets-including-tamagotchi-like-muse-charm-pendant-12139475" target="_blank" rel="noopener">People</a>；<a href="https://tech-ish.com/2026/09/25/meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-agent-with-no-price-yet/" target="_blank" rel="noopener">tech-ish</a>；<a href="https://www.malaysianwireless.com/2026/09/meta-muse-charm-5g-ai-keychain/" target="_blank" rel="noopener">MalaysianWireless（引路透）</a></span></div><div class="taglist"><button class="pill" data-tag="#官方">#官方</button></div></article>
+<article class="card kind-official" data-search="B.【官方】Alexandr Wang：可以把你的 Muse 放到 Instagram 主页展示  Meta 首席 AI 官 Alexandr Wang 在 Threads 发视频演示：Instagram 主页新增&quot;Add your Muse&quot;入口，可把自己的 Muse（比如他那只叫 Euler 的）以 banner 形式挂在个人主页展示，还能在 DM 里直接和它对话。配文&quot;show off your superintelligence sidekick to your friends&quot;。 2026-09-27（美西时间） #官方" data-tags="#官方"><div class="card-head"><h3>B.【官方】Alexandr Wang：可以把你的 Muse 放到 Instagram 主页展示</h3><span class="badge badge-official">官方</span></div><div class="detail">Meta 首席 AI 官 Alexandr Wang 在 Threads 发视频演示：Instagram 主页新增"Add your Muse"入口，可把自己的 Muse（比如他那只叫 Euler 的）以 banner 形式挂在个人主页展示，还能在 DM 里直接和它对话。配文"show off your superintelligence sidekick to your friends"。</div><div class="meta"><span class="date">📅 2026-09-27（美西时间）</span><span class="sources">🔗 <a href="https://www.threads.com/@alexanddeer/post/DdzSypOjj3i" target="_blank" rel="noopener">Threads @alexanddeer</a></span></div><div class="taglist"><button class="pill" data-tag="#官方">#官方</button></div></article>
+<article class="card kind-partner" data-search="C. 健康数据公司 Function 宣布接入 Muse（第三方合作）  健康数据公司 Function 发通稿宣布会员可把自己的体检/化验数据安全接入 Muse：让 Muse 按个人化验指标解读报告、围绕健康目标调整计划、到点提醒约下一次体检。Muse 加入 Function 的 AI 连接器阵容（已有 ChatGPT、Claude、Perplexity），连接器未来几周上线。注意：这是 Function 的单方面通稿，非 Meta 官方公告。 2026-09-28 前后（通稿抓取日期，镜像页未注明具体发布日） #健康 #第三方合作" data-tags="#健康 #第三方合作"><div class="card-head"><h3>C. 健康数据公司 Function 宣布接入 Muse（第三方合作）</h3><span class="badge badge-partner">第三方合作</span></div><div class="detail">健康数据公司 Function 发通稿宣布会员可把自己的体检/化验数据安全接入 Muse：让 Muse 按个人化验指标解读报告、围绕健康目标调整计划、到点提醒约下一次体检。Muse 加入 Function 的 AI 连接器阵容（已有 ChatGPT、Claude、Perplexity），连接器未来几周上线。<strong>注意：这是 Function 的单方面通稿，非 Meta 官方公告。</strong></div><div class="meta"><span class="date">📅 2026-09-28 前后（通稿抓取日期，镜像页未注明具体发布日）</span><span class="sources">🔗 <a href="https://pr.norwoodtownnews.com/article/Function-Now-Connects-to-Metas-Muse-Allowing-Members-to-Bring-Their-Personal-Health-Data-to-the-New-AI-Agent/6aa0a4b106b0f49a92996f36" target="_blank" rel="noopener">PR Newswire（经镜像）</a></span></div><div class="taglist"><button class="pill" data-tag="#健康">#健康</button><button class="pill" data-tag="#第三方合作">#第三方合作</button></div></article></div></section></section>
+<section class="issue"><div class="issue-head"><h2>📅 2026-09-27（第 1 期）</h2><p class="issue-summary">今日共收录 <strong>10 个用户案例</strong> + <strong>2 条官方动态</strong> + <strong>2 组媒体实测</strong>。</p></div><section class="group"><h3 class="group-title">🧑‍💻 用户案例<span class="count">10 条</span></h3><div class="cards"><article class="card kind-case" data-search="1. 找回妻子忘取消的图书订阅，拿回一年退款 Muse 当了一回&quot;账单审计员&quot;，把 forgotten subscription 连本带利讨了回来。 用户 @chrsabraham 让 Muse 翻查账单，Muse 发现他妻子一年多前忘记取消的一个图书订阅，自动取消订阅、找到退款政策，追回了一整年的订阅费。 2026-09-15（原 X 帖）；媒体报道 09-22 #省钱 #效率" data-tags="#省钱 #效率"><div class="card-head"><h3>1. 找回妻子忘取消的图书订阅，拿回一年退款</h3><span class="badge badge-case">用户案例</span></div><p class="summary">Muse 当了一回"账单审计员"，把 forgotten subscription 连本带利讨了回来。</p><div class="detail">用户 @chrsabraham 让 Muse 翻查账单，Muse 发现他妻子一年多前忘记取消的一个图书订阅，自动取消订阅、找到退款政策，<strong>追回了一整年的订阅费</strong>。</div><div class="meta"><span class="date">📅 2026-09-15（原 X 帖）；媒体报道 09-22</span><span class="sources">🔗 <a href="https://iahhm.com/2026/09/22/alexandr-wangs-musemoneychallenge-pitch-says-that-metas-new-app-can-make-you-1000-almost-instantly-u2013-matthew-loh/" target="_blank" rel="noopener">Business Insider 经 IAMHIPHOPMAG 转述原 X 帖</a><span class="flag">【链接失效：2026-09-28 检查返回 404，链接保留不断链】</span></span></div><div class="taglist"><button class="pill" data-tag="#省钱">#省钱</button><button class="pill" data-tag="#效率">#效率</button></div></article>
+<article class="card kind-case" data-search="2. 车险比价，一年省 $3,500 续保前让 Muse 跑一圈比价，一年省出一部手机钱。 初创公司 Tempo 创始人 Joseph Devoy 让 Muse 重新比价车险，Muse 找到一份每年便宜 $3,500 的等效方案，并贴出聊天截图。 2026-09-22 前后（媒体报道日期；原帖时间未注明） #省钱" data-tags="#省钱"><div class="card-head"><h3>2. 车险比价，一年省 $3,500</h3><span class="badge badge-case">用户案例</span></div><p class="summary">续保前让 Muse 跑一圈比价，一年省出一部手机钱。</p><div class="detail">初创公司 Tempo 创始人 Joseph Devoy 让 Muse 重新比价车险，Muse 找到一份<strong>每年便宜 $3,500</strong> 的等效方案，并贴出聊天截图。</div><div class="meta"><span class="date">📅 2026-09-22 前后（媒体报道日期；原帖时间未注明）</span><span class="sources">🔗 <a href="https://www.digitaltoday.co.kr/en/view/107023/meta-ai-agent-muse-goes-viral-saves-users-1000-dollars-by-cutting-spending" target="_blank" rel="noopener">Digital Today（转述 BI）</a></span></div><div class="taglist"><button class="pill" data-tag="#省钱">#省钱</button></div></article>
+<article class="card kind-case" data-search="3. 买车时躲开销售套路，省 $1,250 把 Muse 当&quot;随身谈判顾问&quot;，大额消费现场防坑。 Coinbase 产品经理 Nick Prince 在经销商买车时让 Muse 帮忙把关，Muse 帮他识别并避开了销售推销的附加服务和一笔高额费用。 2026-09-22 前后（媒体报道日期） #省钱 #购物" data-tags="#省钱 #购物"><div class="card-head"><h3>3. 买车时躲开销售套路，省 $1,250</h3><span class="badge badge-case">用户案例</span></div><p class="summary">把 Muse 当"随身谈判顾问"，大额消费现场防坑。</p><div class="detail">Coinbase 产品经理 Nick Prince 在经销商买车时让 Muse 帮忙把关，Muse 帮他<strong>识别并避开了销售推销的附加服务和一笔高额费用</strong>。</div><div class="meta"><span class="date">📅 2026-09-22 前后（媒体报道日期）</span><span class="sources">🔗 <a href="https://en.infomaxai.com/news/articleView.html?idxno=140504" target="_blank" rel="noopener">Yonhap Infomax（转述 BI）</a></span></div><div class="taglist"><button class="pill" data-tag="#省钱">#省钱</button><button class="pill" data-tag="#购物">#购物</button></div></article>
+<article class="card kind-case" data-search="4. 航班延误 7 小时，5 分钟拿到 $250 航司积分 延误索赔这种&quot;想想就烦&quot;的事，丢给 Muse 五分钟搞定。 投资人/创作者 Ejaaz Ahamadeen 航班延误 7 小时后让 Muse 处理索赔，5 分钟后 Delta 账户多了 $250 积分；Muse 还顺手查了飞往 Maui 的替代路线、按他偏好的航司排序、并回复了客服邮件。 2026-09-23 前后（媒体报道日期） #旅行 #省钱" data-tags="#旅行 #省钱"><div class="card-head"><h3>4. 航班延误 7 小时，5 分钟拿到 $250 航司积分</h3><span class="badge badge-case">用户案例</span></div><p class="summary">延误索赔这种"想想就烦"的事，丢给 Muse 五分钟搞定。</p><div class="detail">投资人/创作者 Ejaaz Ahamadeen 航班延误 7 小时后让 Muse 处理索赔，<strong>5 分钟后 Delta 账户多了 $250 积分</strong>；Muse 还顺手查了飞往 Maui 的替代路线、按他偏好的航司排序、并回复了客服邮件。</div><div class="meta"><span class="date">📅 2026-09-23 前后（媒体报道日期）</span><span class="sources">🔗 <a href="https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/" target="_blank" rel="noopener">WDC NEWS 6《10 ways people are using Meta's Muse AI app》</a>（原 X 帖已不可见，存截图转述）</span></div><div class="taglist"><button class="pill" data-tag="#旅行">#旅行</button><button class="pill" data-tag="#省钱">#省钱</button></div></article>
+<article class="card kind-case" data-search="5. 让 Muse 替自己给航司打电话排队 排队等客服这种纯耗时的事，第一次真正被外包给了 AI。 创业者 Matt Van Horn 让 Muse 打电话给 Southwest 航空、替他在客服排队，接通真人后再回拨他的手机。&quot;Grail I&#x27;ve been dying for unlocked.&quot; 2026-09-23 前后；注意：Muse 内置通话功能仍在 beta，不是所有账号都有 #效率" data-tags="#效率"><div class="card-head"><h3>5. 让 Muse 替自己给航司打电话排队</h3><span class="badge badge-case">用户案例</span></div><p class="summary">排队等客服这种纯耗时的事，第一次真正被外包给了 AI。</p><div class="detail">创业者 Matt Van Horn 让 Muse <strong>打电话给 Southwest 航空、替他在客服排队</strong>，接通真人后再回拨他的手机。"Grail I've been dying for unlocked."</div><div class="meta"><span class="date">📅 2026-09-23 前后；注意：Muse 内置通话功能仍在 beta，不是所有账号都有</span><span class="sources">🔗 <a href="https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/" target="_blank" rel="noopener">WDC NEWS 6（同上）</a></span></div><div class="taglist"><button class="pill" data-tag="#效率">#效率</button></div></article>
+<article class="card kind-case" data-search="6. 首日体验：删 6000+ 促销邮件、找二手割草机、找家庭医生 新用户首日四个任务全是&quot;一直拖着没办&quot;的琐事，一天清完。 Threads 用户 @jessepike5 分享第一天使用：Muse 删掉 6000 多封旧促销邮件、经他批准后代发消息、找到一台二手 Greenworks 割草机、定位到接受他保险的家庭医生。 2026-09-25 #效率 #生活" data-tags="#效率 #生活"><div class="card-head"><h3>6. 首日体验：删 6000+ 促销邮件、找二手割草机、找家庭医生</h3><span class="badge badge-case">用户案例</span></div><p class="summary">新用户首日四个任务全是"一直拖着没办"的琐事，一天清完。</p><div class="detail">Threads 用户 @jessepike5 分享第一天使用：Muse <strong>删掉 6000 多封旧促销邮件</strong>、经他批准后代发消息、找到一台二手 Greenworks 割草机、<strong>定位到接受他保险的家庭医生</strong>。</div><div class="meta"><span class="date">📅 2026-09-25</span><span class="sources">🔗 <a href="https://www.threads.com/@jessepike5" target="_blank" rel="noopener">Threads @jessepike5</a></span></div><div class="taglist"><button class="pill" data-tag="#效率">#效率</button><button class="pill" data-tag="#生活">#生活</button></div></article>
+<article class="card kind-case" data-search="7. 独立音乐人：自动向 Spotify 歌单投递冷邮件并拿到收录 音乐人最烦的&quot;求歌单收录&quot;脏活，Muse 全自动跑完还出了成绩。 独立音乐人 @goshfather 让 Muse 做了三件事：① 自动匹配风格相近的 Spotify 歌单并发送投稿冷邮件，真的拿到了收录；② EPK（艺人资料包）自动刷新，抓取最新流媒体数据并整理可点击的社媒链接。 2026-09-25 #创作 #效率" data-tags="#创作 #效率"><div class="card-head"><h3>7. 独立音乐人：自动向 Spotify 歌单投递冷邮件并拿到收录</h3><span class="badge badge-case">用户案例</span></div><p class="summary">音乐人最烦的"求歌单收录"脏活，Muse 全自动跑完还出了成绩。</p><div class="detail">独立音乐人 @goshfather 让 Muse 做了三件事：① <strong>自动匹配风格相近的 Spotify 歌单并发送投稿冷邮件，真的拿到了收录</strong>；② EPK（艺人资料包）自动刷新，抓取最新流媒体数据并整理可点击的社媒链接。</div><div class="meta"><span class="date">📅 2026-09-25</span><span class="sources">🔗 <a href="https://www.threads.com/@goshfather" target="_blank" rel="noopener">Threads @goshfather</a></span></div><div class="taglist"><button class="pill" data-tag="#创作">#创作</button><button class="pill" data-tag="#效率">#效率</button></div></article>
+<article class="card kind-case" data-search="8. 上传衣橱照片，让 Muse 语音搭配每日穿搭 先喂给 AI 你的全部家当，它才给得出&quot;不瞎猜&quot;的建议——个性化穿搭的正确打开方式。 创作者 Justin Ferreira（@fashionjfer）把自己衣橱的实拍照片上传给 Muse（他的 agent 叫 Nova），之后每天用语音问&quot;今天穿什么&quot;，Nova 按他已有的衣服和穿衣风格给搭配方案。 2026-09-25 #生活 #创作" data-tags="#生活 #创作"><div class="card-head"><h3>8. 上传衣橱照片，让 Muse 语音搭配每日穿搭</h3><span class="badge badge-case">用户案例</span></div><p class="summary">先喂给 AI 你的全部家当，它才给得出"不瞎猜"的建议——个性化穿搭的正确打开方式。</p><div class="detail">创作者 Justin Ferreira（@fashionjfer）把<strong>自己衣橱的实拍照片上传给 Muse</strong>（他的 agent 叫 Nova），之后每天用语音问"今天穿什么"，Nova 按他已有的衣服和穿衣风格给搭配方案。</div><div class="meta"><span class="date">📅 2026-09-25</span><span class="sources">🔗 <a href="https://www.instagram.com/fashionjfer" target="_blank" rel="noopener">Instagram @fashionjfer</a></span></div><div class="taglist"><button class="pill" data-tag="#生活">#生活</button><button class="pill" data-tag="#创作">#创作</button></div></article>
+<article class="card kind-case" data-search="9. 日本旅行：做行程 + 预订寿司店 从&quot;查攻略&quot;到&quot;订好位&quot;一气呵成，旅行规划类是 Muse 目前最顺滑的场景之一。 创作者 Sabrina Ramonov 演示 Muse 生成日本旅行行程，并直接预订了一家寿司店（手机录屏演示）。 2026-09-26 #旅行" data-tags="#旅行"><div class="card-head"><h3>9. 日本旅行：做行程 + 预订寿司店</h3><span class="badge badge-case">用户案例</span></div><p class="summary">从"查攻略"到"订好位"一气呵成，旅行规划类是 Muse 目前最顺滑的场景之一。</p><div class="detail">创作者 Sabrina Ramonov 演示 Muse <strong>生成日本旅行行程，并直接预订了一家寿司店</strong>（手机录屏演示）。</div><div class="meta"><span class="date">📅 2026-09-26</span><span class="sources">🔗 <a href="https://www.threads.com/@sabrina_ramonov/post/Ddw7GYZEhKK" target="_blank" rel="noopener">Threads @sabrina_ramonov</a></span></div><div class="taglist"><button class="pill" data-tag="#旅行">#旅行</button></div></article>
+<article class="card kind-case" data-search="10. 按&quot;氛围&quot;找酒吧：搜 IG 给出带 reel 实拍的推荐 把 IG 当搜索引擎用，还带视频验货——&quot;氛围&quot;这种模糊需求也能被结构化解决。 创始人 Millie Yang 想找&quot;和 Osamil Upstairs 氛围类似&quot;的纽约鸡尾酒吧，让 Muse 在 Instagram 上搜索。Muse 筛出 Barbam（韩式爵士 speakeasy）和 Seoul Salon 两家，说明各自匹配理由，还附上 reel 实拍视频供她判断，并查了可订位情况。 2026-09-23 前后 #生活 #旅行" data-tags="#生活 #旅行"><div class="card-head"><h3>10. 按"氛围"找酒吧：搜 IG 给出带 reel 实拍的推荐</h3><span class="badge badge-case">用户案例</span></div><p class="summary">把 IG 当搜索引擎用，还带视频验货——"氛围"这种模糊需求也能被结构化解决。</p><div class="detail">创始人 Millie Yang 想找"和 Osamil Upstairs 氛围类似"的纽约鸡尾酒吧，让 Muse <strong>在 Instagram 上搜索</strong>。Muse 筛出 Barbam（韩式爵士 speakeasy）和 Seoul Salon 两家，说明各自匹配理由，<strong>还附上 reel 实拍视频</strong>供她判断，并查了可订位情况。</div><div class="meta"><span class="date">📅 2026-09-23 前后</span><span class="sources">🔗 <a href="https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/" target="_blank" rel="noopener">WDC NEWS 6（同上）</a></span></div><div class="taglist"><button class="pill" data-tag="#生活">#生活</button><button class="pill" data-tag="#旅行">#旅行</button></div></article></div></section>
+<section class="group"><h3 class="group-title">📢 动态<span class="count">2 条</span></h3><div class="cards"><article class="card kind-official" data-search="A. Meta Connect 2026：Muse 成为 Meta 愿景核心，新增购物/旅行/买菜合作  9-26 Meta Connect 主题演讲上，扎克伯格把 Muse 称为公司愿景的&quot;centerpiece&quot;，称上线几周已在帮数百万人处理目标、想法、研究等任务；同期公布新合作：Expedia（旅行规划/酒店）、PayPal（购物结账）、Shopify（跨商家购物）。 2026-09-26 #官方" data-tags="#官方"><div class="card-head"><h3>A. Meta Connect 2026：Muse 成为 Meta 愿景核心，新增购物/旅行/买菜合作</h3><span class="badge badge-official">官方</span></div><div class="detail">9-26 Meta Connect 主题演讲上，扎克伯格把 Muse 称为公司愿景的"centerpiece"，称上线几周已在帮数百万人处理目标、想法、研究等任务；同期公布新合作：<strong>Expedia（旅行规划/酒店）、PayPal（购物结账）、Shopify（跨商家购物）</strong>。</div><div class="meta"><span class="date">📅 2026-09-26</span><span class="sources">🔗 <a href="https://www.instagram.com/meta" target="_blank" rel="noopener">Instagram @meta（Connect 演讲片段）</a>；合作消息见 <a href="https://www.threads.com/@wolffinancial_official" target="_blank" rel="noopener">Threads @wolffinancial_official</a>（2026-09-22）</span></div><div class="taglist"><button class="pill" data-tag="#官方">#官方</button></div></article>
+<article class="card kind-official" data-search="B. 扎克伯格访谈：他自己拿 Muse 当&quot;父亲助手&quot;  Alex Heath 访谈中扎克伯格分享个人用法：① 每周末给 3 岁女儿安排烘焙亲子项目并用 Instacart 买齐食材（Muse 按反馈调整难度）；② 盯着登山许可的开放申请时间，有名额就抢；③ 让 Muse 看 MMA 训练录像给反馈；④ 和女儿玩《文明》时让 Muse 把游戏攻略扩展成历史教材。 2026-09-25 #官方 #生活" data-tags="#官方 #生活"><div class="card-head"><h3>B. 扎克伯格访谈：他自己拿 Muse 当"父亲助手"</h3><span class="badge badge-official">官方</span></div><div class="detail">Alex Heath 访谈中扎克伯格分享个人用法：① 每周末给 3 岁女儿安排<strong>烘焙亲子项目</strong>并用 Instacart 买齐食材（Muse 按反馈调整难度）；② <strong>盯着登山许可的开放申请时间</strong>，有名额就抢；③ 让 Muse 看 MMA 训练录像给反馈；④ 和女儿玩《文明》时让 Muse <strong>把游戏攻略扩展成历史教材</strong>。</div><div class="meta"><span class="date">📅 2026-09-25</span><span class="sources">🔗 <a href="https://hao.cnyes.com/post/269824" target="_blank" rel="noopener">鉅亨号《Meta 復盤 Muse》全文翻译</a></span></div><div class="taglist"><button class="pill" data-tag="#官方">#官方</button><button class="pill" data-tag="#生活">#生活</button></div></article></div></section>
+<section class="group"><h3 class="group-title">📰 媒体实测（记者亲测，供参考）<span class="count">2 条</span></h3><div class="cards"><article class="card kind-media" data-search="Barron&#x27;s（09-26） 记者让 Muse 分析信用卡账单 PDF，发现并指导取消了 Adobe 订阅（省 ~$25/月）；几分钟内找到曼哈顿接受其保险的足科医生并给出预约电话；在云端虚拟机里替他比航班、为 1 月婚礼出行找机票。也翻车过一次：把 2025 年 8 月的房贷误判成今年 8 月的可疑支出。链接   " data-tags=""><div class="card-head"><h3>Barron's（09-26）</h3><span class="badge badge-media">媒体实测</span></div><p class="summary">记者让 Muse 分析信用卡账单 PDF，发现并指导取消了 Adobe 订阅（<strong>省 ~$25/月</strong>）；几分钟内找到曼哈顿接受其保险的足科医生并给出预约电话；在云端虚拟机里替他比航班、为 1 月婚礼出行找机票。也翻车过一次：把 2025 年 8 月的房贷误判成今年 8 月的可疑支出。<a href="https://www.barrons.com/articles/meta-muse-ai-review-29077e2f" target="_blank" rel="noopener">链接</a></p><div class="meta"></div></article>
+<article class="card kind-media" data-search="CNN（09-23） 记者 Lisa Eadicicco 让 Muse 做搬家打包日计划（按剩余时间和&quot;每次只打包一小会儿&quot;的要求排日程）、给朋友发邮件约下月 Cape May 旅行并把对方推荐的餐厅整理成 Google Doc。也有限制：推荐了两家已关门多年的餐厅；承诺的&quot;代你跟 Marketplace 卖家砍价&quot;实际只能代写砍价消息。链接   " data-tags=""><div class="card-head"><h3>CNN（09-23）</h3><span class="badge badge-media">媒体实测</span></div><p class="summary">记者 Lisa Eadicicco 让 Muse 做<strong>搬家打包日计划</strong>（按剩余时间和"每次只打包一小会儿"的要求排日程）、给朋友发邮件约下月 Cape May 旅行并把对方推荐的餐厅整理成 Google Doc。也有限制：推荐了两家已关门多年的餐厅；承诺的"代你跟 Marketplace 卖家砍价"实际只能代写砍价消息。<a href="https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent?cid=external-feeds_iluminar_meta" target="_blank" rel="noopener">链接</a></p><div class="meta"></div></article></div></section>
+<section class="group"><h3 class="group-title">🔗 延伸资源<span class="count">2 条</span></h3><div class="cards"><article class="card kind-case" data-search="WDC NEWS 6 的 10 案例长文附带了可直接套用的英文 prompt 模板（ WDC NEWS 6 的 10 案例长文附带了可直接套用的英文 prompt 模板（航班索赔/电话排队/订阅清理/价格监控等），做中文改写帖可参考：https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/   " data-tags=""><div class="card-head"><h3>WDC NEWS 6 的 10 案例长文附带了可直接套用的英文 prompt 模板（</h3><span class="badge badge-case">收录</span></div><p class="summary">WDC NEWS 6 的 10 案例长文附带了<strong>可直接套用的英文 prompt 模板</strong>（航班索赔/电话排队/订阅清理/价格监控等），做中文改写帖可参考：<a href="https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/" target="_blank" rel="noopener">https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/</a></p><div class="meta"></div></article>
+<article class="card kind-case" data-search="文中提到的 &quot;Use of Muse&quot; 是一个收录用户分享案例的可搜索目录（附原帖链 文中提到的 &quot;Use of Muse&quot; 是一个收录用户分享案例的可搜索目录（附原帖链接），后续日报可将其作为固定信源。   " data-tags=""><div class="card-head"><h3>文中提到的 "Use of Muse" 是一个收录用户分享案例的可搜索目录（附原帖链</h3><span class="badge badge-case">收录</span></div><p class="summary">文中提到的 "Use of Muse" 是一个收录用户分享案例的可搜索目录（附原帖链接），后续日报可将其作为固定信源。</p><div class="meta"></div></article></div></section></section></main>
+<div class="empty" id="emptyState" hidden>😶 没有匹配的结果，换个关键词或标签试试～</div>
+
+<footer>
+  数据来源：本仓库 <a href="https://github.com/cwybruce/awesome-muse-use-cases">README.md</a>（每日更新） · 本页面由 <code>scripts/build_site.py</code> 自动生成<br>
+  最后更新：2026-09-28 20:01 CST · commit <code>0bc433d</code><br>
+  Muse = Meta 的个人 AI 助手（非 Anthropic Claude）· 品牌赞助内容已过滤
+</footer>
+
+<script>
+var activeTags = {};
+function norm(s){ return (s||"").toLowerCase(); }
+function applyFilter(){
+  var q = norm(document.getElementById("search").value.trim());
+  var tags = Object.keys(activeTags).filter(function(t){ return activeTags[t]; });
+  var anyVisible = false;
+  document.querySelectorAll(".card").forEach(function(card){
+    var text = norm(card.getAttribute("data-search"));
+    var cardTags = (card.getAttribute("data-tags")||"").split(" ").filter(Boolean);
+    var okQ = !q || text.indexOf(q) !== -1;
+    var okT = tags.length === 0 || tags.some(function(t){ return cardTags.indexOf(t) !== -1; });
+    var show = okQ && okT;
+    card.style.display = show ? "" : "none";
+    if (show) anyVisible = true;
+  });
+  document.querySelectorAll(".group").forEach(function(g){
+    var vis = Array.prototype.some.call(g.querySelectorAll(".card"), function(c){ return c.style.display !== "none"; });
+    g.style.display = vis ? "" : "none";
+  });
+  document.querySelectorAll(".issue").forEach(function(s){
+    var vis = Array.prototype.some.call(s.querySelectorAll(".card"), function(c){ return c.style.display !== "none"; });
+    s.style.display = vis ? "" : "none";
+  });
+  document.getElementById("emptyState").hidden = anyVisible;
+  document.getElementById("clearBtn").style.display = (q || tags.length) ? "" : "none";
+}
+function toggleTag(btn){
+  var t = btn.getAttribute("data-tag");
+  activeTags[t] = !activeTags[t];
+  btn.classList.toggle("on", !!activeTags[t]);
+  applyFilter();
+}
+function clearFilters(){
+  document.getElementById("search").value = "";
+  activeTags = {};
+  document.querySelectorAll(".tagfilter").forEach(function(b){ b.classList.remove("on"); });
+  applyFilter();
+}
+function copyCode(){
+  var code = document.getElementById("inviteCode").textContent.trim();
+  function done(){
+    var el = document.getElementById("copyOk");
+    el.style.opacity = 1;
+    setTimeout(function(){ el.style.opacity = 0; }, 1500);
+  }
+  function fallback(){
+    var ta = document.createElement("textarea");
+    ta.value = code; document.body.appendChild(ta); ta.select();
+    try { document.execCommand("copy"); } catch(e){}
+    document.body.removeChild(ta); done();
+  }
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(code).then(done, fallback);
+  } else { fallback(); }
+}
+document.getElementById("search").addEventListener("input", applyFilter);
+document.querySelectorAll(".tagfilter").forEach(function(b){
+  b.addEventListener("click", function(){ toggleTag(b); });
+});
+document.querySelectorAll(".pill").forEach(function(p){
+  p.addEventListener("click", function(){
+    var t = p.getAttribute("data-tag");
+    var bar = document.querySelector('.tagfilter[data-tag="' + t + '"]');
+    if (bar){ toggleTag(bar); }
+    else { activeTags[t] = !activeTags[t]; applyFilter(); }
+  });
+});
+</script>
+</body>
+</html>
