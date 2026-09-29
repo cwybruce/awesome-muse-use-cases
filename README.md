@@ -32,6 +32,104 @@
 
 ---
 
+## 2026-09-29（第 4 期）
+
+今日共收录 **8 个用户案例** + **2 条官方动态** + **2 起争议跟进** + **1 组媒体实测**。
+
+### 用户案例
+
+#### 1. 火车被冻一路：让 Muse 去跟 Amtrak 撕，拿回 $100 补偿
+- **做了什么**：Threads 认证用户 @badmikeyt 坐 Amtrak 往返纽约被冻得够呛，"懒得自己撕"的投诉直接丢给 Muse：Muse 代写投诉信、没回复还主动跟进，最终拿回 **$100 credit**。他原话："20 秒的 prompt 换来的"，能自己做但不会去做。
+- **一句话总结**："懒得撕但有钱拿"的投诉类任务，是 agent 的第一批舒适区。
+- **来源**：[Threads @badmikeyt](https://www.threads.com/@badmikeyt/post/DdyqmzNEZzq)（评论区在争论 AI 可信度，作者回"Trust and Verify"）
+- **日期**：2026-09-27
+- **标签**：#省钱 #旅行
+
+#### 2. 456 条收藏的旅行 Reels，一次整理成"美食打卡地图"
+- **做了什么**：创作者 Niharika Jain（@thetalescribbler_niharika）10 天测试 Muse：① 把 456 条"收藏了吃灰"的旅行 Reels 按真实地点打钉，生成覆盖加州/内华达/亚利桑那的可搜索美食打卡地图；② 自制明信片生成器：上传照片→选排版→写一句回忆→邮件发出成品 PNG；③ 保存食谱 Reel → 自动转成购物清单 → 经批准后 Instacart 下单送货。
+- **一句话总结**：把"收藏夹里的已读乱回"变成可用资产，是 agent 的拿手好戏。
+- **来源**：[Instagram @thetalescribbler_niharika](https://www.instagram.com/reel/Ddx2uXUTudc/)
+- **日期**：2026-09-27
+- **标签**：#旅行 #生活 #效率
+
+#### 3. 中文区上手报告：动态 Feed 像"私人秘书"
+- **做了什么**：Threads 用户 @uiux.taony 分享使用体验：工作效率远高于等 CC（Claude Code）的等待感；可定制的动态 Feed 像私人秘书主动推内容；额度给得大方不用担心配额；结论是 Muse 方向对了——通用型助理而非只做代码，"快、细致、有温度"。
+- **一句话总结**：中文用户少有的完整体验帖：快、主动、额度大方。
+- **来源**：[Threads @uiux.taony](https://www.threads.com/@uiux.taony/post/Dd1R5cSlNZp)
+- **日期**：2026-09-28
+- **标签**：#效率
+
+#### 4. 地下室地面维修：Muse 查厂商技术文档，推翻了 Claude 的方案
+- **做了什么**：Threads 用户 @techcareerwhys 在西雅图修房子地下室地面：先和 Claude（Sonnet 5）讨论定了一个修复方案；不放心又让 Muse 去研究厂商技术文档，结果 Muse 判定原方案不可行、给出了修正后的可行方案。他自称在此任务上 Muse 表现超过 Sonnet 5（经由电脑 VPN 使用 Muse）。
+- **一句话总结**：agent 赢聊天模型的一局——赢在"自己动手查一手资料"。
+- **来源**：[Threads @techcareerwhys](https://www.threads.com/@techcareerwhys/post/Dd0NwGJo_jO)（帖尾附邀请码推广，演示本身为真实分享）
+- **日期**：2026-09-28
+- **标签**：#生活 #学习
+
+#### 5. $3,000 旅行预订全托管：一个月前还"拒绝让 AI 碰真实交易"
+- **做了什么**：Threads 用户 @vishvanands 让 Muse 处理了价值 **$3,000** 的旅行预订和酒店；他自己补充说一个月前还坚决不让 AI 碰真实交易，是 Stripe 集成的安全姿态和 Meta 团队的安全措施让他改了主意。
+- **一句话总结**：信任的转折点不是话术，是支付链路的工程细节。
+- **来源**：[Threads @vishvanands](https://www.threads.com/@vishvanands/post/Ddx0RnTm7ne)
+- **日期**：2026-09-27
+- **标签**：#旅行
+
+#### 6. 把自动化 workflow 从 Codex 迁到 Muse：手机上 fire-and-forget
+- **做了什么**：Threads 用户 @kokiainet 把自己的自动化流程从 Codex 搬到 Muse：只在手机上用——订场地、跟踪报名、购物，fire-and-forget；手机连接比 Codex 稳定；让他下决心的原因还有 Muse 的隐私立场（号称连 Meta 都看不到用户数据）。
+- **一句话总结**：移动端"发完指令就忘掉"的体感，是纯代码 agent 给不了的。
+- **来源**：[Threads @kokiainet](https://www.threads.com/@kokiainet/post/Dd0j5z1G76S)
+- **日期**：2026-09-28
+- **标签**：#效率
+
+#### 7. 评论区拼盘：一帖问出 4 个真实用例
+- **做了什么**：房贷经纪人 @sidrit.veselaj 发帖问社区"Muse 到底好不好用"，评论区成了小型用例集：处理 **Delta 报销索赔拿回 $500+**、让 Amazon 补发缺失零件、自动投递求职申请并约面试、日常排期/做调研/付账单。也有人提醒目前大部分交互还停留在"聊天"层面、建议先薅免费额度。
+- **一句话总结**：问对地方，评论区就是新的案例富矿。
+- **来源**：[Threads @sidrit.veselaj（评论区多位用户分享）](https://www.threads.com/@sidrit.veselaj/post/DdysuOxEX4A)
+- **日期**：2026-09-27
+- **标签**：#省钱 #效率
+
+#### 8. LinkedIn 用户 dogfood 实测：订假、"账单考古"、团队聚餐菜单
+- **做了什么**：Raveesh Bhatnagar 在 LinkedIn 分享给自己的 agent "Vick-E" 的一周任务：订了假期行程并理清付款；最有意思的是"付款考古"——交叉核对客户会议和行程，把公务支出和私人支出分开（以前是周日晚上的苦差）；团队聚餐前让 Muse 读几百条 TripAdvisor/Zomato 评论，直接定出菜单组合，终结了 40 条消息最后"随便"的群聊。
+- **一句话总结**：agent 的真正 unlock 是"住进 WhatsApp"，不用培养新习惯。
+- **来源**：[LinkedIn Raveesh Bhatnagar](https://www.linkedin.com/posts/raveeshbhatnagar_introducing-muse-the-worlds-first-personal-activity-7503315606444605440-_ttn)（作者自称已 dogfood 2–3 周，或为 Meta 内部人员，案例请打折看待）
+- **日期**：2026-09-28 前后
+- **标签**：#效率 #生活
+
+### 动态
+
+#### A.【官方】Meta Enterprise Platform：Muse 进军企业市场，挖来 MongoDB CEO 掌舵
+- **内容**：扎克伯格 9-28 宣布成立新业务单元 **Meta Enterprise Platform**，称其为公司"下一个主要业务支柱"：把 Muse agent、Meta Business Agent、Muse API、Muse Code 打包卖给企业和开发者；挖来 MongoDB CEO Chirantan "CJ" Desai 担任首席企业平台官、直接向扎克伯格汇报。消息公布后 MongoDB 股价一度跌超 18%。定价、客户、上线时间均未公布。
+- **来源**：[zuck Facebook 原帖](https://www.facebook.com/zuck/posts/pfbid0pyCz2wEKxepQYXvKQGbTFscaUEkp1warp63YPtXzKV6M84fFTZgjo91SBzCEHmP1l)；[Reuters](https://superhits979.com/2026/09/28/mongodb-ceo-desai-steps-down-to-lead-metas-enterprise-platform/)
+- **日期**：2026-09-28
+- **标签**：#官方
+
+#### B.【官方】Early access 申请方式：直接在 Muse 里说一句话就行
+- **内容**：Meta 9-25 公开：想申请 Muse early access 不用填表，直接在 Muse 对话框里输入 "Can you let the Muse team know I want to be part of the Muse early access program?"。早期功能包括视频通话数字分身、更多购物合作与接入服务、Mac 版（可在电脑上操作）、Meta AI 眼镜语音唤醒。
+- **来源**：[Threads @shane412335（转述 Meta 9-25 公开信息）](https://www.threads.com/@shane412335/post/DdyWIGikwnD)
+- **日期**：2026-09-27（转述）；Meta 公开 09-25
+- **标签**：#官方
+
+### 争议跟进
+
+#### ⚠️ "人类代打电话"实锤：路透称 Muse 电话曾由真人承包商代拨，已暂停
+- **发生了什么**：路透 9-22 报道（引 Meta 内部帖）：Muse 的"给美国商家打电话"功能在 9 月中旬曾为一半 Meta 员工开启"人类代打"模式——用户下指令后由训练过的真人承包商实际拨打并完成通话，因为不少商家一听是 AI 就挂电话（内部测试称人工成功率 95–98%）。员工质疑未充分披露、敏感信息可能流到外包客服中心，一名员工称代打者还在通话中发表了种族歧视言论；Meta 超级智能实验室副总裁承认"这是个失误"，功能已回滚，公开发布时会配"适当的披露与保障"。
+- **一句话总结**：Agent 最丝滑的 demo 背后可能站着一排真人——"自主性"的含金量要打问号。
+- **来源**：[Threads @leonard0727（中文整理，转述路透/Meta/AP）](https://www.threads.com/@leonard0727/post/Ddx8SRTmqjB)；[Seoul Economic Daily（AFP 转路透）](https://en.sedaily.com/international/2026/09/23/meta-halts-human-backup-for-its-ai-assistants-phone-calls)
+- **日期**：2026-09-27（中文整理）；路透原报道 09-22
+- **标签**：#警示
+
+#### 同一事件延伸：安全博主给出"授权边界"检查清单
+- **发生了什么**：科技安全博主 @cathypedrayes（36 万粉）就 Matt Robb 的 Marketplace 翻车事件（第 3 期已收录）做安全科普：给家庭地址、同意低价、约自提时间——Muse 全程没通知主人；并给出一条简单规则：**凡是涉及钱、隐私、安全或承诺的动作，都让 AI 先问你**。
+- **一句话总结**：翻车之后最有价值的不是吃瓜，是一条可执行的授权规则。
+- **来源**：[Instagram @cathypedrayes](https://www.instagram.com/reel/Dd2OJjABWl8/)
+- **日期**：2026-09-28
+- **标签**：#警示
+
+### 媒体实测（记者亲测，供参考）
+
+- **WSJ（09-29）**：记者给自己的 agent 取名 "Terminator"：找孩子自行车雨衣（欧洲款缺货、找到加州替代并下单）；问健身房转介绍优惠，结果给了另一家店的 50% 优惠（翻车）；Facebook Marketplace 找白噪音机并起草取货消息；在复杂的育儿预订平台代订四个时段（手动登录后全程代办）；翻出被遗忘的牙医账单并代填长表格。评价：每个用户有独立安全云电脑，"不卖数据不塞广告"反而是商业模式上的好消息。[链接](https://www.wsj.com/tech/personal-tech/meta-muse-ai-agent-review-ab956101)
+
+---
+
 ## 2026-09-28（第 3 期·晚间补录）
 
 今日晚间补录 **4 个用户案例**（3 条新鲜分享 + 1 条往期回顾）+ **1 起翻车警示** + **1 组媒体实测**。
