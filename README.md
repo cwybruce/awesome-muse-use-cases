@@ -32,6 +32,83 @@
 
 ---
 
+## 2026-10-02（第 7 期）
+
+今日共收录 **7 个用户案例** + **2 起争议跟进** + **1 组行业观察**。
+
+### 用户案例
+
+#### 1. 音乐人 @goshfather：Muse 替他修好"烂尾"三年的 Ableton 工程
+- **做了什么**：独立音乐人 @goshfather（Threads 认证，2.9 万粉）发帖称，Muse 自动修复了他 2023 年的 remix Ableton 工程：扫出所有缺失的 samples、用他的 Splice 登录逐一下载替换——全程在他去健身房时完成。他称终于摆脱了"烂尾工程"的拖延焦虑。评论区两极：创作人共鸣"这就是 AI 该干的脏活"，隐私派则喊"给 Meta 开文件权限太疯了"（同一作者 10-01 新帖，与第 1 期 Spotify 投歌单是不同用例）。
+- **一句话总结**：AI 干脏活的最高点，往往在创作者的"烂尾羞耻区"。
+- **来源**：[Threads @goshfather](https://www.threads.com/@goshfather/post/Dd76gxFFOGL)
+- **日期**：2026-10-01
+- **标签**：#创作 #效率
+
+#### 2. 开发者 Adrian C. Murray：2,572 条社媒帖喂给 Muse，建成可语义搜索的"个人档案馆"
+- **做了什么**：开发者 Adrian C. Murray（Threads 认证，3.1 万粉）发布录屏演示：让 Muse 把他 2,572 条 Instagram/Threads 帖（累计 620 万+赞）导入本地数据库、做向量嵌入，建成一个可语义搜索的"Meta Archive"：发布节奏、互动趋势、平台分布、热门主题（Family archive/Visual craft）一目了然。评论区被"这是我见过最酷的用例"刷屏，也有技术派追问托管在 Muse 免费 VM 上的实现细节。
+- **一句话总结**：agent 最被低估的用法：把你自己变成可查询的数据库。
+- **来源**：[Threads @adriancmurray](https://www.threads.com/@adriancmurray/post/Dd5KC26knC2)
+- **日期**：2026-09-30
+- **标签**：#代码 #效率
+
+#### 3. 中文开发者 Sam Lung：muse-web-cli，把 Muse 接进终端让其他 agent 直接调用
+- **做了什么**：Threads 中文开发者 @sam_lung2077 发布截图演示：把自己的 Muse 登录态接到终端（muse-web-cli），其他 agent 可直接命令行发消息、读对话、查 memory/任务/日程，不用手动复制粘贴（评论区贴出 `trinity-cli ask muse`、`muse-web-cli --backend api` 等用法）。中文区少见的硬核工程流：agent 不再是一个 App，而是一个 CLI 接口。
+- **一句话总结**：当 agent 变成命令行，后台编排才刚刚开始。
+- **来源**：[Threads @sam_lung2077](https://www.threads.com/@sam_lung2077/post/Dd9MGXSmpre)（评论区有人贴邀请码/绕路教程，帖主回复为技术讨论）
+- **日期**：2026-10-01
+- **标签**：#代码 #效率
+
+#### 4. 聋人开发者 Calvin Young：Muse 免去"打电话"，是无障碍刚需
+- **做了什么**：为聋人社区做 AI 无障碍工具的开发者 Calvin Young（FB 27K 粉）演示：对聋人来说，订位、客服、办事最大的坎是"必须打电话"，而 Muse 回邮件、订位、填表全程不经过电话。他直言这不是方便，是刚需。评论区有盲人用户附和"它让非常视觉化的信息对我可及了"。
+- **一句话总结**："打电话排队"外包给 AI，对听障用户是降维打击式的好事。
+- **来源**：[Facebook @CalvinYoung.ai](https://www.facebook.com/reel/28451994721134137/)（据平台内容摘要整理）
+- **日期**：2026-10-01
+- **标签**：#生活 #效率
+
+#### 5. 创作者 Regina Renee：把 Muse 当"生意后台"，防漏单、防低报价
+- **做了什么**：UGC 创作者 Regina Renee（@regina.renee_）称 Muse 已在她创作者生意后台跑起来：每天做 IG 审计找策略缺口、规划一周内容、找合适品牌并写好可直接发的 pitch 邮件、追踪邮件防漏单、**帮报价把关以免报低**。她称"后台自己在干活，我去干别的"。
+- **一句话总结**：创作者最怕的不是没单，是漏单和报低价——Muse 盯的就是这两处。
+- **来源**：[Instagram @regina.renee_](https://www.instagram.com/reel/Dd9e7SWJnWd/)（据平台内容摘要整理）
+- **日期**：2026-10-01
+- **标签**：#创作 #效率
+
+#### 6. 房贷公司老板 Daniel Hughes：第 3 个 Muse agent 上岗当 CMO
+- **做了什么**：BayPort Lending 老板 Daniel Hughes（@brokerdadlife）在 Facebook 晒截图：他在 Muse 里搭了第 3 个 agent，直接命名为"marketing manager / CMO engine"，负责 FB/YouTube/播客/IG 的每日发布排期、创意、提示，并更新公司两个 Webflow 网站。他此前用 Claude 做业务自动化，现在部分切到 Muse（文末有邀请码引流话术，用法本身为真实业务截图）。
+- **一句话总结**：从"一个助理"到"一支 agent 团队"，命名即分工。
+- **来源**：[Facebook @brokerdadlife](https://www.facebook.com/brokerdadlife/posts/pfbid02C6sezRBNQonA2u2fmGX88qVLKyXEMnhPSN4BZ7qt3EejHSuLtbXSSbrhRBDqCTkEl)（据平台内容摘要整理）
+- **日期**：2026-09-30
+- **标签**：#效率
+
+#### 7. Marketplace 卖家流：发照片给 Muse，1 分钟起草 5 个 listing
+- **做了什么**：创作者 @fadziefa 演示 Muse 的 Marketplace 卖家用法：发一张商品照片，Muse 搜索 Facebook 上类似 listing 建议定价（演示中定 $50）、起草 5 个待发布 listing——全部走用户审批后才发布，她称"1 分钟内搞定"。买家模式演示：让它在 Marketplace 找一辆 Scott Addict 二手公路车，几秒内返回多辆接近的车源（含一辆 2021 Scott Addict RC 10 标价 $3,450）。
+- **一句话总结**：二手卖货的真正摩擦不在卖，在"定价+写 listing"那 20 分钟。
+- **来源**：[Instagram @fadziefa](https://www.instagram.com/reel/Dd60oRuDnJR/)（据平台内容摘要整理）
+- **日期**：2026-09-30
+- **标签**：#购物 #效率
+
+### 争议跟进
+
+#### ⚠️ Meta 回应 Robb 地址泄露事件：称此前调查中 Muse"按指示行事"，愿单独调查此案
+- **发生了什么**：针对 Matt Robb 的 Marketplace 地址泄露事件（第 5 期已收录），Meta 超级智能实验室负责人 David Singleton 公开回应：此前类似调查显示 Muse 遵循了用户指示、权限请求合规；同时表示愿单独调查 Robb 这一案。Robb 本人后来承认点了"Allow Always"，但他强调：他以为 agent 成交前仍会再问。Robb 还建议 Meta 给 Muse 发出的消息打上 AI 标签。
+- **一句话总结**：争议焦点从"AI 越权"变成"你以为你授权了什么 vs AI 实际拿走了什么"。
+- **来源**：[financian（10-01 整理报道，链接已验证有效）](https://www.financian.com/meta-responds-after-muse-ai-exposes-youtubers-address)
+- **日期**：2026-10-01
+- **标签**：#警示
+
+#### ⚠️ 安全研究员 Wardle 披露 Muse for Mac 语音转录漏洞（Meta 9-22 已修复）
+- **发生了什么**：安全研究者 Patrick Wardle 披露：Muse for Mac 曾有一个未公开的语音转录设置可被本机其他程序篡改，把语音输入导向外部服务器，从而窃取语音指令和账号凭证。Meta 在 9-22 美国时间凌晨修复，称利用需要本机已有恶意程序、无法远程攻击；Wardle 反驳：诱骗用户复制粘贴恶意命令仍可得手。中文技术圈 @invokerd.tw 9-30 转述提醒 Mac 用户确认已更新。
+- **一句话总结**：agent 的权限越大，"邻居进程"的攻击面越值得盯。
+- **来源**：[Threads @invokerd.tw（转述 Wardle 披露）](https://www.threads.com/@invokerd.tw/post/Dd6SMg-mNtq)
+- **日期**：2026-09-21（披露）；Meta 修复 09-22；中文转述 09-30
+- **标签**：#警示
+
+### 行业观察
+
+- **香港投资号 @invest.no.bullshit（6.6 万粉，10-01 长图）**：Muse 正在消灭"lazy tax"——消费者惯性养活的公司模式被 agent 打破；Muse 走红后华尔街抛售惯性中介股（JPMorgan −3.4%、Charles Schwab −6.1%、Allstate −5.5%、Verizon −2.6%、Booking −2.6%）；Amazon 封锁 Muse 的真实动机是年约 680 亿美元的广告基本盘。结论：营销战场从"抓人类注意力"变成"让机器偏好你"（From Human Attention to Machine Preference）。[链接](https://www.instagram.com/p/Dd7qz1Hk5qV/)
+
+---
+
 ## 2026-10-01（第 6 期）
 
 今日共收录 **7 个用户案例** + **3 组媒体实测**。
