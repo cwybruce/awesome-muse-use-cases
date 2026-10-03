@@ -32,6 +32,80 @@
 
 ---
 
+## 2026-10-03（第 8 期）
+
+今日共收录 **5 个用户案例** + **2 条官方动态** + **1 起争议跟进** + **1 组行业观察** + **1 组媒体实测**。
+
+### 用户案例
+
+#### 1. Joe Urbinati：给 agent "Greg" 下指令"每月帮我多找 $500"，它翻出了闲置订阅和低息账户
+- **做了什么**：创作者 Joe Urbinati（@joeurbinati）10-02 发 reel：他让自己的 Muse agent "Greg" 帮忙"每月多找出 $500"。录屏显示 Greg 先请求经 Plaid 连接财务账户的授权，随后翻出：半年多没用过的闲置订阅、两份重复的云存储方案、几个付极低利息的银行账户，并建议把现金挪到高息账户。作者称"真的管用"（金额与效果为作者自述，未经第三方核实）。
+- **一句话总结**：省钱流的新姿势：不用你翻账单，agent 自己连上 Plaid 找"漏掉的钱"。
+- **来源**：[Instagram @joeurbinati](https://www.instagram.com/reel/DeAFX1qKDN0/)（据平台内容摘要整理）
+- **日期**：2026-10-02
+- **标签**：#省钱 #效率
+
+#### 2. 创作者 @bybatee：agent "Squishy" 一天发出 25 封品牌合作邮件，3 天没回自动跟进
+- **做了什么**：创作者 Byba Teneilabe（@bybatee）10-02 发帖：她的 Muse agent 取名 "Squishy"，负责品牌商务拓展——按她的 niche 挑出 25 个品牌，自动发出带 metrics/portfolio/media kit 的合作邮件，**3 天没回复自动跟进**。她称这是"品牌 outreach 的 power move"。
+- **一句话总结**：创作者接单的脏活（找品牌、写 pitch、跟进）第一次被完整外包。
+- **来源**：[Threads @bybatee](https://www.threads.com/@bybatee/post/Dd-bhdzHG24)
+- **日期**：2026-10-02
+- **标签**：#创作 #效率
+
+#### 3. @ramseyg_：用满三周的成绩单——盯球票、骑行数据接 ride 提醒，"像有个 chief of staff"
+- **做了什么**：Threads 用户 @ramseyg_ 分享连续三周用 Muse 的成绩单：盯着 Seattle Sounders 的球票 listing、把骑行数据接进 ride 提醒、管旅行 logistics、管提醒事项。他形容体验"像有个 chief of staff"（帖尾附邀请码推广，用法本身为真实分享）。
+- **一句话总结**："住进你的生活"三周后，用户开始用 chief of staff 来形容它。
+- **来源**：[Threads @ramseyg_](https://www.threads.com/@ramseyg_/post/Dd9NQpADhrl)
+- **日期**：2026-10-01
+- **标签**：#生活 #效率
+
+#### 4. 工程师 @oukhay：手机上并行跑工程工作 + 个人清单，直接 plan/design/code/push 到 GitHub
+- **做了什么**：工程师 @oukhay 10-02 分享一周测试：全程只用手机——一边跑工程工作一边管个人 checklist。他点赞两点：① 看得到 agent 正在调什么、跑什么（透明度）；② 可以并行开多个任务，手机一放、回来收工。他称 agent 能稳定地 plan、design、code 并直接 push 到 GitHub；同时承认数据隐私仍是没解决的大问题。
+- **一句话总结**：手机变终端：发完指令就放下、回来验收——"fire-and-forget" 的工程流版本。
+- **来源**：[Threads @oukhay](https://www.threads.com/@oukhay/post/Dd_ybmZDDli)
+- **日期**：2026-10-02
+- **标签**：#代码 #效率
+
+#### 5. Facebook 群组用户：在 Muse 里搭 7 个小 bot，邮件分拣/订阅审计/会议准备/跟进全包
+- **做了什么**：一位 Facebook 群组用户 10-02 分享：她在 Muse 平台里搭了 7 个专用 bot——邮件收件箱分拣、订阅审计、会议准备、事项跟进，把每天的 busywork 全接过去；还把 7 套 setup prompt 做成免费指南分享（评论区领）。
+- **一句话总结**：从"一个助理"到"一支 bot 小队"：分工越细，越像真团队。
+- **来源**：[Facebook 群组帖](https://www.facebook.com/groups/687689230914761/permalink/1081255628224784/)（群组帖，非公开主页）
+- **日期**：2026-10-02
+- **标签**：#效率
+
+### 动态
+
+#### A.【官方】Muse Gadgets：开源 ESP32 固件 + Linux SDK，自己造 Muse 硬件
+- **内容**：10-02 Nat Friedman 宣布 **Muse Gadgets**：开源 ESP32 固件和 Linux SDK，开发者可自己做显示器、按键、传感器等外设，把 Muse 装进实体硬件——在 gadgets.muse.ai 领 API token，对着 GitHub 仓库让 coding agent 开干。Meta 自制示例 **Muse Home Link**：USB-C 供电的小盒子，连上家庭网络后让 Muse 跟电视/音箱等智能家居通信；Meta 造了 5,000 台，Muse 订阅用户可免费领（先到先得）。已有开发者玩起来：Federico Viticci 把一块 Xteink 电子墨水屏做成 MagSafe 吸附的随身 Muse 显示器，称经 Muse App 设置很顺滑。
+- **来源**：[iPhone in Canada（链接已验证有效）](https://www.iphoneincanada.ca/2026/10/02/metas-muse-lets-you-build-your-own-ai-gadgets/)；[Machine Brief（引 The Verge，链接已验证有效）](https://www.machinebrief.com/news/meta-open-sources-code-to-let-you-make-muse-ai-gadgets-a4cm)
+- **日期**：2026-10-02
+- **标签**：#官方
+
+#### B.【官方·往期补录】扎克伯格访谈自述：周末烘焙项目、登山许可盯名额、MMA 训练复盘
+- **内容**：Alex Heath 访谈（约 9-25，Founder Park 编译整理、10-01 经中文媒体转出）中扎克伯格自述怎么用 Muse：① 每周末给 3 岁女儿安排一个"零基础大人+3 岁小孩"的烘焙项目，食材经 Instacart 买齐，第一次棒棒糖蛋糕太难、agent 按反馈调计划；② 大女儿爬山要申请许可，让 agent 盯着开放时间、有名额就抢下；③ MMA 训练馆装摄像头让 agent 看视频给反馈，有次 agent 挑出一段说"你看起来真的放弃了"——教练不好意思讲的话 agent 直接讲；④ 和女儿玩《文明》，agent 主动提议做攻略、又加了各文明历史知识变成历史教材。他还提到团队说的"夜里学习"：agent 把反思整合进记忆、持续推进项目、主动建议新项目；以及把"分寸感"（discretion）当作个人超级智能专门训练的能力。
+- **来源**：[鉅亨號 Anue（Founder Park 编译整理，转述 Alex Heath 访谈，链接已验证有效）](https://hao.cnyes.com/post/269824)
+- **日期**：2026-09-25 前后（访谈）；中文整理 10-01
+- **标签**：#官方
+
+### 争议跟进
+
+#### ⚠️ Apple 正式回应 Muse iMessage 事件：macOS 将新增更明确的 AI 全盘访问授权提示
+- **发生了什么**：针对 Jason Aten 的 iMessage 事件（第 5 期已收录），Apple 10-02（周五）正式表态：计划修改 macOS，让 AI agent 请求"全盘访问"（Full Disk Access）时提示更明确——"用户必须以非常明确的动作才能授予这种非同寻常的访问权限"。Apple 原话："随着 AI agent 能力越来越强、越来越自主，这类访问的风险会显著增长。" Meta 发言人 Andy Stone 上周已在 X 回应：Muse 读 Messages 必须同时开 Full Disk Access 和 Messages 连接器、"不经此两步读不到"，可随时撤销；双方各执一词，尚无 forensic 定论。
+- **一句话总结**：一个 agent 的权限争议，逼得操作系统改授权 UX——这是 agent 时代的标志性事件。
+- **来源**：[Reuters（链接已验证有效）](https://www.reuters.com/business/retail-consumer/apple-says-it-will-flag-ai-requests-mac-data-after-metas-muse-draws-complaints-2026-10-02/)
+- **日期**：2026-10-02
+- **标签**：#警示
+
+### 行业观察
+
+- **@mattnavarra（10-01，社媒行业评论员）**：Muse 发布三周，周 prompting 用户超 300 万、日超 100 万（多经 App 端），较刚发布时的周 50 万/日 25 万大幅爬坡；计入审批交互后周互动超 400 万。评论区在争论：Meta 分发能力驱动的陡峭爬坡，新鲜感过后留存能否 hold 住。[链接](https://www.threads.com/@mattnavarra/post/Dd8yMfjCoVe)
+
+### 媒体实测（记者亲测，供参考）
+
+- **6abc Action News（10-02）**：记者 Nydia Han 消费者实测——Muse 批量退订邮件列表、查儿子篮球报名的注册信息、填 LLC 注册文书、在线下单；报道同时强调 Meta 的安全说法与"交出应用访问权限"的代价并存。[链接](https://www.instagram.com/reel/Dd_a-B7zEK9/)（据平台内容摘要整理）
+
+---
+
 ## 2026-10-02（第 7 期）
 
 今日共收录 **7 个用户案例** + **2 起争议跟进** + **1 组行业观察**。
