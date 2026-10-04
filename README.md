@@ -32,6 +32,67 @@
 
 ---
 
+## 2026-10-04（第 9 期）
+
+今日共收录 **7 个用户案例** + **1 组媒体实测**。
+
+### 用户案例
+
+#### 1. 音乐人 Mickey Shiloh："AI 正在让我赚钱"——5 分钟审计完 100 万个 Google Drive 文件
+- **做了什么**：歌手/创业人 Mickey Shiloh（@mickeyshiloh，IG 4 万粉，10-02 发帖）：她每天都用 Muse，经 Plaid 只读权限连银行做财务更新；Google Drive 里的 **100 万+ 文件 5 分钟内被 AI 审计完**；AI 从短信、邮件、日历、Drive 里综合上下文给她做早报/晚报、同步遗漏的收件箱机会、读 DM 分优先级、做社媒素材、剪视频、规划旅行、爬全网给她平台上的艺人找演出机会。她说这套东西换人来做"一年要花 40 万美元以上"，但也泼冷水：AI 会犯错，批之前必须人工复核。罕见地诚实：她开篇就说自己"不是 Meta 粉丝"、承认隐私代价（"免费的东西里，我们就是产品"）。
+- **一句话总结**：把 AI 当整个团队用的最高音量样本：不是一个工具，是 $400K/年的"人"。
+- **来源**：[Instagram @mickeyshiloh](https://www.instagram.com/reel/DeAjIaoTe3s/)（据平台内容摘要整理；视频含邀请码推广，用法本身为真实演示）
+- **日期**：2026-10-02
+- **标签**：#创作 #效率
+
+#### 2. 小老板 Kiara Randolph：Muse 替掉了约 $1,800/月的 外包活
+- **做了什么**：小商户主 Kiara Randolph（@urmannequin，Threads，10-02 发帖）：她同时经营女性社交俱乐部、珠宝品牌，还帮丈夫的旅行生意打理事务；此前邮件、排期、跟进、行政、listing 管理全部外包给人，现在 Muse 把这些全接了过去。她在评论区澄清：省的钱 + 省出的时间让她回去搞创作，"AI 还有争议，但效率是真的"。
+- **一句话总结**：Muse for Small Business 官宣一周后，小商户自己晒出了第一张"省钱成绩单"。
+- **来源**：[Threads @urmannequin](https://www.threads.com/@urmannequin/post/DeAlH-hFpq7)（据平台内容摘要整理；金额为作者自述）
+- **日期**：2026-10-02
+- **标签**：#效率 #省钱
+
+#### 3. Jake Flavin：Claude 管工作、Muse 管生活——分工论的第一手样本
+- **做了什么**：创作者 Jake Flavin（@jakeflavin，Threads，10-02 发帖）：他把 Claude 留作工作工具，Muse 反而成了"用得比预期更多"的生活助理。评论区列出他的实际用法：价格/到货提醒、盯机票降价、找可报名的跑步赛事、带新闻+天气+体育+读书的个性化早报；顺带把 Wispr Flow 的听写都换掉了（按住说话直接输入）。他也承认：给 Muse 的 Mac 权限级别让他心里不踏实；问到写代码？他还没试，"暂时还是 Claude 派"。
+- **一句话总结**：2026 年底 agent 时代的真实分工：工作是 Claude 的，生活是 Muse 的。
+- **来源**：[Threads @jakeflavin](https://www.threads.com/@jakeflavin/post/Dd_i3K4Flrd)（据平台内容摘要整理）
+- **日期**：2026-10-02
+- **标签**：#生活 #效率 #省钱
+
+#### 4. 韩语作者一个月成绩单：agent "Bingbong" 整理 80GB 照片、退订 70 封推广邮件
+- **做了什么**：Threads 用户 @daily.gansik（韩语，10-04 发帖）：用 Muse 一个月，agent 取名 "Bingbong"，经聊天确认后自动执行：整理 80GB Google 相册照片视频、退订约 70 封 Gmail 推广邮件、清理归类邮件文件夹、取消 3 个付费订阅、安排工作和旅行日程。她对 agent 的定义很精准：**"它做的都不是做不到的事，而是我因为懒/因为忘一直拖着没做的脏活"**。也指出代价：要交出高度个人数据始终让她不舒服；因 HIPAA/FERPA/NDA 限制不敢用在工作上。
+- **一句话总结**：agent 的真实画像：不是"无所不能"，是"替你把拖延清单清零"。
+- **来源**：[Threads @daily.gansik](https://www.threads.com/@daily.gansik/post/DeDXQCZmiCH)（据平台内容摘要整理）
+- **日期**：2026-10-04
+- **标签**：#效率 #省钱 #生活
+
+#### 5. InfoHawk 创始人 Rob Leathern：1,200 个网站 6 小时全爬完，吃掉 40% 周额度
+- **做了什么**：InfoHawk 创始人兼 CEO Rob Leathern（@jacaranda7，Threads，10-02 发帖）：让 Muse 跑了一个大范围网页调研任务——约 **1,200 个网站、6 小时跑完**，直接吃掉他 **40% 的周 token 额度**；评论区补上第二单：8 小时 12 分钟、估算 600–700 万 tokens。第一次有人公开把 agent 级重度任务的"token 账单"摆到台面上。
+- **一句话总结**：agent 时代的新计量单位出现了：不是小时工资，是百万 tokens。
+- **来源**：[Threads @jacaranda7](https://www.threads.com/@jacaranda7/post/DeAaHRRlnBX)（据平台内容摘要整理）
+- **日期**：2026-10-02
+- **标签**：#效率
+
+#### 6. 25 岁前 Google 工程师 Jason Zhang：一周实测，5 个"不技术"的小流程
+- **做了什么**：创作者 Jason Zhang（@life.jasonzhang，自述 25 岁、前 Google 工程师、正在求职，IG 6.1 万粉，10-02 发帖）：一周测试 Muse 后交出 5 个简单工作流：① 读了 Gmail 确认邮件后用隐私浏览器自动值机；② 经 Google 日历连接器给朋友约会，不开日历 App；③ 把口述大纲写成数据结构学习资料、直接上传 Google Drive；④ 用隐私浏览器**代他投简历**；⑤ 彩蛋：能接 Messenger/IG 给朋友发消息，但他还是坚持自己发。结论：用法保持简单，别折腾。
+- **一句话总结**：一个工程师的用法建议恰恰是"别把它当工程师工具用"——连接器越基础越好用。
+- **来源**：[Instagram @life.jasonzhang](https://www.instagram.com/reel/DeBd6w7uERU/)（据平台内容摘要整理）
+- **日期**：2026-10-02
+- **标签**：#效率 #生活
+
+#### 7. 120 万粉旅行博主 Chelsea Yamase：agent "Sir Wiggles" 临时拼出撒丁岛之旅
+- **做了什么**：自然旅行博主 Chelsea Yamase（@chelseakauai，IG 120 万粉，10-03 发帖）：自称 "Type B traveler"（爱随性、恨做攻略），用 Muse agent "Sir Wiggles" 临时规划撒丁岛之旅：翻出她收藏的几百条 Reels/帖子、生成 Porto Cervo 到 Cagliari 的路线图、推荐精品酒店、**查实时房态、直接发邮件给酒店谈到直接预订省了 €240**。她强调 agent 会追踪开支、付款前一定先审批。
+- **一句话总结**：agent 版"人肉搜索"：从收藏夹里长出来的旅行计划，还顺手砍了价。
+- **来源**：[Instagram @chelseakauai](https://www.instagram.com/reel/DeCYIJWiWfY/)（据平台内容摘要整理；€240 为作者自述）
+- **日期**：2026-10-03
+- **标签**：#旅行
+
+### 媒体实测（记者亲测，供参考）
+
+- **Barron's（09-27 前后）**：记者给 agent 取名 "Josh Jr."——翻出欠费账单、按一封生鲜配送邮件推荐食谱、几分钟内给出 1 月婚礼的航班选项；最绝的是**找了三个曼哈顿看脚的医生选项、附电话和预约链接**，"几个月拖着没看的趾甲终于有着落了"。但他也撞南墙：没交邮箱和信用卡权限，agent 很多活干不完；还曾把 2025 年 8 月的房贷认成今年的支出，事后自己承认了。[链接](https://www.barrons.com/articles/meta-muse-ai-review-29077e2f)
+
+---
+
 ## 2026-10-03（第 8 期）
 
 今日共收录 **5 个用户案例** + **2 条官方动态** + **1 起争议跟进** + **1 组行业观察** + **1 组媒体实测**。
