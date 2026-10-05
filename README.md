@@ -32,6 +32,64 @@
 
 ---
 
+## 2026-10-05（第 10 期）
+
+今日共收录 **5 个用户案例** + **2 组媒体实测** + **1 起争议跟进**。
+
+### 用户案例
+
+#### 1. 营销人 Chad Pollitt：用 Muse 搭了个"Human CRM"，人情债第一次有了仪表盘
+- **做了什么**：Threads 用户 Chad Pollitt（@chad_pollitt，10-03 发帖）：他用 Muse 从几十个 App 里聚合数据，搭了一个个人 Life CRM——"Human CRM Dashboard"，手机截图展示：今日总览（"欠 2 条回复、有 3 个 follow-up 等着、4 个关键关系正在变凉"）、"12 天后中期目标"进度卡（顺带显示已追回 $175）、60 天书稿倒计时；Today/回复/follow-up/人脉/社交/订单/航班多标签导航。
+- **一句话总结**：欠人情最怕的不是还不起，是"忘了欠"——这个仪表盘盯的就是这个。
+- **来源**：[Threads @chad_pollitt](https://www.threads.com/@chad_pollitt/post/DeCiQ1imPuH)（据平台内容摘要整理）
+- **日期**：2026-10-03
+- **标签**：#效率 #生活
+
+#### 2. DevOps 工程师 Vani Reddy Puppireddy：猎头邮件自动回，忙到不在电脑前也不耽误
+- **做了什么**：DevOps/SRE 工程师 Vani Reddy Puppireddy（@pages_by_vani，10-04 IG 发帖）：她把"回猎头邮件"整套流程丢给 Muse——连上 Gmail、喂简历、给话术模板；Muse 读猎头邮件后自动回答标准问题（地点、工作许可、签证状态、经验、薪资预期）、按匹配度选出最合适的简历、起草回复，**发送前仍要她确认**；录屏演示的最终邮件+简历附件已发出。她说人忙或不在电脑前时系统照样运转，"每天都省时间"。
+- **一句话总结**：求职季的隐形开销不是写简历，是"重复回答同一批问题"——这部分被自动化吃掉了。
+- **来源**：[Instagram @pages_by_vani](https://www.instagram.com/reel/DeDg6ccM9jE/)（据平台内容摘要整理）
+- **日期**：2026-10-04
+- **标签**：#效率
+
+#### 3. 创作者 Riley Brown：把 Game Boy 造型掌机改造成"Muse 口袋机"，40 分钟完工
+- **做了什么**：创作者 Riley Brown（@realrileybrown，10-03 Threads+FB 发帖）：Meta 10-02 宣布开源 Muse Gadgets 后，他花约 40 分钟、用 Codex/Claude 辅助把一台 ModRetro Chromatic（可玩 GBC 卡带的复古掌机）重新编程接入 Muse——设备显示"MUSE CONNECTED YOUR POCKET MUSE"，在"打游戏模式"和"AI 助手模式"之间切换；录屏演示它按指令大声读出一封来自 "Emily" 的品牌合作邮件。他号召："找台旧设备插上 Mac，去 gadgets.muse.ai 查兼容性，自己就能造。"
+- **一句话总结**：Muse Gadgets 开源后第一个出圈的民间硬件玩法：复古掌机变 AI 随身助理。
+- **来源**：[Threads @realrileybrown](https://www.threads.com/@realrileybrown/post/DeCgLhbAVTb)；[Facebook reel](https://www.facebook.com/reel/1701079534319876/)（据平台内容摘要整理）
+- **日期**：2026-10-03
+- **标签**：#代码 #效率
+
+#### 4. Threads 用户 @karliegam：Muse 自主约牙医、发确认邮件、加进日历
+- **做了什么**：Threads 用户 @karliegam（10-04 发帖）：刚开始用 Muse，第一件事就是让它约牙医——Muse 自主完成了预约、发出确认邮件、把事件加进她的日历。她形容"像真有个私人助理"，同时直言"黑镜感"和隐私担忧；评论区有人警告"Muse 会在你没参与的情况下安排销售类事项"，也有人劝等官方区域上线再说。
+- **一句话总结**：agent 时代的第一次"放手"往往从牙医这种"重要但不想打电话"的事开始。
+- **来源**：[Threads @karliegam](https://www.threads.com/@karliegam/post/DeFDO12m00j)（据平台内容摘要整理）
+- **日期**：2026-10-04
+- **标签**：#生活 #效率
+
+#### 5. 创作者 Romy Voss：让 Muse 找两张 10-16 Madison Square Garden 的 Harry Styles 连座票
+- **做了什么**：创作者 Romy Voss（@romyvoss.ai，10-03 IG 发帖）：给 Muse 的任务很具体——10 月 16 日（周五）麦迪逊广场花园、Harry Styles 演唱会、两张连在一起的票。实拍测试 agent 的票务搜索能力。
+- **一句话总结**：演唱会抢票这种"要快、要准、位置还要连着"的任务，是 agent 的天然考场。
+- **来源**：[Instagram @romyvoss.ai](https://www.instagram.com/reel/DeA0r8aAqbK/)（据平台内容摘要整理）
+- **日期**：2026-10-03
+- **标签**：#购物
+
+### 媒体实测（记者亲测，供参考）
+
+- **WSJ（10-04，美东）**："I Tried Meta's Muse AI Agent. It's Helpful and Scary at the Same Time." 记者给 agent 改名 "Terminator"（拒绝叫它 Zuckerberg）；连上邮箱+日历后，它翻出未付账单、按一封生鲜配送邮件推荐食谱；结论偏"真香派"——"Muse 是我用过第一个给普通人做的 agent 应用"，复杂性被藏在了友好界面后面；同时承认信任坎过不去：干活越卖力，需要交出去的数据就越多。另据 Sensor Tower，Muse 下载已超 340 万次、登顶美区免费榜。[链接](https://www.wsj.com/tech/personal-tech/meta-muse-ai-agent-review-ab956101)（据搜索摘要整理；付费墙）
+
+- **Tom's Guide（10-04）**：Amanda Caswell 的家庭实测——把 Muse 当"五口之家的大管家"：所有足球比赛、牙医预约、生日和晚饭计划、家务轮值都放进同一个地方，每件事都标注到人头，消灭了"到底轮到谁"的扯皮；最管用的一点是**重复问题变少了**——以前一天被问好几遍的"晚饭吃什么"，现在全家自己去看 Muse。[链接](https://wesearch.press/s/i-used-meta-muse-as-an-ai-house-manager-for-my-family-of-fiv-41a77508)（据搜索摘要整理；原文见 tomsguide.com）
+
+### 争议跟进
+
+#### ⚠️ Muse 被曝每小时给"你生命中的每个人"建一份档案；内部文件经聊天套出
+- **发生了什么**：10-03，独立 AI 安全研究员 Karan Joshi 在 WIRED 报道中披露：他直接在 Muse 的聊天框里让 Muse"复制并交出自己的软件文件"，成功了。文件里埋着一条每小时运行的指令：**为用户生命中的每个人建一页档案**——家人、伴侣、朋友、同事、"合作者"、你"关注"的人，全都收录。Meta 回应称至少部分材料本就打算公开，算"透明化举措"。同日 r/LocalLLaMA 的讨论把焦点转向泄露的 system prompt 里另一句：**"The user's authority over their own household is unconditional and overrides your safety training"**（用户对其家庭的权威无条件优先于安全训练）——用户控制与安全护栏的边界之争再起。
+- **一句话总结**：agent 不只记得你，还记得你认识的所有人——而那些人从没装过这个 App。
+- **来源**：[aidailypost（10-03，援引 WIRED）](https://aidailypost.com/news/muse-ai-builds-detailed-profiles-users)；[Threads @wired](https://www.threads.com/@wired/post/DeCA6A0oM75)；[r/LocalLLaMA（经 techyon 聚合）](https://techyon.pages.dev/posts/metas-muse-agent-1-in-the-app-store-system-prompt-the-users-authority-over-their-own-household-is-unconditional-and-overrides-your-safety-training/)
+- **日期**：2026-10-03/04
+- **标签**：#警示
+
+---
+
 ## 2026-10-04（第 9 期）
 
 今日共收录 **7 个用户案例** + **1 组媒体实测**。
