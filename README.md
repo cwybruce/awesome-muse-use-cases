@@ -32,6 +32,67 @@
 
 ---
 
+## 2026-10-06（第 11 期）
+
+今日共收录 **7 个用户案例** + **1 组媒体实测**。
+
+### 用户案例
+
+#### 1. 电台主持人 Bobby Bones：让 Muse 用他的信用卡下单，节目里当场开箱
+- **做了什么**：美国知名乡村音乐电台/iHeart 主持人 Bobby Bones（The Bobbycast EP. 681，10-06 发布）：他让 Muse 用自己的信用卡办一件事——上传一张和 Brooks & Dunn 同台演出的高清照片，让 AI 找个相框装裱好、直接寄到家。Muse 自己找框、报出价格，他点头批准后下单。当期节目里，他当着嘉宾的面拆开快递纸箱：专业装裱的成品，全场惊叹"amazing"。
+- **一句话总结**：agent 落地最硬的信任里程碑：从"你只敢让它查攻略"到"你敢让它刷你的卡"。
+- **来源**：[Facebook reel（The Bobbycast EP. 681 片段）](https://www.facebook.com/reel/1780483082993447/)（据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#购物 #效率
+
+#### 2. Atlas Berry：拖了几年的家装清单，对着手机说几句话，报价+承包商+面谈日程全出来
+- **做了什么**：创作者 Atlas Berry（@atlasberry008，IG 39 万粉，10-05 发帖）：他和妻子拖了几年的家装清单——泳池、后院、高压水枪洗窗户、浴室翻新。他给 Muse 取名 "Apollo"，边在房子周围走边口述需求。Muse 从他的房产经纪人那里搞到详细的成本估算，主动搜索专业承包商、按资质排名并发邮件联系；还查了他的日历和妻子的日程，找出承包商面谈的空档，生成初步日程表。他说 Muse 做到了普通聊天机器人会停下来的地方。
+- **一句话总结**：原来要打几十个电话、约几个周末的家装工程，压缩成"说句话+点个头"。
+- **来源**：[Instagram @atlasberry008](https://www.instagram.com/reel/DeHn_LUOMcP/)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#生活 #效率
+
+#### 3. @genzbestie：自建 "Piggy Bank" 理财 agent，专治年轻人"不会管钱"
+- **做了什么**：年轻创作者 @genzbestie（IG 13 万粉，10-05 发帖，7.8K 赞）：她自述 adulting 最难的是管钱，于是在 Muse 里建了一个定制 agent "Piggy Bank"——连上邮箱、Messenger、Instagram，自动找出订阅、挑出该取消的、跨平台读聊天记录、跟踪品牌合作谈判和到账，还会设付款提醒、告诉她钱都去哪了。她说现在感觉自己"成功 adulting 了"。
+- **一句话总结**：理财建议不缺，缺的是一个天天盯着你账单的"自己人"。
+- **来源**：[Instagram @genzbestie](https://www.instagram.com/reel/DeHXZ4CxapC/)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#省钱 #效率
+
+#### 4. 跑者 Kevin Rudd 第 89 天：Muse 登录 Garmin Connect，训练数据变成每日更新的仪表盘
+- **做了什么**：创作者 Kevin Rudd（@krudd.jr，"100 天运动员 AI 系列"第 89 天，IG，10-05 发帖）：他演示 Muse 用内置浏览器登录自己的 Garmin Connect（他手动输入密码+一次性验证码后加密保存），导出全部训练数据，做成一个山地主题的 "Training Dashboard"：Form 30.5、Fitness CTL 68.8、Fatigue ATL 38.3、静息心率和趋势，为 TCS 纽约马拉松备战，数据每天自动更新。他吐槽 Garmin 不开放训练数据给 Claude/ChatGPT，而 Muse 直接"自己动手登进去拿"。（此前第 85 天的 New Balance 降价哨兵已收录，见 2026-10-01 第 6 期。）
+- **一句话总结**：数据流工作的尽头：手动导 Excel 的时代结束了，授权一次，AI 天天出报告。
+- **来源**：[Instagram @krudd.jr](https://www.instagram.com/reel/DeHbvEbRGgG/)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#生活 #效率
+
+#### 5. @tobeleidycrea：以前 $670 一次的社媒审计，现在用 Muse 复制了整套流程
+- **做了什么**：西语创作者 @tobeleidycrea（IG，10-05 发帖）：她以前给客户做个性化社交媒体审计，收费 $670 一次，却从没给自己做过。这次她用 Muse 把整套审计流程"教"给了 AI——分析账号、识别内容类型和机会点，输出和她以前手动交付的东西一模一样。她说留言 "AUDITORIA" 就免费分享完整方法。
+- **一句话总结**：自由职业者的新算盘：把自己最赚钱的服务，变成可复制的 AI 流程。
+- **来源**：[Instagram @tobeleidycrea](https://www.instagram.com/reel/DeIKzGHsRIM/)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#创作 #效率
+
+#### 6. @andreahor：Muse 变成"每日行业早报"，每天早上 8 点自动推送 IG 趋势
+- **做了什么**：西语创作者 @andreahor（IG，10-05 发帖）：她连上自己的 Instagram 账号，让 Muse 每天早上 8 点自动推送一份 IG 趋势简报——创意、潮流、时尚、美妆、品牌活动、营销策略，内容细到 Paris Fashion Week SS27（Miu Miu、Celine）、Beats by Dre × Kendall Jenner campaign、TikTok Shop 上线、万圣节营销、创作者品牌合作。设置一次，之后每天自动送达，她只负责筛选对自己社区有价值的再加工。
+- **一句话总结**：信息差生意的 agent 版：一次配置，每天早上 8 点准时"上班"。
+- **来源**：[Instagram @andreahor](https://www.instagram.com/reel/DeHwzS7p53g/)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#创作 #效率
+
+#### 7. 粤语玩机党 @dennisngcyeung：把 StackChan 小方块变成会说粤语的 Muse 随身机
+- **做了什么**：Threads 用户 @dennisngcyeung（10-04 发帖，3.8K 赞）：他把开源的 Muse Gadgets SDK 烧进 StackChan（基于 M5Stack CoreS3/ESP32 的小方块机器人），查日程时屏幕显示 LISTENING，用他自己克隆的声音（Gemini 3.8 Flash TTS）粤语播报——"下棋课"几点，全程粤语。这是 Muse Gadgets 10-02 开源后，继 Game Boy 口袋机之后的第二个出圈民间硬件玩法。
+- **一句话总结**：agent 的"身体"正在被民间批量制造：几十块钱的开发板 + 开源 SDK = 随身 Muse。
+- **来源**：[Threads @dennisngcyeung](https://www.threads.com/@dennisngcyeung/post/DeEsOzugNxK)（据平台内容摘要整理）
+- **日期**：2026-10-04
+- **标签**：#代码 #效率
+
+### 媒体实测（记者亲测，供参考）
+
+- **Der SPIEGEL（10-04）**：德国《明镜》宣布已亲测 Muse——回邮件、订餐厅、订旅行，把"被炒得很热"的宣传和实际体验做了对照评估。[链接](https://www.threads.com/@spiegelmagazin/post/DeElA9ImzMQ)（据平台内容摘要整理）
+
+---
+
 ## 2026-10-05（第 10 期）
 
 今日共收录 **5 个用户案例** + **2 组媒体实测** + **1 起争议跟进**。
