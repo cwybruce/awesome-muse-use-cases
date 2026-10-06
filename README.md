@@ -8,6 +8,8 @@
 - 每条案例均附来源链接；官方动态会明确标注
 - 品牌赞助/合作推广内容已过滤
 
+🌐 **在线浏览**：[https://cwybruce.github.io/awesome-muse-use-cases/](https://cwybruce.github.io/awesome-muse-use-cases/)（支持关键词搜索与标签筛选，手机友好）
+
 ## 🎁 邀请
 
 快来看看你的个人 AI 智能体 Muse。在加入后的 48 小时内通过「设置」兑现我的邀请码，我们就能分别获得 10 亿个 Muse 词元。
