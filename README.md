@@ -34,6 +34,88 @@
 
 ---
 
+## 2026-10-07（第 12 期）
+
+今日共收录 **10 个用户案例** + **1 组媒体实测**（补录）。
+
+### 用户案例
+
+#### 1. XR/AI 爱好者 Tarun：每天早上 30 分钟"求职播客"，Muse 登 LinkedIn 扒 5 个新职位
+- **做了什么**：Threads 用户 Tarun（@noise.in.vacuum，10-05 发帖）：他让 Muse 每天早上登录 LinkedIn，找出 5 个与他背景匹配的新发布职位，然后做成一期约 30 分钟的播客——讲招聘市场现状、谁在招人、要求什么技能、薪资水平、面试流程、还有共同联系人。他说现在每天都期待这个晨间节目，已经开始按雇主要求学技能了。
+- **一句话总结**：求职信息流的终点形态：不是列表，是每天早上 30 分钟的"市场简报播客"。
+- **来源**：[Threads @noise.in.vacuum](https://www.threads.com/@noise.in.vacuum/post/DeGFrDYmzCt)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#效率 #学习
+
+#### 2. Joey Lieber：100 小时实测结论——Claude 管技术活，Muse 管"大局+生活"；警告别用 AI 速度碰 Meta 资产
+- **做了什么**：创作者 Joey Lieber 在 AI Workflows FB 群组分享（10-06）：用了 Muse 100 小时后，他把分工定下来了——高度技术性的任务交给 Claude（他的工作 CRM 点将人），Muse 管大局思考和个人助理活。他特别提到 Muse 直接操作 Facebook 资产的能力很关键，但也警告：**必须让它"按人类速度"操作，否则会被 Meta 封号**。
+- **一句话总结**：双 agent 分工的第一手答案：工作是 Claude 的地盘，生活和社交资产是 Muse 的。
+- **来源**：[Facebook 群组帖](https://www.facebook.com/groups/aiworkflowsgroup/permalink/1830294567972711/)（群组帖，非公开主页；据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#效率
+
+#### 3. @stevenforcumjr：让 Muse "Taylor" 给宽带运营商砍价，还附上完整砍价话术
+- **做了什么**：Threads 用户 @stevenforcumjr（10-05 发帖，晒出 5 张对话截图）：他让 Muse "Taylor" 联系他的 ISP（GoNetSpeed）谈降价。Taylor 查到现有客户走不了在线客服，给出了客服电话和一套砍价话术——拿竞争对手 Spectrum 的 $60/月报价做锚。他还追问"为什么周五不用在线聊天""能不能走邮件"，Taylor 逐一作答。
+- **一句话总结**：省钱流 agent 的标准动作：查政策→给电话→写话术→用户只负责打。
+- **来源**：[Threads @stevenforcumjr](https://www.threads.com/@stevenforcumjr/post/DeH3T32GWI2)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#省钱 #效率
+
+#### 4. IG 用户：Vegas 之旅的账单直接丢给 Muse，逐笔问"跟谁分"，自动写进 Splitwise
+- **做了什么**：一位男性 IG 用户（10-05 reel）：他把拉斯维加斯之旅的费用分摊整套外包给 Muse——指令是：读我的银行和信用卡账单，找出这趟旅行的所有交易，逐笔问我该跟谁分，然后直接填进 Splitwise。录屏里 Muse 拉出交易清单：UberXL $27.21、Curb LV 出租车 $17.24、Bar Mia $70.94、Voltaire $595.83……逐项处理。
+- **一句话总结**：朋友 AA 最烦的不是付钱，是"谁欠谁多少"——agent 把对账这部分吃了。
+- **来源**：[Instagram reel](https://www.instagram.com/reel/DeF310RSjVL/)（作者身份未在摘要中披露；据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#生活 #效率
+
+#### 5. @hhhadtak：第一天体验就想"退订"Claude 和 Gemini——邮件/日程/todo 语音搞定
+- **做了什么**：Threads 用户 @hhhadtak（10-06 发帖）：他之前一直付费订阅 Claude（做深度研究和学习）和 Gemini（日常问答），还给 Claude 写了不少自定义 skill 接日历和提醒。用 Muse 第一天的结论：语音下达指令，邮件管理、日程和待办管理、信息搜索几件事就办完了——"以前要折腾半天搭 skill 的事，现在一句话就行"。
+- **一句话总结**：agent 迁移的第一驱动力：不是更强，是"不用折腾"。
+- **来源**：[Threads @hhhadtak](https://www.threads.com/@hhhadtak/post/DeIuC6-EddA)（据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#效率 #生活
+
+#### 6. @henrylin_0917：求职流水线 + 贵东西全网比价，两件事一起办
+- **做了什么**：Threads 用户 @henrylin_0917（10-06 发帖）：他用 Muse 主要办两件事——① 求职：找空缺职位、查公司背景、改简历、准备面试；他说虽然投递速度比手动慢，但自动化省出的时间能干别的；② 网购比价：买贵的东西（比如电脑）时，让它找同款或更高配置、在各网站比价格。
+- **一句话总结**：agent 的两种基本功：替你"跑腿查资料"，替你"比价防被坑"。
+- **来源**：[Threads @henrylin_0917](https://www.threads.com/@henrylin_0917/post/DeIyo-Jjk65)（据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#效率 #省钱
+
+#### 7. 自由职业者 Chrissy：对接约 11 个品牌，日/周/月报 + 内容日历全托管给 Muse
+- **做了什么**：Threads 用户 Chrissy（@legacywithoutkids，10-06 发帖）：她是自由职业者，同时对接约 11 个品牌。她用 Muse 跟踪海量信息、输出日/周/月三级报告，整个内容日历的规划都交给它，"省下大量时间"。
+- **一句话总结**：创作者接单量的天花板，往往是行政琐事的天花板——这部分正在被 agent 吃掉。
+- **来源**：[Threads @legacywithoutkids](https://www.threads.com/@legacywithoutkids/post/DeKaoOvlE4o)（据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#创作 #效率
+
+#### 8. Marshall Wayne：给刚退休的母亲装了个 Muse，"电脑杂活"从此有人接
+- **做了什么**：创作者 Marshall Wayne（@stopmar，10-06 FB 发帖）：他帮刚退休的母亲搭了她自己的个人 AI 助手 Muse。母亲已经列出一堆想让它管的事，他说很期待这项技术把日常电脑杂活从人的生活里拿走——"让人去做更像人的事"。
+- **一句话总结**：agent 最有温度的一条赛道：给父母装一个"永远不会嫌你烦"的电脑管家。
+- **来源**：[Facebook @stopmar](https://www.facebook.com/stopmar/posts/pfbid02Xeb1vxZUh9aCxL28mizQDBDVgWvTk9VAfoHSsrj7u5AKNMLdGo3CPgH6CkQxrCnGl)（据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#生活 #效率
+
+#### 9. IG 创作者：品牌合作邮件 + DM 淹没，Muse "Juno" 学会了她的谈判口吻
+- **做了什么**：一位女性创作者（10-06 IG reel）：她被邮箱和 IG DM 里涌来的品牌合作请求淹没了——读消息、谈价格、想内容、盯排期、催款，全是手工活。她把 IG 和 Gmail 接进 Muse，助手取名 "Juno"：Juno 分析了她过去的邮件，学会了她的谈判节奏和口吻。
+- **一句话总结**：创作者接单的"商务部"，正在从人变成 agent。
+- **来源**：[Instagram reel](https://www.instagram.com/reel/DeJwxJsPXH0/)（作者身份未在摘要中披露；据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#创作 #效率
+
+#### 10. @shiningspirit9：把购物习惯喂给 Muse，到店自动提醒，直接删了购物清单 App
+- **做了什么**：Threads 用户 @shiningspirit9（10-05 发帖，6.4K 粉）：他把自己常逛的商场和超市、每家通常买什么、想买什么，都配置进 Muse，要它在到店时提醒购买。配置完之后，他直接删掉了一个用了很久的购物清单 App。
+- **一句话总结**：agent 取代 App 的样子：不是做个更好的清单，是"到地方了，它主动喊你"。
+- **来源**：[Threads @shiningspirit9](https://www.threads.com/@shiningspirit9/post/DeF86yYGjd7)（据平台内容摘要整理）
+- **日期**：2026-10-05
+- **标签**：#生活 #效率
+
+### 媒体实测（记者亲测，供参考）
+
+- **Unwire.hk（10-02，香港科技媒体，繁体，补录）**：记者实测 Muse 跨平台操作——在手机 WhatsApp 里连上电脑端 Muse 后，直接语音下指令："帮我在电脑桌面上找一张人像相片，发给我"——Muse 用视觉能力在桌面照片里"认"出目标，通过 WhatsApp 传回，全程不用记文件名；还让它每天 20:00 把 Unwire 的 IG/YouTube 更新整理成"报纸"PDF 发到 WhatsApp；另测了"成田机场到新宿最快路线"，Muse 用内置浏览器逐条路线模拟人手查 Google 地图。报道同时提醒：银行这类敏感操作极不推荐。[链接](https://unwire.hk/2026/10/02/meta-muse/ai/)（据搜索摘要整理）
+
+---
+
 ## 2026-10-06（第 11 期）
 
 今日共收录 **7 个用户案例** + **1 组媒体实测**。
