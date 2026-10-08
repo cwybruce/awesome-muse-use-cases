@@ -34,6 +34,61 @@
 
 ---
 
+## 2026-10-08（第 13 期）
+
+今日共收录 **6 个用户案例** + **2 条官方动态**。
+
+### 用户案例
+
+#### 1. @srirams_chronicles：用 Muse 一个多月——每天股市观察名单 + 上传车险单全网比价
+- **做了什么**：IG 用户 Sriram Arumelli（@srirams_chronicles，10 万粉，10-07 reel，声明"非付费推广"）：用了 Muse 一个多月，印象最深的两件事——① 每天在聊天里收股市观察名单和买卖触发信号（晒出 "Buddy" 发来的 SMCI、AMKR、IREN 等 ticker，带目标价/止损和"非投资建议"声明）；② 上传自己的车险保单，让 Muse 研究加州各家费率、逐项对比，最后确认他现在的保单已经是最划算的。
+- **一句话总结**：agent 的"长期陪伴"价值：每天准时递情报 + 关键时刻替你做一轮尽调。
+- **来源**：[Instagram @srirams_chronicles](https://www.instagram.com/reel/DeLTJrTghgN/)（据平台内容摘要整理）
+- **日期**：2026-10-07
+- **标签**：#省钱 #效率
+
+#### 2. @krystalohh：美甲店+酸奶店一人扛，给 Muse 换上自家狗 "Coco" 的脸，凌晨两点还在替她干活
+- **做了什么**：创业者 Krystal Oh（@krystalohh，15 万粉，10-07 reel）：一人同时经营美甲店和酸奶店，以前花几千美元请真人助理都不懂行。她把 Muse 自定义成自家狗 Coco 的样子——凌晨两点也能问它问题；起草退款邮件、记住开会事项、管支出、给员工办入职、排日程，全在一个界面里搞定。"终于有人替我兜底了。"
+- **一句话总结**："AI 员工"的人设正在具象化：先给它一张熟脸，再把杂活全交出去。
+- **来源**：[Instagram @krystalohh](https://www.instagram.com/reel/DeNe8K7RD5o/)（据平台内容摘要整理；视频带明显推广口吻，仅供参考）
+- **日期**：2026-10-07
+- **标签**：#生活 #效率
+
+#### 3. @atareh：退两双鞋只说了一句话——"hey Muse, I want to return these shoes"
+- **做了什么**：IG 用户 @atareh（10-06 reel）：早上散步时对着手机说一句想退掉 ASICS 和 Birkenstock 两双鞋，Muse 自己找到订单邮件、搞清退货流程、约好快递上门取件。以前要复制订单号、翻网站，5–10 分钟；现在一两条语音搞定。"这不是什么革命性技术，但这是 Siri 在 2010 年承诺过的体验，终于有人兑现了。"
+- **一句话总结**：agent 的及格线：把 5 分钟的网页杂活压缩成一句话。
+- **来源**：[Instagram @atareh](https://www.instagram.com/reel/DeKF7U4j6N7/)（据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#生活 #效率
+
+#### 4. @curiosity___ashes：三个 agent 各管一摊——Muse 订机票+管日程，Hermes 管工作，Dot 管语音复盘
+- **做了什么**：Threads 用户 @curiosity___ashes（10-06 发帖）：他同时用三个 agent 分工——Muse 免费版管订机票和日程提醒这类日常杂活；Hermes 管工作和 freelance 的多角色任务拆分；ChatGPT 的 Dot（语音）管设备端执行和"把混乱的想法聊清楚"，像项目经理。评论区有人附和：Muse 的界面做日常任务最顺手，已经把原来在 Hermes 里的一些流程挪了过来。
+- **一句话总结**：多 agent 时代的第一批"分工表"出现了：Muse 负责生活基本盘。
+- **来源**：[Threads @curiosity___ashes](https://www.threads.com/@curiosity___ashes/post/DeJqvcsmR3_)（据平台内容摘要整理）
+- **日期**：2026-10-06
+- **标签**：#效率
+
+#### 5. @theotsang520：三个让 Muse 好用 10 倍的提问习惯
+- **做了什么**：创作者 Neo Tsang（@theotsang520，10-06 Threads 发帖）：分享三条实战经验——① 先给上下文再提问（要餐厅推荐就附上城市/人数/预算/忌口）；② 先定输出格式（"给我 5 条列表/一张表"），省掉来回修改；③ 周期性任务写清时间和规则，让它自动跑。结论：把 Muse 当"靠谱同事"看，指令越清楚结果越好。
+- **一句话总结**：用 agent 的第一课不是学技巧，是学会"像给同事派活一样"说话。
+- **来源**：[Threads @theotsang520](https://www.threads.com/@theotsang520/post/DeIj_tAjy0u)（据平台内容摘要整理；文末附作者邀请码）
+- **日期**：2026-10-06
+- **标签**：#效率 #学习
+
+#### 6. @techtiff.ai：让 Muse 接管"行政运营"——查订单、跟进、记笔记、付款
+- **做了什么**：创业者 Tiffany Kyazze（@techtiff.ai，10-07 Threads 发帖）：她把 Muse 定位成"行政运营岗"——接上已有工具后，让它查订单、做跟进、记笔记、处理付款，"不止出主意，要动手干活"。评论区她补充：重点是把已经在用的工具连进去，让 AI 去清积压的待办。
+- **一句话总结**：小团队的第一个"员工"可能不是人，是一个连上全套工具的 agent。
+- **来源**：[Threads @techtiff.ai](https://www.threads.com/@techtiff.ai/post/DeMrlPzG5py)（据平台内容摘要整理）
+- **日期**：2026-10-07
+- **标签**：#效率 #创作
+
+### 官方动态
+
+- **【官方】Naomi Gleit（Meta 产品负责人，10-07 Threads）**：宣布 Meta 联合 Sierra、Walmart、Stripe、Rocket 等公司制定 **Personal Agent Protocol**——一套"个人 AI agent 代表用户与商家打交道"的开放行业标准；典型场景：补货、约时间、处理客服问题。Meta 双线并进：Muse 面向消费者，Meta Business Agent 面向商家。评论区技术讨论焦点：agent 重试导致重复下单是最大故障模式，协议层需要幂等键和结构化回执。[链接](https://www.threads.com/@naomigleit/post/DeNP_54kp4M)（据平台内容摘要整理）
+- **【官方】Muse 登陆 iPad + 10-07 应用更新打包小企业工作流**：官方 Threads 账号 @muse 宣布 Muse 上线 iPad（"手机嫌小、电脑嫌远的时候"）；Superpower Daily 报道 10-07 应用更新同时打包了小企业工作流——找客户、做营销计划、搭产品页，用户批准后执行。[链接](https://www.threads.com/@muse/post/DeNQEV0kidr)；[报道链接](https://superpowerdaily.com/posts/meta-brings-muse-ai-agent-to-ipad-with-small-business-workflows)（据搜索摘要整理）
+
+---
+
 ## 2026-10-07（第 12 期）
 
 今日共收录 **10 个用户案例** + **1 组媒体实测**（补录）。
