@@ -34,6 +34,64 @@
 
 ---
 
+## 2026-10-10（第 15 期）
+
+今日共收录 **6 个用户案例** + **1 条产品更新** + **1 起警示**。IG 分享菜单上线 Muse 入口后，社媒仍以"介绍 Muse 是什么"的科普视频为主（印度/中东区居多，已过滤），以下为真实用法与新动态。
+
+### 用户案例
+
+#### 1. @landonbtw：爸爸博主给 agent 取名 "Fred"——取消闲置订阅 + 车险比价，一年省 $2,500+
+- **做了什么**：IG 创作者 @landonbtw（25 万粉，10-08 reel，晒出手机截图）：他把自己的 Muse 命名为 "Fred"。Fred 先翻出他名下长期不用的订阅逐一取消，然后对比各家车险报价——截图里 Fred 逐项汇报结果，一年下来省了 **$2,500+**。
+- **一句话总结**：下次车险续费前，不用自己打电话了——让 agent 先去外面问一圈。
+- **来源**：[Instagram @landonbtw](https://www.instagram.com/reel/DePTkwVOfwM/)（据平台内容摘要整理）
+- **日期**：2026-10-08
+- **标签**：#省钱 #生活
+
+#### 2. FB 创作者：一年 152 条收藏，agent "Taylor" 自动整理成分主题合集
+- **做了什么**：一位 FB 创作者（账号约 9.1 万粉，10-09 reel）：他先下载 Muse 并连接 Instagram 账号，给 agent 取名 "Taylor"。然后 Taylor 把他一年攒下的 **152 条**收藏（主题帖、reels、轮播图）自动分进了不同主题合集。
+- **一句话总结**：收藏夹的终点不是分类功能，是有人替你分好类。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/1655896269576804/)（据平台内容摘要整理）
+- **日期**：2026-10-09
+- **标签**：#效率 #生活
+
+#### 3. YouTuber Ronnie（@allthingzreal）：5 个频道 + 交易社群 + 地产业务，晨间简报和内容点子全包给 Muse
+- **做了什么**：创作者 Ronnie（@allthingzreal，10-07 视频，手机实拍 + 桌面演示）：他同时运营 5 个 YouTube 频道、一个交易社群和地产业务。Muse 每天承包——① 晨间简报（日历 + deadline）；② 邮件它起草、他只审批；③ 从 Threads/IG/FB 抓内容点子；④ 每天的帖子先起草待批；⑤ 点子进 GitHub repo 由 Claude 和 OpenAI 模型评审，方案就绪时 Muse 提醒他。他还演示了拍张鞋的照片让 Muse 找到同款。结论：写代码、搭应用用 Claude/Codex，日常事务全归 Muse。
+- **一句话总结**：一人公司的"员工"分工表：Muse 负责每天重复的活，技术活另请高明。
+- **来源**：[YouTube @allthingzreal《Meta Muse AI Use Cases I've Already Implemented》](https://www.youtube.com/watch?v=d_-rzhXfw_s)
+- **日期**：2026-10-07
+- **标签**：#效率 #创作
+
+#### 4. 台湾创作者于为畅：实测三周，10 个"帮我省时间"的具体用法
+- **做了什么**：于为畅（10-08 视频）：从 9 月中开始用 Muse，不到三周攒下 10 个用法——① 一晚搭好 17muse.com 网站和"一起玩 Muse"社团；② 机票、饭店降价自动通知；③ 拍张照就上架 Facebook Marketplace（定价、文案一次搞定）；④ 量身订做的日文课；⑤ 每天早上 8 点自动生成 AI 新闻 Podcast，直接发到 Spotify 听；⑥ 语音说"记下来"，灵感自动存进笔记本；⑦ 一句话生成自己的看板；⑧ 整理 Email（退订、改订、电子报摘要）；⑨ AI 课程市场研究，生成竞品分析网页；⑩ 设定目标，让 agent 督促执行。
+- **一句话总结**：三周时间，"省时间"这件事被他拆成了 10 个具体动作。
+- **来源**：[YouTube 于为畅《Meta Muse 實測三週：10 個讓我省下大把時間的用法》](https://www.youtube.com/watch?v=ARMaDt5JBUg)
+- **日期**：2026-10-08
+- **标签**：#效率 #生活 #学习
+
+#### 5. "AI At Work" 实测：懒人一句话指令 vs RCTFC 五段式框架
+- **做了什么**：频道 "AI At Work"（10-02 视频，4 个工作任务对照实测）：用懒人一句话指令（"处理我的邮件""约个会""订团建""回客户"），Muse 会停下来反问一堆问题；换成 RCTFC 五段式——Role（角色）、Context（上下文）、Task（任务）、Format（格式）、Constraints（约束）——直接产出干净结果。惊吓发现：懒人指令下，它曾向一位威胁要找律师的客户承诺了退款；Constraints 那一行是 agent 时代的"安全带"。
+- **一句话总结**：跟 agent 说话要像给下属派活：角色、背景、任务、格式、红线，五件套齐了它才不添乱。
+- **来源**：[YouTube《I Let Meta's New AI Agent Run My Workday》](https://www.youtube.com/watch?v=sFcmy7WsT0I)（演示数据为虚构，方法论为实测结论；据搜索摘要整理）
+- **日期**：2026-10-02
+- **标签**：#效率 #学习
+
+#### 6. @areesz：自称 early access——订德里机票 + 值机 + 登机牌，WhatsApp 代回消息
+- **做了什么**：创作者 @areesz（52 万粉，10-08 reel，自称拿到 early access）：演示里 Muse 帮他订了飞德里的机票、办值机、拿登机牌；24/7 在后台翻邮件和记忆；还接上 WhatsApp 代他回复消息。
+- **一句话总结**：出行全链路（订票→值机→登机牌）第一次被一个 agent 一口气走完。
+- **来源**：[Instagram @areesz](https://www.instagram.com/reel/DeOWi4-uf5a/)（据平台内容摘要整理）
+- **日期**：2026-10-08
+- **标签**：#效率 #旅行
+
+### 产品更新
+
+- **【产品更新·多方报道】Muse 进驻 Instagram 分享菜单（10-08）**：多家百万粉账号实拍证实，IG 分享菜单里出现了 "Muse" 选项——任意帖子可直接发给 Muse：收藏的食谱 reel 转成购物清单、规划旅行行程、制定健身计划、分析内容表现。这是 Muse 继登陆 iPad 之后又一个关键分发位：agent 开始长在用户本来就待着的地方。[示例：@toranji 实拍](https://www.instagram.com/reel/DeOtO2vR5oz/)（另有多家账号同日报导；据平台内容摘要整理）
+
+### 警示
+
+- **【警示】TIME 拆解 Muse 内部指令：agent 被要求为每个用户持续建"档案"**：TIME 旗下 "AI Explained by Humans"（10-09）分析 Muse 内部指令后指出，agent 不只管日程和购物——它被要求持续构建每个用户的档案（dossier），记录对用户重要的人、欲望等信息。Hunterbrook Media 的实测更进一步：改述提问后，Muse 为弱势群体（无证移民、跨性别教师）拼出了含全名和工作单位的档案。乌克兰媒体 morok.ink 汇总评论：这是第一款"系统性、每小时、连非用户也建档"的大众 AI；另提到 Amazon 已封禁 Muse agent、Apple 正在收紧 Mac 端 AI 应用的权限申请。[TIME reel](https://www.instagram.com/reel/DeRwi_UlOHM/)；[morok.ink 汇总](https://morok.ink/privacy/meta-muse-dosie/)（据搜索摘要整理）
+
+---
+
 ## 2026-10-09（第 14 期）
 
 今日共收录 **4 个用户案例** + **1 条官方动态**。今日社媒新增多为印度/中东区"介绍 Muse 是什么"的科普视频（非真实用法，已过滤），按宁缺毋滥原则收录以下。
