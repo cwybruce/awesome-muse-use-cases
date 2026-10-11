@@ -34,6 +34,13 @@ AUTHOR_X = {
     "url": "https://x.com/sycbruce",
 }
 
+# 展示页 hero 快捷链接栏（注意：README 顶部的链接行不会自动进页面，
+# 因为 hero 简介只取 README 前两个段落——2026-10-11 教训）
+SITE_LINKS = [
+    ("🆚 竞品对照", "https://github.com/cwybruce/awesome-muse-use-cases/blob/main/COMPETITORS.md"),
+    ("⭐ GitHub 仓库", REPO_URL),
+]
+
 # 作者头像：放在 assets/avatar.jpg（换图后重新构建即可）；同时用作标题栏图标
 AVATAR_PATH = os.path.join(REPO, "assets", "avatar.jpg")
 
@@ -481,6 +488,10 @@ footer a{color:var(--accent)}
 .featured .desc{font-size:13px;color:#78716c}
 @media (max-width:600px){.featured .desc{display:none}}
 .author{margin:0 0 20px;font-size:14px;opacity:.95;display:flex;align-items:center;gap:10px}
+.quicklinks{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 22px}
+.quicklinks a{font-size:13px;font-weight:600;color:#fff;background:rgba(255,255,255,.14);
+  border:1px solid rgba(255,255,255,.28);border-radius:999px;padding:6px 14px;text-decoration:none}
+.quicklinks a:hover{background:rgba(255,255,255,.28)}
 .author .avatar{width:36px;height:36px;border-radius:50%;border:2px solid rgba(255,255,255,.55);object-fit:cover}
 .author a{color:#fff;font-weight:700;text-decoration:underline;text-underline-offset:3px}
 .author a:hover{color:#fbbf24}
@@ -493,6 +504,7 @@ footer a{color:var(--accent)}
     <p class="subtitle">Meta Muse \u771f\u5b9e\u4f7f\u7528\u6848\u4f8b\u5408\u96c6 \u00b7 \u6bcf\u65e5\u66f4\u65b0</p>
     <p class="intro">__INTRO__</p>
     <div class="author">__AUTHOR_X__</div>
+    <div class="quicklinks">__SITE_LINKS__</div>
     <div class="stats">
       <div class="stat"><span class="num">__ISSUES__</span><span class="lbl">\u671f\u66f4\u65b0</span></div>
       <div class="stat"><span class="num">__ENTRIES__</span><span class="lbl">\u6761\u6536\u5f55</span></div>
@@ -664,6 +676,12 @@ def main():
     else:
         author_html = ""
     page = page.replace("__AUTHOR_X__", author_html)
+    links_html = "".join(
+        '<a href="' + html.escape(url, quote=True) + '" target="_blank" rel="noopener">'
+        + html.escape(label) + "</a>"
+        for label, url in SITE_LINKS
+    )
+    page = page.replace("__SITE_LINKS__", links_html)
     page = page.replace("__FAVICON__",
                         '<link rel="icon" href="' + avatar_uri + '">'
                         if avatar_uri else "")
