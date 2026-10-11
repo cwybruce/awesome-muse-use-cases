@@ -10,6 +10,8 @@
 
 🌐 **在线浏览**：[https://cwybruce.github.io/awesome-muse-use-cases/](https://cwybruce.github.io/awesome-muse-use-cases/)（支持关键词搜索与标签筛选，手机友好）
 
+🆚 **竞品对照**：[COMPETITORS.md](./COMPETITORS.md)（Eazo / Hark / Cue / Dots / Grok Bot / Today 逐项对比 + 测评打分，2026-10-11 更新）
+
 ## 🎁 邀请
 
 快来看看你的个人 AI 智能体 Muse。在加入后的 48 小时内通过「设置」兑现我的邀请码，我们就能分别获得 10 亿个 Muse 词元。
