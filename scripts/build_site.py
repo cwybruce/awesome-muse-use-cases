@@ -37,7 +37,7 @@ AUTHOR_X = {
 # 展示页 hero 快捷链接栏（注意：README 顶部的链接行不会自动进页面，
 # 因为 hero 简介只取 README 前两个段落——2026-10-11 教训）
 SITE_LINKS = [
-    ("🆚 竞品对照", "https://github.com/cwybruce/awesome-muse-use-cases/blob/main/COMPETITORS.md"),
+    ("🆚 竞品对照", "./competitors.html"),
     ("⭐ GitHub 仓库", REPO_URL),
 ]
 
@@ -615,6 +615,255 @@ document.querySelectorAll(".pill").forEach(function(p){
 """
 
 
+# ---------------------------------------------------------------- competitors page
+
+COMPETITORS_JSON = os.path.join(REPO, "competitors.json")
+COMPETITORS_OUT = os.path.join(REPO, "competitors.html")
+
+COMPETITORS_TEMPLATE = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Personal Agent 竞品对照 · Awesome Muse Use Cases</title>
+__FAVICON__
+<meta name="description" content="7 款 Personal Agent 产品 × 8 大维度逐项对比 + 测评打分">
+<style>
+:root{
+  --bg:#f6f7fb; --card:#ffffff; --text:#1e2433; --muted:#6b7280;
+  --line:#e8eaf1; --accent:#4f46e5; --accent-soft:#eef0ff;
+  --radius:14px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.hero{background:linear-gradient(135deg,#312e81 0%,#4f46e5 55%,#7c3aed 100%);color:#fff;padding:48px 20px 40px}
+.hero-inner{max-width:960px;margin:0 auto}
+.back{display:inline-block;margin-bottom:16px;font-size:14px;color:#fff;opacity:.9;font-weight:600}
+.back:hover{opacity:1}
+.hero h1{margin:0 0 8px;font-size:clamp(26px,5vw,38px)}
+.hero .subtitle{margin:0 0 10px;font-size:16px;opacity:.92}
+.hero .meta{margin:0;max-width:720px;font-size:13.5px;opacity:.78}
+.sec{max-width:960px;margin:0 auto;padding:34px 20px 4px}
+.sec h2{font-size:22px;margin:0 0 6px}
+.sec .sub{color:var(--muted);font-size:14px;margin:0 0 18px}
+.rank{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px;display:flex;gap:16px;margin-bottom:12px;align-items:flex-start}
+.rank-medal{font-size:26px;flex:none;width:44px;text-align:center;font-weight:800;color:var(--muted)}
+.rank-main{flex:1;min-width:0}
+.rank-head{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.rank-name{font-size:18px;font-weight:800}
+.cbadge{font-size:11px;font-weight:700;background:var(--accent-soft);color:var(--accent);
+  padding:2px 10px;border-radius:999px}
+.rank-co{font-size:13px;color:var(--muted)}
+.rank-tag{font-size:14px;color:#374151;margin:6px 0 2px}
+.scorebar{height:8px;background:var(--line);border-radius:999px;margin:10px 0;overflow:hidden}
+.scorebar .fill{height:100%;background:linear-gradient(90deg,#4f46e5,#7c3aed);border-radius:999px}
+.rank-verdict{font-size:13.5px;color:var(--muted)}
+.rank-side{flex:none;text-align:center;min-width:70px}
+.avg{font-size:34px;font-weight:800;color:var(--accent)}
+.unrated-big{font-size:14px;font-weight:700;color:var(--muted);background:#f3f4f6;
+  padding:8px 12px;border-radius:8px;white-space:nowrap}
+.done{display:block;font-size:12px;color:var(--muted);margin-top:8px}
+.dim{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px;margin-bottom:14px}
+.dim-head{margin-bottom:8px}
+.dim-name{font-size:17px;font-weight:800}
+.dim-desc{font-size:13px;color:var(--muted);margin-left:8px}
+.dim-row{display:flex;align-items:center;gap:12px;padding:8px 0;
+  border-top:1px dashed var(--line);font-size:14px}
+.pname{flex:none;width:88px;font-weight:600}
+.pnum{margin-left:auto;font-weight:800;color:var(--accent);font-size:15px;flex:none}
+.dots{display:inline-flex;gap:4px}
+.dots i{width:11px;height:11px;border-radius:50%;background:var(--line)}
+.dots i.on{background:var(--accent)}
+.unrated{font-size:13px;color:var(--muted)}
+.insights{list-style:none;padding:0;margin:0;display:grid;gap:10px}
+.insights li{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);
+  border-radius:10px;padding:12px 16px;font-size:14.5px}
+.picks{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.pick{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:16px}
+.pick .who{font-weight:800;font-size:15px;margin-bottom:6px}
+.pick .what{font-size:14px;color:#374151}
+.method{background:#fffbeb;border:1px solid #fde68a;border-radius:var(--radius);
+  padding:16px 18px;font-size:14px;color:#57534e}
+.sources{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px}
+.sources a{font-size:13px;background:var(--accent-soft);color:var(--accent);
+  padding:6px 14px;border-radius:999px;font-weight:600}
+.sources a:hover{background:var(--accent);color:#fff;text-decoration:none}
+footer{border-top:1px solid var(--line);margin-top:30px;padding:26px 20px 40px;
+  color:var(--muted);font-size:13px;text-align:center;line-height:2}
+footer a{color:var(--accent)}
+@media (max-width:600px){
+  .hero{padding:36px 16px 30px}
+  .rank{flex-direction:column;gap:10px}
+  .rank-medal{width:auto;text-align:left}
+  .rank-side{text-align:left;display:flex;align-items:baseline;gap:12px}
+  .done{margin:0}
+  .pname{width:78px}
+  .dim-desc{display:block;margin:4px 0 0}
+}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <a class="back" href="./index.html">← 返回案例合集</a>
+    <h1>🆚 Personal Agent 竞品对照</h1>
+    <p class="subtitle">7 款产品 × 8 大维度 · 逐项对比 + 测评打分</p>
+    <p class="meta">__HERO_META__</p>
+  </div>
+</header>
+
+<div class="sec">
+  <h2>🏆 总分榜</h2>
+  <p class="sub">按已评维度平均分排序（5 分制）· “—”为信息不足，未计入</p>
+  __RANKS__
+</div>
+
+<div class="sec">
+  <h2>📊 逐项对照</h2>
+  <p class="sub">每个维度内按得分从高到低排列 · ● = 得分</p>
+  __DIMS__
+</div>
+
+<div class="sec">
+  <h2>💡 分项解读</h2>
+  <p class="sub">跨产品看出的关键差异</p>
+  <ul class="insights">__INSIGHTS__</ul>
+</div>
+
+<div class="sec">
+  <h2>🎯 选购建议</h2>
+  <p class="sub">按人群对号入座</p>
+  <div class="picks">__PICKS__</div>
+</div>
+
+<div class="sec">
+  <h2>⚖️ 方法与局限</h2>
+  <p class="sub">先看这个，再看分数</p>
+  <div class="method">__METHOD__</div>
+</div>
+
+<div class="sec">
+  <h2>🔗 核心来源</h2>
+  <p class="sub">每产品一条关键链接</p>
+  <ul class="sources">__SOURCES__</ul>
+</div>
+
+<footer>
+  数据来源：本仓库 <a href="https://github.com/cwybruce/awesome-muse-use-cases/blob/main/COMPETITORS.md">COMPETITORS.md</a>
+  · 本页面由 <code>scripts/build_site.py</code> 自动生成<br>
+  最后更新：__BUILD_TIME__ · commit <code>__COMMIT__</code><br>
+  整理：<a href="https://x.com/sycbruce" target="_blank" rel="noopener">@sycbruce</a>
+</footer>
+</body>
+</html>
+"""
+
+
+def _score_dots(n):
+    if n is None:
+        return '<span class="unrated">— 未核实</span>'
+    return '<span class="dots">' + "".join(
+        '<i class="on"></i>' if i < n else '<i></i>' for i in range(5)) + "</span>"
+
+
+def build_competitors_page():
+    import json
+    with open(COMPETITORS_JSON, encoding="utf-8") as f:
+        d = json.load(f)
+    products = d["products"]
+    dims = d["dimensions"]
+    E = html.escape
+
+    # 1. 总分榜
+    ranks = []
+    for i, p in enumerate(products):
+        medal = {0: "🥇", 1: "🥈", 2: "🥉"}.get(i, str(i + 1))
+        badge = ('<span class="cbadge">' + E(p["badge"]) + "</span>") if p.get("badge") else ""
+        if p["avg"] is None:
+            side = '<span class="unrated-big">未评级</span><span class="done">信息 0/8</span>'
+            bar = ""
+        else:
+            side = ('<span class="avg">%.1f</span>'
+                    '<span class="done">信息 %d/8</span>') % (p["avg"], p["done"])
+            bar = ('<div class="scorebar"><div class="fill" style="width:%.0f%%">'
+                   "</div></div>") % (p["avg"] / 5 * 100)
+        ranks.append(
+            '<div class="rank">'
+            '<div class="rank-medal">' + medal + "</div>"
+            '<div class="rank-main">'
+            '<div class="rank-head"><span class="rank-name">' + E(p["name"]) + "</span>"
+            + badge + '<span class="rank-co">' + E(p["company"]) + "</span></div>"
+            '<div class="rank-tag">' + E(p["tagline"]) + "</div>"
+            + bar +
+            '<div class="rank-verdict">' + E(p["verdict"]) + "</div>"
+            "</div>"
+            '<div class="rank-side">' + side + "</div>"
+            "</div>"
+        )
+
+    # 2. 逐项对照
+    dim_blocks = []
+    for di, dim in enumerate(dims):
+        rows = sorted(products,
+                      key=lambda p: (p["scores"][di] is None, -(p["scores"][di] or 0)))
+        row_html = []
+        for p in rows:
+            s = p["scores"][di]
+            num = ('<span class="pnum">%d</span>' % s) if s is not None else ""
+            row_html.append(
+                '<div class="dim-row"><span class="pname">' + E(p["name"]) + "</span>"
+                + _score_dots(s) + num + "</div>"
+            )
+        dim_blocks.append(
+            '<div class="dim"><div class="dim-head"><span class="dim-name">%d. %s</span>'
+            '<span class="dim-desc">%s</span></div>%s</div>'
+            % (di + 1, E(dim["name"]), E(dim["desc"]), "".join(row_html))
+        )
+
+    # 3/4/5/6. 解读 / 选购 / 方法 / 来源
+    insights = "".join("<li>" + E(t) + "</li>" for t in d["insights"])
+    picks = "".join(
+        '<div class="pick"><div class="who">' + E(x["who"]) + "</div>"
+        '<div class="what">' + E(x["what"]) + "</div></div>"
+        for x in d["picks"]
+    )
+    sources = "".join(
+        '<li><a href="' + E(s["url"], quote=True) + '" target="_blank" rel="noopener">'
+        + E(s["label"]) + "</a></li>"
+        for s in d["sources"]
+    )
+
+    cst = timezone(timedelta(hours=8))
+    build_time = datetime.now(cst).strftime("%Y-%m-%d %H:%M CST")
+    avatar_uri = avatar_data_uri()
+
+    page = COMPETITORS_TEMPLATE
+    page = page.replace("__HERO_META__",
+                        "更新 " + E(d["updated"]) + " · 对照基准：Meta Muse"
+                        " · 证据分三档：已验证 / 官方宣称 / 未核实")
+    page = page.replace("__RANKS__", "".join(ranks))
+    page = page.replace("__DIMS__", "".join(dim_blocks))
+    page = page.replace("__INSIGHTS__", insights)
+    page = page.replace("__PICKS__", picks)
+    page = page.replace("__METHOD__", E(d["method"]))
+    page = page.replace("__SOURCES__", sources)
+    page = page.replace("__FAVICON__",
+                        '<link rel="icon" href="' + avatar_uri + '">'
+                        if avatar_uri else "")
+    page = page.replace("__BUILD_TIME__", build_time)
+    page = page.replace("__COMMIT__", git_commit_hash())
+
+    with open(COMPETITORS_OUT, "w", encoding="utf-8") as f:
+        f.write(page)
+    print("OK: competitors -> %s" % COMPETITORS_OUT)
+
+
 def git_commit_hash():
     try:
         out = subprocess.run(
@@ -694,6 +943,8 @@ def main():
 
     print("OK: %d 期, %d 条目, %d 标签 -> %s"
           % (len(data["sections"]), data["total"], len(data["all_tags"]), OUT_PATH))
+
+    build_competitors_page()
 
 
 if __name__ == "__main__":
