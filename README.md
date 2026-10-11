@@ -34,6 +34,44 @@
 
 ---
 
+## 2026-10-11（第 16 期）
+
+今日共收录 **2 个用户案例** + **3 组媒体观察** + **1 条官方动态** + **1 起警示**。社媒新增仍以印度/中东区"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤），Peter Yang 的 $800 账单谈判视频已在第 1 期收录为往期回顾（不重复收录），以下按宁缺毋滥收录。
+
+### 用户案例
+
+#### 1. @ekate.lee：一周实测 8 项代办——两笔拖延退款 $1,000 追回、订阅费砍 $200，顺手承认在币圈 App 里亏了 $200
+- **做了什么**：Threads 用户 @ekate.lee（10-09 发帖）：用 Muse 跑了一周，列出 8 件它替她办的事——按她的粗糙想法起草并发布社媒内容；连上 Kling 和 Higgsfield 修图剪视频；邮件整理打标签；清理 LinkedIn DM（回消息 + 加联系人）；给自家产品 Networkio 接了客服 chatbot；处理了两笔她一直拖着没办的退款、合计 **$1,000**；订阅费砍掉 **$200**；重要会议和事项提醒。她在评论区自曝翻车：曾让 Muse 连币圈 App Fomo，$300 亏剩 $100，当场叫停实验；也回答了价格问题——$20/月档够用。她把 Muse 称为"十年最好的 Meta 产品"。
+- **一句话总结**：敢晒翻车的人的晒单才值得信：$1,000 退款是真的，$200 亏损也是真的。
+- **来源**：[Threads @ekate.lee](https://www.threads.com/@ekate.lee/post/DeR4okrm9Lb)（据平台内容摘要整理）
+- **日期**：2026-10-09
+- **标签**：#效率 #省钱 #创作
+
+#### 2. YouTube 重度用户（助手取名 "Q"）：26 个已落地用法——每月财务报表从几小时压到 15 分钟，Sentry 一报错修复草案先躺好
+- **做了什么**：一位 YouTuber（视频声明"非赞助、就是喜欢 Muse"，约 10-09 发布）：把自己的助手取名 "Q"，过去几周把数字生活全交了过去。亮点——① 财务：25 年来每月花几小时手工做 Excel 财务报表，现在经 Plaid 只读连上所有账户，**15 分钟搞定**；② 代码：他的 App 接了 Sentry，一出新报错 Q 就去 GitHub 看代码起草修复，"他还没发现问题，修复草案已经躺好了"；③ 客服式邮件：训练 Q 学会他的文笔，商务邮箱来信自动起草回复、标未读等他批；④ 安防：给加密钱包的 Xpub（只读），每 30 分钟链上监控，一有转出立刻报警；⑤ 每周一自动起草 YouTube 评论回复；⑥ 给伴侣配了个 Google Voice 号，让 Q 代传话（手机没电/报位置）；⑦ 想啥软件直接口述让 Q 现写（自定义 Kanban 看板）；⑧ 社媒帖子先让 Q 写几版草稿再一起改。局限也直说：暂无全量语音模式、Android 上不能群发短信、代发消息他坚持先审草稿。
+- **一句话总结**：重度用户的终极形态：自己当总裁，Muse 当副总裁，Opus 5.5 们当员工。
+- **来源**：[YouTube《26 Meta Muse Use Cases I've Already Implemented》](https://www.youtube.com/watch?v=puGo_SI6Xro)（据转录摘要整理；视频声明非 Meta 赞助）
+- **日期**：2026-10-09（约）
+- **标签**：#效率 #代码 #省钱
+
+### 媒体观察（记者/分析师实测，供参考）
+
+- **Fast Company（10-08）综述**：Muse 起飞期的媒体实测形成共识——《纽约时报》、Android Authority、The Verge、TechRadar 的记者们让 Muse 干的活高度重合：牙科保险排队、取消重复订阅、要退款、清促销邮件、组购物车、给 Marketplace 卖家发消息；Android Authority 民调：试用者中 **27% "love it"**、仅 2% "not a fan"；Tom's Guide 实测 7 个找折扣 prompt 只成了 3 个；站外表现打折：Amazon 封禁购物 agent、Instacart 标记账号。Wired / ZDNET / TIME 的隐私批评同步发酵（数据默认用于训练、给用户及关联人建档）。[链接](https://WWW.FASTCOMPANY.COM/91620148/metas-muse-is-taking-off-so-are-the-privacy-concerns)（据搜索摘要整理）
+
+- **LinkedIn 分析师 Bharad Ramesh（10-08）购物实测**：让他买保湿防晒霜，Muse 的首选是 Sephora 上 **$36 的 Ultra Violette SPF 50**——按星级和评论数排序，作者自述"它没读过一条评测、没读过一篇编辑内容"；追问为什么选 Sephora，答"因为那里能验证有货、$36，是最快结账路径"；Amazon 全程没出现（9-20 起被封）。结论：agent 购物绕开了出版方，零售商的评论区成了事实上的"媒体"。[链接](https://www.linkedin.com/pulse/publishers-vs-retailers-came-muse-bharad-ramesh-qjtye)（据搜索摘要整理）
+
+- **Scientific American / Mary Randolph（10-09）**：记者把一整周的差事分别交给两个 agent 跑对比——"Mark"（Muse）vs "Sam"（OpenAI Dots），《Meet Mark and Sam, the AI agents that ran my errands for a week》。[帖子](https://www.facebook.com/ScientificAmerican/posts/pfbid02rFUZqHnXFgzvchtPaxDgmtPuvkoW1EY2u1NsV5KTEnAt9ggi2LsCyaBJ5Z1rzFTgl)（据平台内容摘要整理；仅见标题卡，正文细节待补）
+
+### 官方动态
+
+- **【官方】Muse for Small Business 早期测试者晒单（官方新闻稿，经 Inc. 报道）**：Tom Mulholland（爱荷华杂货店主）拍下员工工时卡让 Muse 加总，"至少从工资单上省了 15 分钟"；Nathan Daggett（Live Bearded 增长策略师）让 Muse 啃了 **87,000 条**客户评价做完整 SWOT 分析，"人工要几个月，Muse 几分钟"。[链接](https://www.inc.com/annabel-burba/muse-for-small-business-can-analyze-months-of-customer-reviews-in-minutes/91411823)（官方新闻稿引用，约 9-29）
+
+### 警示
+
+- **【警示】Cequence Security 研究：Muse 上线两周，流量在其研究的过半客户处出现，且"装成普通人"**：Cequence 分析 9-01 至 9-24 的客户流量（金融/零售/旅行/软件等行业）发现——Muse 在其研究的过半客户处都有流量，且不自报 agent 身份：云端真 Chrome 浏览器 + 走 consumer VPN，常规安全检查看来就是"一个人在浏览"；median customer 的 Muse 流量在首次出现后约两周内增长近 6 倍。Cequence 靠行为分析（一次浏览器版本更新几天内从 0% 涨到 90%+ 的 Muse 流量）才把它揪出来。**注**：这是 Cequence 推自家 "Agent Trust" 产品时的 PR 稿，数据为其单方研究，供参考。[链接](https://www.prnewswire.com/apac/news-releases/metas-muse-reached-more-than-half-of-customers-cequence-studied-in-two-weeks-without-identifying-itself-as-an-ai-agent-302902308.html)（约 10-08）
+
+---
+
 ## 2026-10-10（第 15 期）
 
 今日共收录 **6 个用户案例** + **1 条产品更新** + **1 起警示**。IG 分享菜单上线 Muse 入口后，社媒仍以"介绍 Muse 是什么"的科普视频为主（印度/中东区居多，已过滤），以下为真实用法与新动态。
