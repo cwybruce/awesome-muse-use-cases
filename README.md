@@ -36,6 +36,67 @@
 
 ---
 
+## 2026-10-12（第 17 期）
+
+今日共收录 **7 个用户案例** + **1 组行业观察**。社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；Franco Lopez 的育儿故事为 Business Insider 第一人称转述、成绩已核实；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Franco Lopez（迈阿密，4 个孩子的父亲）：10 岁儿子天文词汇测验第一次拿满分——抽认卡+模拟卷+7 分钟通勤播客
+- **做了什么**：Business Insider 第一人称转述（53 岁、保险从业者，4 个孩子的父亲，用 Muse 两周）：Muse 给 10 岁儿子做了带他名字+火箭装饰的个性化电子抽认卡、一份选择题模拟卷、还有一段 7 分钟"上学路上听的"播客——孩子**第一次拿了满分**（Business Insider 确认了成绩单）。他顺手把两个孩子的学校邮件（每天约 30 封）做成每日 digest，推送进家庭 Slack 频道 "Family Operations"，连孩子足球队的家长频道也接了 Muse。他用 Muse 后退订了 Grok、Claude、ChatGPT 三个订阅，强调"不是让 AI 替孩子答题，是帮他学会自己学"。
+- **一句话总结**：教育场景第一次出现"满分证据"：flashcards + quiz + podcast 三件套，家长只负责审批不负责出题。
+- **来源**：[Business Insider（转述；machinebrief 10-11 整理）](https://www.machinebrief.com/news/i-used-metas-muse-to-help-my-son-prep-for-an-astronomy-quiz-3zuk)（据搜索摘要整理）
+- **日期**：2026-10-11（约）
+- **标签**：#学习 #效率
+
+#### 2. FB 用户：AI 使用时间的 80% 在 Muse 上——8 个落地场景：代打保险询价电话、填政府 PDF 表格
+- **做了什么**：一位 Facebook 用户（10-11 reel，带屏幕录像）：她说现在 AI 使用时间的约 80% 都在 Muse 上，列出 8 个场景——① 代打保险询价电话并自动转文字记录；② 政府 PDF 表格完整填好、交回来就能直接提交；③ 比价便携投影仪、给多方案带理由并追踪物流；④ Marketplace 发两张照片，标题/描述/定价自动生成；⑤ Messenger 买家咨询自动回复，连西班牙语都能回；⑥ "vibe coding"：手机上改代码、Muse 直接 push 到 GitHub（她说比 Claude 手机端顺）；⑦ 带透明背景的 GIF 动画，她说做演示文稿比 ChatGPT 好用；⑧ 日常生活助理：自动整理信息、提醒要交的申请材料和待办。
+- **一句话总结**："重度用户"的终极形态：不是聊天，是让 AI 替她打电话、填表、改代码。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/4351454141833234/)（作者身份未在摘要中披露；据平台内容摘要整理）
+- **日期**：2026-10-11
+- **标签**：#效率 #生活 #代码
+
+#### 3. @melgreeneconsulting：欧洲冬季巡回演讲计划——数千个会议的追踪电子表格 + 定制演讲稿 PDF，全外包
+- **做了什么**：咨询公司 Mel Greene（@melgreeneconsulting，2.1 万粉，10-11 IG reel）：她把欧洲冬季巡回演讲的规划整套交给 Muse——喂进去已有演讲内容、目标会议和偏好，Muse 生成了跟踪**数千个会议**（地点/申请截止/所需材料）的电子表格、外加一本定制演讲标题+摘要的 PDF 作品集；之后 Muse 还持续推送新机会和截止提醒。她说这个项目是"给自己找了个去欧洲的借口"。（注：视频结尾附了她的邀请码推广，演示本身为实拍。）
+- **一句话总结**：演讲者接单的最大脏活（扫会、看 deadline、改摘要）第一次被整个吃掉。
+- **来源**：[Instagram @melgreeneconsulting](https://www.instagram.com/reel/DeXEsUKhRPU/)（据平台内容摘要整理）
+- **日期**：2026-10-11
+- **标签**：#效率 #创作
+
+#### 4. Ryan Reyes：翻车事件之后的第一份"安全清单"——Muse 记得"别把我家地址写进 listing"
+- **做了什么**：FB 用户 Ryan Reyes（10-11 reel，Messenger 实录）：他让 Muse 接管二手物品的 Marketplace 销售——上传照片→查价→起草 listing。关键在偏好设置：Muse 记住了"listing 里**别写我家地址**、只收现金/Venmo、交易地点固定在某 Publix 门口"；还能自动降价、监控买家消息、日历同步约面交。这是 Matt Robb 地址泄露事件后，第一个把"安全边界"写进用法的真实样本。
+- **一句话总结**：从"敢用"到"会用"：把 Robb 事件的教训变成 agent 的三条铁律。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/1417785653811753/)（据平台内容摘要整理）
+- **日期**：2026-10-11
+- **标签**：#购物 #效率
+
+#### 5. Dana Malstaff：6,076 条收藏吃灰多年，Muse 扫一遍：留 600 条，分成 8 个文件夹
+- **做了什么**：创作者 Dana Malstaff（10-10 FB reel，带 before/after 对比图）：她几年攒下 6,076 条 IG 收藏、一条没用过。Muse 先扫全量做"留 vs 扔"筛选，砍到约 600 条，再分成 8 个主题文件夹（内容灵感、AI 工作流、育儿、健康等）。她在评论区说要分享完整 prompt，下一期预告：用这 8 个文件夹反向规划一个月的内容选题。
+- **一句话总结**：收藏夹不是缺分类功能，是缺一个替你"动手分"的人。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/3099882203676736/)（据平台内容摘要整理）
+- **日期**：2026-10-10
+- **标签**：#效率 #创作
+
+#### 6. Suburban Cyber Technologies：43,000 封促销邮件一次清零——7.6 万未读 backlog 基本清空
+- **做了什么**：Suburban Cyber Technologies（FB 主页，10-11）：免费期测试 Muse 整理邮箱——Muse 删除了约 **43,000 封**旧促销邮件，7.6 万未读 backlog 基本清空。他把这描述为"personal assistant 替你干活"而不是"工具"，后续还有更多测试预告。
+- **一句话总结**：Inbox Zero 第一次有了具体数字：43,000 封。
+- **来源**：[Facebook @suburbancybertechnologies](https://www.facebook.com/suburbancybertechnologies/posts/pfbid0BHGLDLL6zEaB5zQNSUAwZC5TcBa7EepPFikdMcvXCjgucMotgbWjrHsW3Ql)
+- **日期**：2026-10-11
+- **标签**：#效率
+
+#### 7. @elzanegreiros（西语）：助手 "Zuze" 承包网红商务——写品牌合作邮件、查优惠券、排发布日程
+- **做了什么**：创作者 Elza Negreiros（@elzanegreiros，5.1 万粉，10-11 IG reel，西语，实拍屏幕录像）：她的 Muse 助手取名 "Zuze"，专门承包网红商务活——给 Outin（便携咖啡机品牌）写 affiliate 合作邮件、研究 BIBIGO gimbap 产品、查优惠券状态、排内容发布日程、回品牌方消息。她说 Zuze 已经是"工作流里的必需品"。
+- **一句话总结**：创作者的"商务部"从人变成 agent，第二个公开样本（第 6 期 @tobeleidycrea 的审计流程是第一个）。
+- **来源**：[Instagram @elzanegreiros](https://www.instagram.com/reel/DeVj0hDRrRp/)（据平台内容摘要整理）
+- **日期**：2026-10-11
+- **标签**：#创作 #效率
+
+### 行业观察
+
+- **cryptobriefing（10-12，数据向）**：Muse 上线一个月后出现降温——日均下载在 10 月 7 日当周约 16.5 万、环比降 8.1%；DAU 净增从 9 月中旬日均约 19.8 万掉到 10 月初约 7.4 万（-62.4%）；10 月 6 日总 DAU 约 273 万，同期表现不及 Threads 同年龄段；App 评分/评论数环比降 11.6%。**Hunterbrook Capital 10-09 披露做空 Meta**，明确把 Muse 降温、下载与评论下滑列为理由之一。（注：cryptobriefing 为 crypto 媒体、非主流科技媒体，数字未引用原始 Sensor Tower 报告——数字按其报道转述，结论打折看待。）[链接](https://cryptobriefing.com/meta-muse-downloads-fall-ai-agent/)
+
+---
+
 ## 2026-10-11（第 16 期）
 
 今日共收录 **2 个用户案例** + **3 组媒体观察** + **1 条官方动态** + **1 起警示**。社媒新增仍以印度/中东区"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤），Peter Yang 的 $800 账单谈判视频已在第 1 期收录为往期回顾（不重复收录），以下按宁缺毋滥收录。
