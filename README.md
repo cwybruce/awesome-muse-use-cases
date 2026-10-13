@@ -36,6 +36,79 @@
 
 ---
 
+## 2026-10-13（第 18 期）
+
+今日共收录 **8 个用户案例** + **1 条官方动态** + **2 组行业观察**。社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；UFC 拳手 Justin Gaethje 的 IG 视频为 Meta 品牌广告（结尾 "Try Muse" 贴片）、John Bucog 的 reel 明确标注 "partnership with Muse by Meta"——两条均为合作推广，按规则剔除；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @jordentually（IG 52 万粉，认证）：12 年走完 104 国，Muse 接入 Instagram 分析旅行风格——算出剩下 93 国要走 10 年，2036 年 12 月收官
+- **做了什么**：旅行创作者 Jorden Tually（10-12 reel，4.4K 赞）：他 12 年去了 104 个国家，还剩 93 个没去。Muse 接入他的 Instagram 分析旅行风格后，输出了一份**从 2027 年开始、按季节逐月排的 10 年行程表**，外加一张交互世界地图（已去 vs 待去），按当前节奏推算 **2036 年 12 月**走完 197 国。他感叹"有 AI 比我还懂规划我的人生"。
+- **一句话总结**：旅行规划的天花板：不是给你行程，是给你人生剩下 10 年的路线图。
+- **来源**：[Instagram @jordentually](https://www.instagram.com/reel/DeZW-VKO7Mx/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#旅行 #效率
+
+#### 2. "A Month with Muse" 实测：修网站 + 5 家车险比价，一年省 $1,530，每 5 个月重扫一次
+- **做了什么**：IG 账号 @mostly.borrowed.ideas（10-12 长视频，"A Month with Muse"）：一个月实测总结——① 让 Muse 修了他的网站（补上两年前就想加的 dark mode + 订阅按钮 + 一键功能），形容为"花 $20/月雇了个技术上称职的员工"；② 让 Muse 扫了 5 家车险报价，**一年省了 $1,530**，并设为每 5 个月重扫一次对抗"续约惯性"；③ 同时盯 4 个邮箱、每天生成板球新闻摘要、追踪 GPU 价格。
+- **一句话总结**：省钱的本质是干掉惯性——让 agent 每 5 个月替你重新问一圈价。
+- **来源**：[Instagram @mostly.borrowed.ideas](https://www.instagram.com/reel/DeZ4ATNOLg8/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#省钱 #效率 #代码
+
+#### 3. @careeseeats（IG 27 万粉）：爆款 reel 全平台分发自动挡——找 Top 20、去重、搬运，后续新片自动跟
+- **做了什么**：创作者 Careese（@careeseeats，10-12 reel）：她给自己的 Muse 助手取名 "kwin"，一句话指令："找出我表现最好的 20 条 IG reel，搬到我其他平台，**去重、标题文案保持一致**。"屏幕录像显示 Muse 几分钟内做完了，之后她又补了一句：以后所有新 reel 自动走这套流程。她称这是"真正管用的 creator hack 之一"。
+- **一句话总结**：创作者分发的终极形态：手动搬运 → 说一句话 → 以后都不用管。
+- **来源**：[Instagram @careeseeats](https://www.instagram.com/reel/DeaQWVkzbht/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#创作 #效率
+
+#### 4. Alan Tucker Bearden（FB）：老客户唤醒漏斗 98% 全自动——发邮件、回询价、转审计、约电话
+- **做了什么**：小企业主 Alan Tucker Bearden（10-12 FB 发帖）：他搭了一个老客户唤醒流程——Muse 自动给老 leads 发邮件、收到回复后用免费审计做钩子、有人接招就经 Messenger 通知他的 SEO 负责人、拿到审计报告后转交客户、最后**看他的日历直接约电话**。他称初次连好之后约 98% 全自动；另外还用 Muse 语音消息生成购物清单、跨平台聚合财务数据算月收入（评论区放了自己的邀请链接，系用户自发行为，非 Meta 付费推广）。
+- **一句话总结**：销售漏斗第一次变成"说一次就转起来"的自动机。
+- **来源**：[Facebook Alan Tucker Bearden](https://www.facebook.com/alantuckerbearden/posts/pfbid0TvaEFx58gnzXoM24Yqs8mNS8LRpfBTBme8LNsv6aKNk3Tw19NuHGWfj7xUMH3baal)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#效率
+
+#### 5. @americanivato（IG）：银行直连做税务分类——4 个账户的流水自动归类，生成月度 P&L
+- **做了什么**：IG 用户 @americanivato（10-12 视频，实拍屏幕）：他先解释 agent 和 ChatGPT 的区别是"能动手"，然后展示 Muse 设置里的 Connectors——已连 Google Drive、Gmail、Calendar、银行等十几个服务。他在聊天里问 Muse 能不能做账，Muse 直接列出已连的 4 个银行账户，说可以拉流水、按税务类目归类、生成月度损益表，并声明"不是 CPA"。他确认后开始跑。
+- **一句话总结**：小商户记账的终极形态：账自己分类，报表自己生成。
+- **来源**：[Instagram @americanivato](https://www.instagram.com/reel/DeYGiUyCMRl/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#效率
+
+#### 6. @evia.ai_systems（IG）：她的"不睡觉助理"——晨间 AI 早报 + 广告监控 + 未回客户提醒
+- **做了什么**：创作者 Eva（@evia.ai_systems，10-12 九图轮播）：她的 Muse 是"从不睡觉的助理"——每天醒来先看 AI 功能更新 + reel 表现摘要；把爆款 reel 丢给 Muse 拆成钩子/结构/CTA 再写成新脚本；Muse 在后台盯着广告和数据，**表现差的 campaign 主动报警**；未回的客户消息、日历提醒、最佳发布时间都由它主动推。她强调 Muse"不等你问，先替你想到"。
+- **一句话总结**：从"问一句答一句"到"不等你问"——主动型 agent 的完整工作流。
+- **来源**：[Instagram @evia.ai_systems](https://www.instagram.com/p/DeaFXxUjg7w/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#创作 #效率
+
+#### 7. @simrankeyz（IG 13 万粉，认证）：收藏夹→行程单，Drive→文件柜，每天一杯 AI 新闻播客
+- **做了什么**：创作者 Simran（@simrankeyz，10-12 reel，实拍）：她演示 Muse 读她的 IG 收藏找信息、整理 Google Drive 文件、规划旅行（查目的地、找吃的、排 itinerary、付款前要批准），还每天生成一档 AI 新闻播客。她最后喊话希望 Muse 早日上线曼谷（目前仅美加）。
+- **一句话总结**：个人知识库 + 旅行社 + 播客台，三合一的随身助理。
+- **来源**：[Instagram @simrankeyz](https://www.instagram.com/reel/DeY61OZRrIn/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#效率 #旅行
+
+#### 8. @soheil.shivafar1（IG 64 万粉）：19 张图、18 个 testimonial 合集——找忘掉的钱、压手机账单、抢欧冠门票
+- **做了什么**：@soheil.shivafar1（10-11 轮播，19 张图）：收集了 18 个用户 testimonial——帮人找到"忘掉的钱"、索尼耳机降价提醒、预算内设计客厅、交通预警、投简历、压低手机账单、Inbox Zero、Marketplace 淘家具、规划意大利旅行、损坏订单退货、欧冠门票、整理 200+ 条 IG 收藏、监控德黑兰-迪拜机票。单个 testimonial 未具名，按合集收录。
+- **一句话总结**：一个月下来，Muse 的用户故事已经能凑出一本"生活杂事全承包"目录。
+- **来源**：[Instagram @soheil.shivafar1](https://www.instagram.com/p/DeW8FqaDAXF/)（据平台内容摘要整理）
+- **日期**：2026-10-11
+- **标签**：#效率 #省钱 #生活
+
+### 官方动态
+
+- **【官方】Muse Wonder / Muse Wonder Full 发布（10-12）**：Meta Superintelligence Labs 发布新一代 frontier 模型：Muse Wonder 通过 Meta Model API（`muse-wonder-1.0`，100 万 token 上下文，$4/百万输入、$20/百万输出）与 Muse Code 上线；Muse Wonder Full 仅限 Muse Code 订阅用户（Power $50/月、Maximum $200/月）；两款都将先向订阅用户推送进 Muse 消费端。核心卖点是 **Active Memory**（跨对话记住关键上下文）与 **Active Focus**（任务卡住时换思路、问澄清、重要动作先确认）。Alexandr Wang 亲自在 Threads 官宣，称是"团队造过的最强模型"。第三方实测（dev.to，引 Meta 官方 model card）指出：定价与 Anthropic Opus 5.5 完全一致（$4/$20），14 项官方 benchmark 里 9 项落后于 Opus 5.5——价格对标了，性能还在追。[Threads @vishalshahis](https://www.threads.com/@vishalshahis/post/DeZu-LBmp5r)；[AI at Meta 发布视频](https://www.facebook.com/reel/2333521664156766/)；[dev.to 定价与 benchmark 对比](https://dev.to/gabrielanhaia/metas-muse-wonder-costs-exactly-what-opus-55-costs-it-loses-9-of-metas-own-14-benchmarks-399a)；[PYMNTS 报道](https://www.pymnts.com/news/artificial-intelligence/2026/meta-adds-memory-focus-new-frontier-models-agents/)
+
+### 行业观察
+
+- **隐私反弹蔓延到名人公开表态（10-11）**：演员 Yvette Nicole Brown（@yvettenicolebrown，Threads 42 万粉认证）公开呼吁别用 Muse——即使你本人 opt-out，只要通讯录里有人用了并和你通话/发短信/发邮件，你的数据照样能被碰到，结尾 "People over ai"。此前 TIME/WIRED 的隐私批评（第 15 期已收录）正在从媒体评论变成公众人物的公开站队。[链接](https://www.threads.com/@yvettenicolebrown/post/DeXUIYFD-Dj)
+- **"The Muse Effect"：9 月 Meta 股价创近 4 年最佳单月（10-10）**：投资通讯 Kintsugi 梳理 Muse 走红的技术-商业逻辑——Secure VM（密封云电脑）+ Sentinel 监控 + 一次性支付卡片的"围栏式"安全架构；收入靠订阅（$20/$100）而非广告；用户数据不进广告基建。降温信号同步出现（第 17 期 cryptobriefing 数据）。[链接](https://newsletter.kintsugiinvesting.com/p/the-muse-effect)
+
+---
+
 ## 2026-10-12（第 17 期）
 
 今日共收录 **7 个用户案例** + **1 组行业观察**。社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；Franco Lopez 的育儿故事为 Business Insider 第一人称转述、成绩已核实；以下按宁缺毋滥原则收录。
