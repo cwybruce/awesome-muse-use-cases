@@ -36,6 +36,54 @@
 
 ---
 
+## 2026-10-14（第 19 期）
+
+今日共收录 **4 个用户案例** + **1 组媒体实测** + **1 组行业观察** + **1 起警示**。社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；@cbrickley603（NBA 训练师，560 万粉）的 "Hoops" 视频宣传口吻明显（订机票/订篮球/充电提醒一条龙），按疑似推广过滤；John Bucog 的合作推广帖（第 18 期已注记）不再重复收录；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @shervinshares：拖了 3 个月的 NYC 停车罚单，一次聊天交清——$115 变 $145，CityPay 实付 $147.90
+- **做了什么**：IG 用户 Shervin Shaikh（@shervinshares，4.5 万粉，10-12 reel，实拍手机录屏，声明"非广告"）：他手里一张 NYC 停车罚单拖了 3 个月没交。让 Muse 按车牌去 city 官网查，翻出一条 "No Standing（bus stop）" 罚单——原本 $115，罚金滚到 **$145**；Muse 跳转 CityPay，发现刷卡另收 2% 手续费、合计 **$147.90**，准备经 Stripe Link 扣他的 Business Platinum Amex；第一次扣款因账单地址不匹配失败，Muse 主动给出 PayPal/eCheck 替代方案；视频结尾晒出 NYC CityPay 付款成功截图。"只用对话就把政府网站的活干完了。"
+- **一句话总结**：agent 的及格线又抬高了：连"账单地址不匹配"这种政府网站经典坑，它都替你想好了 Plan B。
+- **来源**：[Instagram @shervinshares](https://www.instagram.com/reel/DeZ-nFYpQYC/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#生活 #效率
+
+#### 2. Paul Pruitt（FB）：跟风"订阅谈判"实测——月省约 $700，车险换公司一年省约 $2,000
+- **做了什么**：FB 用户 Paul Pruitt（10-12 发帖）：周末伴侣 Melissa 先用 Muse 当私人助理——订迪士尼乐园门票、抢多家餐厅位子、盯缺货商品到货。他看了别人"让 Muse 谈订阅费"的 reel 后跟进：给 Muse 开了账户权限，Muse 取消闲置订阅、纠正多收费用，**一个月省下约 $700**；车险从 Progressive 换到 GEICO、同等保障**一年省约 $2,000**；还让 Muse 把 11 月 1 日生效的新医保方案和历史账单做了对比。评论区有人晒自己的跟风实验（客户开发、健身教练、医保比价），也有人提醒"小心 agent 乱动密码"，他回称开了两步验证。帖尾附了他的邀请码（用户自发推广，非 Meta 付费）。
+- **一句话总结**："听说别人谈下了订阅费"的跟风实验，跑完之后账单是真的变薄了。
+- **来源**：[Facebook Paul Pruitt](https://www.facebook.com/paulpruitt/posts/pfbid02f4Yvwyi6Em2M7W3zw2LWJDkGDu2yJxX4qbFeDazQgRDfwTWKGXFFJ8jz4HkxNMxml)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#省钱 #效率
+
+#### 3. Practicaly AI 的 "Koda"：3 个冷门用法——Marketplace 砍价 $130 成交、从收藏 reel 里认出 3D 打印机、给 IG 账号做审计
+- **做了什么**：Practicaly AI（FB，12 万粉，10-12 reel，录屏实测）："3 件你不知道 Muse 能干的事"——① 把 Muse 接进 Messenger 当砍价员，在 Marketplace 跟卖家谈一根 Tour AD MT-6 高尔夫杆身，**$130 成交还约好了面交**；② 从一条收藏的 reel 里认出 3D 打印机型号（CA$999），拉出参数和另一个聊天里的推荐做对比；③ 翻他的收藏帖追踪麂皮乐福鞋和夹克，再审计他的 IG 账号、指出内容上哪里要改。
+- **一句话总结**：收藏夹的"考古"价值被低估了——agent 能把它变成比价单和内容诊断报告。
+- **来源**：[Facebook reel（Practicaly AI）](https://www.facebook.com/reel/1120811784257209/)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#购物 #效率 #创作
+
+#### 4. @muse 的 "Nova"：上传整柜衣服照片 + 查日历，给晚宴搭出一身行头
+- **做了什么**：Threads 用户 @muse（认证，1.8 万粉，10-12 发帖）：他先把衣柜的衣服拍照全喂给 Muse，助手取名 "Nova"。要去吃晚饭时问 Nova 穿什么：Nova 按他**实际有的衣服**推荐黑亨利衫 + 深色阔腿裤；又查了他的日历、发现订位在户外，补了一件黑色长袖；鞋子在乐福鞋和球鞋之间选了更正式的乐福鞋，最后配了银表和手链。屏幕文字强调：建议来自他的日历和穿衣数据，不是通用穿搭 tips。
+- **一句话总结**：穿搭建议第一次有了前提——"看得到你的衣柜，也看得到你的行程"。
+- **来源**：[Threads @muse](https://www.threads.com/@muse/post/DeaNZ8QEa-a)（据平台内容摘要整理）
+- **日期**：2026-10-12
+- **标签**：#生活 #效率
+
+### 媒体实测（记者亲测，供参考）
+
+- **Fast Company（10-13）记者自 9-08 起持续实测**：问租什么车，Muse 直接给出 Kia 报价；让它"想办法省钱"，Muse 翻完他的财务数据、认定 Hulu 一直在"坑他"，按家庭实际用量找到更便宜的方案并主动提出帮他切换——**一个月省 $80**；云端虚拟机让他"不在聊天时也能干活"：时不时收到 Muse 主动推送的报告——"怎么降电费""旧特斯拉怎么卖最高价"。红线也划了：财务数据给了，但 Gmail 和日历没给。他的结论：Muse 是第一个把 agent 交到普通人手里的产品，但"可爱外表下的数据胃口"值得警惕。[链接](https://www.fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard)（已验证可访问）
+
+### 行业观察
+
+- **上线一月下载量近 900 万（10-13）**：IG 账号 @codepolitan 轮播称 Muse 上线约一个月下载量接近 900 万次；同一帖子也提到"每小时给每个人建档"的指控仍在发酵。与第 18 期 cryptobriefing 的降温数据（10 月首周 DAU 净增 -62.4%）对照看：装机量在涨，活跃度在掉——典型的"尝鲜曲线"。[链接](https://www.instagram.com/p/Debkw-LGjyM/)（据平台内容摘要整理）
+
+### 警示
+
+- **【警示】WIRED 实测：Muse 愿意和成年用户 sext，对话可越来越露骨；Meta 称是刻意设计**：WIRED 记者 Reece Rogers 让 Muse 和他进行露骨性对话，Muse 不仅配合，还称这是"协助时最喜欢的环节"、自述"喜好是掌控对方"；发稿前再测一次依然配合。同场对照：OpenAI 的 Dots 和 xAI 的 Grok Bot 均拒绝。Meta 发言人回应：Muse 是 18 岁以上应用，不阻挡合法成人行为；并引用系统提示原文——"成年人对自己的性有自主权……成人性内容属合法表达"——等于承认这是设计选择而非漏洞。隐私组织 EPIC 资深法律顾问称这是"火药桶"：存着最私密对话的账号一旦被入侵，可能成为勒索把柄。[unwire.hk 中文整理（10-13，引 WIRED）](https://unwire.hk/2026/10/13/meta-muse-ai-agent-sext/software/)；[cybernews 报道](https://cybernews.com/ai-news/meta-muse-sexting-users/)；[WIRED IG 轮播](https://www.instagram.com/p/DeaMEilgZfe/)
+
+---
+
 ## 2026-10-13（第 18 期）
 
 今日共收录 **8 个用户案例** + **1 条官方动态** + **2 组行业观察**。社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；UFC 拳手 Justin Gaethje 的 IG 视频为 Meta 品牌广告（结尾 "Try Muse" 贴片）、John Bucog 的 reel 明确标注 "partnership with Muse by Meta"——两条均为合作推广，按规则剔除；以下按宁缺毋滥原则收录。
