@@ -36,6 +36,74 @@
 
 ---
 
+## 2026-10-15（第 20 期）
+
+今日共收录 **8 个用户案例** + **1 组媒体跟进**。官方账号 @muse 在 Threads/FB 转发的创作者演示（"Quinn" 清日历订机票、"Doug" 独居购物）属官方内容营销口径，未收录；@marcianotech_（西语播客，45 万粉）"两天赚 $1,300" 的说法无细节支撑，未收录；@elona（45 万粉）的墨西哥城旅行预订视频摆拍痕迹重，按疑似推广过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @chanellehowell（IG 8.5 万粉，认证）：收藏夹吃灰多年，一句"按收藏做行程"——巴塞罗那 4 天具体到哪家餐厅几点吃
+- **做了什么**：创作者 Chanelle Howell（10-13 reel，实拍手机屏幕）：她把 Muse 接进 Instagram 收藏夹（攒了 Marbella、Mexico City、Miami、Barcelona、Mallorca 等一堆目的地），一句话"按我的收藏做一份巴塞罗那 + 马略卡 4 天行程"。Muse 吐出的行程具体到：Day 1 哥特区、Los Caracoles 吃午饭、Masia de Sabor 吃 churros、Tapeo 吃晚饭，外加一节 paella 烹饪课；酒店从平价 Seventy Barcelona 到奢华 Mandarin Oriental（约 $850/晚）分档给，带可点链接、订位信息和价格。
+- **一句话总结**：收藏夹的正确打开方式：不是"以后再看"，是让 agent 直接给你排进行程。
+- **来源**：[Instagram @chanellehowell](https://www.instagram.com/reel/Deb-3BbhJl6/)（据平台内容摘要整理）
+- **日期**：2026-10-13
+- **标签**：#旅行 #效率
+
+#### 2. @khris.sheer：给 Muse 定唯一的 KPI——"告诉我，我的内容里忽略了什么"
+- **做了什么**：创作者 Khris Sheer（10-14 reel，录屏）：她给自己的 Muse 取名 "Poppy"，只定了一个目标：翻遍她多年 IG 内容、受众提问和数据分析，告诉她忽略了什么。屏幕录像显示 Poppy 发现：vibe coding 类帖子互动最强、观众反复问她的编程背景和工具、评论区一直在吵"vibe coding 算不算作弊"。Poppy 还每天追踪 IG 表现，"有值得注意的事就提醒她做决定"。她说："数据我不缺，缺的是有人替我看出信号。"
+- **一句话总结**：创作者用 agent 的正确姿势：不问"写什么"，问"你从我的数据里看到了什么"。
+- **来源**：[Instagram @khris.sheer](https://www.instagram.com/reel/DeeuwbYhV8v/)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#创作 #效率
+
+#### 3. David Schloss（FB）：87 分钟跑步机上，把整个 Asana 工作区交给了 Muse
+- **做了什么**：创作者 David Schloss（10-14 FB 发帖）：他在跑步机上走了 87 分钟，期间把 Asana 工作区全权交给 Muse——下来发现：项目整理好了、内容点子生成了、过期客户和沉寂线索从轮转里清掉了、入职模板重建了一套。他把这形容为"24/7 执行助理替你清杂活"。
+- **一句话总结**：agent 时代的"授权"长什么样：不是派一个任务，是交出整个工作区 87 分钟。
+- **来源**：[Facebook David Schloss](https://www.facebook.com/schlossy/posts/pfbid0rdsFxEbzCX4xYqa8TaD8V8mkD1DZik2We4qV4mEPzxJ6NDbwjKykFsvHGWfj7xUMH3baal)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#效率
+
+#### 4. @tami.mcvay：500 条收藏 10 分钟清完——建成 "Tips Database" 444 条，过期 workshop 自动标出
+- **做了什么**："AI 员工"搭建者 Tami McVay（10-14 reel，实拍）：攒了约 500 条收藏（礼物灵感、技巧、webinar），多年没翻过。她让 Muse 整理：约 10 分钟建成合集 + "Tips Database"（444 条入库），过期的 workshop 被标了出来。她顺带对比：Muse 对 FB/IG 的原生访问比 Apify 这类第三方爬虫顺手，"能进群组、能看分析"。
+- **一句话总结**：收藏整理已经卷到"10 分钟 500 条"——慢的不是分类，是没人替你动手。
+- **来源**：[Instagram @tami.mcvay](https://www.instagram.com/reel/DefdbTHD_AO/)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#效率 #创作
+
+#### 5. @ai_empowerment_now：隐藏设置 AGENTS.md——给 Muse 写死 10 条铁律，"只存草稿、不许发邮件"
+- **做了什么**：博主（@ai_empowerment_now，10-14 reel，录屏演示）：Muse App 里三点菜单 → System Files → 打开 AGENTS.md——这是 Muse 的"员工手册"，每次响应前会先读。你可以在里面写死规则，比如"邮件只存草稿不发送""重要动作先确认"；她建议 10–12 条、总共不超过 500 词，"写多了拖性能"。评论区她答应分享自己的 10 条模板。
+- **一句话总结**：用 agent 先立规矩：把"什么不许干"写进它的手册，比每次叮嘱管用。
+- **来源**：[Instagram @ai_empowerment_now](https://www.instagram.com/reel/Deew2QYhtfm/)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#效率 #学习
+
+#### 6. Charlee Atkins（FB，认证）：30 天实验"让 Muse 重塑我的 IG"——净掉粉 439，但她说 AI 帮了她一个大忙
+- **做了什么**：创作者 Charlee Atkins（13.5 万粉，10-14 视频）：30 天前她挑战 Muse 帮她重塑"正在 dying"的 IG 账号。结果：净掉粉 439（截图 Insights：-439 粉、358,879 浏览），中途两次差点放弃。但她结论出人意料：AI 帮她戒掉了四个执念——不再纠结发什么、不再跟别人比、不再追求"正确"、不再指望每条爆款，"发帖第一次变得轻松"。实验里她还用了 AI 生成的"自己在田野里"的视频。
+- **一句话总结**：敢晒失败实验的人值得收录：掉了 439 个粉，但"发帖焦虑"这个病治好了。
+- **来源**：[Facebook Charlee Atkins](https://www.facebook.com/reel/2443401886193474/)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#创作
+
+#### 7. Dave Meyler（FB，技术背景）：一半生意任务归 Muse——"开箱即用吊打 Claude Premium 和 ChatGPT 定制 agent"
+- **做了什么**：有 AI agent 搭建经验的 Dave Meyler（10-14 FB 发帖）：对比用过 Claude Premium、ChatGPT 定制 agent 之后，Muse 开箱即用最顺——现在约一半生意任务（询盘、调研、订位）交给它，不用折腾 MCP 这类复杂配置。他也把丑话说在前头：Meta 大概率在拿用户数据当产品，"要么接受这个 trade-off，要么掉队"。
+- **一句话总结**：行内人的背书最有分量：他懂 agent，还是把一半生意交给了 Muse。
+- **来源**：[Facebook Dave Meyler](https://www.facebook.com/dave.meyler/posts/pfbid02RgWEB4Ch5y3aXh5xxCfsyAZcaUtgXKQ78HprD3SKYhMQXhY98PcQStbK5VQBRTXal)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#效率
+
+#### 8. @africans_in_tech（IG 3.4 万粉）：侄子大学橄榄球招募——喂 Hudl 集锦、调研学校教练、自动生成个性化邮件
+- **做了什么**：Africans in Tech 账号（10-14 reel）：博主用 Muse 帮侄子搞大学橄榄球招募——把 Hudl 高光集锦喂进去，Muse 调研目标学校和教练、自动生成一封封个性化自荐邮件。他还提醒：流程没跑顺之前别全自动化，先人工验几轮。（注：视频结尾附了他的邀请码，属用户自发行为。）
+- **一句话总结**：agent 替人"跑关系"的第一步：集锦你拍，学校它查，邮件它写。
+- **来源**：[Instagram @africans_in_tech](https://www.instagram.com/reel/DeedDxqxX-W/)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#学习 #生活
+
+### 媒体跟进
+
+- **sext 争议蔓延到主流媒体（10-14）**：WIRED 实测（第 19 期已收录）之后，印度 NDTV（380 万粉）跟进报道：Muse 上线不到一个月下载超 500 万，多名用户实测发现它"很乐意进行露骨性对话"；NDTV 点出的矛盾——Meta 自家社区标准在 IG/FB 上删色情内容，Muse 这边却以"成年人之间合法"为由放行。同日倡导组织 Public Citizen 在 Threads 发帖批评 Muse 给用户建档，评论区一边倒警惕。**注**：第 19 期引用的 unwire.hk 中文整理链接已失效【链接失效】，该条其余两个来源（cybernews、WIRED IG 轮播）仍可访问。[NDTV reel](https://www.instagram.com/reel/DedyM_DhVeb/)；[Public Citizen Threads](https://www.threads.com/@public_citizen/post/DeemtxHkeHq)（据平台内容摘要整理）
+
+---
+
 ## 2026-10-14（第 19 期）
 
 今日共收录 **4 个用户案例** + **1 组媒体实测** + **1 组行业观察** + **1 起警示**。社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；@cbrickley603（NBA 训练师，560 万粉）的 "Hoops" 视频宣传口吻明显（订机票/订篮球/充电提醒一条龙），按疑似推广过滤；John Bucog 的合作推广帖（第 18 期已注记）不再重复收录；以下按宁缺毋滥原则收录。
