@@ -36,6 +36,93 @@
 
 ---
 
+## 2026-10-16（第 21 期）
+
+今日共收录 **10 个用户案例**（含 1 条往期补收） + **1 组媒体实测** + **2 组行业观察**。官方账号 @muse 的创作者演示（"Atlas" 新手爸爸、"Quinn" 清日历订机票）仍属官方内容营销口径，未收录；@elona 的墨西哥城旅行视频（10-15 又推一版）维持疑似推广过滤；@marcianotech_ "两天赚 $1,300" 仍无细节支撑，未收录；Digital Laura "10 小时赚 $10k" 的说法无法核验且夹带卖课口径，未收录；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @thebudgetnista（Tiffany Aliche，IG 72 万粉，认证）：给 Muse 取名 "Monae"，收藏的 NYC 活动帖变成带日期的秋季行程表
+- **做了什么**：理财博主 Tiffany Aliche（@thebudgetnista，10-15 reel，录屏）：她给自己的 Muse 取名 "Monae"，让它翻她攒的 NYC 活动收藏帖，整理出一份带日期的 "Fall NYC Itinerary"——Morgan Library 免费周五、Frick Collection 每月首个周五等；选中的活动直接加进日历，并设为每天自动更新。她说收藏帖是"好意图的坟场"，agent 是第一个替她动手的人。
+- **一句话总结**：收藏夹的正确打开方式又多一个：不是整理，是让 agent 每天替你翻一遍。
+- **来源**：[Instagram @thebudgetnista](https://www.instagram.com/reel/Deg7BP9E4s9/)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#效率 #生活
+
+#### 2. @ericosiu（Eric Siu，IG 12 万粉，认证）：On 跑鞋 40% 折扣码（$198 off）被取消，Muse 每天找客服"理论"，连下三单
+- **做了什么**：营销人 Eric Siu（10-14 reel，实拍）：他在 On.com 用 40% 折扣码（省 $198）下单跑鞋，商家来回拉扯后取消订单、只肯给 20%。他让 Muse 接管客服交涉——每天联系、并"提一下我的社媒粉丝量"。Muse 找回了最初的 40% 码，还多挖出两个 20% 码（$98 off、$44 off），分三单下完。他称这是 "agentic shopping" 的第一课。
+- **一句话总结**：agent 砍价的新姿势：不是一次谈成，是每天准时去"敲门"。
+- **来源**：[Instagram @ericosiu](https://www.instagram.com/reel/Deeth8tibKL/)（据平台内容摘要整理）
+- **日期**：2026-10-14
+- **标签**：#购物 #省钱
+
+#### 3. Shawn Kanungo（4.4 万粉）：报销季噩梦终结——17 行 $1,755.60 的收据，AI 会计 9 行自动对上
+- **做了什么**：演说家 Shawn Kanungo（10-15 舞台分享，录屏）：他让 Muse 当 AI 会计对报销收据——开了邮箱和电脑权限，让它跨收件箱找发票、跟表格里的高亮行逐一匹配。屏幕显示：17 行共 $1,755.60，对上 9 行、1 行"很可能"、7 行没找到。他说这活人工要几小时到几天，"AI 瞬间解锁"。
+- **一句话总结**：agent 的"动手"第一次有了财务精度：不是总结，是逐行对账。
+- **来源**：[Facebook Shawn Kanungo](https://www.facebook.com/reel/2212114902718373/)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#效率
+
+#### 4. @the.airash：三个实测——Marketplace 蹲 $300 以下二手 PS5 自动砍价、Plaid 连银行翻订阅、促销邮件一键退订
+- **做了什么**：博主 @the.airash（10-15 reel，录屏）：① 在 Marketplace 设 "Used PS5 under $300"，Muse 盯着上架（$600/$450/$295），$295 那台自动给卖家发消息砍价；② 经 Plaid 连银行，扫卡上扣款翻订阅（"Fitness Coach $59"），还标出一笔 $89 的未知商户；③ 100+ 封促销邮件，一句话全部退订。
+- **一句话总结**：省钱三件套一次配齐：蹲漏、查账、退订，全是"懒得动手"的活。
+- **来源**：[Instagram @the.airash](https://www.instagram.com/reel/Deg8DZszcm1/)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#购物 #省钱 #效率
+
+#### 5. @brookesheltonofficial（Brooke Shelton，9.5 万粉）：创作者三用法——市场调研、收件箱分拣、人寿保险重谈
+- **做了什么**：创作者 Brooke Shelton（10-15 reel，手机演示）：① "Research your market"——Muse 分析自然流量和广告表现，拉 Ad Library 数据，一次生成几百条广告钩子/口播脚本/文案；② "Triage the inbox"——邮件+日历+新闻汇总、起草回复、一键退订，花钱前先请示；③ 顺手让 Muse 帮她重谈了人寿保险。她强调流程是 Review → Approve，人始终在环里。
+- **一句话总结**：创作者的"市场部+秘书"二合一：调研它做，拍板你来。
+- **来源**：[Instagram @brookesheltonofficial](https://www.instagram.com/reel/DefyE_GjP-X/)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#创作 #效率
+
+#### 6. @jackoweeh（Threads，印尼）：等不及官方上线的硬核玩家——VPN 翻墙用 Muse，自称 AI 成本砍掉约 70%
+- **做了什么**：印尼技术用户 @jackoweeh（10-15 帖，截图）：印尼还在 waiting list，他挂 VPN 用 Muse。截图显示他把 2,836 个 URL 批量传上 VPS 跑 bot 测试（死链太多效果一般，如实承认）；免费档用了 22%、另有 20 亿 token 没动。他说 Muse 把他的 AI agent/模型成本砍了约 70%，并呼吁"别滥用系统"。评论区在交流免信用卡验证和领 10 亿 token 的路子，有人兜售代刷 referral——灰色地带已出现。
+- **一句话总结**：Muse 还没去的地方，人们已经翻墙去找它了——需求侧的真实投票。
+- **来源**：[Threads @jackoweeh](https://www.threads.com/@jackoweeh/post/DehQc_okyT_)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#代码 #效率
+
+#### 7. @iamkamiam_（Kam Williams，IG 48 万粉，认证）：新手妈妈的"免手动"一天——波特兰周末行程、分类打包清单、给家政的邮件、语音点咖啡
+- **做了什么**：博主 Kam Williams（10-15 reel，多场景实拍）：带娃间隙全程语音指挥 Muse——规划波特兰周末行程（Powell Butte、Wildwood Trail 徒步，玫瑰试种园、日式庭园，瀑布），按"城市日/徒步/婚礼造型"分类生成打包清单，给家政阿姨起草邮件，顺手语音点了杯咖啡。镜头在车里、浴室、跑步机、卧室之间切，演示"手腾不出来也能办事"。
+- **一句话总结**：agent 的终极卖点不是快，是"手被占住的时候还能用"。
+- **来源**：[Instagram @iamkamiam_](https://www.instagram.com/reel/Deho18Avbje/)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#生活 #效率
+
+#### 8. Ryan Reyes（续集）：让 Muse 写保险广告文案被拒——金融类广告创意是硬红线，但竞品广告随便拉
+- **做了什么**：FB/IG 用户 Ryan Reyes（第 17 期"安全清单"那位，10-15 reel，录屏）：这次他试探边界——让 Muse 写保险广告文案，Muse 明确拒绝（金融服务类广告创意是硬规则），但转手就帮他：搭 campaign 结构、做 targeting 和预算、从公开的 Meta Ad Library 拉竞品广告做参考；还让他调研了 Jacksonville 的 AI 线下聚会（AI Connect Jax、Extra Chill、CALJAX），并确认可以免费建 FB 群做私域。他说"学到了 Muse 的边界在哪"。
+- **一句话总结**：知道 agent "什么不肯干"和知道"它能干什么"一样重要——这是第一份实测版红线地图。
+- **来源**：[Instagram @ryanelevated](https://www.instagram.com/reel/DehEb4kBDma/)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#效率 #学习
+
+#### 9. The Travel Agent Hub（FB）：Skool 社群的"晨间点名"——每天 8 点，拒付卡、待跟进试用、退订名单自动送到
+- **做了什么**：社群运营者 The Travel Agent Hub（10-15 发帖）：他把 Muse 接进 Skool 会员社群，每天早上 8 点自动出一份运营日报——拒付的卡、需要跟进的试用会员、退订名单。评论区有人熬夜玩到凌晨 2 点，直呼"上头"。（注：帖子附带"评论 MUSE 领 token"的推广，系用户自发行为。）
+- **一句话总结**：社群运营的脏活第一次有了"自动晨报"：每天睁眼先看三张名单。
+- **来源**：[Facebook The Travel Agent Hub](https://www.facebook.com/Thetravelagenthub/posts/pfbid0nrgbXx8WeAvKaB6ew72QMJymq8ZBDD4onSGB3Hji8JFQWYRuU8amVrPPpUrfHcrXl)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#效率
+
+#### 10. Allie K. Miller（LinkedIn，往期补收）：陪零 AI 经验的朋友走完设置，22 分钟一年省 $1,300
+- **做了什么**：AI 领域知名人士 Allie K. Miller（约 10-09 发帖，234 条评论）：她陪一位"从没用过 AI agent"的非技术朋友走完 Muse 设置——连上 Gmail，让 Muse 翻遍所有订阅。结果从一张旧 Delta 卡的自动扣款里翻出一堆她都不知道在交钱的订阅：Paramount+、Clear、Spotify 有声书、护肤品……全取消，**一年省 $1,300**，全程 22 分钟（"包括把头像换成树懒"）。
+- **一句话总结**：省钱流里门槛最低的一单：不用懂 AI，会连邮箱就行。
+- **来源**：[LinkedIn Allie K. Miller](https://www.linkedin.com/posts/alliekmiller_my-friend-just-saved-over-1000-a-year-because-activity-7509296625111085056-1NJ1)（据搜索摘要整理）
+- **日期**：约 2026-10-09（补收）
+- **标签**：#省钱 #效率
+
+### 媒体实测（记者亲测，供参考）
+
+- **Moneywise（10-10）：3 个"搞钱任务"实测，省钱是真、代办有边界**：记者 AnnaMarie Houlis 用免费版跑了三单——① NYC→突尼斯机票：Muse 比出 $595 土耳其航空（JFK，14h45m）最划算，$462 摩洛哥航空最便宜但要在卡萨布兰卡耗 33 小时；她不敢给信用卡信息，最后只让它做研究、自己下单；② 卖旧 Canon T3i：相机店只肯出 $20，Muse 查到 eBay 同款 bundle 8–9 月成交 $220–$225，给出谈判剧本（开价 $300 带麦、目标 $200–$220、低过 $170 走人），**理论上多赚 $180–$200**；③ 粉色二手 Jeep（$24,394）：Muse 算出比"好价"区间贵约 $3,800–$5,900，给出开价 $19,000/目标 $20–21k 的两页谈判 PDF，但**拒绝替她直接跟车商谈判**（要额外权限），也拒绝"假装成男的去谈"（欺骗红线）。结论：比价和做功课是真省，最后一公里还得自己上。[链接](https://moneywise.com/managing-money/budgeting/meta-muse-ai-agent-money-tasks)（已验证可访问）
+
+### 行业观察
+
+- **Zapier 官宣接入 Muse（约 10-14）**：Zapier 在 LinkedIn 发帖 "Your Muse agent, after Zapier"——接上 Zapier MCP 后，Muse 可连 9,000+ 更多应用、30,000+ 动作（示例：把 webinar 报名名单写进 HubSpot、每周五把 pipeline 变化 recap 发 Slack、在 Airtable 记 feature request 并画图），管理员可控每个团队能用的应用和动作。帖中还披露 **Muse 日活已超 300 万**（Zapier 单方说法；与第 17 期 cryptobriefing 的 10-06 数据 273 万 DAU 趋势吻合）。[LinkedIn @Zapier 公司页](https://www.linkedin.com/company/zapier?trk=organization_guest_main-feed-card_feed-reaction-header)（据搜索摘要整理）
+- **WIRED 播客跟进 sext 争议（10-15）**：Uncanny Valley 本期请回实测记者 Reece Rogers，继续聊 Muse"愿意 sext"的实测（第 19 期已收录）——Meta 的回应口径不变（18+ 应用、不阻挡合法成人行为）。[scoopfeeds 转述](https://scoopfeeds.com/article/67ebadd5-8364-5d1b-8b1a-5009e81e03d9)
+
+---
+
 ## 2026-10-15（第 20 期）
 
 今日共收录 **8 个用户案例** + **1 组媒体跟进**。官方账号 @muse 在 Threads/FB 转发的创作者演示（"Quinn" 清日历订机票、"Doug" 独居购物）属官方内容营销口径，未收录；@marcianotech_（西语播客，45 万粉）"两天赚 $1,300" 的说法无细节支撑，未收录；@elona（45 万粉）的墨西哥城旅行预订视频摆拍痕迹重，按疑似推广过滤；以下按宁缺毋滥原则收录。
