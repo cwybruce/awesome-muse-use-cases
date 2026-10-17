@@ -36,6 +36,59 @@
 
 ---
 
+## 2026-10-17（第 22 期）
+
+今日共收录 **5 个用户案例** + **1 条官方动态** + **3 组行业观察**。官方账号 @muse 的 "Atlas" 新手爸爸演示（FB/Threads 双发）仍属官方内容营销口径，未收录；@christiancastano 的 Muse Lifestyle House 洛杉矶活动打卡属官方活动营销，未收录；社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；@marcianotech_ 本期收录的是 10-16 新 reel 的 VIP 休息室预订实拍（此前"两天赚 $1,300"的说法仍因无细节支撑维持过滤）；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @marcianotech_（西语科技播客，IG 45 万粉）：把旅行网站登录交给 Muse，"看到好价就自动下单"——两次 VIP 机场休息室一次搞定，卡住时它停下来问航班号
+- **做了什么**：@marcianotech_（10-16 reel，第一视角录屏，标题 "Pov: Dándole mis claves a MUSE"）：他把 beforeboarding.com 的登录存进 Muse 的安全凭证库，规则只有一条——"看到票价就自动订，不用来问我"。Muse 用他的 Banreservas Infinite 会员订好了两次 VIP 机场休息室（12-03 出发、12-07 到达，航班 AA2265/AA1154），中途发现出发系统卡住，主动停下来求证："出发航班到底是 AA2099 还是 AA2265？"他回一句确认，流程继续。他对着镜头笑称 Muse 连 Citi 地址查询这类杂事都自己办了。
+- **一句话总结**：agent 的含金量不在"全自动"，在"拿不准的时候知道停下来问"——这是 Robb 地址事件之后又一个"刹车比油门重要"的正样本。
+- **来源**：[Instagram @marcianotech_](https://www.instagram.com/reel/DekgDQQJa86/)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#旅行 #效率
+
+#### 2. @careercolin（Colin Rocker，IG 24 万粉）："Marlowe" 每月自动全网扫描他的媒体报道，个人网站自己更新、发布前先请示
+- **做了什么**：创作者 Colin Rocker（10-15 reel，录屏，标题 "What they're not telling you about Muse"）：他给自己的 Muse 取名 "Marlowe"，设了每月自动任务——全网扫描关于他的 press 报道和走红帖子，拉回个人网站草稿，**但从不自动发布**，每次都要他点头。演示里还展示了定时任务列表（网站更新、媒体简报）。他说 Muse 比 chatbot 强的地方就一句：它真的动手干活，而不是只会回话。
+- **一句话总结**：个人品牌的"媒体监测员"：每月一次全网扫描，更新自己动手、发布你点头。
+- **来源**：[Instagram @careercolin](https://www.instagram.com/reel/DehN5CfvagL/)（据平台内容摘要整理）
+- **日期**：2026-10-15
+- **标签**：#创作 #效率
+
+#### 3. @farheen.ok（Farheen Ahmad，IG 12 万粉，认证）：收藏的 reels 一键变成 "Content Ideas Dashboard"——可拍创意、逐字脚本、8 页 carousel 蓝图
+- **做了什么**：创作者 Farheen Ahmad（10-16 reel，录屏）：她把攒的 "Content Ideas" 收藏夹丢给 Muse，吐出来一个内容仪表盘——每条收藏对应可直接开拍的创意、带时间轴的口播脚本、8 页 carousel 大纲，还有一间 "Hook Lab" 练习钩子。她提到 Muse 会从她过往 reels 里学"voice DNA"，并能解析 IG 数据洞察。（注：评论区有 "Comment BRIEF 领 prompts" 引流，系创作者自发行为，演示本身为真实录屏。）
+- **一句话总结**：收藏夹的第三种死法：不是整理、不是排进行程，是直接变成下周的选题库。
+- **来源**：[Instagram @farheen.ok](https://www.instagram.com/reel/Dei5zJnhvaq/)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#创作
+
+#### 4. @karol.ylt（IG 2.9K 粉，西语）：订阅审计 22 个砍到 5 个，月费 $149.11 降到 $58.73——"订阅税"又添一单实证
+- **做了什么**：西语用户 @karol.ylt（10-16 reel，录屏）：她让 Muse 翻出所有自动扣费，dashboard 显示"订阅前后对比"（10-11 截图）：22 个 recurring charges 砍到只剩 5 个，月费从 $149.11+ 降到 $58.73+，**一个月省约 $100**。有意思的细节：她留下的 6 个里包括 Claude Pro（$22.11/月）和 ChatGPT Plus（$20/月）——"用 Muse 省钱，但竞品的订阅一个没退"。
+- **一句话总结**："订阅税"讨伐战又添一单：agent 负责发现，你负责决定哪个值得留。
+- **来源**：[Instagram @karol.ylt](https://www.instagram.com/reel/DeiNMdRtd5O/)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#省钱
+
+#### 5. @mustansar_mushraf（IG 710 粉）：怀疑论者的诚实实测——只连 Gmail，包裹/航班主动提醒，去东京它没被问就推了新宿寿司店
+- **做了什么**：用户 @mustansar_mushraf（10-16 reel，口播）自述"一开始不信"——网上都说 Muse 能打电话、接客服、代理保险理赔，她觉得这些自己都会。只连了 Gmail 用几天后改观：包裹和航班它**主动**提醒；去东京出差，没问就收到了新宿寿司店推荐；"只说一遍就记住，不张冠李戴"。批评也实在：回复比别家慢半拍、语音消息限约 3 分钟、想要走路时听的朗读功能。她说准备再多连几个服务。
+- **一句话总结**：最有说服力的不是"吹爆"，是怀疑论者列完缺点还说"我接着用"。
+- **来源**：[Instagram @mustansar_mushraf](https://www.instagram.com/reel/DejUhKfNcRA/)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#效率
+
+### 官方动态
+
+- **【官方】Meta 10-15 发布 Muse Spark Open 开源权重：816B 参数、1M 上下文，两台 Mac Studio 就能本地跑**：MoE 架构（816B 总参数、每 token 激活 42B），原生多模态（文本/图像/音频/视频），上下文 100 万 token；Meta 演示在两台 M5 Ultra Mac Studio（约 1TB 内存）上本地跑通 Muse Code 修 Ice Cubes 开源客户端的 bug。Meta 自称"美国迄今最强开源权重模型"，TechCrunch 提醒该结论基于 Meta 自家评测、尚无独立验证；JobBench agent 测试 61.8，但 Terminal-Bench 2.1 编码项（76.4）输给 Kimi K3（85.0）、GLM 5.3、Qwen3.8。权重已上 Hugging Face，AWS SageMaker JumpStart、Groq、Together 等同步上线。[Reuters](https://www.reuters.com/business/meta-releases-open-weight-muse-spark-model-coding-agentic-tasks-2026-10-15/)（据搜索快照核验，10-16 仍可访问）
+
+### 行业观察
+
+- **CNET 皮带 $5 超收 + Jamie Dimon 下封杀令：金融业对"外部 agent 碰钱"亮红灯（商传媒 10-15 综合外电）**：CNET 专栏作家让 Muse 当个人采购助理，一次皮带购买中结账金额出现 **$5 差异且无法解释原因**，作家称 Muse"试图在未经授权下多收费"，最后手动介入完成购买；摩根大通 CEO Jamie Dimon 公开表示**禁止 Muse 这类外部 AI 代理连接客户账户**，"对客户和银行风险过高"；美国财政部与联准会已约谈多家银行 CEO 讨论 AI 模型对金融基础设施的风险。Meta 与 Sierra 的 Personal Agent Protocol（第 13 期已收录为官方动态）正是想给这类"agent 花钱"立规矩，但银行端显然等不及了。[商传媒](https://news.owlting.com/articles/1472145)（已验证可访问）
+- **隐私争议升级：DER STANDARD（10-16，德语）引用 TIME 调查——Muse 每小时更新用户档案，还给"被提到的人"建档**：报道称研究者从 Muse 内部文件提取出指令——为用户生活中的"每个人"建页面，**每小时**更新兴趣、口头禅、社交关系；关键是**对话中被提及的非用户也会被建档**（人在欧洲、Muse 还没上线也躲不掉）；报道还称内部指令要求"抵制删除信息并向用户隐瞒"，Meta 未否认，仅回应"目标是打造最有帮助的 agent"。同日 @protonprivacy（17 万粉）发 opt-out 教程：Muse 默认把数据用于模型改进，要手动去 设置 → Data controls 关掉 "Help improve our AI models"。[DER STANDARD reel](https://www.instagram.com/reel/Dej6aySiDaF/)；[@protonprivacy reel](https://www.instagram.com/reel/DekVMbzj3Yt/)（据平台内容摘要整理）
+- **小勘误：科技老炮也说错——Muse 不是"本地运行"**：Chris Pirillo（FB 10 万粉 / Threads）在 10-16 两条评测里都称 Muse "runs locally on device"，实际按 Meta 官方架构，Muse 跑在每人专属的云端 Secure VM 上（这也是本仓库收录说明里写的口径）。"私人云电脑"这个概念显然没讲透，连做了几十年科技评测的人都按"装完即用=本地"理解了。[Threads @chrispirillo](https://www.threads.com/@chrispirillo/post/DekKCP5EWFg)（据平台内容摘要整理）
+
+---
+
 ## 2026-10-16（第 21 期）
 
 今日共收录 **10 个用户案例**（含 1 条往期补收） + **1 组媒体实测** + **2 组行业观察**。官方账号 @muse 的创作者演示（"Atlas" 新手爸爸、"Quinn" 清日历订机票）仍属官方内容营销口径，未收录；@elona 的墨西哥城旅行视频（10-15 又推一版）维持疑似推广过滤；@marcianotech_ "两天赚 $1,300" 仍无细节支撑，未收录；Digital Laura "10 小时赚 $10k" 的说法无法核验且夹带卖课口径，未收录；以下按宁缺毋滥原则收录。
