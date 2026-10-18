@@ -36,6 +36,71 @@
 
 ---
 
+## 2026-10-18（第 23 期）
+
+今日共收录 **7 个用户案例** + **1 组媒体实测补遗** + **1 组行业观察**。官方 @muse 账号的 "Alfred" 伦敦旅行广告（FB/Threads 双发）与 "Topo" 徒步愿望清单视频属官方内容营销口径，未收录；社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；@elona 的墨西哥城旅行视频维持疑似推广过滤；Barrett Pall 的隐私警告视频（6.9 万赞）与第 22 期 DER STANDARD/TIME 口径重复，未重复收录；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @tracyniurealestategroup（Tracy Niu，房产经纪）：开车时说句话，行车记录仪比完价、语音走完下单直到支付验证
+- **做了什么**：房产经纪 Tracy Niu（10-16 reel，车内实拍）：她把车当移动办公室，想给 Tesla Y 配车内行车记录仪。与其停车手动研究，她直接对 Muse 说需求——Muse 独立全网搜索、对比多款行车记录仪的型号/功能/价格、解释差异、一步步带她选出最合适的；更惊人的是下单环节：她只报了名字和收货地址，Muse 全程语音走完结账，一直干到支付验证那一步。她说："人与人的差距以后在于，谁把重复劳动交给 AI。"
+- **一句话总结**：agent 购物的完全体：研究它做，下单它走，你只负责报地址。
+- **来源**：[Instagram @tracyniurealestategroup](https://www.instagram.com/reel/DekeUDtiySB/)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#效率 #购物
+
+#### 2. @mellow.circe（"AI Operating System"）：小商户用法——每天 7 点 AI 音频晨报、Canva 里直接改设计、"Ideas" 标签页主动推动作
+- **做了什么**：博主 Cercie（10-17 视频）演示 Muse 的生意用法：① 连 Instagram，把收藏帖整理成合集、拉账号洞察、起草帖子；② 设了每天 7 点的免费 "morning audio briefing"——日历事件 + AI 新闻摘要，像有个幕僚长；③ 新 connectors：Shopify、Notion、Asana、Klaviyo、Canva，Muse 能**直接在 Canva 里改设计**；④ "Ideas" 标签页根据聊天记录主动建议下一步动作。她说这是"上手 AI 做生意摩擦最小的一条路"。
+- **一句话总结**：从"替你办事"到"替你开早会"：晨报 + 跨应用干活 + 主动建议，三件套齐了。
+- **来源**：[Instagram @mellow.circe](https://www.instagram.com/reel/DemsvgHDp2Y/)（据平台内容摘要整理）
+- **日期**：2026-10-17
+- **标签**：#效率 #创作
+
+#### 3. @aakashg0（Threads，2 万粉）：万字 cheat sheet "How to actually use Muse"——14 个板块，从航班延误索赔到 SOUL.md 写规则
+- **做了什么**：Aakash Gupta（10-17 Threads 长图文，信息密度极高）：一张图讲透 Muse 实战——能做什么（航班延误索赔、订完票继续盯价格、设定"目标"而不是写提示词、Shopify/Expedia/Amazon 下单、Notion/GitHub/Gmail/Calendar 协同干活、成品导出 PDF/网页）、10 分钟上手流程、把规则写进 SOUL.md（类似第 20 期 AGENTS.md 的"员工手册"）、四步循环 Connect → Set a goal → Approve → Review，以及"每一步审批都要亲自读"。
+- **一句话总结**：说明书级别的民间沉淀：先给目标不给提示词，审批每一步亲自读。
+- **来源**：[Threads @aakashg0](https://www.threads.com/@aakashg0/post/DemmDBLmrKt)（据平台内容摘要整理）
+- **日期**：2026-10-17
+- **标签**：#学习 #效率
+
+#### 4. @jenna_stufflebeam（Threads）：给 Muse 改名 "Rio"——做价签、整理税务文件夹、算 Amazon 投资回报、发催款、退重复订阅
+- **做了什么**：Threads 用户 Jenna Smith（10-16 发帖）：她的 Muse 叫 "Rio"，干的全是小生意杂活——设计价签和标签、把文件归进税务文件夹、算 Amazon 上的进货总额和投资回报、管邮件、约时间、发催款提醒，还找出并退掉重复订阅。她说这是个"忙碌的数字帮手"，生意和生活杂事一肩挑。
+- **一句话总结**：小商户的"一人财务+行政"：价签它设计，税单它归档，重复扣费它揪出来。
+- **来源**：[Threads @jenna_stufflebeam](https://www.threads.com/@jenna_stufflebeam/post/Dej37UtoE1k)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#效率 #省钱
+
+#### 5. Dennis Yu（FB，认证 6.6 万粉）：Muse 识破 Frontier "直飞"是假的——评论区却吵翻：有人夸，有人说"周额度 5 小时烧完"
+- **做了什么**：营销人 Dennis Yu（10-16 FB 发帖，工作流截图）：他让 Muse 核对一班 Frontier LGA→LAS 17:30 航班，Muse 纠正——这班根本不是直飞，经停亚特兰大、23:08 才到，并给出 Frontier Basic $188/Bundle $219、Southwest 经丹佛/纳什维尔 $279 等替代方案。侧栏还显示他的任务清单（Gmail autopilot 核验、会议纪要、voucher 余额追踪）。有意思的是评论区：有人夸真香，有人吐槽错误率高、"一周额度 5 小时就烧光"。他本人回：团队场景建议走 GitHub 共享上下文。
+- **一句话总结**：最有价值的不是"全对"，是"错了也看得见"——截图 + 评论区构成一张诚实的成绩单。
+- **来源**：[Facebook Dennis Yu](https://www.facebook.com/dennisyu/posts/pfbid0cJLs24cNx4pPSVA73eoavr58xgK8SPPptMGoLHZ6pwzQAaUhuUkNvpfGs3gXhuEGl)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#旅行 #效率
+
+#### 6. @pages_by_vani（IG）："Job portals Part 3"——简历喂进去，每天 9 点自动扫 Robert Half/Kforce/Insight Global 投简历
+- **做了什么**：求职博主 Vani（@pages_by_vani，10-16 reel）：她把求职自动化做成了定时任务——简历上传给 Muse，设为每天早上 9 点自动跑：打开 Robert Half、Kforce、Insight Global 等招聘站，按她的条件筛岗、投简历，还建议把提示词按个人情况定制。这是她 "Job portals" 系列第三集，前两集讲手动版，这一集是"睡后投简历"版。
+- **一句话总结**：求职自动化的终局：你睡觉，它在 9 点准时替你"上班"。
+- **来源**：[Instagram @pages_by_vani](https://www.instagram.com/reel/DeiWpOLPXk7/)（据平台内容摘要整理）
+- **日期**：2026-10-16
+- **标签**：#效率
+
+#### 7. Digbly 整理的 Reddit + X 合集（10-17 更新）：保险客服代打电话、销宽带还薅到赔偿费、睡着时自动投简历、Joe Devoy 车险一年省 $3,500
+- **做了什么**：科技博客 Digbly 翻完一堆 Reddit 帖和 X 推文，攒出 10 个"真省时间"案例（**二手转述，原帖未逐一核验**）：① Reddit 网友 ExaminationAny9939——让 Muse 代打家庭保险客服电话，绕过自动语音菜单直接找到真人；② Embarrassed_Clerk458——Muse 帮他取消家庭宽带，还顺手要到一笔"不便赔偿费"；③ Kooky_Sheepherder_84——找工作全自动：筛岗、按岗位改简历、睡着后自动投递；④ jinkstr86——接 Gmail + Squarespace，Muse 实时建好博客页和周边商店；⑤ Tempo 创始人 Joe Devoy——Muse 比出同等保障的车险，**一年省 $3,500**；⑥ Dalton Mills CEO Todd Saunders——让 Muse 跟 Verizon Fios 重新谈价，**一年省 $180**；另有航班延误索赔、自动下单买菜、约保洁、批量清促销邮件、抢限量球鞋。
+- **一句话总结**："省钱 + 代办"依然是 Muse 的基本盘：数字越具体可信度越高——$3,500 那单来自具名创始人。
+- **来源**：[Digbly（10-17 更新，Reddit/X 转述合集）](https://digbly.com/en/post/i-scoured-reddit-for-muse-ai-use-cases-10-that-will-actually-save-yo)（据文章摘要整理；原帖未逐一核验）
+- **日期**：2026-10-17（文章更新）
+- **标签**：#省钱 #效率
+
+### 媒体实测补遗
+
+- **Scientific American "Meet Mark and Sam" 正文细节（10-15，记者 Mary Randolph，补第 17 期简记）**：她把一周差事分别交给两个 agent——"Mark"（Muse）vs "Sam"（OpenAI Dots）。实战记录：跟 Facebook Marketplace 卖家砍价买下一张二手餐桌、订 U-Haul 搬家车、整理预算、按 Spotify 口味找演唱会。一周下来 Mark 拿到了她的邮箱、银行账户、社媒和 Spotify 全套权限。结论很诚实："Both helpful and terrifying"——好用是真好用，但她发现自己"想得越来越少、外包得越来越多"，有些活还不如自己干。**注**：主流科学媒体的第一份 agent 对照实测，结论不吹不黑。[LinkedIn 转载](https://www.linkedin.com/pulse/meet-mark-sam-ai-agents-ran-my-errands-week-scientific-american-w5f6c?trk=organization_guest_main-feed-card_feed-article-content)（据搜索摘要整理）
+
+### 行业观察
+
+- **agent 封杀地图更新（rrtechpulse 10-17）：Delta/美航系不让玩，合作商店那条路是通的**：续第 22 期"金融业亮红灯"——这篇梳理了哪些商家对 agent 关门、哪些开门：Delta 航班目前没有官方 agent 通道，Yelp 要收付费 license 才让进；但 CNBC 证实 Muse 在合作零售商（Walmart、Gap、Sephora、Expedia、Wayfair、Best Buy）这条路是通的：它备好订单、等你审批再下单。银行端建议用银行自家助手（如 Schwab 的 Charley）而不是"替你登录"的通用 agent。Meta 的回应："拒绝一个 personal agent，就是拒绝它背后的顾客。"[rrtechpulse](https://rrtechpulse.com/stories/ai-agents-blocked-banks-yelp-delta/)（据搜索摘要整理）
+
+---
+
 ## 2026-10-17（第 22 期）
 
 今日共收录 **5 个用户案例** + **1 条官方动态** + **3 组行业观察**。官方账号 @muse 的 "Atlas" 新手爸爸演示（FB/Threads 双发）仍属官方内容营销口径，未收录；@christiancastano 的 Muse Lifestyle House 洛杉矶活动打卡属官方活动营销，未收录；社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；@marcianotech_ 本期收录的是 10-16 新 reel 的 VIP 休息室预订实拍（此前"两天赚 $1,300"的说法仍因无细节支撑维持过滤）；以下按宁缺毋滥原则收录。
