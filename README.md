@@ -36,6 +36,73 @@
 
 ---
 
+## 2026-10-20（第 25 期）
+
+今日共收录 **6 个用户案例** + **1 条官方动态** + **2 组行业观察** + **1 条竞品对照补记** + **1 起警示**。官方 @muse 账号 10-18/19 的两条演示（Matthew Berman 版狗生日卡/冰箱晚餐重发、Jenny Stojkovic 税务工具 vlog）仍属官方内容营销口径，未收录；Jen Lehner 那条 FB reel 讲的是 Instinct 不是 Muse（已过滤）；@eluna.ai（52 万粉）的"互联网开始封杀 AI agent" carousel 与第 22/23 期封杀地图内容重复，未重复收录；印度/中东区仍以邀请码刷码与 VPN 教程为主（非真实用法，已过滤）；多语言"介绍 Muse 是什么"的科普视频继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @ellharve（Ellie，IG 14 万粉，10-19）：哥大开学季——她的 Muse 叫 "Buttons"，从邮件里抓会议、查重课表、起草跟进邮件
+- **做了什么**：创作者 Ellie（10-19 vlog，哥伦比亚大学图书馆实拍）："late start day productive with me"——她把开学行政琐事全丢给 Muse（改名 "Buttons"，猫头鹰头像）：从邮件里抓出学校会议、排进日历、查跟课程时间的冲突、起草跟进邮件给她过目。Muse 干活的功夫，她只管挑一篇论文写文献综述。"把重复劳动交出去，把脑子留给正事。"
+- **一句话总结**：学生党的 agent 用法就该这样：行政杂事说句话，论文时间省下来。
+- **来源**：[Instagram @ellharve](https://www.instagram.com/reel/DerbXHXx6Gu/)（据平台内容摘要整理）
+- **日期**：2026-10-19
+- **标签**：#学习 #效率
+
+#### 2. Heather Bayer（FB，10-19）：给 Muse 起名 "Holly"——柏林+巴塞罗那多城游全包，还替她给物业经理备 AI 培训课
+- **做了什么**：Heather Bayer（10-19 FB 长帖，声明"非广告"）：过去几周她的 Muse "Holly" 干了——① 规划柏林+巴塞罗那多城游：机票酒店、按天气列打包清单、check-in 提醒；② 管日历和出发提醒；③ 查餐厅、eSIM 做功课；④ 把零散笔记转成 checklist、SOP 和文档；⑤ 收件箱分拣+起草回复；⑥ 搭个人 tracker；⑦ 本职工作：给物业经理们备 AI 课程和培训材料。评论区有人追问跟 Claude/ChatGPT 的区别，她回"直接上手干活的是 Muse"。
+- **一句话总结**：从旅行到本职工作全接：agent 的上限取决于你敢把多少"真活"交出去。
+- **来源**：[Facebook Heather Bayer](https://www.facebook.com/heather.bayer/posts/pfbid0PYt8vGaadz6VSEx5c61DGfBjgFYmh8yM3CxKcqCnS4Wn56pZyypR69A2jcU4sE5Ql)（据平台内容摘要整理）
+- **日期**：2026-10-19
+- **标签**：#旅行 #效率
+
+#### 3. @buildwabhiroop（18 岁大一新生，10-18）：三个用法——预算表、课表打工自动排、IG 内容研究，全是"没钱没时间的学生党"刚需
+- **做了什么**：18 岁大一新生 Abhiroop（10-18 reel，口播实测）：① MONEY——告诉 Muse 每周工资，吐出 "Earnings & Expenses" 预算表（Loblaws、Tim Hortons、Presto 等逐笔记）；② CALENDAR——接入学业+打工排班，自动往 Google Calendar 加事件（"USS Interview"），在课和健身房之间找空档；③ CONTENT——连上 Instagram，研究哪条视频数据好、按趋势出新点子。他说"这三样是我真正在用的"。
+- **一句话总结**：预算、时间、副业——学生党的三座大山，agent 一次扛了。
+- **来源**：[Instagram @buildwabhiroop](https://www.instagram.com/reel/Deo8KSFBNTp/)（据平台内容摘要整理）
+- **日期**：2026-10-18
+- **标签**：#学习 #效率
+
+#### 4. Jerry Province Bonhomme（FB metasmuse 小组，10-18）：Muse 写不到本地文件？他花 6 小时自己搭了座桥，还开源到了 GitHub
+- **做了什么**：小组用户 Jerry Province Bonhomme（10-18 帖）："Muse 管生活很好，但不像 Claude 能直接往电脑存文件"——他不想为这一个缺的功能付订阅，干脆花约 6 小时自研了一座桥：让 Muse 能直接写本地文件，还跟他现有的 agent 工具栈打通，代码开源到 GitHub 求 star。评论区一片技术宅共鸣：有人晒了自己的 Windows 版实现，另一个贴出 Muse+Google Drive+Codex+Ubuntu+Tailscale 的混合工作流。
+- **一句话总结**：缺个功能不付费、自己造——maker 文化在 agent 时代的第一批开源产出。
+- **来源**：[Facebook metasmuse 小组帖](https://www.facebook.com/groups/metasmuse/permalink/3180280378831979/)（据平台内容摘要整理；GitHub 仓库链接见原帖）
+- **日期**：2026-10-18
+- **标签**：#代码 #效率
+
+#### 5. @vibgyj（Vibgy Joseph，10-16）：3 段随手拍的素材，剪成一支带配乐的教堂义卖篮视频
+- **做了什么**：Vibgy Joseph（10-16 X 帖，附成品视频）：他让 Muse 把 3 段录好的素材剪成一支教堂拍卖用的礼物篮宣传视频——配乐、变速一次搞定。howtousemuse 标注"剪辑步骤未披露"，但成品视频是贴出来的，路径成立。
+- **一句话总结**："不会剪辑"正在失效：3 段素材 + 一句话 = 一支能用的宣传片。
+- **来源**：[howtousemuse.com 转述整理](https://howtousemuse.com/use-cases)（据文章摘要整理；原帖未逐一核验）
+- **日期**：2026-10-16
+- **标签**：#创作
+
+#### 6. Mike Doan（@michaeltdoan，10-15）：没被要求，它自己干了——Muse 主动甩出一份本地雨伞险比价
+- **做了什么**：Mike Doan（10-15 X 帖）：他的 Muse 没等指令，**主动**给他做了一份本地 umbrella 保险的费率对比；被问及时 Muse 自己承认"确实没被要求"。没有报价单落地、也没有换保单，但"proactive"这个行为本身值得记一笔——agent 正在从"等指令"往"先动手"挪。
+- **一句话总结**：agent 的"主动性"开始冒头：没让你干的活，它先干了——惊喜和惊吓只差一个审批。
+- **来源**：[howtousemuse.com 转述整理](https://howtousemuse.com/use-cases)（据文章摘要整理；原帖未逐一核验）
+- **日期**：2026-10-15
+- **标签**：#省钱 #效率
+
+### 官方动态
+
+- **【官方】Meta 披露商家在用 Muse 干什么（socialmediatoday，10-18）**：Meta 官方口径里商家侧 top prompt 是——"结合这份创意简报，我的 Meta 广告 campaign 该怎么搭？"；商家正在把 Muse 的 Meta Ads 连接器跟 Shopify、Canva、HighLevel 串成一条端到端漏斗：分析产品、定创意方向、按简报出广告；另两个高频用法是搭产品目录和装 pixel 追踪。科技博主 Matt Navarra 同日在 Threads 转述了同一批数据，结论："Ads Manager 正在从手动界面变成'说话就能操作'的对话工具。"[socialmediatoday](https://www.socialmediatoday.com/news/meta-outlines-muse-ai-use-cases-for-businesses/833308/)；[Threads @mattnavarra](https://www.threads.com/@mattnavarra/post/DeriVmSCrkY)（据搜索快照核验，10-20 仍可访问）
+
+### 行业观察
+
+- **AP 调查跟进（10-19）：Matt Robb 地址事件——"授权范围内"的分享，依然能捅出隐私娄子**：美联社 10-19 的调查把 9 月 Robb 事件放进更大的审视——Muse 接管他的 Facebook Marketplace 上架，接受报价、约上门取货、把住址发给买家、买家到时还自动回复"我在家"；Robb 事后才从 Muse 的汇报里得知全程。Meta 承认另一起"试图以低于最低价出售"的失误。研究者警告：**撤回权限不等于删掉 agent 已经处理过的数据**，对话里被提及的非用户也会被建档（呼应第 22 期 DER STANDARD 口径）。[techstartups 转述 AP 调查](https://techstartups.com/2026/10/19/top-tech-news-today-october-19-2026-anthropic-deepseek-idealab-meta-microsoft-more/)（据搜索快照整理）
+- **Semafor（10-16）：电商开始迎战 AI 购物 agent，圣诞季是第一次大考**：数据很具体——Q3 AI agent 流量涨 41.5%，Muse 上线 12 天产生 2,900 万次请求，欺诈平台 Forter 记录 Muse 上线后环比 +229%，Cheq 监测到 agent 流量 100 倍激增；Morning Consult 调查：消费者被 agent 推荐左右的可能性，已经跟被网红带货差不多（但很少有人真放心让 AI 下单）。Amazon/eBay 继续封，Shopify 系继续开——"agent 能不能读懂尺码表"决定这个圣诞谁赚钱。[IG @lifeoflij 转述整理](https://www.instagram.com/reel/DepzIPHIKEk/)（据平台内容摘要整理；引自 Semafor 10-16 报道）
+
+### 竞品对照补记
+
+- **Muse vs OpenAI Dot 实拍对比（Dr. Erin Jacques，17 万粉，10-18）**：同一任务双机实测——Muse 成功规划一周并订好餐厅，Dot 直接 "Task failed"；评论区一边倒：多人证实 Muse 免费档高频使用不撞墙，Dot 要 $100/月的 ChatGPT Pro 档才给玩。**注**：单一样本 + 评论区体感，不做胜负判定，只记一笔擂台实况。[Instagram @dr.erinjacques](https://www.instagram.com/reel/DenZ0LhRFAG/)（据平台内容摘要整理）
+
+### 警示
+
+- **跨应用断层：Meta AI 里建好的备餐清单，Muse 打不开（elliott @cyburke，10-18）**：他让 Muse 复核一份之前在 Meta AI 里建好的备餐购物清单（共享链接），Muse 打不开那条链接；Meta AI 那边也找不回上下文。结论很实在：别假设 agent 能跨应用"接着聊"，重要清单自己粘一份。[howtousemuse.com 转述整理](https://howtousemuse.com/use-cases)（据文章摘要整理；原帖未逐一核验）
+
+---
+
 ## 2026-10-19（第 24 期）
 
 今日共收录 **6 个用户案例** + **1 组行业观察**。官方 @muse 账号的 Threads 演示（Matthew Berman 版：狗生日卡/冰箱晚餐/退款邮件/订阅审计）与 "Topo" 徒步愿望清单视频仍属官方内容营销口径，未收录；社媒新增仍以多语言"介绍 Muse 是什么"的科普视频为主（非真实用法，已过滤）；@johnny_pemberton 的 Threads 葡萄干帖纯调侃，已过滤；印度/中东区仍以 VPN+邀请码教程为主（非真实用法，已过滤）；以下按宁缺毋滥原则收录。
