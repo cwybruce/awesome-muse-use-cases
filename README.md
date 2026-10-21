@@ -36,6 +36,96 @@
 
 ---
 
+## 2026-10-21（第 26 期）
+
+今日共收录 **9 个用户案例** + **1 组聚合站补记** + **1 条官方动态** + **4 组行业观察** + **1 起警示**。官方 @muse 的 "Greg" $500/月挑战 reel（FB/Threads 双发，评论领链口径，疑似推广）与 Jenny Stojkovic 税务工具 vlog（官方内容营销口径）未收录；Dave Seeley 的 FB 帖带邀请码刷码推广，未收录；Brandon Silvers 的 FB reel（狗生日卡/冰箱晚餐/退款邮件/订阅审计）与官方 Matthew Berman 演示同源，未重复收录；@pranavbytes "1000+ millionaires" 评论引流帖、@indlive24hrs 无限 token 教程（灰色地带）、@jazmin.jmv "Muse 融合 ChatGPT/Claude/Grok" 的错误说法，均未收录；多语言"介绍 Muse 是什么"的科普视频继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @austin_sprinz（IG 520 万粉，10-20）："Sprinz Jr"——4 个第一次去夏威夷的人吵不出行程，它去群聊里投票、找便宜机票、主动提出代订
+- **做了什么**：创作者 Austin Sprinz（10-20 reel，520 万粉）给自己的 Muse 取名 "Sprinz Jr"：四个第一次去夏威夷的朋友在群聊里吵不出统一意见，他设了个目标，Muse 去群里"投票"摸清偏好、找便宜航班，洛杉矶出发确认后主动提出代订；出海、浮潜、晚餐、骑马、日落帆船逐项摆选项；旅行中它还继续盯他在酒店健身房的训练——"平时在家练的，度假也不能丢"。注：视频口吻偏推广向，按创作者演示记一笔，不做效果背书。
+- **一句话总结**：群聊吵架终结者：投票它去摸，比价它去跑，你只管玩。
+- **来源**：[Instagram @austin_sprinz](https://www.instagram.com/reel/Deu2UOuMVLu/)（据平台内容摘要整理）
+- **日期**：2026-10-20
+- **标签**：#旅行 #效率
+
+#### 2. Michelle Rigo Bradshaw（FB，10-20）：全职妈妈 "Mira"——翻 2 年 140 单买菜记录，揪出猫零食 9 个月买 16 次全正价，一年多花 $96
+- **做了什么**：全职妈妈 Michelle Rigo Bradshaw（10-20 FB 帖，自述"记不住清单"）：她把 Muse "Mira" 接进 2 年的买菜数据——140 单 Kroger + Amazon 购买记录。分析翻出：猫零食 9 个月买了 16 次，基本全是正价、没走订阅，一年白花约 $96；Mira 还拉了一张 Kroger/Amazon 分仓比价表，日常用品按哪家便宜分仓买。她强调审批权在自己手里，"AI 不能自己下单"。
+- **一句话总结**：超市小票不会骗人：agent 翻旧账，专治"每个月钱去哪了"。
+- **来源**：[Facebook Michelle Rigo Bradshaw](https://www.facebook.com/michelle.rigo.5)（据平台内容摘要整理；原帖直链未能核验）
+- **日期**：2026-10-20
+- **标签**：#省钱 #效率
+
+#### 3. @nicole.designed（IG 3.2 万粉，10-20）："Ami"——企业主接上邮件和 QuickBooks，工作日历+孩子日历双管，自述效率提升 50%
+- **做了什么**：企业主 Nicole（10-20 reel，标题 "MY ASSISTANT IS MAKING ME 50% MORE PRODUCTIVE!"）：她试过好几个真人虚拟助理都不满意，给 Muse 取名 "Ami"，接上邮箱和 QuickBooks，工作日历和孩子的日历一起管，待办、偏好、日程全收拢，"它了解我"——重要事项主动提醒，杂事直接处理。
+- **一句话总结**：换过几个真人助理都不行，最后留下来的是这个 AI。
+- **来源**：[Instagram @nicole.designed](https://www.instagram.com/reel/DeujuX5ptKS/)（据平台内容摘要整理）
+- **日期**：2026-10-20
+- **标签**：#效率
+
+#### 4. @genesiswebdigital（IG，10-19）："Hand It Off Monday"——只读接 IG 数据分析，找出近 30 天 top3（按收藏/分享/涨粉，不看播放量）
+- **做了什么**：小商户主（10-19 reel，"Hand It Off Monday - Ep 2"）：发帖不稳定是小生意的通病，他给 Muse 只读权限接 IG 数据分析（FB Page 连接失败如实说明），brief 写得很细——找近 30 天 top3 帖子（按收藏/分享/涨粉排序，不看播放量）、找共同规律、按他的语气起草下周 4 条（钩子先行），并明确"不许发布、无法核实的主张要标出来"。Muse 正确找出了 top3，发现规律是"早上 9 点左右发的 Reels + 讲失败/测试"，草稿一次成型。
+- **一句话总结**：小商户的内容周报第一次有了"只读分析师"：不看播放量，看收藏和涨粉。
+- **来源**：[Instagram @genesiswebdigital](https://www.instagram.com/reel/Der-Z-Xi21o/)（据平台内容摘要整理）
+- **日期**：2026-10-19
+- **标签**：#创作 #效率
+
+#### 5. Evan Tanner（FB，10-20）：从 ChatGPT 切到 Muse——开店时语音让它从 Walmart 下单补货（pickle spears 别拿成 chips）
+- **做了什么**：小商户主 Evan Tanner（10-20 reel，车里实拍）：他说之前用 ChatGPT，最近切到 Muse，"100% 改变了生活"。用法是开多个专用小助手并行——DJ 助手、集体 CEO、社媒营销助手、卡路里健康助手；实拍演示：开店的同时语音让 Muse 从 Walmart 下单补货，具体到"要 pickle spears 不要 pickle chips"，跨设备一次办完。他也承认"一开始不完美，要调教"。
+- **一句话总结**：多助手并行的雏形：开店、补货、算卡路里，一句话分头干。
+- **来源**：[Facebook Evan Tanner](https://www.facebook.com/reel/941002052108754/)（据平台内容摘要整理）
+- **日期**：2026-10-20
+- **标签**：#效率 #生活
+
+#### 6. Nai Robi（FB，10-19）：孩子学校活动日期自动进日历、晚餐计划提醒、给学校写邮件改电话——从邮件/通知里自动捞信息
+- **做了什么**：家长 Nai Robi（10-19 FB 帖，声明"不是广告"）：她用 Muse 管孩子学校的事——学校活动日期自动进日历、晚餐计划设提醒、给学校起草改电话号码的邮件。她强调 Muse 从邮件和通知里直接捞信息，不用自己手动翻；发件前都要她确认。下一步想让它排健身计划、拍冰箱给备餐建议。
+- **一句话总结**：家校沟通的隐形秘书：通知它看，日历它填，你只管点头。
+- **来源**：[Facebook Nai Robi](https://www.facebook.com/kdgunn/posts/pfbid02Vn3FpWEDASZZGzbpuBuKoG9zHCe4p6tBwTih44YPmaSMk7Gr5oEZhrE4kFyBry6JFCdEzpKDh7XuDpl&id=61563919280323)（据平台内容摘要整理）
+- **日期**：2026-10-19
+- **标签**：#生活 #效率
+
+#### 7. @pablomartinezgarcia_（IG 27 万粉，10-19，西语）：开学用品邮件→$47.80 购物单直接下单；本地 10K 跑步赛自动填报名表；SFO→DEN 延误被监测到、主动改签
+- **做了什么**：西语创作者 Pablo Martínez García（10-19 reel，27 万粉，手机录屏叠加演示）：Muse 读他的开学用品邮件，生成 $47.80 的购物单并下单；监测他的训练数据，找到本地 11 月 "Autumn Trail 10K" 跑步赛，自动填好报名表；监测到 SFO→DEN 航班延误，查备选路线、主动提出改签。屏幕文案："AI that goes shopping for you"。
+- **一句话总结**：购物、报名、改签三连：agent 的"顺手"程度，取决于你敢给多少权限。
+- **来源**：[Instagram @pablomartinezgarcia_](https://www.instagram.com/reel/DesB7OnNTra/)（据平台内容摘要整理）
+- **日期**：2026-10-19
+- **标签**：#购物 #旅行 #效率
+
+#### 8. @carodubi（IG 19 万粉，10-20）：让 Muse 写 "27 uses I implemented"，发现草稿用了过时营销漏斗——追问后 AI 承认是从她上传的旧文件里学的
+- **做了什么**：创作者 Caro Dubi（10-20 reel，19 万粉）：她在美国旅行时随手试了 Muse，回来后让它写一份 "27 uses I implemented with Meta Muse" 视频脚本。审稿时发现草稿里用了过时的 TOFU/MOFU/BOFU 营销漏斗结构，她纠正说 Meta 在 2026 年早就不这么分了；追问错误来源，Muse 承认是从她之前上传的一个旧文件里学来的。一次诚实的"记忆溯源"：agent 的错，有时是你喂的旧料。
+- **一句话总结**：agent 犯错先别骂：报错先查数据源，可能是你自己的旧文件。
+- **来源**：[Instagram @carodubi](https://www.instagram.com/reel/Deuv-e9iiqf/)（据平台内容摘要整理）
+- **日期**：2026-10-20
+- **标签**：#学习 #效率
+
+#### 9. @christophurious（Threads，10-19）：用 Muse 找越来越稀有的 Pez 糖果机，下单寄到 Cape Hatteras Lighthouse——收藏癖的 agent 代购
+- **做了什么**：Threads 用户 @christophurious（10-19 帖）：他用 Muse 定位并购买越来越稀有的 Pez 糖果 dispensers，直接寄到 Cape Hatteras 灯塔——他的"第二个家"。个人收藏爱好 + agent 代购：找货、比价、下单、指定收货地址，一条龙。
+- **一句话总结**：最长情的用法往往最个人：agent 替你蹲的，是童年那只糖果机。
+- **来源**：[Threads @christophurious](https://www.threads.com/@christophurious/post/DeqHvmilIdU)（据平台内容摘要整理）
+- **日期**：2026-10-19
+- **标签**：#购物
+
+### 聚合站补记
+
+- **howtousemuse.com 10-19 新条目（4 则，据页面摘要整理；原帖未逐一核验）**：① Matt Verni（@matthew_verni）——Muse 把蜜月预订邮件和确认函拼成一站式行程总表，酒店/航班带邮件和确认号链接；② Joyful Lee（@joyconfig）——Muse 帮忙从 YouTube Music 迁到 Spotify（迁移了哪些内容未披露，细节较弱）；③ Andriy Buday（@andriybuday，**Meta 员工**，Muse Code 团队）——Muse 在意大利站点找到折扣登山靴，含运费关税仍比美国便宜 $50，他审批后下单、6 天到货（员工自述，按惯例打折看待）；④ Katie Notopoulos（@katienotopoulos，Business Insider）——Muse 提醒她"很久没联系的 Close Friends"，她回"很多人我都在别的渠道聊过了"，质疑这条建议的实际价值——agent 的"主动"也有打空枪的时候。[howtousemuse.com](https://howtousemuse.com/use-cases)（已验证可访问）
+
+### 官方动态
+
+- **Meta 10-12 发布首个 frontier 模型 Muse Wonder / Wonder Full：Active Memory + Active Focus，将驱动 Muse agent（补记）**：Meta Superintelligence Lab 10-12 发布 Muse Wonder 与 Wonder Full，自称公司首个 frontier 模型、"personal superintelligence" 的下一步。两个新能力：Active Memory（跨对话记住用户重要信息、需要时调取，MemoryBench 自称超 Fable/Opus/Astra）和 Active Focus（任务卡住换路子、报错后恢复、重要动作前先确认）。Wonder 走 Meta Model API（$4/$20 每百万 token 输入/输出），Wonder Full 仅限 Muse Code 订阅；官方明确 Wonder 将"很快"驱动 Muse agent，先给订阅用户。TechCrunch 提醒基准成绩基于 Meta 自家评测、尚无独立验证。[TechCrunch](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)（据搜索快照核验，10-21 仍可访问）
+
+### 行业观察
+
+- **@mattnavarra（Threads，10-20）：Muse 美国 40 天破 1000 万下载，2.5M 日活、周环比 +15%，Sensor Tower 口径留存超 ChatGPT/Claude/Grok**：科技博主 Matt Navarra 转述数据——Muse 上线 40 天美国下载破 1000 万（历史上只有 11 个应用做到过），日活 250 万、周环比增长 15%；按 Sensor Tower 口径，其留存已超过 ChatGPT、Claude 和 Grok。他也点出另一面：Meta 10 月广告预算的 39% 砸在推 Muse 上——爆发有营销杠杆，但"留得住"是真本事。[Threads @mattnavarra](https://www.threads.com/@mattnavarra/post/DeuXidzoJP-)（据平台内容摘要整理）
+- **Amazon 没裸奔：@shasha77.daily（志祺，IG 25 万粉，10-19）——"Alexa for Shopping" 是亚马逊的平行答案**：中文科技博主志祺（10-19 reel）反驳"Muse 会颠覆 Expedia/Booking"的叙事：过去一年 Amazon 一直在去外部流量依赖，把自家 "Alexa for Shopping" 做成同样能聚合全网商品、代下单的购物 agent；结论是两家在做"非常相似的事"。呼应第 22/23 期"封杀地图"：Amazon 封 Muse、推自家 agent，两条路并行。[Instagram @shasha77.daily](https://www.instagram.com/reel/DerUP9RCCf_/)（据平台内容摘要整理）
+- **监管视角：@tadhgreynolds（IG，10-20）——Muse 以 Meta 名义浏览，能不能绕过苹果 ATT 追踪规则？**：他从苹果 2021 年 ATT 政策讲起（Meta 当年广告损失约 $100 亿），提出一个问题：Muse 替用户浏览下单，浏览行为算 Meta 的不算用户的，ATT 的墙还管用吗？演示是让 Muse 找 $150 以下的跑鞋、浏览、下单。他没给答案，但这个问题是 agent 时代广告业真正的"房间里的大象"。[Instagram @tadhgreynolds](https://www.instagram.com/reel/DeuG03GTpxv/)（据平台内容摘要整理）
+- **thedailyprompt.ai "53 个 Muse 用法"聚合（页面持续更新，据摘要整理；原帖未逐一核验）**：新一批具体条目——① 批量处理 Chewy 宠物食品报销：Muse 凑齐收据和处方证明，一次提交多份保险申请（用户拖了几个月没办）；② Reddit 用户让 Muse 代打家庭保险公司电话，绕过语音菜单找到真人再转回给用户；③ 图书馆代借书：agent 按一句话要求挑书、下 hold，到馆邮件通知；④ 鞋店老板让 Muse 审计 Klaviyo 邮件自动化：去重、重建模板、开销售追踪，上线前要审批。[thedailyprompt.ai](https://thedailyprompt.ai/agent-uses/agent/meta-muse)（据搜索快照核验，10-21 仍可访问）
+
+### 警示
+
+- **@alarabiya（IG 820 万粉，10-20）：软件工程师 Augusto Nuonui 用 3 天就删了——没连 Gmail，Muse 却提到了"查不了 Anthropic 的邮件"**：半岛电视台系 Al Arabiya 的 carousel 讲了 37 岁美国软件工程师 Augusto Nuonui 的故事：他只给了 Muse Facebook/Threads/Instagram 的有限权限、没连 Gmail；某次对话里 Muse 却说"查不了 Anthropic 发来的邮件"——他从没让它查邮件。他担心邮箱被黑，撤销权限、删了应用。信任一旦出现裂缝，删应用只需要 3 天。[Instagram @alarabiya](https://www.instagram.com/p/Destd6XgTUc/)（据平台内容摘要整理）
+
+---
+
 ## 2026-10-20（第 25 期）
 
 今日共收录 **6 个用户案例** + **1 条官方动态** + **2 组行业观察** + **1 条竞品对照补记** + **1 起警示**。官方 @muse 账号 10-18/19 的两条演示（Matthew Berman 版狗生日卡/冰箱晚餐重发、Jenny Stojkovic 税务工具 vlog）仍属官方内容营销口径，未收录；Jen Lehner 那条 FB reel 讲的是 Instinct 不是 Muse（已过滤）；@eluna.ai（52 万粉）的"互联网开始封杀 AI agent" carousel 与第 22/23 期封杀地图内容重复，未重复收录；印度/中东区仍以邀请码刷码与 VPN 教程为主（非真实用法，已过滤）；多语言"介绍 Muse 是什么"的科普视频继续过滤；以下按宁缺毋滥原则收录。
