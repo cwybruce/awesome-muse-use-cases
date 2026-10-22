@@ -36,6 +36,71 @@
 
 ---
 
+## 2026-10-22（第 27 期）
+
+今日共收录 **5 个用户案例** + **1 组媒体长文补记** + **2 条官方动态** + **1 起警示**。官方 @muse 的 "Greg" $500/月挑战 reel（FB/Threads 双发）仍属内容营销口径（第 26 期已注记），未收录；@klashsarma 的"5 种用法"短片系他人案例截图拼盘（其中 $180 话费即 Dalton Mills CEO Todd Saunders 案，已有收录），未重复收录；多语言"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @cliffordtayloriv（IG 28 万粉认证，10-21）："Doc"——接上日历+邮件，一句"把我这一周理清楚"，会议/拍摄/家庭事项全摊开
+- **做了什么**：创作者 Clifford Taylor IV（10-21 reel，实拍）：他把 Muse 取名 "Doc"（大象头像），接上日历和邮件后让它"把我这一周全部理清楚"——Muse 吐出一份详细周报：经纪会议、内容发布、"The Clifford Show" 拍摄、家庭活动逐项摊开，还主动标出临近事项、设提醒；工作简报、购物、健身排期、广告词排练都顺手接了。他的评价："脑子里永远开着 45 个标签页的人，就缺这么个东西。"
+- **一句话总结**：日历+邮件一接，"这周干什么"第一次不用自己从脑子里翻。
+- **来源**：[Instagram @cliffordtayloriv](https://www.instagram.com/reel/DewzSi2A261/)（据平台内容摘要整理）
+- **日期**：2026-10-21
+- **标签**：#效率
+
+#### 2. @chrispirillo（Threads 1.5 万粉认证，10-21）："Meta's Muse 就是 Gemini 和 Siri 本该成为的样子"——店里选果汁，它按偏好直接点名
+- **做了什么**：科技老炮 Chris Pirillo（10-21 Threads 视频）："Meta's Muse is exactly what Google's Gemini and Apple's Siri should have been all along." 场景很具体：他在店里挑 unboxing 用的果汁，把自己喜欢/不喜欢的口味一条条告诉 Muse，Muse 很快直接点名"就买这款"。一个"在现场、要马上做决定"的瞬间，agent 比搜索引擎管用。（注：他此前曾误称 Muse "本地运行"，本条为其独立的新评价。）
+- **一句话总结**：站在货架前做决定的那 30 秒，agent 比搜索框好用。
+- **来源**：[Threads @chrispirillo](https://www.threads.com/@chrispirillo/post/DevF1JlkrzT)（据平台内容摘要整理）
+- **日期**：2026-10-21
+- **标签**：#生活 #效率
+
+#### 3. Stephanie Stephens（FB，10-20）：深蹲的功夫，租客保险比好买好、地址改好、拉斯维加斯 Airbnb 订好
+- **做了什么**：用户 Stephanie Stephens（10-20 FB 帖）：她把 Muse 当虚拟助理使——比完几家方案后买了租客保险、提交了地址变更、排了邮件优先级、还给拉斯维加斯之行找好并订了 Airbnb。"全程我在健身房深蹲，它在那边干活。"语气偏推广向，按用户实拍记一笔，不做效果背书。
+- **一句话总结**：人练肌肉它跑腿：保险、改地址、邮件、订房，深蹲一组全办完。
+- **来源**：[Facebook Stephanie Stephens](https://www.facebook.com/stephanie.stephens.73/posts/pfbid0RxTJSz3rcfwUY3H6Ae8Z3dTimLPNzmiy8GHaiDwvhcfutoUyG9FcDzeDl)（据平台内容摘要整理）
+- **日期**：2026-10-20
+- **标签**：#效率 #生活
+
+#### 4. David J Baker（FB 认证，10-20）："Erudite"——iPhone 上的 chief-of-staff：研究/起草/排期/发布全经它手，每项单独审批
+- **做了什么**：创作者 David J Baker（10-20 FB 教育帖 "AI AWARENESS No 5 — MUSE"）：他的 agent 取名 "Erudite"，是他每天的工作台面——研究、起草、排期、发布都在 iPhone 上经它手，但每项输出都要他单独审批。他把这叫 "chief-of-staff 模式"：agent 负责准备，人保留决策权。帖子还附了一份 mini SWOT：强项是统一工作流+记忆，弱项是联网能力要逐项放行，忠告是"没读过的内容绝不点批准"。
+- **一句话总结**：从"敢用"到"会用"的分水岭：agent 干活，人只管审批——但批准前必须自己读一遍。
+- **来源**：[Facebook David J Baker](https://www.facebook.com/bakerd95/posts/pfbid02vcxXyjqjuu6fYRRAwo5qeresbphGi6LoCBLaeW9gjncntMaPBZ42p4tPKjMuRqpVl)（据平台内容摘要整理）
+- **日期**：2026-10-20
+- **标签**：#效率 #学习
+
+#### 5. @itstaylorlovelace（IG 2 万粉，10-21）：每天 8 点的 AI 新闻语音简报 + 内容策划，跟 Grok Bot 的"AI 小队"分工不同
+- **做了什么**：创作者 Taylor Lovelace（10-21 reel，厨房实拍）：她拿 Muse 当个人助理——每天早上 8 点听 AI 新闻语音简报、内容策划、拍摄灵感、头脑风暴；同时拿 xAI 的 Grok Bot 做对比：Grok Bot 是"多智能体小队"（Research/Logistics/Planning Bot + Chief of Staff 统筹），Muse 则是"日常杂事一把抓"。两种 agent 范式第一次在同一条视频里被真人用户掰开揉碎讲清楚。
+- **一句话总结**：一个管"每天的杂事"，一个管"一支 AI 小队"——agent 也开始分工种了。
+- **来源**：[Instagram @itstaylorlovelace](https://www.instagram.com/reel/DexGazLPeYZ/)（据平台内容摘要整理）
+- **日期**：2026-10-21
+- **标签**：#创作 #效率
+
+### 媒体长文补记
+
+- **@marcus_49480（Medium，约 10-16）："连接才是产品"——阿拉斯加邮轮比价、Walmart+ 试用到期提醒、$79.77 荷兰锅全程盯单**：Medium 作者 Marcus 的长文 "Your AI Assistant Is Useless Until You Plug It Into Your Life"，核心论点——"聊天不重要，连接才是产品"。他的实测：Muse 查了一家四口阿拉斯加邮轮的实时报价（含税、两个不同周次）；盯着他的 Walmart+ 试用，到期前告诉他按年还是按月续更划算；$79.77 的荷兰锅从下单盯到取货邮件再到取货截止；连上 Google Health Connect 后能看到他的步数（周六 10,147、昨天 9,687）。文末坦白：全文配图都是 Muse 做的，但"还不太像我的文风"。一句话总结：agent 的复利不在聊天框，在你敢连多少个账号——连满两周就回不去了。[Medium](https://medium.com/@marcus_49480/your-ai-assistant-is-useless-until-you-plug-it-into-your-life-a529eef5d4f2)（约 10-16；标签：#效率 #省钱）
+
+### 官方动态
+
+#### A. 【官方】Q3 财报电话会（10-21）：Muse 用户破 1000 万；购物成 top 场景，engaged 购物用户中 1/4 以上平均客单超 $200
+- **内容**：Meta Q3 财报电话会上确认 Muse 用户超 1000 万（Sensor Tower 口径：上线 40 天 1090 万下载、10-16 日活 250 万、7 日留存 30% 超 ChatGPT/Claude/Grok）。扎克伯格披露：约 25% 完成设置的用户现在每天使用；购物是 top 场景之一——engaged 购物用户中超过 1/4 平均客单超 $200，"连内部人都意外"；Plaid 告诉 Meta："我们在其他任何服务上都没见过这种活跃度"（Muse 用 Plaid 连接器连银行做 agent 购物）；并称 Muse 未来单位用户收入有望超过 Facebook/Instagram/WhatsApp/Messenger（目前约每年几百美元）；"Muse Confidential VM"（连 Meta 都看不到用户内容）即将推出。
+- **来源**：[TechCrunch](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)（10-21）
+- **日期**：2026-10-21
+- **标签**：#官方
+
+#### B. 【官方】语音模式已官宣演示（Vaibhav Sisinty，Threads 13 万粉认证，10-21 转述）
+- **内容**：科技创作者 Vaibhav Sisinty（10-21 Threads）称，语音模式是他向 Meta 的 Alex 提的头号需求，"当天已官宣并演示"（现场有 Live Demo 大屏与舞台演示）。他同时抛出判断：Meta 赢 AI 竞赛靠的不是最强代码模型，而是 Instagram/WhatsApp/Facebook/Threads 的分发——Muse 会成为"连他父亲都会用"的通用 agent。（注：官宣口径为其转述，Meta 官方公告原文待补。）
+- **来源**：[Threads @vaibhavsisinty](https://www.threads.com/@vaibhavsisinty/post/Dev-3QWAKy4)（据平台内容摘要整理）
+- **日期**：2026-10-21
+- **标签**：#官方
+
+### 警示
+
+- **【警示】Claroc 分享链接漏洞（10-20）：6800+ 个 Muse 分享聊天可被公开 DNS 查到，含贷款申请、银行流水、住址——Meta 已暂停分享功能**：安全公司 Claroc 研究发现，Muse 的"分享聊天"功能生成的链接把对话标题写进了 URL，这些 URL 进了公开 DNS 查询数据集——一次查询就挖出 6800+ 个分享页面，其中含企业营收文件、贷款申请书、银行交易明细、收入证明、内部休假日历、高管招募笔记。Ars Technica 询问后，Meta 于 10-20 暂停了分享功能。科技博主 @mattnavarra（Threads 4.4 万粉认证）10-20 也转述了此事。[Ars Technica 经 ppc.land 转述](https://ppc.land/meta-halts-muse-share-links-after-6-800-turn-up-in-public-dns-records/)；[Threads @mattnavarra](https://www.threads.com/@mattnavarra/post/DeuVA40oOah)；中文报道见 [marketersgo](https://www.marketersgo.com/uncategorized/202610/meta-ai助理爆隱私漏洞-muse分享功能釀禍外洩用戶數據/)（10-21）
+
+---
+
 ## 2026-10-21（第 26 期）
 
 今日共收录 **9 个用户案例** + **1 组聚合站补记** + **1 条官方动态** + **4 组行业观察** + **1 起警示**。官方 @muse 的 "Greg" $500/月挑战 reel（FB/Threads 双发，评论领链口径，疑似推广）与 Jenny Stojkovic 税务工具 vlog（官方内容营销口径）未收录；Dave Seeley 的 FB 帖带邀请码刷码推广，未收录；Brandon Silvers 的 FB reel（狗生日卡/冰箱晚餐/退款邮件/订阅审计）与官方 Matthew Berman 演示同源，未重复收录；@pranavbytes "1000+ millionaires" 评论引流帖、@indlive24hrs 无限 token 教程（灰色地带）、@jazmin.jmv "Muse 融合 ChatGPT/Claude/Grok" 的错误说法，均未收录；多语言"介绍 Muse 是什么"的科普视频继续过滤；以下按宁缺毋滥原则收录。
