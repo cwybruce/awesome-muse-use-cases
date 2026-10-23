@@ -36,6 +36,58 @@
 
 ---
 
+## 2026-10-23（第 28 期）
+
+今日共收录 **4 个用户案例** + **1 条官方动态** + **1 组媒体长文补记** + **1 组行业观察**。Alexander T Nguyen 的 "Momo" reel 系明显的广告投放口径，未收录；@wrinehart（FB，10-23）"云托管零配置 vs 本地跑 agent" 观点帖带 referral code 引流口径，内容偏观点非案例，未单列；@austie.marie 的 OpenAI/Hugging Face 安全事件分析属时评非用法，未收录；英文区各式 "Muse 是什么" 科普轮播/推广图文继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Palden Bhutia @engineeringwithpalden（IG 23 万粉，10-22）："Scout" 几分钟内列出 7 位教授 + 7 封带简历附件的个性化 cold email；次日早 7 点开车收到教授面谈邀约，三周后拿到下学期研究职位
+- **做了什么**：工程博主 Palden Bhutia（10-22 reel，vlog + 屏录实拍）：他第一个研究职位是靠手动查教授、发 cold email 拿下的；第二个（半导体/AI 硬件方向）他换了打法——在手机上让 Muse "Scout" 找 AI 硬件与半导体研究机会、锁定相关教授、给每位教授写带简历和成绩单附件的个性化 outreach 邮件。几分钟后 Scout 返回 7 位教授名单 + 7 封定制邮件草稿。第二天早上 7 点，他在开车途中收到推送：一位教授回信，邀他当面聊。他直接翘课去参加了教授的量子计算/半导体会议。三周后他宣布：下学期的研究职位已确认，还顺带搞清楚了"接下来该学什么"。结尾钩子"评论 MUSE 给你我的原话 prompt"属引流口径，内容为真人实拍，记一笔。
+- **一句话总结**：找研究职位这件事，被 agent 压缩成了一个 prompt 加三周。
+- **来源**：[Instagram @engineeringwithpalden](https://www.instagram.com/reel/DezJ22_Nq0y/)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#学习 #效率
+
+#### 2. James Caulkins（FB，10-22）："用了一个月，每天都用"——提醒事项、航班搜索、购物比价、库存电子表，全在免费额度里
+- **做了什么**：普通用户 James Caulkins（10-22 FB 帖）：自述已用 Muse 约一个月，现在每天都用——设个人/工作提醒、查航班（多机场比价）、找活动并看营业时间和评价、列购物清单、把投资组合压成一页纸、排日/周/月计划、维护库存电子表、研究潜在购物的最优价格。他还提到 agent 能接 Facebook Marketplace 和 Facebook Groups，"免费额度内够用"。原话带着点岁月感："我年纪大了、很忙，这东西是真帮手。"（注：原帖未给具体省钱数字，按普通用户长期实测记一笔。）
+- **一句话总结**：不追热点，就每天替你把杂事一件件清掉——这才是 agent 的基本盘。
+- **来源**：[Facebook James Caulkins](https://www.facebook.com/james.caulkins.7/posts/pfbid032gWNy4tfh8chpZo6ouSaWLzjqXmQn3dV1RtdFt25BXxrSwTExVWkkQQtYRAMLQTol)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#效率 #生活
+
+#### 3. FB 女博主（6.3K 粉，10-22，reel）："Scout" 六周实战——从零自建 Zazzle 按需印刷店（AI 设计/定价/上架），顺手盯 gym 和 Disney+ 订阅、做债务偿还计划
+- **做了什么**：AI 爱好者女博主（10-22 reel，自拍实拍）：她六周前发现 Muse，给它取名 "Scout"。实战清单：从零自建了一家 Zazzle print-on-demand 店（AI 生成设计、定价、商品上架全经它手）；同时管理多个邮箱账号；盯着 gym 和 Disney+ 等订阅；还帮她做了一份债务偿还计划。她反复强调：每一步动手前都会先征得她的许可。注：视频含 referral code 引流口径，语气偏推广向，按实拍讲解记一笔，不做效果背书。
+- **一句话总结**：一边开店赚钱，一边盯订阅省钱——"副业+省钱"双线程。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/1911790116449738/)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#省钱 #效率
+
+#### 4. Steven Mellor @thestevenmellor（IG 18 万粉，10-22）："$2000/月的内容研究员"平替演示——profile audit 找内容缺口、竞品研究找爆款选题、DM 不漏接、每天早上 8 点一份洞察报告
+- **做了什么**：创作者 Steven Mellor（10-22 reel，屏录实拍教程）：演示他用 Muse 跑创作者工作流——先做 profile audit，找出哪些内容在涨粉、缺口在哪；再研究竞品，找表现最好的选题和 outlier；两个他强调的功能：DM 监控（重要对话不漏接）、每天早上 8 点自动推送一份每日洞察报告。他自称这套流程每周省 10–20 小时。注：标题 "REPLACING YOUR $2000/MO CONTENT RESEARCHER" 属夸张话术，另有"评论 MUSE 领完整指南"引流钩子，按创作者演示记一笔，省时数字为其自述。
+- **一句话总结**：内容创作者的"早报+竞品雷达+DM 秘书"，三合一。
+- **来源**：[Instagram @thestevenmellor](https://www.instagram.com/reel/De0HLpcxY38/)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#效率 #创作
+
+### 官方动态
+
+#### A. 【官方】Adam Mosseri @mosseri（IG 450 万粉认证，10-22）："Bo" 每天早上查天气，自动换一套穿搭——Yeti 头像的一天从穿搭开始
+- **内容**：Instagram 负责人 Adam Mosseri（10-22 reel）：他把自己的 Muse 取名 "Bo"（Yeti 头像），最喜欢的一个细节——Bo 每天早上查天气，自动换一套匹配的穿搭（蓝夹克/灰卫衣/米色针织/浅色西装，一天一款），他管这叫"上班和带娃之前，一个 delightful 的开始"。他还提到 Bo 帮他处理孩子和工作的事。纯属官方种草口径，记一笔：agent 的"每日小确幸"本身也是一种留存设计。
+- **来源**：[Instagram @mosseri](https://www.instagram.com/reel/Dey7vpthPgn/)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#官方 #生活
+
+### 媒体长文补记
+
+- **adtechexplained（10-14，补记）："让我下单的不是比价，是主动"——Broncos 球票每 4 小时自动监控调价，买完票后 Muse 从 Gmail 里认出订单，手机推送告诉我停车场满了、坐轻轨、从离座位最近的门进**：广告科技博主（自述一周 Muse 用户）的实测：让 Muse 按参数（下层看台、20–35 排、Broncos 一侧）找最便宜的 NFL Broncos vs Rams 周日夜赛球票，Muse 扫 Ticketmaster 和转售站、每 4 小时监控调价数日，选中后他接手付款。真正的"aha 时刻"在几天后：他给了 Muse Gmail 只读权限，Muse 从邮件里认出他买了票，主动推送了一条通知——停车场已满、轻轨和网约车上车点在哪、离他座位最近的 stadium gate 是哪一个。他的结论：proactive（主动）是 Muse 与其他 agent 工具的本质区别，"ChatGPT/Claude 配好也能做，但 Muse 做得毫不费力"。[adtechexplained](https://www.adtechexplained.com/p/musing-on-advertising)（10-14；标签：#旅行 #生活）
+
+### 行业观察
+
+- **Threads @aakashg0（10-21）：民间 agent 排行榜 "THE BEST PERSONAL AI AGENT"（统计周期 8-31 至 10-18，用户反馈口径）——Muse 70.5 分第一，Hermes 59.6、Grok Bot 55.4、Hark 50.5 分列其后**：一张信息图帖，非机构测评，按"用户反馈"打分，Muse 领先第二名超 10 分。民间口碑榜，仅供参考。[Threads @aakashg0](https://www.threads.com/@aakashg0/post/DexIq3Dj3CK)（10-21）
+
+---
+
 ## 2026-10-22（第 27 期）
 
 今日共收录 **5 个用户案例** + **1 组媒体长文补记** + **2 条官方动态** + **1 起警示**。官方 @muse 的 "Greg" $500/月挑战 reel（FB/Threads 双发）仍属内容营销口径（第 26 期已注记），未收录；@klashsarma 的"5 种用法"短片系他人案例截图拼盘（其中 $180 话费即 Dalton Mills CEO Todd Saunders 案，已有收录），未重复收录；多语言"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
