@@ -36,6 +36,64 @@
 
 ---
 
+## 2026-10-24（第 29 期）
+
+今日共收录 **4 个用户案例** + **2 条官方动态** + **1 组媒体长文补记** + **1 组行业观察**。官方 @muse 账号的 "Piggy Bank" 订阅审计演示（FB/Threads 双发，10-22）与 Adam Mosseri "Bo" 穿搭 reel（第 28 期已收录）仍属官方内容营销口径，未重复收录；@emiksn（草野绘美）日本上线帖自带 #PR #PaidPartnership 标识、@takudj 等日本创作者 wave（10-23，日本上线次日批量出现）按推广口径过滤；Alexander T Nguyen 的 "Momo" 广告帖第 28 期已注记，未收录；@hiananyaa_ 的 "Momo" 旧金山–东京双城记视频制作高度工业化、无赞助披露但口径同类，按推广嫌疑过滤；@katelsanchez 的 "AI Mom Hack" reel 末尾挂邀请码推广口径，未收录；@utahca（Threads，10-23）一个月体验帖内容较薄，未收录；英文区多语言"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Daniel Tekle（FB，10-23）：等娃下课的 6 小时，Muse 干完了他估算的 80 小时行政杂务——7 个金融账户并成净值表、8000 个联系人清洗、Sedona 春假积分订房、退了 11 个死群
+- **做了什么**：普通用户 Daniel Tekle（10-23 FB 帖）：他在 Circleville Pumpkin Show 等孩子 Isaiah 的乐队活动散场，6 个小时里把一堆个人行政杂务甩给 Muse——7 个金融账户聚合出一张净值表；用积分订好 Sedona 春假酒店、租了一辆可免费取消的 SUV、设了降价提醒；安排了狗狗寄养；远程锁了家里的前门、建了一条按天气自动调温的恒温器规则；清洗了 8000 个联系人（更新头衔、合并重复、删垃圾条目、清理旧同步数据、补照片）；退了 11 个不再活跃的 Facebook 群组；做了一次订阅审计；顺手处理了学校和家庭的后勤杂事。他自己估算这批活手动要干 80 小时。
+- **一句话总结**：碎片时间的正确用法：人等娃，它在后台把半年攒的杂事清了仓。
+- **来源**：[Facebook Daniel Tekle](https://www.facebook.com/danielytekle/posts/pfbid02X1aFJC8zc3zXTqzqb2dY3rtMSXAVrpzPnrvo3G2cgzb3dZBr3Yoi2cUvKFkUjquhl)（据平台内容摘要整理）
+- **日期**：2026-10-23
+- **标签**：#效率 #生活
+
+#### 2. Mia Sato @miasato.2（IG 认证 2.6K 粉，10-22）：把 AI "放进"奢侈品二手站 The RealReal 做实验——$5,844 的山本耀司旧衣被 agent 逐件"加购占坑"，20 分钟一轮、过期放回再抢
+- **做了什么**：创作者 Mia Sato（10-22 reel，屏录实拍）：她给 Muse 下了一道"社会实验"指令——每天去 The RealReal 的 Women's Yohji Yamamoto 区，把最新上架的 10 件加进购物车。The RealReal 的规则是进袋即锁单 20 分钟，等于把货从其他买家手里"占"走了：她展示了 Vintage 2006 战壕风衣（$1,026）、1990's 毛衣等逐件进袋，最多时 9 件、总价 $5,844.50；20 分钟一到 Muse 放回、再抢下一轮。她自己的评价是"看 AI 跟真人抢货，感觉像天才又像恶魔"。她还引用了 The Verge 10-22 的文章：零售商已经开始警惕 AI 购物 agent。
+- **一句话总结**：agent 购物的 B 面：它替你抢货的时候，别人也在被它"抢"。
+- **来源**：[Instagram @miasato.2](https://www.instagram.com/reel/DezQh4Bxqfr/)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#生活 #效率
+
+#### 3. Nathan Cumberbatch @sxintnate（IG 14 万粉，10-23）："Alfred"——搬到新城市建社交圈：让 Muse 在 Threads/IG 按兴趣搜 LA 活动、按类整理好日期场地，再帮他策划暖房派对管 RSVP
+- **做了什么**：创作者 Nathan Cumberbatch（10-23 reel，实拍）：搬到新城市后，他把自己的 Muse 改名 "Alfred"，让它按兴趣（爵士乐、象棋俱乐部、品酒、黑胶、影视活动、现场体育）在 Threads 和 Instagram 上搜洛杉矶的活动，返回结果按类别整理、带日期和场地；接着让 Alfred 帮他策划一场认识新朋友的暖房派对——出主题点子（黑胶之夜、象棋鸡尾酒、品酒爵士夜）、写邀请文案、管 RSVP，屏幕上直接出现 "RSVP Tracker"。他的观点："建立连接最好的方式是主动发起，找活动和后勤交给 AI。"
+- **一句话总结**：agent 当"社交包办人"：你负责出门交朋友，它负责让你有地方可去。
+- **来源**：[Instagram @sxintnate](https://www.instagram.com/reel/De2JffVoWxU/)（据平台内容摘要整理）
+- **日期**：2026-10-23
+- **标签**：#生活 #效率
+
+#### 4. Sara Goldberg（FB，10-22）：女儿 Hannah 的一年级班级合影日差点错过——Muse 盯学校邮件，前一晚 18:30/20:30 连发两条、当天早上 7 点再推一条，外加全天日历事件
+- **做了什么**：妈妈用户 Sara Goldberg（10-22 FB reel，实拍）：她让 Muse 监控学校邮件。10-19 晚上 8 点她才意识到女儿 Hannah 的一年级班级合影日是 10-20——Muse 已经发了提醒（"明天是 Hannah 的班级合影"），还附上 Grade 1/1A 邮件的摘要；她的偏好设置是：重要事项前一晚 18:30 和 20:30 各推一条、当天早上 7 点再推一条，外加一个全天日历事件。同一次还顺手提醒了同一天的 Parc du Mont-Royal 秋游（出发时间+穿衣建议）。她的评价很直白：这就是给健忘家长准备的。
+- **一句话总结**："妈妈脑"外包：三连提醒 + 日历事件，重要日子第一次不用靠运气记住。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/1782306763027675/)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#生活
+
+### 官方动态
+
+#### A. 【官方】Muse 10-22 在日本上线（@metajapan 10-23 Threads 公告）：演示填 10km 比赛报名表、抢课、发邮件改期
+- **内容**：Meta 日本官方账号（10-23 Threads 公告+演示视频）：Muse 10-22 起在日本上线。演示场景包括：睡眠分数+训练计划面板；主动建议报名 11-27 的本地 10km 比赛，用户同意后 Muse 在线填写报名表（姓名/邮箱/电话/预测成绩）并确认"报名完成"；会议改期邮件经 Gmail 发出；官方回复确认免费可用、有付费升级选项。注：日本上线首日即出现一批创作者推广帖（如 @emiksn 带 #PR 标识），本条只记录官方上线事实。
+- **来源**：[Threads @metajapan](https://www.threads.com/@metajapan/post/De0MwsdE49K)（据平台内容摘要整理）
+- **日期**：2026-10-23
+- **标签**：#官方
+
+#### B. 【官方补记】扎克伯格财报电话会延伸：从 1000 万用户到"数十亿个 Muse 互联"的 agent 社交网络愿景（10-22）
+- **内容**：Q3 财报电话会（10-21）之外，扎克伯格在 10-22 的相关表述被 @verge、@mattnavarra（Threads）与 Gizmodo 转述：Meta 的计划是把 Muse 从现在的 1000 万+用户扩张到服务数十亿人，让每个人的 Muse 互联协作、替人办事。@mattnavarra 引用的评论点出了关键治理问题："agent 之间协作是简单的 demo，难的是权限——一个 agent 联系另一个人之前，要经过谁的同意。"（第 27 期已收录财报数字：1000 万用户、约 25% 日活、购物为 top 场景；本条补记愿景口径。）
+- **来源**：[Threads @mattnavarra](https://www.threads.com/@mattnavarra/post/Dey-y-aikfQ)（据平台内容摘要整理）
+- **日期**：2026-10-22
+- **标签**：#官方
+
+### 媒体长文补记
+
+- **thedailydribble（约 10-4，补记）：《Four Days With Meta's Muse》——"我不是在找一个要伺候的 Tamagotchi"：6:15 早报+AI 新闻扫描常驻，湖人队晚间内容 routine，喜剧演出出行、祖父母节报名+给父母的邮件、名单表格转 Google Sheets、给伴侣的美食清单、亚马逊和解金研究全是"顺手"**：博主 9-30 开了 30 天试用，四天后从怀疑转"get it"：Muse 的云端电脑在对话之间保留上下文，不用每次从头交代。他的评价点：产品页上都好听，真正的考验是"它能不能塞进一个普通人的星期"。[thedailydribble](https://www.thedailydribble.com/news/four-days-with-meta-s-muse-and-i-m-starting-to-get-it)（据搜索快照整理；标签：#效率 #生活）
+
+### 行业观察
+
+- **Sensor Tower 口径（Marketing Brew 10-23 转述）：Muse 上线 14 天留存率 23%，高于 ChatGPT/Claude/Grok 平均 16%**：与第 27 期"7 日留存 30%"口径互相印证（不同统计窗口）。Gartner 分析师 Eric Schmitt 的提醒一并记一笔：消费者对把信用卡"无限制访问权"交给 agent 的信任障碍仍在，"现在下结论说 agent 会被大众广泛采用，还为时过早"。[Marketing Brew](https://www.marketingbrew.com/stories/meta-muse-popularity-barriers-to-adoption)（10-23）
+
+---
+
 ## 2026-10-23（第 28 期）
 
 今日共收录 **4 个用户案例** + **1 条官方动态** + **1 组媒体长文补记** + **1 组行业观察**。Alexander T Nguyen 的 "Momo" reel 系明显的广告投放口径，未收录；@wrinehart（FB，10-23）"云托管零配置 vs 本地跑 agent" 观点帖带 referral code 引流口径，内容偏观点非案例，未单列；@austie.marie 的 OpenAI/Hugging Face 安全事件分析属时评非用法，未收录；英文区各式 "Muse 是什么" 科普轮播/推广图文继续过滤；以下按宁缺毋滥原则收录。
