@@ -34,6 +34,56 @@
 - **可信度提示**：9 月中旬 Alexandr Wang 发起的 `#MuseMoneyChallenge`（晒省钱成果）中，Business Insider 指出**不少参与者是 Meta 内部员工**，相关金额案例请打折看待。
 - Muse 目前仅面向**美国、加拿大** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+- Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
+
+---
+
+## 2026-10-25（第 30 期）
+
+今日共收录 **4 个用户案例** + **1 条官方动态** + **1 组行业观察**。@hiananyaa_ 的 "Momo" 双城记为第 29 期已过滤帖的同源内容，未重复收录；日本上线 wave 仍在继续（@kazaneat 的 "Neko Robin" 一日 vlog 偏推广口吻，按推广口径过滤）；@ai.with_vi 的"求职自动投递"演示（扫 LinkedIn/Indeed 等站、设 6–8 点自动投递）带 "评论 MUSE 领配置文件" 引流口径，且评论区即有印度用户质疑当地不可用，效果未核验，未收录；Klook 日本官方 reel 属品牌演示口径，合作事实记入下方官方动态，不单列；Dennis Yu 的 token 用量截图帖属用量讨论非用法，未收录；@toolifyai_25 转发的 "Scout" 找教授 reel 系第 28 期第 1 条的同源转发，未重复收录；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Wesley Breed @wesly（IG 33 万粉认证，10-23）："Karl"——F1 奥斯汀周末的"可执行行程表"：地址、时间、交通、梅赛德斯活动优先级一次排好
+- **做了什么**：创作者 Wesley Breed（10-23 reel，奥斯汀大奖赛周末实拍）：他把自己的 Muse 取名 "Karl"（致敬卡尔·本茨），让它排一整个 F1 周末——要地址、要时间、要交通方式，还要按梅赛德斯相关活动的优先级排序。返回的是一张能直接照着走的日程：Mercedes Fan Hub（400 Congress Ave）、开车/停车贴士、可步行的站点顺路排开。视频里还实拍了现场：KIMI's queso e pepe 餐车、AMG GT 展车、带真赛车的 Fan Hub、模拟器与换胎挑战，以及 "Trackside with Muse" 体验区。他的点很准：agent 的价值不在"告诉你有什么"，在"给你一张能直接执行的表"。
+- **一句话总结**：看比赛最怕的不是没票，是到了现场不知道先去哪——一张表替你排好优先级。
+- **来源**：[Instagram @wesly](https://www.instagram.com/reel/De2i8Jlvy7-/)（据平台内容摘要整理）
+- **日期**：2026-10-23
+- **标签**：#旅行 #效率
+
+#### 2. Yuka Ohishi @0oyukao0（IG 2.7 万粉，10-23）："Travel Expense Split"——让 Muse 现做一个分账 App：拍收据自动记账，Airbnb 确认信从邮件里自己捞
+- **做了什么**：日本创作者 Yuka Ohishi（10-23 reel + Threads 同步帖）：她嫌市面上的分账 App 广告多、复杂或要付费，干脆让 Muse 给她做了一个 "Travel Expense Split"——手动加支出，或拍收据照片自动录入；接上 Email 和 Messenger 后，Airbnb 预订确认信能自动被捞进来；最后把结算结果经 Messenger 发给朋友。她的化身是按自家狗 Pino 做的 "Pippi"。场景很具体：一次和两个朋友的 2 晚 3 天旅行，结账算谁欠谁最磨人。注：她在 Threads 帖里明确声明"所示商家与产品为 AI 生成建议、非 Meta 赞助"，与同期日本上线推广 wave 的口径不同，按真实用户作品记一笔。
+- **一句话总结**："没有好用的 App"正在失效：缺的工具，让 agent 现场给你造一个。
+- **来源**：[Instagram @0oyukao0](https://www.instagram.com/reel/De0Y5NbPa7L/)（据平台内容摘要整理；Threads 同步帖见 [Threads @0oyukao0](https://www.threads.com/@0oyukao0/post/De0eUuSDpXw)）
+- **日期**：2026-10-23
+- **标签**：#代码 #生活
+
+#### 3. Michelle Carpintero（FB 小组，10-24）："Glimmer"——ADHD 成年人的"防拖延搭子"：约会提醒、按旧搜索主动推菜谱、拖了很久的上架清单终于发出来了
+- **做了什么**：小组用户 Michelle Carpintero（10-24 FB 帖，自述成年 ADHD、长期受拖延困扰）：她把 Muse 取名 "Glimmer"——约会提醒、按她此前的搜索主动推菜谱建议这类"没被要求但有用"的提醒开始出现；最关键的一句是：以前因为"背景图、标题、简介都要自己做"而一直发不出去的商品上架清单，靠 AI 帮忙很快发完了几单，"感觉自己终于有效率了"。注：原帖未说明是何种商品的上架清单，按"拖延者靠 agent 跨过启动门槛"记一笔，不做带货效果背书。
+- **一句话总结**：对拖延者来说，agent 最大的本事不是快，是让你终于"开始发了"。
+- **来源**：[Facebook 小组帖](https://www.facebook.com/groups/620085907520234/permalink/1146096854919134/)（据平台内容摘要整理）
+- **日期**：2026-10-24
+- **标签**：#效率 #生活
+
+#### 4. thedigitalgal（博客长文，10-21，今日补记）："9 年 CRM 羞耻"一次清仓——9355 个联系人审到 8999 个：合并 289 组、删 356 条，8 组缠不清的留给人判
+- **做了什么**：博主 thedigitalgal（10-21 长文，原文核验）：她从 2017 年起用 Nimble CRM，九年攒下一堆重名、过期、重复的联系人。这个秋天她拉着 Muse 一起审计——先完整备份，合并决定权始终在她手里：最终合并 289 组重复记录、删除 356 条重复项，数据库从 9,355 个联系人清到 8,999 个；8 组冲突太缠的记录 Muse 没猜，直接留给她自己判断。同文还有两条诚实注脚：① 会后一叠名片拍照就进 CRM，不再死在抽屉里；② 她让 Muse 在阿拉斯加航空账号里把机票买成了，但美国航空的站把 agent 当机器人挡了——agent 能走多远，取决于对方网站让不让进。
+- **一句话总结**：数字烂摊子最怕的不是乱，是不敢动——备份 + 逐项批 + 猜不出的留给人，这套流程才敢动真库。
+- **来源**：[thedigitalgal](https://thedigitalgal.com/what-is-meta-muse/)（原文核验）
+- **日期**：2026-10-21
+- **标签**：#效率
+
+### 官方动态
+
+#### A. 【官方】日本扩张跟进（10-23 上线、10-24 报道）：北美以外首个市场，接下来要接 Mercari 与 Money Forward ME，Klook 旅游预订已接入
+- **内容**：多家 10-24 报道确认：Muse 10-23 在日本上线，是北美以外首个市场（第 29 期 @metajapan 演示为上线同期内容，本条记后续整合口径）。Meta 日本负责人 Masahiro Ajisawa 表示，接下来计划接入二手交易平台 Mercari 与记账应用 Money Forward ME，"接用户常用服务"；Klook 方面已与 Meta 合作把旅游体验目录接进 Muse，用户可在对话里选行程、核对条款并发起预订，付款仍回到 Klook 自己的结账页完成。日本市场因此成了 agent 行业的第一个"出海考场"：没有本地服务连接的 agent，在当地就只是一个聊天框。
+- **来源**：[DigitalToday](https://www.digitaltoday.co.kr/en/view/119025/meta-steps-up-global-expansion-of-muse-launches-in-japan)（10-24）；[alertify](https://alertify.eu/klook-meta-muse-ai-travel-booking/)（Klook 合作）
+- **日期**：2026-10-24
+- **标签**：#官方
+
+### 行业观察
+
+- **Yahoo Finance 10-22 评测（trade2spike 10-24 转述）：管钱功能清单很长，但身份盗窃资源中心（ITRC）暂不推荐——Meta 自己也承认"并非不受攻击""有时会犯错"**：评测梳理的 Muse 管钱能力包括追踪开支与预算、审计订阅并标记异常收费、找重复收费、打电话给供应商砍价、查无主财产并代填申请、找优惠与盯价。Meta 的安全口径是：花钱前先经用户批准、无存卡时用一次性卡号、密码与支付信息对 agent 本体也不可见、保留操作轨迹。ITRC 的判断是技术太新、暂不推荐——与第 27 期"信任障碍仍在"的提醒互相印证：管钱是 Muse 最有想象力的场景，也是用户最不敢放手的场景。[trade2spike](https://www.trade2spike.com/ai-in-action/meta-muse-ai-agent-manage-your-money-review-10-million-users-identity-theft-resource-center-too-new)（10-24）
+
 ---
 
 ## 2026-10-24（第 29 期）
