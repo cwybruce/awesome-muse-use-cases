@@ -38,6 +38,47 @@
 
 ---
 
+## 2026-10-26（第 31 期）
+
+今日共收录 **3 个用户案例** + **1 条产品更新** + **1 组媒体补记**。@grow.with.vinod（10-25）的"求职自动投递"演示（Naukri/LinkedIn/Indeed/Hirect 扫岗、6–8 点自动投 10 个、每日邮件汇报）带"评论 MUSE 私信领 prompt + 邀请链接"引流口径，与第 30 期已过滤的 @ai.with_vi 同类，未收录；Natasha Willis（10-25）"93 次测试总结的 5 条 cheat code"（建 side chat、接 IG DM、自定义播客等）带"评论 SETUP 私信领 prompt"口径，未单列；Lori Kuhn（10-25）品牌合作邮件监控 reel 语气偏推广向，未收录；@tenten.co（10-25）多用户 testimonial 剪辑（Avo/Gunther/Bean/Veda）属官方广告素材口径，未收录；Stripe 的 Alex Wang 访谈（10-25）讲的是电商 agent 趋势、非个人用法，未单列；SF Chronicle 的"管钱该不该放手"帖与第 30 期 Yahoo/ITRC 行业观察重复，未重复收录；多语言"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Dave Wilson（FB，10-25）：两周对照实验——免费版 Muse  beat 掉 Copilot 和 Rovo：9000+ 封未读 Gmail 清到 20 封以下，还顺手做了糖尿病可用的步数/饮食追踪器
+- **做了什么**：用户 Dave Wilson（10-25 FB 长帖，自述两周实验）：他同时用免费版 Muse、企业版 Copilot 和 Rovo 找"日常能用的活"，结论是 Muse 最能干。清单很杂也很具体：Gmail 自动化整理，9000 多封未读清到 20 封以下；做了宝可梦 Go 收藏追踪器；每天按历史事件和生日自动生成 Observance（纪念日）帖子；每晚自动给游戏主页发一张 No Man's Sky 截图；零基础跟着它搭一台双轮自平衡机器人；还做了带自定义人格的步数追踪器和饮食追踪器，自述对糖尿病管理有用；另有一套简单提醒系统。诚实的一面他也没藏：他对 Meta 的数据访问仍有顾虑，所以只接了自己本来就在用的大厂服务，并强调"用 AI 省时间，不是替自己思考和学习"。
+- **一句话总结**：9000 封未读邮件不是"以后再说"，是两周就能清到 20 封以下的旧账。
+- **来源**：[Facebook Dave Wilson](https://www.facebook.com/Durghan/posts/pfbid0AVBmwGz8AaMyM2Vbq22Fi8Q7RsnqgizaS7Jn8LRs7CuG19rGXad8tCrxQJjCYW85l)（据平台内容摘要整理）
+- **日期**：2026-10-25
+- **标签**：#效率 #生活
+
+#### 2. @six_seeeeeeven（IG，10-25）：旅行四件杂事实测，结论是"它一样都没订成"——可退酒店、5 条弹性往返、升舱无选项原因、访客通行证状态全查了，但购买那一步仍得人来
+- **做了什么**：创作者 @six_seeeeeeven（10-25 carousel，8 页实测记录）：他把四件旅行杂事交给 Muse——找国家公园附近可退的便宜酒店、找 5 条便宜且日期弹性的长途国际往返、解释某航班为什么没有升舱选项（结论是票价资格从未核实过）、查机场访客通行证的申请状态（找到了批复和规则，但没替他发出去）。最后一页的总结很直白："It booked nothing"——四件事全查了，一件没买成。他的建议也因此可信：搜和比交给 agent，选和付钱留给人。这条的价值不在"成功"，在给 agent 划了一条诚实的边界：现阶段它是"查得快的助手"，不是"替你拍板的人"。
+- **一句话总结**：agent 查了一圈、一样没订成——这恰恰是目前最诚实的用法边界。
+- **来源**：[Instagram @six_seeeeeeven](https://www.instagram.com/p/De5bOxdACFm/)（据平台内容摘要整理）
+- **日期**：2026-10-25
+- **标签**：#旅行 #效率
+
+#### 3. @imthegeekjr（IG，10-24）：给本地商家跑 Google 本地服务广告（LSA）收尾——扫一遍已扣费却没回应的线索，标成无效线索，几秒钟追回 $23.02
+- **做了什么**：本地商家服务创作者 @imthegeekjr（10-24 reel，手机实拍）：他让 Muse 查 Google Local Service Ads 收件箱里新线索，再把"已扣费、客户却从没回应"的那批线索逐一标成无效（bad lead），让 Google 退广告费。实拍里 Muse 回复已完成扫查、处理了 3 条线索、追回 $23.02。他的点不在金额大小——$23 不多——在"本来要手动翻很久的收尾活，几秒就干完了"。注：金额为创作者实拍口径，未独立核验，按小商家日常收尾记一笔。
+- **一句话总结**：追回的不是大钱，是那种"一直想处理、一直没空翻"的收尾活。
+- **来源**：[Instagram @imthegeekjr](https://www.instagram.com/reel/De2v0DzPRF4/)（据平台内容摘要整理）
+- **日期**：2026-10-24
+- **标签**：#省钱 #效率
+
+### 产品更新
+
+#### A. 语音功能上线晒图（Threads @testingcatalog，10-25，用户晒图、非官方公告）："Give your Muse a voice, then say hello"——不用打字聊、应用内外跟随对话、随时可静音或结束
+- **内容**：Threads 用户 @testingcatalog（10-25）晒出的应用内截图显示，Muse 正在推语音交互入口：标题"Give your Muse a voice, then say hello"，三项说明为"Talk it out"（不用打字、直接聊想法）、"Keep the conversation going"（Muse 在应用内外跟随对话）、"Stay in control"（麦克风保持开启但随时可静音或结束）。背景里还隐约可见一个理财追踪器与对话气泡。这与第 27 期"语音模式已官宣演示"互相印证：从舞台演示走到了用户手里的上线截图。注：本条为用户晒图口径，Meta 官方上线公告原文待补，不按官方公告记。
+- **来源**：[Threads @testingcatalog](https://www.threads.com/@testingcatalog/post/De7G1-Gjbxv)（据平台内容摘要整理）
+- **日期**：2026-10-25
+- **标签**：#官方
+
+### 媒体补记
+
+- **TIME 10-22 报道（经 Hello Entrepreneurs 转述核验）：Muse 意外地成了老年用户的"实用派"——82 岁 Eileen Fay 用它比 Medicare Part D 方案、71 岁 Julie Buchanan 用"Ember"写回忆录**：新泽西 82 岁的 Eileen Fay 告诉 TIME，新规可能推高她从加拿大订药的处方成本，Muse 给她做了两页 Medicare Part D 对比，还指出了一个她没想过的选项——她核对过数据才做决定。达拉斯 71 岁的 Julie Buchanan 把自己的 Muse 取名"Ember"，用它写回忆录，形容"很有同理心"、一聊就是几小时。背景数字：Sensor Tower 口径 Muse 40 天 1000 万美国下载、250 万日活；Apptopia 9 月估计 46% 的美国用户在 46 岁以上，远高于其他 AI 助手。同一篇报道的另一面：隐私研究者提醒，"可爱"的 agent 语气会让人不知不觉多交数据；TIME 称 Muse 会建详细的用户偏好与社交档案；专家建议是"任务需要才连账号、用完断开、关掉 AI 训练、定期检查它记了什么"。[Hello Entrepreneurs（转述 TIME 10-22）](https://helloentrepreneurs.com/technology/metas-muse-ai-finds-a-growing-audience-among-older-adults-raising-fresh-privacy-concerns-101818/)（原文核验，10-26 仍可访问；标签：#生活 #效率）
+
+---
+
 ## 2026-10-25（第 30 期）
 
 今日共收录 **4 个用户案例** + **1 条官方动态** + **1 组行业观察**。@hiananyaa_ 的 "Momo" 双城记为第 29 期已过滤帖的同源内容，未重复收录；日本上线 wave 仍在继续（@kazaneat 的 "Neko Robin" 一日 vlog 偏推广口吻，按推广口径过滤）；@ai.with_vi 的"求职自动投递"演示（扫 LinkedIn/Indeed 等站、设 6–8 点自动投递）带 "评论 MUSE 领配置文件" 引流口径，且评论区即有印度用户质疑当地不可用，效果未核验，未收录；Klook 日本官方 reel 属品牌演示口径，合作事实记入下方官方动态，不单列；Dennis Yu 的 token 用量截图帖属用量讨论非用法，未收录；@toolifyai_25 转发的 "Scout" 找教授 reel 系第 28 期第 1 条的同源转发，未重复收录；以下按宁缺毋滥原则收录。
