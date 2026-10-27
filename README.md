@@ -38,6 +38,34 @@
 
 ---
 
+## 2026-10-27（第 32 期）
+
+今日共收录 **1 个用户案例** + **1 条产品更新** + **2 组行业观察**。FB 上 10-26 再推的双店主 "Coco" 故事与第 13 期已收录的 Krystal Oh（@krystalohh，10-07 reel）同源，未重复收录；SF Chronicle 10-25 的"管钱该不该放手" billboard 帖与第 30 期 Yahoo/ITRC 行业观察重复，未重复收录；Anik Singal（10-26）等"AI 从回答变办事"通用讲解属能力综述、非个人用法，未单列；多语言"介绍 Muse 是什么"科普视频与 VPN+邀请码教程继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Riley Harper @lifeof_riley（IG 46 万粉，10-26）："Walker"——开车兜风的功夫，2557 条 IG 收藏按城市分好类，1973 年 Husqvarna WR 250 的 Marketplace 上架文案也写好了
+- **做了什么**：创作者 Riley Harper（10-26 reel，9.3K 赞）：他把自己的 Muse 取名 "Walker"（金毛头像）。视频里三件事并行：按 "Canyon roads only, no traffic" 给他排周日兜风路线；把 2,557 条 IG 收藏按城市分进餐厅/酒店文件夹；给一辆 1973 年 Husqvarna WR 250 写 Marketplace 上架帖——标题、描述、定价 $5,000、配图全套，写完还 ping 他确认"已上线"。语气偏生活方式展示，按创作者实拍演示记一笔，不做成交背书。
+- **一句话总结**：收藏夹从来不是"以后再看"，是 agent 一次性按城市给你理清楚的旧账。
+- **来源**：[Instagram @lifeof_riley](https://www.instagram.com/reel/De9qZP_sFt-/)（据平台内容摘要整理）
+- **日期**：2026-10-26
+- **标签**：#效率 #生活
+
+### 产品更新
+
+#### A. 1Password 接入截图（Threads @jwang815，10-25，用户晒图、非官方公告）："Connecting 1Password to your agents is a huge unlock"——但评论区一边倒警惕
+- **内容**：用户 Jason Wang（10-25 Threads）晒出的深色模式截图显示，Muse 正在推 1Password 连接入口：说明为 "Level up with 1Password"（Muse 只用用户主动分享的登录信息）、"You choose what Muse can do"（默认每次动作前先问、可在设置中断开）、"Keep an eye on things"（Muse 仍可能出意外动作、需盯着）；细则还提到交互数据可能用于改进 Meta AI。他的评价是 "huge unlock"，但评论区一边倒警惕：把密码库交给 agent 等于新增攻击面、prompt injection 未解，建议只给专用 vault 或手动审批。注：本条为用户晒图口径，官方上线公告原文待补，不按官方公告记。
+- **来源**：[Threads @jwang815](https://www.threads.com/@jwang815/post/De5_mA_AYG4)（据平台内容摘要整理）
+- **日期**：2026-10-25
+- **标签**：#官方
+
+### 行业观察
+
+- **Baratunde Thurston（IG 22 万粉，10-26）："可爱"本身就是一种权限索取术——baby schema 设计让人更快交出邮箱、日历和信用卡**：他认为 Muse（粉色毛绒吉祥物 Jolly）与 OpenAI Dots 这类"大眼睛圆脸"设计是在利用人类的养育本能，引用 2024 年研究称人们更信任可爱的 AI；并指出 Meta 默认用 Muse 对话训练模型（除非用户手动退出）、Meta 有过 50 亿美元隐私罚款史；儿童权益倡导者质疑：一个仅限成人的产品，为什么要用 Teletubbies 风格的吉祥物。他的检验法很直白：想象是扎克伯格本人在向你要数据，不信任他，就别信任这个吉祥物。[Instagram @baratunde](https://www.instagram.com/reel/De9f4nMRPhp/)（据平台内容摘要整理）
+- **比尔·盖茨表态（10-26，二级转述）："fan" of Muse——肯定个人 agent 方向，但对开放模型划红线**：Gadgets Now（Times of India）10-26 图文与 7globe 10-27 转述称，盖茨说自己是 Muse 的"粉丝"，已与 Alexandr Wang 聊过并表示祝贺；同时他认为个人 agent 是"意料之中的发展"，早期配置问题（包括此前已报道的向 Marketplace 卖家误发用户地址一事）不足以否定"把活干完"的价值；但对开放权重模型他划了线：高于一定能力的模型只能跑在能证明防护不可剥离的平台上。注：本条为二级媒体转述口径，非盖茨原访谈直出，按行业信号记一笔。[Gadgets Now（FB 图文）](https://www.facebook.com/GadgetsNow/posts/pfbid0cW2vCa3UMtjvieK4YH5GtpBm8UpzKZi5kzqbHD39B3Z5Gpp6dC6mqQFip1RBUbRTl)；[7globe 转述](https://www.7globe.in/bill-gates-is-a-fan-of-metas-ai-agent-muse-says-i-talked-to-alexandr-wang-about-it-congratulated-him-and-even-though/)（据平台内容摘要整理）
+
+---
+
 ## 2026-10-26（第 31 期）
 
 今日共收录 **3 个用户案例** + **1 条产品更新** + **1 组媒体补记**。@grow.with.vinod（10-25）的"求职自动投递"演示（Naukri/LinkedIn/Indeed/Hirect 扫岗、6–8 点自动投 10 个、每日邮件汇报）带"评论 MUSE 私信领 prompt + 邀请链接"引流口径，与第 30 期已过滤的 @ai.with_vi 同类，未收录；Natasha Willis（10-25）"93 次测试总结的 5 条 cheat code"（建 side chat、接 IG DM、自定义播客等）带"评论 SETUP 私信领 prompt"口径，未单列；Lori Kuhn（10-25）品牌合作邮件监控 reel 语气偏推广向，未收录；@tenten.co（10-25）多用户 testimonial 剪辑（Avo/Gunther/Bean/Veda）属官方广告素材口径，未收录；Stripe 的 Alex Wang 访谈（10-25）讲的是电商 agent 趋势、非个人用法，未单列；SF Chronicle 的"管钱该不该放手"帖与第 30 期 Yahoo/ITRC 行业观察重复，未重复收录；多语言"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
