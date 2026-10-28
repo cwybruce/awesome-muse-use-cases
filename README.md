@@ -38,6 +38,33 @@
 
 ---
 
+## 2026-10-28（第 33 期）
+
+今日共收录 **1 个用户案例** + **2 篇媒体实测补记** + **2 组行业观察**。social.search 本次超时未返回，改走网页搜索补查；多语言"介绍 Muse 是什么"科普视频与 VPN+邀请码教程继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Mike Tang（Medium，10-27）：加拿大多伦多郊区的一人多线日常——工作日股票早报、两家小生意的每日发帖与评论跟进、家里学校表格截止日、网约车 toll-fee 纠纷的数月邮件证据整理
+- **做了什么**：住在大多伦多 Markham、有妻子和两个孩子的 Mike Tang（10-27 Medium 短文）：白天有正职、炒股、还经营两家小生意，行政快失控后开始每天用 Muse——每个工作日早上给一份股票组合简报（涨了什么、为什么）；两家小生意的每日帖子由 Muse 起草、他审批后发布、再跟进评论和私信；家里学校日期、表格、预约、截止日全由它盯着；有一次跟网约车平台的 toll-fee 纠纷，Muse 把数月的邮件和证据整理好、逐条追踪对方回复。他的总结很准：不是一个只会聊天的 chatbot，是有自己的电脑和浏览器、记得几周前聊过什么、还会自己跑定时任务的干活助手。注：原文开头含 referral code 披露（KSC26A），按真实用户用法记一笔，不背书邀请码。
+- **一句话总结**：一人扛正职+炒股+两家小生意+两个娃，agent 的活就是把"每天都要想起来的事"变成"每天早上已经摆好的事"。
+- **来源**：[Medium @mikehltang](https://medium.com/@mikehltang/how-i-use-muse-ai-as-my-personal-assistant-in-canada-stock-briefings-two-businesses-and-family-9a6d2b94f43a)（原文核验，2026-10-27 发布）
+- **日期**：2026-10-27
+- **标签**：#效率 #生活
+
+### 媒体实测补记
+
+- **日本用户 "Noodle"（note.com，约 10-25，补记）：给 Muse 起名 Noodle 后的诚实验真——打不开 Yahoo app 就明说改走网页新闻，不谎称；结论是"研究整理起草的搭档"，不是自动量产文章的魔法**：日本创作者 masahiko（日本 10-23 上线后实测）：第一句就让它"在 Yahoo app 里查 Muse"，Muse 回复打不开该 app、改查 Yahoo! 新闻的相关报道，并明说没能按原要求做、改用网页替代——他认为这种"不撒谎的失败"比成功更重要。第二点是划清能力边界：Muse 不能看手机屏幕、不能点开其他 app 操作，它是在自己的云端电脑+浏览器里干活；能做的是设闹钟、管日程联系人（在授权范围内）、做网页调研与填表。他的结论：别指望它自动量产文章，但作为"调研、整理、起草"的搭档相当实用——这篇验真文章本身就是 Muse 起草的。[note.com](https://note.com/masahiko_studio/n/nbb2861d4e8a4)（据搜索快照整理；标签：#学习 #效率）
+
+- **Digbly 个人购物实测（2026-09-26 发布、10-19 更新，补记）："Amani" 当个人购物助手，7 条比价策略只成 3 条——基线比价、跨店比价、二手/翻新捡漏管用，Amazon 优惠券与 Marketplace 本地捡漏没给出可用结果**：Digbly 作者把自己的 Muse 取名 "Amani"，给它 7 条购物策略去买漫画、游戏手柄和实体游戏：成的 3 条是基线价+捡漏搜索、跨店比总价、二手/翻新/开箱货，实绩包括《Batman by Jeph Loeb and Tim Sale Omnibus》比标价低 40%、午夜黑 PS5 DualSense 手柄跨店找到更低价、《Garou: Mark of the Wolves》实体版经翻新货搜索连上高评分卖家；没成的 2 类是 Amazon 有效优惠券与 Facebook Marketplace 本地 deal——没给可靠可执行的数据。价值在"半成功"本身：agent 的比价能力是真的，但优惠券这种"实时、易过期、反爬严"的数据仍是短板，买之前仍得人复核。[Digbly](https://digbly.com/en/post/i-tried-turning-metas-muse-ai-into-my-personal-shopper-only-3-of-7)（原文核验；标签：#省钱 #效率）
+
+### 行业观察
+
+- **The RealReal 反制落地（Verge 10-26 → Gizmodo/BigGo 10-27）：第 29 期 Mia Sato 的"20 分钟占坑"实验有了下文——平台收紧 bot 防御，登录/加购/结账对 agent 更难了，但 listings 展示与导流仍放行**：二手奢侈品平台 The RealReal 向 The Verge 确认，已重配 bot 防御，让 agent 登录、加购、结账"难得多"；CTO Luke Friang 称已针对 Muse 用例做了处理，但 agent 仍可展示商品、把用户导向商品页。同一波反制清单（Gizmodo 10-27 汇总）：Tapestry（Coach/Kate Spade 母公司）与 Kohl's 不让 agent 完成购买，Chewy 与 Neiman Marcus 部分拦截，Delta 不让 agent 代订机票，Amazon 早已封 Muse、只推自家 Rufus，Walmart 则反向开放目录给 agent；银行也在以欺诈与未经授权购买为由收紧 agent 访问。这条的意义不在一家店：在"agent 购物"成为 Muse 头号场景（财报口径：购物用户超 1/4 平均客单超 $200）之后，零售商的 bot 规则正在从"默认放行"转向"逐家表态"。[Gizmodo](https://gizmodo.com/online-shopping-platforms-turn-against-third-party-ai-agents-2000831298)（原文核验，2026-10-27）；[BigGo Finance](https://finance.biggo.com/news/6097f0af-89c7-4a2a-b7f4-bce8c229a287)（10-27）
+
+- **英伟达 10-27 押注 Muse（Reuters 10-27）：30 亿美元投 Meta 股权增发，Muse 模型与 agent 跑在英伟达基建上、合作提效降本，还要探 OpenShell 安全部署与 Sentry 行为监控**：Reuters 10-27 报道，英伟达与 Meta 深化 Muse 合作、英伟达向 Meta 增发投资 30 亿美元（Meta 当日把增发规模提至 975 亿美元、创历史最大）；Muse 模型与 agent 跑在英伟达基础设施上，双方合作目标是提升性能、压低成本；报道还提到内部代号 Hatch、以及双方可能在英伟达 OpenShell 框架上进一步合作（安全部署软件、用 Sentry 监控 agent 行为）。这不是用户案例，是供给侧信号：agent 的成本账，正在从"用户端好不好用"转向"基建端能不能便宜地跑下去"。[Reuters 经转载](https://985theriver.com/2026/10/27/nvidia-meta-partner-on-muse-agent-as-nvidia-invests-3-billion/)（2026-10-27）
+
+---
+
 ## 2026-10-27（第 32 期）
 
 今日共收录 **1 个用户案例** + **1 条产品更新** + **2 组行业观察**。FB 上 10-26 再推的双店主 "Coco" 故事与第 13 期已收录的 Krystal Oh（@krystalohh，10-07 reel）同源，未重复收录；SF Chronicle 10-25 的"管钱该不该放手" billboard 帖与第 30 期 Yahoo/ITRC 行业观察重复，未重复收录；Anik Singal（10-26）等"AI 从回答变办事"通用讲解属能力综述、非个人用法，未单列；多语言"介绍 Muse 是什么"科普视频与 VPN+邀请码教程继续过滤；以下按宁缺毋滥原则收录。
