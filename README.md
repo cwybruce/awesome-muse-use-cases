@@ -34,7 +34,50 @@
 - **可信度提示**：9 月中旬 Alexandr Wang 发起的 `#MuseMoneyChallenge`（晒省钱成果）中，Business Insider 指出**不少参与者是 Meta 内部员工**，相关金额案例请打折看待。
 - Muse 目前仅面向**美国、加拿大** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
-- Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
+- Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
+
+---
+
+## 2026-10-29（第 34 期）
+
+今日共收录 **3 个用户案例** + **1 条官方动态** + **2 组行业观察**。June Ambrose（10-28，造型师 SoHo 一日 vlog）、Gavin Casalegno（10-27，梅赛德斯 F1 官方合作口径）等 polished 品牌合作 reel 按推广口径过滤；泰米尔语新闻台 Seithi 的 Muse 功能科普片、多语言"介绍 Muse 是什么"图文继续过滤；@muse 官方账号 10-28 的"咖啡/收件箱/旅行"通用帖无新细节，未单列；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Declann Drostan Tan @__diditee__（IG 33 万粉，10-28）："Norris"——接上 IG 与邮箱后现做的三件套：每周扫 Reels 找选题的 trend 工具、每天早上邮件摘要、日本行机票降价盯梢，外加一个会"生气"的 $50 装备预算追踪器
+- **做了什么**：创作者 Declann Drostan Tan（10-28 reel，实拍）：他把自己的 Muse 取名 "Norris"（几维鸟头像），先给它接上 Instagram 与邮箱的上下文，再让它现做 web app——一个每周扫 Instagram Reels、按自己赛道找 trending 视频点子的工具；一个每天早上汇总重要邮件的摘要；去日本前让它盯东京机票、跌破预算就提醒；到了日本，让它按自己 IG 里的拍摄风格推荐三脚架，买完拍张照，Norris 就把这笔开支记进 "Gear Tracker"，超 $50 预算时头像还会"生气"。结尾有"试试 Muse"的号召口径，按创作者实拍演示记一笔，不做效果背书；评论区另有用户反映账号关联串号、隐私数据可见的投诉，未核验，并记一笔。
+- **一句话总结**：agent 的"现做工具"属性：缺的不是 app，是一个能按你赛道现搭小工具的助手。
+- **来源**：[Instagram @__diditee__](https://www.instagram.com/reel/DfBTv8ziy63/)（据平台内容摘要整理）
+- **日期**：2026-10-28
+- **标签**：#代码 #效率 #旅行
+
+#### 2. Sonam Midha @sonammidhax（IG，10-27）："Cosmo" 一天拿下 3 个酒店合作——5 封带媒体资料的 pitch 邮件由 agent 发出，创作者只负责接住回复
+- **做了什么**：创作者 Sonam Midha（10-27 reel，手机截图实拍）：她让自己的 Muse "Cosmo" 处理创作者商务——一天内向 5 家酒店发了带媒体资料（media kit）的合作 pitch 邮件，截图中出现的包括上海 Upper House、北京 EAST 等，同一天拿下 3 个付费酒店合作。她的标题原话是 "My Assistant helped me get Three travel collabs in a day"。注：合作数量与邮件截图均为创作者自述口径，报价与合作条款未披露，按"agent 跑第一轮 outreach"记一笔，不做收入背书。
+- **一句话总结**：谈合作最磨人的不是谈判，是第一轮一家家找对接人、发 pitch——这部分 agent 一天能跑完。
+- **来源**：[Instagram @sonammidhax](https://www.instagram.com/reel/DfADK4PAxII/)（据平台内容摘要整理）
+- **日期**：2026-10-27
+- **标签**：#创作 #效率
+
+#### 3. Carri Nelow @carrinelow（Threads/IG，10-28）："Mumu"——出差怕漏单，先把过去一个月的 DM 与邮件翻一遍： missed 的工作邀约找出来，回复只起草、不代发
+- **做了什么**：创作者 Carri Nelow（10-28 视频，实拍）：她给自己的 Muse 取名 "Mumu"（粉色兔子头像、"controlled chaos"性格），起因是出差在外怕错过工作机会——让 Mumu 扫描过去一个月的 DM 与邮件，找出被埋没的工作邀约，再逐条起草回复给她过目，明确不自动发送。她强调的边界很关键：agent 负责"找出来 + 写好草稿"，发不发仍由人定。这条与第 28 期 Steven Mellor 的 "DM 不漏接"互相印证：创作者收件箱的"漏单焦虑"，正在成为 agent 的一个固定场景。
+- **一句话总结**：收件箱翻一个月找漏单，人才是最后一道发送键——这个分工才敢用。
+- **来源**：[Threads @carrinelow](https://www.threads.com/@carrinelow/post/DfBUyS6DiIN)（据平台内容摘要整理；IG 同步见 [Instagram @carrinelow](https://www.instagram.com/reel/DfBUo5OPhYN/)）
+- **日期**：2026-10-28
+- **标签**：#效率 #创作
+
+### 官方动态
+
+#### A. 【官方】Muse 10-28 在新加坡上线：第四个市场，Shopee/Grab/新航/Agoda/ShopBack/Klook/Trip.com/Lazada 八家本地伙伴先行，Agoda 成区域首个接通的旅行平台
+- **内容**：Meta 10-28 在新加坡上线 Muse（iOS/Android/网页），是美国、加拿大、日本之后的第四个市场。本地伙伴包括 Shopee、Grab、新加坡航空、Agoda、ShopBack、Klook、Trip.com 与 Lazada：按官方口径，可比 Shopee/Lazada 的价、经 Grab 订餐与 groceries、经新航/Agoda/Klook/Trip.com 规划旅行、经 ShopBack 拿返现；但 Meta 也明说本地整合将"逐步推出"，部分功能上线初期未必可用。Agoda 同日宣布成为区域首个接通 Muse 的旅行平台（新加坡与日本用户可用），可在对话里发现目的地、订酒店、管理行程。注：新加坡定价口径为免费周额度 + S$22–S$139 订阅档，与北美 $20/$100 档不同，按当地报道记一笔。
+- **来源**：[IAB SEA+India](https://iabseaindia.com/blog/meta-launches-personal-ai-agent-muse-in-singapore-with-local-commerce-and-travel-integrations/)（原文核验，2026-10-28）；[Agoda PR 经 TradingView](https://www.tradingview.com/news/prnewswire:f488f494db0de:0-agoda-becomes-first-travel-platform-regionally-to-seamlessly-connect-with-meta-s-muse/)（2026-10-28）
+- **日期**：2026-10-28
+- **标签**：#官方 #旅行
+
+### 行业观察
+
+- **Mia Sato 的 RealReal 实验有了官方回应（10-27 stitch 更新）：平台已承认"占坑"问题，呼应第 33 期"收紧 bot 防御"的下文**：第 29 期主角、科技记者 Mia Sato（@miasato.2，10-27 stitch 视频）称，在她发布 Muse 用 20 分钟购物车规则反复"占坑"奢侈品的实验后，收到了 The RealReal 的邮件回应、承认了该问题。结合第 33 期 The RealReal 向 The Verge 确认重配 bot 防御，这条链路至此闭环：一次用户实验 → 媒体报道 → 平台改规则。agent 购物史上的第一个"用户实验倒逼平台改规则"样本，值得单记一笔。[Instagram @miasato.2](https://www.instagram.com/reel/DfABR-mRw2d/)（据平台内容摘要整理）
+
+- **"主动"承诺的两记翻车（Amber Mac 10-29 + 海峡时报新加坡实测 10-28）：机票放票没提醒、餐厅取消走错账号、还推荐了一家已关门的店**：主持人 Amber Mac（@ambermac，10-29 Threads 片段）讲了 Muse 上线首日实测：让它盯机票放票，结果座位当天 10:23 已放出、Muse 全程没主动提醒，是她几小时后自己查到才知道——"proactive"这块招牌第一次被真人用户当众打了问号。新加坡《海峡时报》实测也类似：天气监测与行程提醒能跑，但取消餐厅预订时走了一个不存在的 Chope 账号而失败，还推荐了一家已经关门的餐厅。两条合在一起的提醒：盯梢类任务现阶段仍得人自己复查，"设好就不用管"还不成立。[Threads @ambermac](https://www.threads.com/@ambermac/post/DfDq3xrjpgS)（据平台内容摘要整理）；[Asean Coverage 转述海峡时报实测](https://tech.aseancoverage.com/news/meta-launches-muse-personal-ai-agent-in-singapore/n2563)（10-28）
 
 ---
 
