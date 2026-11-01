@@ -36,6 +36,34 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-01（第 37 期）
+
+今日共收录 **2 个用户案例** + **2 组行业观察**。@elroy_chua（10-31）新加坡首测仍是"预告 part 2"、实测任务尚未跑完，未单列；Maria Zeee（10-31）转述 TIME 的"给非用户建档"论点与第 22 期 DER STANDARD/TIME 口径重复，未重复收录；Dennis Yu（10-31）"只押 GrokBot"属 agent 选型观点、非 Muse 用法，未收录；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Austin Evans（经 @muse 官方 Threads 10-31 转发）："Lotus"——6 年 Gmail 里的 300 多封购物收据，约 30 分钟翻成一张给会计的收藏品追踪表
+- **做了什么**：科技创作者 Austin Evans（10-31，@muse 官方账号转发的演示视频）：他给自己的 Muse 取名 "Lotus"，最具体的活是翻旧账——让它搜 6 年 Gmail 里的购物收据，300 多封邮件约 30 分钟跑完，生成一张 "Collectibles Tracker"（收藏品追踪表）并做成可直接给会计的表格；同视频里还顺手办了另外三件：查美国大奖赛（奥斯汀站）门票、往日历里加活动、每天早上推科技新闻简报。他的定性留了余地：承认"不完美"，但"确实令人印象深刻"；大动作前先问权限、跨对话记得上下文、越用越主动这三点与此前多期案例互相印证。注：本条来源为 @muse 官方账号转发的创作者演示，不是 Meta 官方公告，按创作者实拍演示记一笔。
+- **一句话总结**：旧账最怕的不是多，是"散在六年邮件里"——agent 的活就是一次翻完、交出一张会计能直接用的表。
+- **来源**：[Threads @muse（Austin Evans 演示）](https://www.threads.com/@muse/post/DfKpRPJkZfp)（据平台内容摘要整理）
+- **日期**：2026-10-31
+- **标签**：#效率 #省钱
+
+#### 2. Phillip Jackson（10-30/31，自述 + 二手转述）："让 Muse 替我打小额官司"——送达后 20 分钟对方和解，10 天内全额退款还补了维权开支
+- **做了什么**：用户 Phillip Jackson（Future Commerce 联合创始人）自述：他让 Muse 帮他走小额法庭流程向一家公司维权，对方在收到送达通知后 20 分钟内就提出和解，10 天内付了全额退款外加维权开支补偿。时间线要拆开看才不夸大：立案本身并非 10 月 31 日当天发生——All Things Muse 10 月初已记过一笔"他让 Muse 提交小额诉讼、两天后棕榈滩县法院书记官发出传票"；10 月 31 日爆出来的是和解结果（InShorts 10-31 报道 + @uncover.ai 10-31 轮播汇总，轮播里还贴了法院自愿撤诉确认，日期为 10-29）。注：全程为用户自述 + 二手转述口径，法院文书未独立核验，不做"AI 打赢官司"的背书；法律判断与签字仍须人自己负责，这条的价值在"认真维权的信号本身就能加速和解"。
+- **一句话总结**：维权最磨人的不是道理，是"对方赌你不会真的立案"——agent 把立案这步的成本打下来，和解就来了。
+- **来源**：[InShorts 报道（2026-10-31）](https://inshorts.com/en/news/man-hires-meta-s-ai-model-to-sue-a-company--it-settles-in-just-20-minutes-1793461168383)；[Instagram @uncover.ai 轮播](https://www.instagram.com/p/DfK7-AqkyzF/)（据平台内容摘要整理）；立案背景见 [All Things Muse](https://www.allthingsmuse.com/tags/muse-updates/)
+- **日期**：2026-10-31
+- **标签**：#效率 #省钱
+
+### 行业观察
+
+- **隐私自救有了可操作清单（CybersecurityGirl @cybersecuritygirl，IG 10-31）：欧盟/英国/巴西用户可走"反对权"流程，美国用户只能手动关训练开关**：网络安全创作者 Caitlin Sarian（10-31 轮播指南）把"别让 Muse 拿你的内容训模型"拆成可执行步骤：欧盟/英国/巴西用户走 设置 > Privacy Center > AI at Meta > 提交反对请求（选"在 Meta 产品上分享的信息"）；美国用户没有同等权利，只能手动关"Help improve our AI models"、检查已连接应用、编辑 Muse 记忆，并提醒"删了聊天也可能还被记住"。结尾"评论 GUIDE 领指南"属引流口径不采纳，步骤本身作为隐私侧实操记一笔，与第 36 期 Ayana Gray"横向数据关系"论点互相印证：前者讲风险，后者讲怎么动手挡。[Instagram @cybersecuritygirl](https://www.instagram.com/p/DfJ3Zt9iGlL/)（据平台内容摘要整理）
+
+- **Agent 开始"亮明身份"（DataDome 10-30，经 PPC Land 10-31 报道）：Muse 约 10-12 起在部分请求上加 Web Bot Auth 签名，Meta 未官宣**：Bot 管理公司 DataDome 研究副总裁 Jérôme Segura 10-30 发文称，Meta 约 10 月 12 日起开始给 Muse 个人 agent 与 Meta-WebIndexer 爬虫的部分网络请求附加加密签名（Web Bot Auth 协议），网站可据此验证"这个自动化访客确实来自 Meta"；但目前只有一小部分请求带签名，网站仍须靠其他手段识别其余请求，Meta 也未就此发布公告。这条的意义接在 9 月亚马逊封 Muse 的背景上：当时封禁理由之一正是 agent"不亮明身份"；签名若铺开，零售商"放行还是拦截"的判断就有了可验证的依据——agent 购物的下一道门，可能不是能力，而是身份。[PPC Land](https://ppc.land/metas-muse-agent-gains-a-signed-id-in-a-quiet-test-datadome-finds/)（原文核验，2026-10-31）
+
+---
+
 ## 2026-10-31（第 36 期）
 
 今日共收录 **4 个用户案例** + **2 组行业观察**。@aiwithsachi（10-29）转述的 Reddit 旧例（旧礼品卡查余额成表、学校邮件分拣、保险客服电话代打）属二手转述且无原帖直链，未单列；@markcassara.legacy（10-29）"30 天免费用 Muse 省 10–20 小时/周"带"评论 AI 私信领完整配置"引流口径，未收录；@macio.lyons（10-30）邀请码+Skool 社群拉新帖按推广口径过滤；@elroy_chua（10-31）新加坡上线首测偏"预告 part 2"、实测任务尚未跑完，未单列；多语言"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
