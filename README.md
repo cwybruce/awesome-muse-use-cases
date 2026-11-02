@@ -36,6 +36,29 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-02（第 38 期）
+
+今日共收录 **1 个用户案例** + **1 组媒体补记** + **1 组行业观察**。DW（11-01）可穿戴隐私片、Maria Zeee（10-31）转述 TIME 的"给非用户建档"论点与第 22/36 期口径重复，未重复收录；@5min_ai（11-01）新加坡 Connector 说明与第 34 期官方口径重复，未单列；多语言"介绍 Muse 是什么"科普视频、VPN+邀请码教程、"评论领指南"类引流帖继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. @short.term.gems（Threads，11-02）："等了两年，AI 才终于变好用"——OpenClaw 天天崩的过来人，本周双测 Muse 与 Instinct：都快速上手、都解决了订阅问题，Muse 还现做了一份 newsletter
+- **做了什么**：Threads 用户 @short.term.gems（11-02 短视频）：她说自己等了约两年才等到"感觉顺手"的 AI——早期的 OpenClaw 本该简单，结果天天崩，把她变成了 IT 排障员。本周她同时测了两款新工具：Muse（Meta 自家 app，不用接 API、不用看教程视频）与 Instinct（走短信、无新界面）。两款上手都很快，都帮她解决了订阅相关问题；Muse 那边还现做了一份 newsletter 成品。她的分工判断很具体：Muse 更适合在 Facebook/Instagram 发内容的人（深嵌 Meta 生态），Instinct 因直接连收件箱而"感觉略聪明一点"。注：本条为创作者短视频口径，订阅问题的具体账单未披露，按"从 DIY agent 迁移到开箱即用 agent"的样本记一笔，不做"更聪明"的效果背书。
+- **一句话总结**：DIY agent 时代的教训是"工具不能比活还难伺候"——开箱即用、两分钟上手，才是普通人愿意留下的 agent。
+- **来源**：[Threads @short.term.gems](https://www.threads.com/@short.term.gems/post/DfN-5wdFVSd)（据平台内容摘要整理）
+- **日期**：2026-11-02
+- **标签**：#效率 #创作
+
+### 媒体补记
+
+- **WIRED 六款 agent 一日横评补记（10-27 发布、11-01 二次转述升温）：免费的 Muse 拿 9/15 排第三——只有它和 $100/月的 Dots 真花了约 30 分钟做调研，但预埋的日程冲突它没 catch 住**：WIRED 记者 Reece Rogers 10-27 把 Muse、Dots、Instinct、Claude Duet、Gemini Spark、Grok Bot 六款接上 Gmail 与日历、同一天跑 5 项日常任务、每项 1–5 分打分。三项后的小分：Dots 12/15、Claude Duet 11、Muse 9、Grok Bot 与 Gemini Spark 各 7、Instinct 5。Muse 的两面要一起记：好的一面是调研任务里只有它和 Dots 真花了近 30 分钟深挖（其余几分钟就交卷）；翻车的一面是预埋冲突——14:00 会议 vs 邮件里同一时间的"给妈妈打电话"提醒——只有 Dots 与 Duet 提醒了，Muse 没把邮箱与日历 cross-check 起来。Rogers 本人提醒这只是有限场景、不是背书。价值在"免费≠弱，但接了数据≠连起了数据"。[Superpower Daily 转述 WIRED](https://superpowerdaily.com/posts/wired-finds-only-two-of-six-ai-agents-caught-a-planted-scheduling-conflict)；[Hamidun News 转述 WIRED](https://news.hamidun.com/en/news/14850/wired-tested-6-ai-agents-in-a-day-dots-leads-gemini-spark-fa)（据二次转述整理，WIRED 原文未独立核验；标签：#效率）
+
+### 行业观察
+
+- **圣诞季前 agent 购物"分化定型"（Daily Guardian 11-01 转述 WSJ + tkonsecurity 11-01）：亚马逊继续封、沃尔玛 11 月上线 Agent Profiles（$50/$100/$200 上限或逐单批），Home Depot 也在和 Meta 谈"亮明身份"**：续第 33 期反制清单——当时是"逐家表态"，现在两条路都走到了可执行层面：沃尔玛 10-21 宣布的 Agent Gateway（MCP 直连）+ Agent Profiles 约 11 月内上线，每个 agent 在用户账号里有独立 profile、采购单独列示、看不到卡号，购物者可选逐单批准或设 $50/$100/$200 上限；Home Depot CIO 10-29 对 Business Insider 说只接"亮明 agent 身份并确认所代表顾客"的 agent，且正在和 Meta 谈 Muse 该怎么自我介绍；亚马逊一侧则由 Jassy 10-30 财报会"not great"论 + WSJ 11-01 复述的 9 月封禁形成闭环。接在第 37 期 DataDome 签名之后看：身份协议正在从倡议变成各家店的准入条件——agent 购物下一道门确实是身份，不是能力。[Daily Guardian](https://dailyguardian.ae/amazon-is-saying-bye-bye-to-muse-while-walmart-is-rolling-out-the-welcome-mat-for-metas-shopping-agent/)（2026-11-01）；[tkonsecurity](https://tkonsecurity.com/2026/11/01/the-bots-that-stole-christmas-five-years-later/)（2026-11-01）；[PYMNTS](https://www.pymnts.com/commerce/ecommerce/2026/walmart-and-home-depot-set-the-rules-for-ai-shoppers/)（2026-10-29）
+
+---
+
 ## 2026-11-01（第 37 期）
 
 今日共收录 **2 个用户案例** + **2 组行业观察**。@elroy_chua（10-31）新加坡首测仍是"预告 part 2"、实测任务尚未跑完，未单列；Maria Zeee（10-31）转述 TIME 的"给非用户建档"论点与第 22 期 DER STANDARD/TIME 口径重复，未重复收录；Dennis Yu（10-31）"只押 GrokBot"属 agent 选型观点、非 Muse 用法，未收录；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖继续过滤；以下按宁缺毋滥原则收录。
