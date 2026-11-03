@@ -36,6 +36,46 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-03（第 39 期）
+
+今日共收录 **4 个用户案例** + **1 组行业观察**。DW（11-01）可穿戴隐私片与第 38 期口径重复，未重复收录；@muse 官方 11-02 的"Ruby"收藏地点帖、@tenten.co 中文信息图属官方广告素材口径，未单列；多语言"介绍 Muse 是什么"科普视频、VPN+邀请码教程、"评论领指南"类引流帖继续过滤；@michelecottiai 的 Claude Duet 对比属 Anthropic 产品，不在本库收录范围；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Chris Matthews @lethalshooter（IG 640 万粉，11-02）："My AI agent always getting it done"——NBA 投篮教练让 Muse 现排一套投篮训练：定点、接球投、运球投、移动投全写进 PDF，拍完直接上场练
+- **做了什么**：NBA 投篮教练 Chris Matthews（11-02 reel，4.1 万赞）：他平时训顶级运动员，这次反过来让自己的个人 AI agent Muse 给自己排训练——手机上 Muse app 界面里现成一份 "nba-shooting-workout.pdf"， drills 包括定点投篮（spot shooting）、接球投篮（catch and shoot）、运球后投篮（off the dribble）、移动中投篮（shooting on the move）；他随后上场实练，另一人负责抢篮板，边练边说 "Muse trying to challenge me huh?"（Muse 这是想考我？）。注：视频结尾带"试试 Muse"的号召口径，按创作者实拍演示记一笔，不做训练效果背书。
+- **一句话总结**：训练计划最难的不是"练什么"，是"练的顺序和量有人替你排好"——agent 现排一张表，教练直接上场。
+- **来源**：[Instagram @lethalshooter](https://www.instagram.com/reel/DfQDAMKBNg3/)（据平台内容摘要整理）
+- **日期**：2026-11-02
+- **标签**：#生活 #效率
+
+#### 2. MARCIANOTECH @marcianotech_（IG 45 万粉，11-02）："Baby Muse" 先从邮件里揪出一笔 $49.99 的 AppleCare+，再让助手 Hailey 打 16 分钟电话追回全款
+- **做了什么**：科技创作者 MARCIANOTECH（11-02 reel，附 WhatsApp 式聊天截图）：他的 Muse "Baby Muse" 先从邮件里发现一笔 $49.99 的 AppleCare+（含盗抢保障）扣费，对应一台他从未激活的 iPad；他问怎么取消，Muse 建议打电话给苹果、称可退全款；他进一步让 Muse 自己打这个电话，Muse 回复会让自己的助手 "Hailey" 去打，随后确认 Hailey 已与苹果客服 "Sanaya" 通话、取消订阅并全额退 $49.99 到他的 Amex（到账处理最长 30 天），通话时长 16 分钟（9:33–9:49）。注：本条为创作者自述 + 聊天截图口径，退款到账尚未证实，不做"已到账"背书；结尾"评论 APPLE 看完整录音"属引流口径不采纳。
+- **一句话总结**：退订最磨人的不是"该不该退"，是"得自己打 16 分钟电话"——这通电话 agent 替你打了。
+- **来源**：[Instagram @marcianotech_](https://www.instagram.com/reel/DfQGLrUJ1A0/)（据平台内容摘要整理）
+- **日期**：2026-11-02
+- **标签**：#省钱 #效率
+
+#### 3. Chanoch Goldfeder（FB，11-01）：把 Home Assistant 全权交给 Muse——Claude 没修好的 Zigbee、Shelly 灯、锅炉推送机器人，它自己测试、看结果、再迭代，全修好了
+- **做了什么**：用户 Chanoch Goldfeder（11-01 FB 短帖）：他把自家 Home Assistant 的全权交给了 Muse，称此前用 Claude 多次尝试都没修好的老 bug，这次被 Muse 解决了——具体清单：接入新的 Shelly 智能灯、修好 Zigbee 安装、给 Home Assistant 接上基于摄像头的提醒、调试控制锅炉的推送机器人（pushbot）、找电气元件把空调状态与用电量同步；日常则把安息日（Shabbat）的灯光与空调配置也托付给 Muse 自主执行、无需手动干预。他的定性值得记：Muse 的跃升不在"会回答"，在"能自己测试、观察结果、再独立迭代"。注：本条为短帖口径，技术细节为用户自述，未独立核验。
+- **一句话总结**：智能家居最怕的不是"不会配"，是"配完总有个地方时灵时不灵"——agent 的活就是自己试、自己改、改到通为止。
+- **来源**：[Facebook Chanoch Goldfeder](https://www.facebook.com/cgoldfeder/posts/pfbid02XyAfoQcb4MLMWZhKEQDURfyQYWYYSXXUf1Ytvzu2dyuNvfpfaH7RVL9eXJWWKsfCl)（据平台内容摘要整理）
+- **日期**：2026-11-01
+- **标签**：#生活 #代码
+
+#### 4. Eddie Sussmann（FB，11-01）：欧洲行 + 旧电脑 + Quicken + 邮件四件套一次托付——机票火车转车酒店行程它排，杂乱笔记本它带路清理
+- **做了什么**：用户 Eddie Sussmann（11-01 FB 短帖）：他把四类杂事一次交给 Muse——规划欧洲旅行（机票、火车、转车、度假村之外的酒店住宿），省下自己逐项搜索的时间；带路清理一台杂乱的笔记本电脑；整理 Quicken 财务数据；读邮件并列出待回复清单；后续还打算让它排一条朝圣主题观光路线（法蒂玛、卢尔德、西班牙加拉班达尔三地）。注：本条为短帖口径，无截图佐证，按"多任务一次托付"的用户自述记一笔。
+- **一句话总结**：杂事最磨人的不是某一件难，是"四件都得你一件件想起来"——agent 一次接过去、列成清单。
+- **来源**：[Facebook Eddie Sussmann](https://www.facebook.com/eddie.sussmann/posts/pfbid02wS9KkHm6Ez5QuqZYLw7rafCygQ5QvkBKNqbzEFcgRHtVoDn6sWYLBREPhi8cjMyGl)（据平台内容摘要整理）
+- **日期**：2026-11-01
+- **标签**：#旅行 #效率
+
+### 行业观察
+
+- **CNBC 11-01：封堵名单从"店"扩到"银行"——摩根大通、嘉信、亚马逊、Kohl's、Neiman Marcus 点名挡外部 agent；51 家大店审计：37 家是被旧反爬规则误伤，0 家给已验证 agent 留了结账通道**：CNBC 11-01 报道，摩根大通（零售客户不许外部 agent 登录，只能读余额类数据、不能转钱；CEO Jamie Dimon 警告"流氓 agent 可能成千上万地涌来"）、嘉信、亚马逊、Kohl's 与 Neiman Marcus 均在挡包括 Muse 在内的外部 agent；亚马逊更要求 Meta 把亚马逊从 Muse 里移除，理由是购物应用应尊重商店的参与选择。反向是沃尔玛、Shopify 与 Best Buy 选择与 Muse 合作。Billions Network 对 51 家美国大店的公开规则审计：只有 11 家对 agent 有明确立场，5 家（含亚马逊）是故意封堵，37 家（约 73%）是被旧反爬规则"误伤"，其余 9 家未明确；且 51 家中没有任何一家给已验证 agent 留出完成购买的通道。CNBC 本人也提醒：审计只读了公开规则，不能证明各家在实际中就是这么拦的。接在第 33/37 期之后看：agent 购物的门，从"店家表态"扩到了"银行风控"，而"误伤"比"故意"更普遍——身份协议若铺开，先解的可能是这 37 家的误伤。[Daily Agentic 转述 CNBC](https://dailyagentic.info/article/5-big-firms-block-ai-shoppers-like-muse)（原文核验，2026-11-01）
+
+---
+
 ## 2026-11-02（第 38 期）
 
 今日共收录 **1 个用户案例** + **1 组媒体补记** + **1 组行业观察**。DW（11-01）可穿戴隐私片、Maria Zeee（10-31）转述 TIME 的"给非用户建档"论点与第 22/36 期口径重复，未重复收录；@5min_ai（11-01）新加坡 Connector 说明与第 34 期官方口径重复，未单列；多语言"介绍 Muse 是什么"科普视频、VPN+邀请码教程、"评论领指南"类引流帖继续过滤；以下按宁缺毋滥原则收录。
