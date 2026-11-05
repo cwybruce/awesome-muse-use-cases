@@ -36,6 +36,48 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-05（第 41 期）
+
+今日共收录 **4 个用户案例** + **2 组行业观察**。TIME 11-04 的老年用户 IG 视频与此前已收录的 TIME 10-22 报道（82 岁 Eileen Fay、71 岁 Julie Buchanan）为同一批采访素材的视频版，未重复收录；Zacks 11-03 的 Q3 财报复述（1000 万用户、25% 日活、购物均单超 $200）与第 40 期已记口径重复，未重复收录；Shopify 与 Meta 结账合作的 Fox Business 访谈与第 40 期财报会口径重复，未单列；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖、agent 选型综述继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Yanina Oyarzo @yanina_oyarzo（IG 10 万粉，11-04）："一人运营团队"——语音随想变排期帖子、Pinterest 5 周从 4.6K 涨到 3.4 万月浏览，品牌合作晚付款它盯
+- **做了什么**：创作者 Yanina Oyarzo（11-04 轮播，12 页）：她把 Muse 当成自己的运营团队，具体清单：每周创作者任务统筹；语音随想整理成可排期的帖子；旧内容复用后 Pinterest 月浏览 5 周内从 4.6K 涨到 3.4 万；新评论（TikTok/Instagram 3 条以上）主动提醒；品牌合作进度与晚付款盯梢；各平台 affiliate 码汇总成一个看板；IG 收藏的菜谱变成可点击的采购清单；邮件收据与购买商品自动关联；商品链接在 LTK、ShopMy、Sephora 三处同步上架；Vinted 二手上架由它打理、她只负责发货；还按条件帮她找公寓。注：轮播结尾"评论 SYSTEMS 领模板"属引流口径不采纳，Pinterest 涨幅为创作者自述口径，未独立核验，按"创作者运营打包"记一笔。
+- **一句话总结**：创作者缺的不是"灵感"，是"灵感、评论、合作款、上架全得一个人跟"——agent 的活就是把这堆跟进项并成一个运营台。
+- **来源**：[Instagram @yanina_oyarzo](https://www.instagram.com/p/DfVXSgrElSs/)（据平台内容摘要整理）
+- **日期**：2026-11-04
+- **标签**：#创作 #效率
+
+#### 2. Natasha Ibrahim @thenatashaibrahim（IG 5.3 万粉，11-03）："不是赞助，是真改变了生活"——Gmail 读信起草、IG 文件夹与数据它看、脑子里一团想法倒出来变成可执行清单
+- **做了什么**：创作者 Natasha Ibrahim（11-03 reel）：她用了 Muse 几周，自述"真的改变了生活"，并多次强调视频不是赞助、不是合作。具体分工：Gmail 由它读信、起草回复（她再发或再改）；因同属 Meta 生态，它能看她的 IG 文件夹、内容与数据，判断什么内容跑得好；还接 Shopify 与 QuickBooks；她把想法和愿景"脑内倾倒"（brain-dump）给它，它整理成可执行的行动清单。她的定性值得记：Muse 不是"会聊天的 AI"，是"可以搭定制 agent"的助手——这与第 35 期"先起草、后批准才敢用"的逻辑同源：秘书的边界越窄，用户越敢放手。
+- **一句话总结**：创作者的脑子最怕的不是"没想法"，是"想法一团、没人替你排成清单"——agent 的活就是先接住、再排好。
+- **来源**：[Instagram @thenatashaibrahim](https://www.instagram.com/reel/DfSCSLtxEU_/)（据平台内容摘要整理）
+- **日期**：2026-11-03
+- **标签**：#创作 #效率
+
+#### 3. @carlyassistant（IG，11-03）："Loopy"只在真急事时发短信——5 个收件箱每 5 分钟扫一遍，newsletter 与收据一律忽略
+- **做了什么**：创作者 @carlyassistant（11-03 reel，屏录演示）：她给自己的 Muse 取名 "Loopy"，搭了一个"重要邮件才打扰"的过滤器——Loopy 实时读 incoming 邮件，但只在邮件真正重要时给她发短信；屏录里已搭好的工作流显示：它盯着 5 个收件箱、每 5 分钟检查一次，只对真正紧急的事项发短信到她手机，newsletter（营销邮件）与收据一律忽略。注：账号仅 72 粉的小号，但流程有屏录佐证、数字具体（5 个收件箱、5 分钟间隔），按"邮件降噪"的具体搭建样本记一笔，不做"零漏报"背书。
+- **一句话总结**：邮箱降噪的最小闭环：不是"少看邮件"，是"只有真急事才值得一条短信"——其余的 agent 自己消化掉。
+- **来源**：[Instagram @carlyassistant](https://www.instagram.com/reel/DfSKoatiebb/)（据平台内容摘要整理）
+- **日期**：2026-11-03
+- **标签**：#效率
+
+#### 4. Eddie Sussmann（FB，11-03，续第 39 期）："两天干完一堆"——7 张机票加租车火车全订好、笔记本清出 300GB、换块电池比买新机省 $2,200
+- **做了什么**：用户 Eddie Sussmann（11-03 FB 短帖，第 39 期"欧洲行 + 旧电脑 + Quicken + 邮件四件套"的续报）：这次给了可核对的数字——两天内用 Muse 订好 7 张机票及配套租车、火车与转车，订好欧洲圣诞与感恩节之行的酒店，全部行程写进日历；笔记本清理出 300GB 空间、RAM 表现改善；升级 Microsoft 365 Business 云存储；把与 Cox Communications 有关的邮件与文件按时间线整理成"故障编年史"并起草投诉信；订了一块 replacement 笔记本电池，比买新机省 $2,200；还开始了报税准备。注：本条为用户自述口径，"AI 将取代大多数工人"的预测为其个人判断，不采纳为结论。
+- **一句话总结**：杂事最磨人的不是某一件难，是"两天里机票、酒店、电脑、投诉、报税全撞在一起"——agent 的活就是一次接过去、逐件清掉。
+- **来源**：[Facebook Eddie Sussmann](https://www.facebook.com/eddie.sussmann/posts/pfbid02GKQzEYBByEFyDPXvYekkPjPQs7rWWU5kck98LwA1HuPEQnSEJw85o9F5kjEcMrzcl)（据平台内容摘要整理）
+- **日期**：2026-11-03
+- **标签**：#旅行 #效率 #省钱
+
+### 行业观察
+
+- **前 Meta 安全主管 Stamos 11-02 喊话：把金融登录凭证交给 agent 是"完全疯了"——与"让 agent 替你管钱"的卖点正面相撞**：Meta 前首席安全官 Alex Stamos（现 Cognition CSO）在 Alex Kantrowitz 的 Big Technology Podcast 上说，用户正把整个 1Password 保险库交给 Muse、Instinct 这类 agent，再让它"去替我管钱"，这是 "totally insane"（完全疯了）。背景要一起记：这不是抽象警告——第 39 期 CNBC 已记摩根大通、嘉信以"未经授权购买与欺诈风险"挡外部 agent，Stamos 的话等于从安全圈内部给"交凭证"这条路判了风险等级。接在"银行封堵"之后看：agent 管钱的瓶颈不在能力，在"谁敢把钥匙交出去"——而这恰恰是 Muse 购物/省钱卖点的前提。[Futurism 图文（2026-11-04）](https://www.facebook.com/futurism/posts/pfbid0maefJf3w2wKPSyY7aBuDXHjt8KyKyFKNJU1ttXnnStJt8wtqNy7Vrn98s311aTG6l)；[The Outpost 转述 Business Insider（2026-11-04）](https://theoutpost.ai/news-story/alex-stamos-calls-giving-ai-agents-bank-logins-totally-insane-as-security-risks-mount-33110/)（据二次转述整理，播客原文未独立核验）
+
+- **Meta 11-04 披露 Muse 漏洞赏金：约 $120 万、单项最高 $30 万，630 多份报告中 64 份有效——安全账本第一次有了公开数字**：Meta 在 Muse 安全披露中称，4 月起的内部测试计划共收到 630 多份报告、64 份有效，累计支付约 $120 万赏金；单项最高 $30 万给了一个上线前漏洞——本地 HTTPS 代理的认证头被误当成可信来源，迁移后第二层代理让外部请求也能带上该头，Meta 一度把 Muse 下线修补；另有两项各 $9 万，涉及伪造浏览状态消息诱使 agent 越权操作、以及绕过一次性验证码邮件打码的格式技巧。接在 Stamos 警告之后看：同一周，安全圈在"别交钥匙"，Meta 在"我们为找钥匙孔的漏洞付了 $120 万"——两条线合起来才是 agent 管钱的真实成本面。[Softonic（2026-11-04）](https://en.softonic.com/articles/meta-says-muse-bug-bounty-payouts-hit-1-2-million-one-flaw-earned-300000)；[PrivacyNeedle（2026-11-04）](https://privacyneedle.com/cybersecurity/meta-muse-ai-security-vulnerabilities/)（据二次转述整理，Meta 原文未独立核验）
+
+---
+
 ## 2026-11-04（第 40 期）
 
 今日共收录 **4 个用户案例** + **1 组行业观察**。@muse 官方 11-02 的 Nastia Liukin "Goldie" 一日帖与第 39 期已过滤的"Ruby"帖同属官方广告素材口径，未单列；Zacks 11-03 的 Q3 财报复述（1000 万用户、25% 日活、购物均单超 $200）为 10-21 财报会口径的二次报道，与第 33 期已记口径重复，未重复收录；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖、agent 选型综述继续过滤；以下按宁缺毋滥原则收录。
