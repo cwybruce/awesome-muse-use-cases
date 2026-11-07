@@ -34,7 +34,42 @@
 - **可信度提示**：9 月中旬 Alexandr Wang 发起的 `#MuseMoneyChallenge`（晒省钱成果）中，Business Insider 指出**不少参与者是 Meta 内部员工**，相关金额案例请打折看待。
 - Muse 目前仅面向**美国、加拿大** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
-- Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
+- Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
+
+## 2026-11-07（第 43 期）
+
+今日共收录 **3 个用户案例** + **2 组行业观察**。@rpn（11-05）"4000 条收藏变 DC 完美周日"reel 结尾带 Muse logo、属品牌合作口径，维持第 42 期判断未单列；Phillip Jackson 小额诉讼案的 11-05 二手转述视频与第 37 期同源，未重复收录；@aipagedaily（11-06）的省钱证言合集为二手汇编、无新增原帖，未单列；@digitalmentor.ai（11-06）"每天自动买币"涉自动交易且细节不足，未收录；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Joshua McNichols（KUOW 记者，IG 11-06）："谈下过期退货"——一件过了退货期的衬衫，Muse 去跟店家谈，店家同意退了
+- **做了什么**：KUOW（NPR 成员台）记者 Joshua McNichols（11-06 reel，实拍）：他给 Muse 接上邮箱，让它去跟一家店谈一件已过退货期的衬衫——店家最后同意接受这件过期退货。他的定性留了余地：agent 确实像私人助理，但代价是数据——华盛顿大学 AI 教授 Chirag Shah 在同一视频里提醒，用户交出的是邮箱、信用卡等私密信息的去向与潜在风险并不透明。McNichols 的收尾也值得记：当越来越多经济活动由 agent 经手，"自己动手买东西"反而会变成一种 boutique（精品式）体验。注：本条为记者实测 + 学者点评口径，退货金额未披露，不做金额背书；谈判成功的是一次个案，不是"过期都能退"的保证。
+- **一句话总结**：退货最磨人的不是"能不能退"，是"过了期、你得自己开口去谈"——这通谈判 agent 替你谈了。
+- **来源**：[Instagram @kuow](https://www.instagram.com/reel/DfYl_xSjOxn/)（据平台内容摘要整理）
+- **日期**：2026-11-06
+- **标签**：#省钱 #效率
+
+#### 2. Krista Neher @kristaneher（IG 11-05）："Spark"——培训讲义它自己写、YouTube 评论它隔天起草 5 条送审、网站 Pixel 出问题它先查 Meta 账户再教修
+- **做了什么**：数字营销培训师 Krista Neher（11-05 reel，屏录演示）：她给自己的 Muse 取名 "Spark"，三件活都很具体：① 让它自主做一份一页纸的小企业培训讲义（后台自己跑完）；② 为涨 YouTube 品牌声量，让它找同领域最新视频、起草有见解的评论、每隔一天发 5 条给她审——明确不是群发 spam、每条都定制，且没她批准绝不发出；③ 网站 Pixel 出问题，让它先看自己的 Meta 账户、定位问题再一步步教她修，全程不碰网站后台。她的口径值得记："Muse AI Does the Work, YOU Stay in Control"（活它干，拍板权在你）——与第 35 期"先起草、后批准才敢用"的逻辑同源。注：本条为创作者实拍演示口径，按"小企业主的三件套"记一笔。
+- **一句话总结**：小老板最缺的不是"点子"，是"讲义、评论、修 Pixel 三件全得自己上手"——agent 的活就是先干完、再递上来等你点头。
+- **来源**：[Instagram @kristaneher](https://www.instagram.com/reel/DfXrZelFUPB/)（据平台内容摘要整理）
+- **日期**：2026-11-05
+- **标签**：#效率 #创作
+
+#### 3. 日本用户（经 WEEL 11-05 汇总）："邮件翻成案件表、旅行翻成手册"——Gmail + 日历接上，客户案件按人按时间排成表；九州行连预订号、地图链接都收进一本旅行手册
+- **做了什么**：日本科技媒体 WEEL（11-05 汇总，源自 11-04 前后日本 X 用户实测帖）：Muse 日本上线（10-23）后第二周，X 上出现一批邮件 + 日历接法的报告——① 一位用户接上 Gmail、Outlook 与 Google 日历，让它按依頼主把工作案件按时间线排成一张进行管理表；② 另一位用户去九州旅行，只说一句"照片放进来、做成旅行手册"，它就从邮件里捞出机票、酒店、观光地与研讨会会场信息，做成带预订号、时刻与地图链接的行程表，文末还附了没被要求的一览表（预订号汇总与注意事项）；③ 还有用户在 PC 端 Claude Code 与手机端 Muse 之间放一个 Notion"联络账本"中转，让两个 agent 隔空协作，另有"邮件发账单"也被交给了 Muse。注：本条为媒体汇总的二手口径、未逐条核验原帖，按"日本上线第二周的邮件 + 日历接法"记一笔；行程表细节以 WEEL 转述为准。
+- **一句话总结**：邮箱最怕的不是"信多"，是"案件、机票、酒店全散在信里"——agent 的活就是按人按时间一次翻成表和手册。
+- **来源**：[WEEL（2026-11-05）](https://weel.co.jp/media/innovator/muse-use-case/)（据二次转述整理）
+- **日期**：2026-11-04
+- **标签**：#效率 #旅行
+
+### 行业观察
+
+- **【官方】一周双发：Muse Voice（11-05，美国先行）+ Spaces（11-06，全市场）——agent 从"会办事"长出"会说话的脸"和"一句话搭出的小工具"**：Muse Voice 是实时语音对话 + 实时化身（Realtime Avatar）：对着会做表情、手势的动画形象说话，可随时打断，响应约 870 毫秒（据创作者实测转述），手机、网页与 Mac 可用，AI 眼镜与 Muse Charm 随后跟进；Alexandr Wang 11-05 在 Threads 发了语音演示（化身 "Euler"，一只穿绿夹克的白狗，陪用户排练"老板约谈"）。Spaces 是另一条线：跟 Muse 描述一个想法，它就搭出一个定制空间——追踪器、规划板、看板或小游戏，可钉侧边栏、可定时出现，接上 Gmail、Google 日历、OpenTable、Notion 后在后台自动更新（演唱会日期、价格变化、储蓄进度）；扎克伯格 11-06 在 X 晒了自己搭的三个：BBQ 游戏、活动追踪器、家庭控制面板。同批还有 Meta AI Research 的专用模型（经 Muse Wonder 训练的 Active Memory 与 Active Focus），Meta 自评的个人超级智能指数从 38% 升至 47%。接在第 40 期"购物均单超 $200"与第 42 期"小企业先问广告"之后看：Meta 这周补的是"形态"不是"能力"——语音 + 空间让 agent 更像一个"住在手机里的帮手"，而不是"一个更会聊天的框"。注：响应延迟与指数均为 Meta 或创作者自述口径，未独立核验；Spaces 暂只对个人开放，分享/协作还在探索中。[TechCrunch（2026-11-06）](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)；[The Verge 经 Omitted 转述（2026-11-06）](https://omitted.news/story/meta-adds-voice-mode-and-spaces-to-muse-ai-agent-5dbed0)；[Digital Trends（2026-11-06）](https://www.digitaltrends.com/phones/metas-now-lets-you-build-custom-mini-app-experiences-in-the-muse-app/)
+
+- **Airbnb CEO Chesky Q3 电话会（11-05，11-06 见报）：Muse 与 Instinct 带来的流量"很少"、订单"更少"，在每天近 50 万单里"非常不具实质性"——agent 订旅行这条路，平台方第一次给了量级口径**：Airbnb CEO Brian Chesky 在 Q3 财报电话会上说，来自 Muse 与 Instinct 这类通用 agent 的流量很少、订单更少，在 Airbnb 每天近 50 万笔订单中占比"very non-material"（非常不具实质性）；且 agent 流量在 10 月初见顶后就没再涨。他同时宣布 Airbnb 自己的 AI 旅行 agent 将于 2027 年上半年推出，并将通过 MCP 协议向外部 agent 开放。接在第 39 期"银行封堵"、第 40 期"Shopify 3.3 倍"之后看：两条线分化得更清楚了——Shopify/Walmart 在铺结账通道，Airbnb/亚马逊在说"别急着下注"；而 Chesky 自己 10 月也亲测过 Muse 与 Instinct、称"不好用"（旅行规划要的是多人协作与反复比价，不是填一张表）。注：引言为财报电话会口径，转述自 Business Insider；同日墨西哥上线（拉美首个市场，见收录说明）说明 Meta 的扩张节奏没停，冷的是"agent 替你订"这条具体链路，不是 Muse 本身。[Fonqast 转述 Business Insider（2026-11-06）](https://www.fonqast.com/news/airbnb-ceo-says-ai-agents-like-muse-and-instinct-are-barely-bringing-in-bookings)；[PhocusWire（2026-11-06）](https://www.phocuswire.com/news/finance/airbnb-q3-2026-earnings)
+
+---
 
 ## 2026-11-06（第 42 期）
 
