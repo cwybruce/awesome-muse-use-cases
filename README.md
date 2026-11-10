@@ -36,6 +36,64 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-10（第 46 期）
+
+今日共收录 **6 个用户案例** + **3 组行业观察**。@burberrykiss（IG 11-09）旅行险 $157.55 取消案例手持美妆产品出镜、反复引导下载，推广口径存疑未单列；@y_.kitagawa（Threads 11-08）"避免 38,980 日元损失"附付费 Note 购买链接，未收录；@fadzieai（IG 11-08）"理发/度假/面试/订阅"四用法通用演示 + 评论领链接，未单列；hlilly73（FB 11-08）公司用法概述无具体结果，未单列；FB 蓝帽衫用户（11-09）"省了几千美元"无细节感叹，未收录；@groovebak（IG 11-09）"Maya" 角色介绍无具体任务，未单列；@rutinelabo（Threads 11-09）Spaces 高尔夫订场演示与第 43 期 Spaces 口径同源，未单列；@thecheatcodetech（IG 11-08）"Gary" 语音通话演示与第 43 期 Voice 口径同源，未单列；墨西哥上线首测（FB 11-09 红夹克"免 VPN 接 Gmail"）与收录说明已记口径同源，未单列；@aiwithsachi（IG 11-09）风险提醒视频所引 Tom's Guide 旧例与第 36 期重复、风险口径与第 41 期 Stamos 警告同源，未单列；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖、AIPI 设备推广继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. 用户自述（FB reel，11-09；@muse 官方 Threads 同日转发）："Finch"——38 项订阅每月 $2,285.21，两年白白丢了几千美元，4 项一键取消
+- **做了什么**：一位用户（11-09 FB reel，@muse 官方 Threads 同日转发同一条视频）：他让自己的 Muse agent "Finch" 接上银行（Plaid 只读），扫出全部定期扣费——38 项、每月 $2,285.21（一年 $27,422.52），其中有重复的影视订阅和重复的会计软件套餐、还有长期不用的服务；他打一句"List every subscription that I am currently paying"，Finch 列出清单，他勾 4 项取消、批准由 Finch 起草取消邮件发出；后续确认屏显示健身房会员、影视订阅、重复会计套餐、娱乐套餐 4 项已取消，未用月份申请退款，目标看板更新为"Save money - 4 subscriptions canceled"。他自述过去两年在这些遗忘订阅上"丢了几千美元"。注：本条为用户自述 + 屏录口径，视频结尾"评论 Muse 领完整流程"属引流口径不采纳；订阅总额为视频内看板显示，退款到账尚未证实，不做"已到账"背书。
+- **一句话总结**：订阅最怕的不是"某一项贵"，是"38 项、每月 $2,285，你根本不知道自己在为什么付钱"——agent 的活就是一次翻出来、勾掉、发取消信。
+- **来源**：[Facebook（Finch 订阅审计）](https://www.facebook.com/reel/1471540751575508/)；[Threads @muse 同步转发](https://www.threads.com/@muse/post/Dfh-6A5DVqy)（据平台内容摘要整理）
+- **日期**：2026-11-09
+- **标签**：#省钱 #效率
+
+#### 2. Krupa @krupaandbooks（IG，11-08）："Madam Muse"——数字出版生意全托付，机票它盯着等降价：蒙特利尔飞波士顿 $950 等到 $350/人，两张票省约 $915
+- **做了什么**：经营数字出版公司的 Krupa（11-08 reel，实拍自述）：她把自己的 Muse 叫 "Madam Muse"，生意全托付——它搭了公司作品集网站（KR Media Global）、经批准发社交媒体帖子、做演示文稿、每 4 小时查一次邮件、管日历。最具体的一件是订机票：蒙特利尔飞波士顿最初报价约 $950/人，她让 Muse 盯着等降价，它先后两次提醒降价——先到约 $700、再到约 $350/人（1 月出行），她和儿子两张票合计省约 $915，"自己根本不会天天去查"。她的经验值得记：把 agent 当新员工 onboarding，先训流程、再放手，她本人有做流程与系统的背景，还配合 ChatGPT 做品牌工作。注：本条为创作者自述口径，票价与省钱数字为作者自报，未独立核验；FB 同日有同一条内容的图文版，未重复收录。
+- **一句话总结**：机票最怕的不是"贵"，是"降价那天你没去看"——agent 的活就是替你盯着、降了再叫你。
+- **来源**：[Instagram @krupaandbooks](https://www.instagram.com/reel/DfeEHdexkmE/)（据平台内容摘要整理）
+- **日期**：2026-11-08
+- **标签**：#省钱 #效率 #旅行
+
+#### 3. contentkaki（IG，11-09，新加坡）："最便宜的 iPhone 17，它先挑毛病"——Carousell 上 S$800 的 Sage 256GB 有暗病，次日一早它主动报三家库存、推荐最稳妥的一家
+- **做了什么**：新加坡创作者 contentkaki（11-09 reel，屏录演示）：他让 Muse 在 Carousell 上找最便宜的 iPhone 17（要口碑好的卖家），Muse 返回 S$800 的 Sage 256GB，但同时读了卖家描述、把暗病挑明——相机键松动按不下去、0.5 倍镜头成像失真；第二天一早 Muse 主动发来消息：三家候选都还有货，并建议别只贪最便宜、选最稳妥的一家。同一条视频里他还接了 Gmail，Muse 把每月软件订阅逐项列出来、还主动约了一个 Hyperframes 聊天的时间。注：本条为创作者实拍演示口径，未做"已成交"背书；结尾"评论 Muse 领 639 个真实用法库"属引流口径不采纳。
+- **一句话总结**：淘二手最怕的不是"贵"，是"最便宜那台有暗病、你没看出来"——agent 的活就是先挑毛病、第二天再帮你盯库存。
+- **来源**：[Instagram @contentkaki](https://www.instagram.com/reel/DfhTt9TkzLf/)（据平台内容摘要整理）
+- **日期**：2026-11-09
+- **标签**：#省钱 #效率
+
+#### 4. 用户自述（FB reel，11-09）："GET MUSE TO DO YOUR ERRANDS"——旧垃圾服务它写邮件取消、新家迁移一次办完；Walmart 与 Sam's Club 的收据它翻，菜谱按家里现有的排
+- **做了什么**：一位用户（11-09 FB reel，自述）：他明说自己不爱 Facebook、更常用 X，但 Meta 的 Muse 在生活里确实好用——两件活：① 取消旧的垃圾清运服务并迁移到新服务商，Muse 起草带确认信息的邮件、他点一下就发出；② 管买菜：Muse 看 Walmart 与 Sam's Club 的收据、告诉他该买什么、把清单发给他妻子，再按家里已有的食材排一周菜谱，还把临近的旅行、纪念日与生日都算进去。注：本条为用户自述口径，无金额与截图佐证，按"生活杂事两件套"记一笔。
+- **一句话总结**：生活杂事最磨人的不是某一件难，是"取消、迁移、买菜、排菜谱全得你自己想起来"——agent 的活就是一次接过去。
+- **来源**：[Facebook（Muse 办杂事）](https://www.facebook.com/reel/1154024577539791/)（据平台内容摘要整理）
+- **日期**：2026-11-09
+- **标签**：#生活 #效率
+
+#### 5. 西语创作者（FB reel，11-09）："广告报的数和真卖的数，Muse 对上了"——Shopify 30 天 $1.1M、1,066 单，Meta 报约 $1.2M，14% 的差是复购
+- **做了什么**：一位西语创作者（11-09 FB reel，屏录演示）：他把 Shopify、Meta Ads、GoHighLevel CRM 与 Muse 四个系统接在一起，验证一件事——Meta 广告后台报的收入和 Shopify 真实销售额对不对得上。结果：Shopify 30 天总销售额 $1.1M（1,066 单、转化率 1.7%），Meta 报约 $1.2M；Muse 算出 $1.2M 里 14% 是没走广告的老客复购，正好解释了这 14% 的差。同场还演示了 Muse 的另一件活：发现一单延迟，自动经 CRM 给客户发消息告知进度。注：本条为创作者实拍演示口径，数字为视频内看板显示，未独立核验；小企业"广告对账"用法与第 42 期"小企业先问广告"口径互相印证。
+- **一句话总结**：小老板对账最怕的不是"数对不上"，是"对不上、你也不知道差在哪"——agent 的活就是把两边摊开、把差额算明白。
+- **来源**：[Facebook（Shopify 与 Meta 对账）](https://www.facebook.com/reel/2180571456186381/)（据平台内容摘要整理）
+- **日期**：2026-11-09
+- **标签**：#效率 #省钱
+
+#### 6. @mongbee_marketing（Threads，11-08）："面试先陪练，练完它替你发邮件确认"——Muse Voice 角色扮演面试官，10 年销售 + MBA + 创业经历它先点评、再发确认信
+- **做了什么**：创作者 @mongbee_marketing（11-08 屏录演示）：他让 Muse Voice 陪练一场面试——先发一句"Can we role play my interview, then email the recruiter to confirm the date?"，Muse 随即以面试官口吻开场提问；用户以 "Sarah" 的身份回答（10 年销售、MBA、创过咖啡公司），Muse 当场给反馈："开头先讲咖啡公司，因为那证明你有 owner 意识"；练完按约定给招聘方发邮件确认面试日期。注：本条为演示口径（场景为编排），按"Voice 面试陪练 + 邮件收尾"的用法样本记一笔；与第 43 期 Voice 上线口径衔接：语音陪练是 Voice 最先被用户拿来试的场景之一。
+- **一句话总结**：面试准备最怕的不是"没话说"，是"说了半天、不知道哪句该放最前面"——agent 的活就是先陪你练一遍、再把确认信发了。
+- **来源**：[Threads @mongbee_marketing](https://www.threads.com/@mongbee_marketing/post/DffvxhoDLFm)（据平台内容摘要整理）
+- **日期**：2026-11-08
+- **标签**：#学习 #效率
+
+### 行业观察
+
+- **【官方】Muse Ember 发布（11-09）：Meta 最小、最便宜的模型——$0.10/百万输入 token，Haiku 5.5 的水平、约三分之一的单任务成本**：Meta Superintelligence Labs 11-09 发布 Muse Ember，定位是 agent 每天重复的那层活：调工具、写代码子任务、路由、抽取、解析长文档；定价 $0.10/百万输入 token、$0.50/百万输出 token（缓存输入 $0.004），1M token 上下文、最高 512K 输出，已上 Meta Model API 与 Muse Code（模型 ID `muse-ember-1.0`）。Meta 的 headline 对比是 Artificial Analysis 智能指数 36 分、与 Claude Haiku 5.5 最高分持平，单任务成本约 $0.14、对 Haiku 的 $0.41，全面压过 GPT-6 Luna；Meta 自己的话是"Muse Wonder plans, Muse Ember handles the volume"（Wonder 定方向、Ember 干体力活），Ember 也是第一个用 Muse Wonder Full 训练出来的模型。接在 10-12 Muse Wonder 发布之后看：Meta 的模型线分工成型了——Wonder 做规划、Spark 做中坚、Ember 干高频重复活；消费端 Muse agent 用的仍是 Spark 系，Ember 先走 API 与代码侧。注：基准成绩为 Meta 引用 Artificial Analysis 的口径，未独立核验；参数量未披露、权重不开源。[Meta AI Research（2026-11-09）](https://research.meta.ai/blog/muse-ember)；[TechCrunch（2026-11-09）](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)；[Threads @aiatmeta](https://www.threads.com/@aiatmeta/post/Dfh75Edkdcc)
+
+- **英国"数周内"上线（11-09，Retail Gazette / The Sunday Times）：第六个市场、欧洲首个，零售合作先行；用户数破 1100 万**：Retail Gazette 11-09 报道，Meta 准备"数周内"在英国上线 Muse，正与英国零售商谈合作、让英国用户直接在零售商网站上找货下单；Meta 高管将赴英出席上线，官方日期未确认、Meta 未置评。接在日本（10-23）、新加坡（10-28）、墨西哥（11-06）之后看：英国将是第六个市场、欧洲首个，扩张节奏没停；同批消息里用户数口径也更新了——破 1100 万（10 月财报会时为 1000 万）。注：上线时间与零售合作方均为英媒引述的"据悉"口径、Meta 未证实，收录说明里的开放市场列表暂不改，等官宣再更新。[Retail Gazette（2026-11-09）](https://www.retailgazette.co.uk/blog/2026/11/meta-to-launch-ai-shopping-assistant-muse-in-uk-within-weeks/)；[BM Magazine（2026-11-09）](https://bmmagazine.co.uk/ai/meta-muse-ai-assistant-uk-launch/)
+
+- **Active Memory 内部评测 76% → 90%（11-09，Matt Navarra Threads）：关键上下文用对率的新数字**：科技评论员 Matt Navarra 11-09 转述 Meta 的模型更新：Muse 的 Active Memory（跨对话记住关键信息）在内部评测里"正确使用关键上下文"的任务成功率从 76% 升至 90%。接在第 43 期"Active Memory + Active Focus 随 Wonder 发布"之后看：这是记忆能力第一次有了前后对比的数字口径——agent 能不能"记住你说过的话"，正在从卖点变成可量化的指标。注：数字为 Meta 内部评测口径、经第三方转述，未独立核验。[Threads @mattnavarra](https://www.threads.com/@mattnavarra/post/DfhiAnRG1bM)
+
+---
+
 ## 2026-11-09（第 45 期）
 
 今日共收录 **2 个用户案例** + **1 组行业观察**。Sasha DiGiulian（IG 11-08）"Arlo" 攀岩 + 生意两手抓案例由 @muse 官方账号同步发布、属品牌合作口径，未单列；Ashton Hall（IG 11-07）"Ash" 日程 + 订花演示为 Meta 品牌广告制作口径，未单列；Elroy Chua（IG 11-07）"一句话备会"与第 44 期已收录为同一条 reel，重复；Lauren Fitzmaurice "Pixie" 与第 44 期重复；Phillip Jackson 小额诉讼案的 11-07 二手转述视频与第 37 期同源，未重复收录；11-08 各路 Voice/Spaces 二次报道与第 43 期官方口径重复，未单列；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖、AIPI 设备推广、房产中介推广继续过滤；以下按宁缺毋滥原则收录。
