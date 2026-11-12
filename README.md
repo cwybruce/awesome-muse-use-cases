@@ -36,6 +36,88 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-12（第 48 期）
+
+今日共收录 **10 个用户案例** + **1 组行业观察**。@muse 官方 Ashton Hall "Ash"、Justin Gaethje "Highlight" 品牌广告口径与第 47 期重复，未单列；Peter Yang $800/年账单谈判的 @alstackdaily（IG 11-11）二次剪辑，原案第 1 期已收录；@museai.cases（IG 11-11）TreePen18 "$480/年网费谈判"短片为二手转述的推广账号内容（第 42 期同口径），未单列；@theaiimpact（Threads/IG 11-11）四例汇编（Holdy 医疗账单省 $4,000+、Spencer Hakiman 无人认领 $2,202、Chris 轮胎省 $223、盲人 Reddit 用户游戏无障碍）为 9–10 月旧帖的二手汇编，未单列；Rony Meisler（IG 11-10）WhatsApp 讲解 + 自家社群引流，第 47 期已记；@juanesogo（Threads 11-10）Matt Robb 地址事件复述，第 3/5 期及 AP 跟进已收录；@stacksignallabs（IG 11-10）"Sam 一夜四任务"为演示脚本（example.com 邮箱）+ 邀请码口径，未单列；@kenshotshot（Threads 11-10）粤语助手以邀请码引流为主，第 47 期已记；@harrytaylor_property（IG 11-10）房产中介 "Muse" 为第三方借名产品，非 Meta Muse；Muse Ember 各路二次转述与第 46 期重复；@metaforbusiness 小企业轮播为官方营销素材，第 47 期已记；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Eric Siu @ericosiu（IG，11-12，12 万粉，认证）："301 份招聘申请，Muse 不到 3 美分筛出 4 个全职人选"
+- **做了什么**：营销人 Eric Siu（11-12 IG 帖，截图自其 X 原帖）：Alex Hormozi 在 Instagram 发了一个 Head of Content 职位，评论区涌入 300 多份申请。他把全部评论者跑了一遍 TypesafeAI Jev API + 接了自己 Instagram 的 Meta Muse，按简介、照片与内容深度打分，分成 hire / peer / agency / park 四档——301 人里 11 人过线、只有 4 人适合全职，AI 总成本不到 3 美分。原帖已被删除。注：本条为作者自述 + 截图口径，筛选标准为作者自定，未独立核验；帖尾"评论 TALENT 领工具"属引流口径不采纳；与 10-14 他让 Muse 跟 On 跑鞋客服"理论"那案同源，都是"把重复交涉交给 agent"的思路。
+- **一句话总结**：招人最磨人的不是"没人投"，是"300 份申请全得你一个个翻"——agent 的活就是 3 美分先筛一遍、只把 4 个值得面的人递上来。
+- **来源**：[Instagram @ericosiu](https://www.instagram.com/p/DfnvgoRKZfV/)（据平台内容摘要整理）
+- **日期**：2026-11-12
+- **标签**：#效率
+
+#### 2. Shama Hyder @shamahyder（IG，11-11，认证，2.9 万粉）："收藏夹里的旅行 reel 变行程"——7 条上海收藏 reel 翻成多日行程，带营业时间与地图
+- **做了什么**：营销人 Shama Hyder（11-11 reel，实拍）：她把收藏夹里攒的旅行 reel 叫"reel 坟场"——上海、伦敦、纽约小面馆全存着、一次没翻过。她对着 Muse 口述一句（经 Wispr Flow 语音输入）："把我存的 reel 里所有上海的地方翻出来，做一份行程"——Muse 从 7 条上海 reel 里提炼出一份多日行程《Shanghai, the way you saved it》，含 Tian An 1000 Trees（天安千树）、苏河沿岸等具体地点，附营业时间、地图与每日计划。她的收尾值得记："研究你早就做完了，只是你自己不知道"。注：本条为创作者实拍演示口径，按"收藏夹变行程"的具体用法样本记一笔；行程未做"已按此出行"背书。
+- **一句话总结**：旅行收藏最怕的不是"存得少"，是"存了一堆、出发前一家都想不起来"——agent 的活就是一次翻成行程、连营业时间和地图都配好。
+- **来源**：[Instagram @shamahyder](https://www.instagram.com/reel/Dfmy3shRLkO/)（据平台内容摘要整理）
+- **日期**：2026-11-11
+- **标签**：#旅行 #效率
+
+#### 3. Jamian C. Polk @jamiancpolk（Threads，11-10）："Leroy Jenkins"——NBA League Pass 被双重扣费：Apple 月付 + Prime 年付，一年约 $460 买同一服务
+- **做了什么**：用户 Jamian C. Polk（11-10 视频，自述 + 截图）：他的 Muse "Leroy Jenkins" 主动提醒他被双重扣费——NBA League Pass 同时走了 Apple 月付 $24.99（约 $299.88/年）与 Prime Video 年付 $159.99，一年约 $460 买的是同一项服务；截图里 Leroy 把重复项列清楚、建议取消哪一个，还顺带指出另一笔重复发票问题。他强调这不是他吩咐的，是 Leroy 自己发现的。注：本条为用户自述 + 截图口径，金额为作者自报，未独立核验；与第 47 期 "Ernesto" 的 $80 重复扣费同源，都是"后台盯着、主动报重复扣费"的用法。
+- **一句话总结**：订阅最怕的不是"某一项贵"，是"同一个服务、两条路同时扣、你根本不知道"——agent 的活就是不用你吩咐、自己翻出来、告诉你取消哪一个。
+- **来源**：[Threads @jamiancpolk](https://www.threads.com/@jamiancpolk/post/Dfk4Qj0kQht)（据平台内容摘要整理）
+- **日期**：2026-11-10
+- **标签**：#省钱
+
+#### 4. Leah Herring（FB，11-10）："Trevor"——公司卡被盗后，它找出她漏掉的 3 笔未授权交易，还重配了 QuickBooks 让收款不断
+- **做了什么**：小企业主 Leah Herring（11-10 FB 帖，自述）：她的公司卡信息被盗、资金被取走后，Muse "Trevor" 在过去一个月里帮她找出 3 笔她自己漏掉的未授权交易，给出对应电话号码、该说什么、金额与日期清单，并排好先联系谁的优先级；还帮她重配了 QuickBooks，让信用卡收款在等新公司账户开户的 7–10 天里继续进个人账户、不断流。她称之为"救命"。注：本条为用户自述口径，交易细节为作者自报，未独立核验；按"盗刷善后 + 收款不断流"的具体样本记一笔。
+- **一句话总结**：卡被盗最磨人的不是"丢了多少钱"，是"漏掉的交易、该打的电话、断掉的收款全堆在一起"——agent 的活就是先列清楚、再把收款的路接上。
+- **来源**：[Facebook Leah Herring](https://www.facebook.com/leah.herring.56/posts/pfbid02RHUadXLmamd9VyhevLvt4kr4qqy8ZjUx7iRdgiyTgUCPZshu9z6neMPdqabS2ceel)（据平台内容摘要整理）
+- **日期**：2026-11-10
+- **标签**：#省钱 #效率
+
+#### 5. Tal Navarro @talnavarro1（Threads，11-11）："Avatal"——小生意三件套：Stripe 未收 $16,292、Slack 纠错、团队讨论变下周营销日历
+- **做了什么**：小企业主 Tal Navarro（11-11 视频，屏录演示）：她的 Muse "Avatal"（她自述"不是 Meta 赞助"）三件活都有屏录：① 收款——问一句"这个月谁还没付"，Muse 从 Stripe 拉出 $16,292 的未结发票汇总；② 管团队——让它跟进 Slack，拿到任务进展，还让它给发错表格链接的同事发去纠正消息；③ 做营销——把团队讨论直接变成下周的 Notion 营销计划、排成内容日历。她说小生意就是"同时当 CEO、会计、团队经理和市场"，agent 接的是中间那几层。注：本条为创作者屏录演示口径，金额为视频内看板显示，未独立核验；帖尾"评论 MUSE 领链接"属引流口径不采纳。
+- **一句话总结**：小老板最缺的不是"人手"，是"谁没付钱、谁发错了链接、下周发什么全得自己盯"——agent 的活就是先翻出来、再排成表。
+- **来源**：[Threads @talnavarro1](https://www.threads.com/@talnavarro1/post/DfnRVihiKrC)（据平台内容摘要整理）
+- **日期**：2026-11-11
+- **标签**：#效率
+
+#### 6. Parth Anand @rage.insaan（IG，11-10，3.2 万粉）："一条 Reel 的全套，它先写好给你改"——角度、逐字脚本、B-roll、剪辑备注一次递上，前 3 秒又单独改了一版
+- **做了什么**：创作者 Parth Anand（11-10 reel，屏录演示）：他让 Muse 帮他策划一条讲"二手市场崩塌"的 Reel（面向大学生与年轻职场人），Muse 一次递上全套：角度（"Secondhand isn't dying. The bargain is."）、格式、带时间戳的逐字脚本、B-roll 建议、剪辑备注、文案、标签与发布时间；他又追问一句"前 3 秒再抓人一点、能一个人拍、1 分钟内"，Muse 改了一版开场——向镜头扔衣服、三机位简化。他的定性值得记：想点子容易，难的是策划和拍摄。注：本条为创作者实拍演示口径，按"内容策划全套 + 迭代改稿"的用法样本记一笔；帖尾"看看你的 agent 能做什么"属下载号召口径不采纳。
+- **一句话总结**：做内容最磨人的不是"没点子"，是"角度、脚本、机位、文案全得现想"——agent 的活就是先写好一整套、再按你的要求改前 3 秒。
+- **来源**：[Instagram @rage.insaan](https://www.instagram.com/reel/DfkOE-us07u/)（据平台内容摘要整理）
+- **日期**：2026-11-10
+- **标签**：#创作 #效率
+
+#### 7. Kevin Moore @kev_the_blind_pirate（IG，11-12）："Hana"——集体诉讼与无人认领的钱：CVS 应用、GoodRx 卡、店内 ATM、亚马逊退货，各一笔小额
+- **做了什么**：盲人创作者 Kevin Moore（11-12 视频，自述）：他的 Muse "Hana" 帮他翻出网上可能属于他的集体诉讼赔偿与无人认领资金——用 CVS 应用/网站 $5、用 GoodRx 卡 $5、用店内 ATM $5、亚马逊退货遇阻各一笔，另有一个德州 "found money" 网站上还挂着属于他的钱。他说作为盲人，这类"不然不会去办"的事，agent 帮他办了。注：本条为用户自述口径，金额小且为作者自报，未独立核验；他 10-18 的"15,000 封邮件"案已在 README 收录，本条是同一作者的新帖、不同用法，按"找无人认领的钱"记一笔。
+- **一句话总结**：小钱最怕的不是"少"，是"散在五六个地方、你根本不会去翻"——agent 的活就是一次翻出来、告诉你哪笔能领。
+- **来源**：[Instagram @kev_the_blind_pirate](https://www.instagram.com/reel/Dfnxr0fRRsm/)（据平台内容摘要整理）
+- **日期**：2026-11-12
+- **标签**：#省钱
+
+#### 8. Claret M. Belle（FB，11-10）："Ben"——打字困难，她靠语音使唤它：涂色书项目、吃药提醒、可打印表格全接过去
+- **做了什么**：用户 Claret M. Belle（11-10 FB 帖，自述）：她打字困难，偏爱用麦克风听写或实时语音跟自己的 Muse "Ben" 说话——用法很日常：管涂色书项目、起草由她自己批准的社帖、处理邮件与日历、每天 7:30 吃药提醒、做可打印的表格、记住进行中的项目。她还写了下载与兑邀请码的步骤，鼓励别人试试。注：本条为用户自述口径，按"语音优先 + 无障碍"的用法样本记一笔；帖尾邀请码口径不采纳。
+- **一句话总结**：助手最实在的不是"会多少"，是"打字难的人也能开口使唤它"——agent 的活就是听你说话、把日常杂事接过去。
+- **来源**：[Facebook Claret M. Belle](https://www.facebook.com/claret.belle/posts/pfbid07p1SYTabRZj62PCqe8UkXPmh6G8rbAVmQ84pvZVBWh19n1LYsnMZQu3hdbbT1d4ol)（据平台内容摘要整理）
+- **日期**：2026-11-10
+- **标签**：#生活 #效率
+
+#### 9. @deals_so_good（Threads，11-10）："老婆生日前夜，它先提醒你"——送花、1–3 点空档午餐、下周三安排，三个选项贴着日历给
+- **做了什么**：用户 @deals_so_good（11-10 文字帖，自述）：他妻子生日是前一天，Muse 在前一晚主动提醒了他，还给了贴合他日历的三个选项——送花、在 1–3 点的空档约午餐，或安排到下周三。他说 agent 盯的不只是工作日程，个人日子也记得。注：本条为用户文字帖口径，事小但真实，按"主动提醒个人日子"的样本记一笔；帖尾邀请码口径不采纳。
+- **一句话总结**：生日最怕的不是"忘了"，是"想起来的时候已经没空安排"——agent 的活就是前一晚先提醒、再把能约的时间递上来。
+- **来源**：[Threads @deals_so_good](https://www.threads.com/@deals_so_good/post/DfkJrIxjjHX)（据平台内容摘要整理）
+- **日期**：2026-11-10
+- **标签**：#生活
+
+#### 10. @gspark337（Threads，11-10，韩语）："Jolly Mall"——每天早上翻你的 IG 收藏，按 90 年代邮购目录风给你推购物推荐
+- **做了什么**：韩国用户 @gspark337（11-10 屏录演示，韩语帖）：他用 Spaces 搭了一个 "Jolly Mall"——每天早上 Muse 翻一遍他的 Instagram 收藏、生成个性化购物推荐，再以 1990 年代邮购目录（"MALL IN THE SKY - FALL '95 CATALOG"）的复古风格呈现，点进单品有详情（手工瓷杯等）；侧边栏里还有 "Lunchbox Planner"（午餐盒计划）与 "Pickup and Carpool"（接送拼车）两个 Space。注：本条为韩语用户屏录演示口径，按"Spaces 购物推荐 + 生活小应用"的样本记一笔；与第 47 期 Emily Higgins 的四个 Spaces 同源，都是"一句话搭出的小应用"正在成型的证据。
+- **一句话总结**：收藏夹最怕的不是"存得多"，是"存完就忘、再也没翻过"——Spaces 的活就是每天早上翻一遍、按你的口味推回来。
+- **来源**：[Threads @gspark337](https://www.threads.com/@gspark337/post/DfjpIk7AEYM)（据平台内容摘要整理）
+- **日期**：2026-11-10
+- **标签**：#效率 #生活
+
+### 行业观察
+
+- **【官方】Active Memory + Active Focus 11-06 起全员免费（Meta Research，11-06）：关键信息遗忘率降 2.4 倍，记忆评测 90%（原 76%）；Wonder 本体仍付费**：Meta 11-06 在 research.meta.ai 发布《Bringing Specialized Models to Muse and Meta AI》：用 Muse Wonder 训练的专用模型推给全部 Muse 与 Meta AI 用户，Active Memory（跨对话记住关键信息、区分临时事实与长期偏好、识别过期信息）与 Active Focus（任务卡住换路子、自行恢复、重要动作前先确认）不再是订阅专属；Meta 称关键信息遗忘减少 2.4 倍、日常任务遇意外时的完成率提升 67%、个人超级智能指数从 38% 升至 47%。Wonder 本体（API $4/$20 每百万 token）与 Wonder Full（Muse Code $50/$200 档）仍付费。接在第 46 期 Matt Navarra 转述的 76%→90% 数字之后看：那组数字的出处落了地——这不是一次新模型发布，是"前沿能力的免费化"，免费层 agent 的记忆与纠错第一次有了官方口径的量级。注：评测数字与 2.4 倍、67% 均为 Meta 自家口径，未独立核验；Meta 未说明分地区 rollout 节奏。[Data Studios 报道（2026-11-07）](https://www.datastudios.org/post/meta-ai-muse-active-memory-active-focus-all-users-muse-wonder-trained-models)；[Emergent 报道](https://emergent.sh/news/meta-brings-muse-active-memory-focus-all)
+
+---
+
 ## 2026-11-11（第 47 期）
 
 今日共收录 **7 个用户案例** + **1 组行业观察**。@muse 官方 11-09/11-10 的 Ashton Hall "Ash"、Justin Gaethje "Highlight" 均为品牌广告制作口径，未单列；Josh Richards（IG 11-10）"Gary" 约会夜视频同属品牌合作口径，未单列；@metaforbusiness（IG 11-10）Muse for Small Business 轮播为官方营销素材，未单列；Muse Ember 各路二次转述与第 46 期重复；英国上线消息与第 46 期重复；Muse Voice 美国全量上线（11-05）已在第 43 期收录；@kenshotshot（Threads 11-10）粤语助手用法以邀请码引流为主，未单列；@ivansfull（IG 11-10）"Jarbis" 东京—巴厘岛旅行演示为纯推广演示、无结果佐证，未单列；Rony Meisler（IG 11-10）WhatsApp 版 Muse 讲解 + 自家社群引流，未单列；@morin_ai89 / @shachiku_shacho_claude（Threads 日语）"20 个任务清单"类教程帖、无个人实测结果，未单列；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖、AIPI 设备推广继续过滤；以下按宁缺毋滥原则收录。
