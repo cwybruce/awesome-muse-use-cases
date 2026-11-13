@@ -36,6 +36,43 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-13（第 49 期）
+
+今日共收录 **3 个用户案例** + **3 组行业观察**。@muse 官方 Threads 11-12 Andrew East "Pepper"（5 分钟跑进 4:58.07）为品牌合作演示口径，未单列；@trentevolaa（IG 11-12）"Milo" 150 美元内家居好物代购，评论区出现 "collab of the year"，品牌合作口径存疑，未单列；CyberGuy（FB/IG 11-12）"6,800+ 个 Muse 分享聊天可被公开搜到"与第 41 期 Claroc 10-20 事件同一源头，未重复收；@theaiimpact 四例汇编与 @alstackdaily 的 Peter Yang、Armand Ruiz 二次剪辑与第 48 期/第 1 期重复，未单列；Malachi Cooper（FB 11-12）房产 FSBO 晨报搭建教程无结果佐证，未单列；Ryan Henze "Dante"、Brandon Carter "Lead Machine"、Marcus Tanksley 播客谈话为通用介绍/引流口径，未单列；英国"数周内上线"消息与第 46 期重复、无新进展；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Tom Eggemeier，Zendesk CEO（Forbes 11-12 转述 TNW 播客访谈）："5 天省 $3,105，95% 的活它干了，我只打了一通电话"
+- **做了什么**：Zendesk CEO Tom Eggemeier 在 TNW 播客访谈中说，他让 Meta Muse 重新谈了家里的宽带、电视与手机套餐——5 天省了 $3,105，约 95% 的工作由 Muse 完成，他自己最后只打了一通电话。Forbes 11-12 的专栏文章转述了这段访谈，并以此讨论个人 agent 是否已能进企业。注：本条为播客访谈口径、经 Forbes 二次转述，访谈本身为 10 月下旬内容、11-12 由 Forbes 重新带热；金额口径另有一版出入——Fortune 11-09 的 CEO Daily 称他"一年省了 $3,150"，与 Forbes 的"$3,105 / 5 天"对不上，按 Forbes 原文记、差异在此标出；省钱数字为作者自报，未独立核验。
+- **一句话总结**：谈账单最磨人的不是"贵"，是"宽带、电视、手机三家全得你一家家谈"——agent 的活就是 5 天谈下来、只剩一通电话要你自己打。
+- **来源**：[Forbes（2026-11-12）](https://ramaonhealthcare.com/why-personal-agents-dont-belong-in-the-enterprise-yet/#content)；[TNW 播客片段（YouTube）](https://www.youtube.com/shorts/aHMMo2reHpE)
+- **日期**：2026-11-12
+- **标签**：#省钱 #效率
+
+#### 2. Victoria Liu @vickiiliu（IG，11-12，7.1 万粉）："Musie"——Gainesville 美食 crawl：3 个点、预算 $45–65，连拍摄清单都做成 PDF
+- **做了什么**：创作者 Victoria Liu（11-12 reel，屏录）：她把选美食 crawl 地点的活交给了自己的 Muse "Musie"——先让它在步行距离内找 3 个本地点、再让它按"一个下午拍完"核对营业时间、给预算与拍摄清单；Muse 交回一份完整 PDF《gainesville-food-crawl-plan.pdf》，3 个站点附介绍、预算约 $45–65、附详细拍摄清单。注：本条为创作者实拍演示口径，按"本地美食 crawl 全套计划"的用法样本记一笔；未做"已按此出行"背书。
+- **一句话总结**：美食 crawl 最磨人的不是"去哪"，是"三家店的营业时间、预算、拍摄清单全得现查"——agent 的活就是一次查完、做成 PDF 递上来。
+- **来源**：[Instagram @vickiiliu](https://www.instagram.com/reel/DfqMg-7zkBo/)（据平台内容摘要整理）
+- **日期**：2026-11-12
+- **标签**：#生活 #创作
+
+#### 3. Nathan Brooks（FB，11-12）："要一台高流量滑移装载机，它自己上 Marketplace 全国找、还私信卖家"
+- **做了什么**：用户 Nathan Brooks（11-12 reel，自述）：他做生意需要一台高流量（high-flow）滑移装载机，把要求与价格区间告诉 Muse 后，Muse 自己去 Facebook Marketplace 全国范围搜、给卖家发私信，找回来一台符合要求的。他的点评值得记：Muse 的主动记忆层让它能接着上下文办事——给它要求与预算，它自己去找、去问。注：本条为用户自述口径，成交与否未说明，不做"已成交"背书；按"二手设备代找 + 代问卖家"的用法样本记一笔。
+- **一句话总结**：买二手设备最磨人的不是"贵"，是"全国翻 listing、一家家私信问"——agent 的活就是先筛出来、再替你去问。
+- **来源**：[Facebook Nathan Brooks](https://www.facebook.com/reel/2196103834665295/)（据平台内容摘要整理）
+- **日期**：2026-11-12
+- **标签**：#省钱 #效率
+
+### 行业观察
+
+- **【官方】Muse 电话代打 11-12 向美国付费用户全量开放（Alexandr Wang X 宣布；TechCrunch/Engadget）：保险、有线、DMV、订餐电话它替你打，$20/$100 两档；Muse Mail 专属邮箱将向免费用户开放**：Meta 首席 AI 官 Alexandr Wang 11-12 在 X 宣布，Muse 代打电话功能即日起向美国付费订阅用户开放——保险、宽带、DMV、无在线订座的餐厅，"不想打的电话都不是你的问题了"；该功能 9 月起小范围试点，此前要申请内测资格，现在付费即用（$20/月档每周 5 亿词元、$100/月档 30 亿）。同批消息：11-10 先上付费档的 Muse Mail 专属邮箱，Wang 11-11 称"很快向所有人开放、包括免费版"。接在第 43 期 Voice、11-03 "Brett" 电话询价演示、11-05 Voice 美国全量之后看：calling 这条线从"能打"变成"付费功能"——代打电话正式收费化，而邮箱地址反向走向免费层；配合 9 月 PYMNTS/路透"商家挂断 AI 来电、Meta 曾用人顶替"的旧闻，代打的瓶颈不在技术、在对方接不接。[TechCrunch（2026-11-12）](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)；[Engadget（2026-11-12）](https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/)
+
+- **美联航禁 AI bot 订机票、银行也在挡（Erick Erickson 播客片段，11-11/11-12）：bot 替用户争取最大利益，商家不喜欢**：主持人 Erick Erickson 在节目中说，美联航已决定禁止 AI bot 代订机票；银行同样不让 agent 代办银行业务——理由是这些 bot 替用户找最优解、而不是替公司赚钱。他的原话值得记："它们证明了对消费者方便，但公司不喜欢，因为 bot 在为客户争取价值最大化"。注：本条以 Claude Duet（Anthropic 的 Muse 对标）为主要例子，但禁令针对的是所有 agent 代订；接在第 39 期"银行封堵"、第 45 期 Jeff Rossen 评论区"比价可以、代付免谈"之后看：封堵线从亚马逊、银行扩到了航司，"替你找"已被接受，"替你订/替你付"仍在被挡。[Instagram @ewerickson](https://www.instagram.com/reel/Dfny9_qlZVX/)（据平台内容摘要整理）
+
+- **扎克伯格自述也在用 Muse 当爹、当 CEO（CNN News18 11-12 转述 Sources 播客）：周末烘焙、爬山许可证、CEO 杂事都交给它**：扎克伯格在 Sources 播客上说，他用 Muse 帮自己"做一个更好的父亲、丈夫和朋友"——给 3 岁女儿排周末烘焙、给大女儿的爬山行程盯许可证；同时还在搭一个帮他处理 CEO 事务的 agent，目标是把时间还给家人。注：本条为创始人播客口述、经媒体转述，属"官方叙事"而非独立实测；与第 45 期"扎克伯格财报电话会 agent 社交网络愿景"同源，都是 Meta 在讲"连 CEO 自己都这么用"的故事。[Instagram @cnnnews18](https://www.instagram.com/p/DfoxtPTiHgO/)（据平台内容摘要整理）
+
+---
+
 ## 2026-11-12（第 48 期）
 
 今日共收录 **10 个用户案例** + **1 组行业观察**。@muse 官方 Ashton Hall "Ash"、Justin Gaethje "Highlight" 品牌广告口径与第 47 期重复，未单列；Peter Yang $800/年账单谈判的 @alstackdaily（IG 11-11）二次剪辑，原案第 1 期已收录；@museai.cases（IG 11-11）TreePen18 "$480/年网费谈判"短片为二手转述的推广账号内容（第 42 期同口径），未单列；@theaiimpact（Threads/IG 11-11）四例汇编（Holdy 医疗账单省 $4,000+、Spencer Hakiman 无人认领 $2,202、Chris 轮胎省 $223、盲人 Reddit 用户游戏无障碍）为 9–10 月旧帖的二手汇编，未单列；Rony Meisler（IG 11-10）WhatsApp 讲解 + 自家社群引流，第 47 期已记；@juanesogo（Threads 11-10）Matt Robb 地址事件复述，第 3/5 期及 AP 跟进已收录；@stacksignallabs（IG 11-10）"Sam 一夜四任务"为演示脚本（example.com 邮箱）+ 邀请码口径，未单列；@kenshotshot（Threads 11-10）粤语助手以邀请码引流为主，第 47 期已记；@harrytaylor_property（IG 11-10）房产中介 "Muse" 为第三方借名产品，非 Meta Muse；Muse Ember 各路二次转述与第 46 期重复；@metaforbusiness 小企业轮播为官方营销素材，第 47 期已记；多语言"介绍 Muse 是什么"科普视频、邀请码/评论领指南类引流帖继续过滤；以下按宁缺毋滥原则收录。
