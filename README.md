@@ -36,6 +36,61 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-15（第 51 期）
+
+今日共收录 **5 个用户案例** + **5 组行业观察**。@alliekmiller（IG 11-13）"朋友一年省 $1,300 订阅审计"与往期补收的 LinkedIn 同案（第 46 期前补收条目）为同一案例换平台重发，未重复收；@muse 官方 Threads 11-13 的 UFC 选手 Stephen Thompson "Sidekick" 备战演示为品牌运动员合作口径，第 50 期已记、未单列；Anthony Hamilton Jr（IG 11-13）假期四件套与第 50 期第 3 条重复，未单列；Digital Laura / Laura Anderson（IG/FB 11-14）"10 小时赚 $10,000"无可核细节、营销口号口径，未单列；@brandonmeaux（IG 11-15）"找倒闭建站公司的客户赚钱"为点子教程、无实测结果，未单列；MG Business（IG 11-14）"$85/月有线账单"舞台演讲轶事为二手转述、无原始记录，未单列；电话代打功能各路 11-13/14 转述与第 49 期官方口径重复，未单列；Roberto P. Nickson（IG 11-13）双机工作站巡礼为设备展示、无具体任务结果，未单列；纯邀请码推荐帖、"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Snehal @snehals.playground（IG，11-14）："它替我打电话去酒店砍 2 晚起订"——两家都说不行、狗每晚加 $25，没订成也如实汇报；顺手付了 $2.28 过路费、盯着 HYROX 门票 11 月 19 日开售
+- **做了什么**：创作者 Snehal（11-14 轮播，屏录）：她一次让 Muse 办了三件小事——① 打电话给 Avalon 的 Hermosa Hotel & Cottages 和 Catalina Canyon Inn，想把 2 晚起订改成 1 晚、带一只 15 磅的 Shih Tzu：Muse 先问清她的名字、声音偏好、回拨电话与狗狗信息再打过去，回来如实汇报——两家都坚持 2 晚起订、狗狗每晚加 $25，没订成；② 查未付过路费：翻出一笔 $2.28 的 SR261 违规（10 月 13 日，Irvine West 出口），确认之前 $59.78 已付清后，用存档 Visa 付掉 $2.28；③ 盯 HYROX San Diego 门票开售：先报"官方未公布"，随后按 RoxRadar 推送"11 月 19 日中午 12 点 PT 开售"，并注明官网仍写"soon"。注：本条为创作者屏录实测口径，按"付费电话功能开放后首批真实用户实测"记一笔；电话代打 11-12 刚向美国付费用户开放（第 49 期），这是第一例"打了、对方拒绝了、如实汇报"的样本；金额与日期为屏录显示，未独立核验。
+- **一句话总结**：打电话最磨人的不是"打"，是"起订、带狗、回拨全得你一句句交代，对方还可能说不"——agent 的活就是先问清、自己打过去、没办成也回来如实说。
+- **来源**：[Instagram @snehals.playground](https://www.instagram.com/p/DftJxJIm2CF/)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#效率 #省钱 #旅行
+
+#### 2. George "Big George" Kokoris（IG，11-14）："一个下午，18 件二手上架四个平台"——给它照片，它查同款成交价、写标题描述，一半的上架是它自己点的
+- **做了什么**：用户 George Kokoris（11-14 reel，自述 + 卖家后台录屏）：他和妻子经营转售生意，写 eBay listing 向来最耗时。一个下午，他把商品照片交给 Muse：Muse 查同款成交价、写标题与描述、一步步带着他走完上架流程——约 3 小时，18 件商品上架 eBay、Vinted、OfferUp 与 Facebook Marketplace 四个平台；他说其中一半基本是 Muse 自己点的，他只在 eBay 上点了几个按钮；中途也有被平台挡住、要人工接手的时候。注：本条为用户自述 + 后台录屏口径，18 件/3 小时为作者自报，未独立核验；按"转售生意批量上架"的具体样本记一笔；与 Moneywise 10-10"卖旧相机谈判剧本"同源，都是"卖二手"这条线，但本案是真上架、有后台为证。
+- **一句话总结**：卖二手最磨人的不是"没货"，是"每件都要查价、写标题、填描述、一个个平台贴"——agent 的活就是一个下午先把 18 件递上去。
+- **来源**：[Instagram @biggeorgessecondact](https://www.instagram.com/reel/Dfs30IMAqR-/)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#效率 #省钱
+
+#### 3. Susan Day Belcher（IG，11-14）："Suki"——健身生意 + 播客的后台：学员报一组训练，它几秒内记好组数、围度与补剂
+- **做了什么**：健身教练 Susan Day Belcher（11-14 reel，自述 + 聊天界面演示）：她把自己的 Muse 叫 "Suki"，用来跑健身生意与播客的后台——学员发来一组训练（高脚杯深蹲、罗马尼亚硬拉、俯卧撑），连同围度、肌酸与 Peptide X 的用量，Suki 几秒内确认已记录，跨设备同步。她说此前总被问"学员数据多到崩溃怎么管"，答案就是交给 Suki 记。注：本条为创作者自述口径，按"健身教练客户数据后台"的用法样本记一笔；视频结尾带下载号召口径不采纳。
+- **一句话总结**：带学员最磨人的不是"练"，是"每个人的组数、围度、补剂全得你一个个记"——agent 的活就是发来就记好，几秒钟的事。
+- **来源**：[Instagram @susan_day_23](https://www.instagram.com/reel/Dfu6MsuFW3h/)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#效率 #生活
+
+#### 4. @ltepam たんたん（Threads，11-14，日语）："用了两周，它开始替我盯场子"——健身房空位每小时查一次、快过期的积分与通勤卡它先提醒
+- **做了什么**：日本用户 @ltepam（11-14 文字帖，自述）：他用 Muse 两周，总结了几件"不只是聊天"的用法——每小时查一次健身房空位、有空就发通知；快过期的积分与通勤卡，到期前先提醒；第二天比赛的天气与换乘路线，提前查好递上来。注：本条为用户自述口径，按"两周使用后的常规自动化"样本记一笔；帖尾邀请码口径不采纳；日本 10-23 上线后，本地日常用法样本继续累积中。
+- **一句话总结**：日常最磨人的不是"某一件事"，是"空位、过期、换乘全得你自己惦记"——agent 的活就是每小时查、快过期叫你、出门前先查好。
+- **来源**：[Threads @ltepam](https://www.threads.com/@ltepam/post/DftGxFTj1ZL)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#效率 #生活
+
+#### 5. Priyanka Naik（经 @muse 官方 Threads，11-14 转发）："Chunky"——旧金山周末：Portola 音乐节接送、订 Burma Love，回来还报了 2 万多步
+- **做了什么**：用户 Priyanka Naik（11-14，@muse 官方账号转发的演示视频）：她给自己的 Muse 取名 "Chunky"（一只"相当圆润贪吃的海豹"），周末去旧金山 Portola 音乐节全程交给它——先拆周末计划、报 Portola 接送信息、推荐 Burma Love 与 Teakwood 两家餐厅并订好位；跨州出行前按"环保时髦精"风格给穿搭建议，她白天黑夜两套都穿上了；回来一问，周末走了 2 万多步。注：来源为 @muse 官方账号转发的用户演示，按"音乐节周末全托付"记一笔；与第 47 期 Emily Higgins 同源，都是官方转发的用户实测；视频结尾"它帮我做了这条视频"属品牌口径，不采纳。
+- **一句话总结**：音乐节周末最磨人的不是"玩"，是"接送、订位、穿什么、走了多少，全得现想"——agent 的活就是出发前一次排好、回来再报个数。
+- **来源**：[Threads @muse（Priyanka Naik 演示）](https://www.threads.com/@muse/post/DfulhvFiLUF)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#生活 #旅行
+
+### 行业观察
+
+- **隐私批评再升级：Paul Walsh（11-14）称 Muse 给"从没用过它的人"也建档（SMBtech 报道）**：在线安全与隐私研究员 Paul Walsh 11-14 发表技术分析称，任何人的消息、邮件、照片或日历邀请，只要能通过他人的 Muse 连接账户触达，就可能在本人不知情、未同意的情况下被 Meta 掌握；他还指出这可能暴露心理健康、用药、性关系、宗教信仰、政治观点与线人身份等信息。接在第 50 期 More Perfect Union"每小时建档"与第 41 期 Stamos"交钥匙"警告之后看：批评方从工会媒体扩到了独立安全研究员，"连累不用它的人"从指控变成了技术分析的标题；Walsh 同时披露自己在做 WhatsApp 替代品、有商业利益，Meta 的回应口径仍是"隔离虚拟机、不与广告共享"。注：本条为研究者分析口径经媒体转述，未独立核验。[SMBtech（2026-11-14）](https://smbtech.au/news/meta-muse-ai-agent-declared-privacy-breaching-spyware/)
+
+- **Sierra 发布 Poppy 1.0 个人 agent 开放协议（11-11 宣布，11-14 报道）：Shopify 全站接入，Muse 11-13 起扫描支持 Poppy 的网站**：Sierra 11-11 发布个人 agent 协议 Poppy 1.0——一套让个人 agent 与企业服务互通的开源标准，100 多家早期支持者；Shopify 已为全平台店铺激活该协议，Meta 的 Muse 从 11-13 起开始扫描带 Poppy 元数据的网站，识别到就可调标准 API 订票、订位、管理订阅。接在第 49 期"美联航禁 AI 订票、银行挡代办"之后看：封堵与建桥同时在发生——航司与银行在挡"替你订"，Shopify 与 Sierra 在铺"让 agent 正规订"的路；Muse 是第一批表态支持的大厂 agent。注：本条为发布方公告经媒体转述，Muse 端的实际覆盖范围未经独立核验。[Astin Tech News（2026-11-14）](https://news.astintech.id/en/news/sierra-launches-poppy-1-0-open-standard-for-personal-ai-agents-with-shopify-and-meta-muse-)
+
+- **HUMAN Security 数据（经 FB 11-13 转述 PPC Land）：10 月 agent 流量里 Muse 占 59%，ChatGPT Agent 15.9%**：安全公司 HUMAN Security 的数据（经 PPC Land 11-13 报道、FB 转述）显示，2026 年 10 月 AI agent 流量分布：Meta Muse 59%、ChatGPT Agent 15.9%、Codex 浏览器 8.8%、Codex Chrome 插件 5.2%、Google Agent 0.8%；Meta 与 OpenAI 合计占 89%，agent 总流量仍在上升。接在第 47 期"上线 12 天 2,900 万次请求"之后看：这是第一份把 Muse 放在 agent 流量大盘里称的第三方数据——份额断层领先，但口径是"流量"不是"留存/付费"，与"10 月 1000 万用户"互相印证的是规模、不是质量。注：本条为 FB 帖转述的第三方数据，未见原始报告，份额口径以 HUMAN Security 为准。[Facebook Faiz Israili（转述 PPC Land / HUMAN Security）](https://www.facebook.com/faizisraili/posts/pfbid0UK68pp432sTSfVkcGEnEDwcku5kddqr91F9XLZJfqmsLpED8JBPFvah8eTwZrdk4l)（据平台内容摘要整理）
+
+- **WSJ 日文版（Threads 11-13）：Muse 与 Instinct 已能替持卡人购物，银行与商家开始担心**：WSJ 日文版 11-13 的帖子称，近几周 Meta 的个人 agent Muse 与 Instinct 已获得替持卡人购物的能力，消费者不用再自己点结账、不用按支付键；银行、支付公司与商家对这一变化的影响日益担忧。接在第 49 期美联航禁令、第 39 期银行封堵之后看：agent 代付这条线，Meta 在往前推、金融机构在往后挡，"替你找"已成共识、"替你付"仍是拉锯点。注：本条为 WSJ 日文版帖子口径，未见英文原文。[Threads @wsjjp](https://www.threads.com/@wsjjp/post/DfqnX2ajqA8)（据平台内容摘要整理）
+
+- **Muse 自己提醒用户：给智能家居接 agent，要当心 prompt injection 的物理后果（Rob Leathern，Threads 11-13）**：前 Meta 员工 Rob Leathern 11-13 发帖称，他直接问 Muse——用 Meta 硬件（帖中语境为 Muse Home Link 智能家居设备）是否该担心，Muse 回了一份分级关切清单，核心是 prompt injection 一旦能开关家里的设备，"后果就是物理的"。这不是一次翻车实录，是 agent 自己把风险说在前头；接在 Paul Walsh 隐私分析之后看，安全讨论正在从"数据被谁看"扩到"指令被谁改"。注：本条为单次问答截图口径，未独立复现。[Threads @jacaranda7](https://www.threads.com/@jacaranda7/post/DfsJ1bplvLl)（据平台内容摘要整理）
+
+---
+
 ## 2026-11-14（第 50 期）
 
 今日共收录 **4 个用户案例** + **2 组行业观察**。@muse 官方 Threads 11-13 的 UFC 选手 Stephen Thompson "Sidekick" 备战演示为品牌运动员合作口径（与 Ashton Hall "Ash"、Justin Gaethje "Highlight" 同型），未单列；@jasonxt2026（Threads 11-13）"Ernesto 省近 $2,000"为第 47 期 Courtney Johnson 案的二次转发，未重复收；@museai.cases（IG 11-12）Nick 租车买断省 $1,250 短片为早期已收录的 Nick Prince 案的二手转述，未重复收；CyberGuy（FB/IG 11-12）"6,800+ 个 Muse 分享聊天可被公开搜到"与第 41 期 Claroc 10-20 事件同一源头，未重复收；电话代打功能各路 11-13 转述与第 49 期官方口径重复，未单列；@stlpercy（IG 11-12）"Costco 电视 $299 比价"为插画演示、无真实使用证据，未单列；Malachi Cooper 房产 FSBO 晨报教程第 49 期已记为无结果佐证，未单列；纯邀请码推荐帖、"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
