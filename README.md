@@ -36,6 +36,90 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-16（第 52 期）
+
+今日共收录 **10 个用户案例** + **2 组行业观察**。@muse 官方 Threads 11-15 转发的 "Monae" 秋季 NYC 行程为 @thebudgetnista 10-15 同名 reel 的官方再发，往期已收录，未重复收；Mino Vela（IG 11-15）假期四件套与第 50 期 Anthony Hamilton Jr 同款任务高度重合，疑似搬运，未单列；Digital Laura / Laura Anderson（IG/FB 11-14）"10 小时赚 $10,000"第 51 期已判无可核细节，未单列；MG Business（IG 11-14）"$85/月有线账单"第 51 期已判二手转述，未单列；@infanodes（Threads 11-15）"接管 Facebook 广告、两周 2,000 订阅、$1.62/个"为无原始发帖人的二次转述，无法核验出处，未单列；Harry Collins（IG/FB 11-15）酒店经理演示为 FB/IG 同日双发、推广口径存疑，未单列；Diego Vallota（IG 11-15）"卖闲置攒 $350 买 Ray-Ban Meta 眼镜"只有 Day one 计划、无结果，未单列；Marketing Blaster（FB 11-15）"每周省 20 小时"为营销号口径、无具体任务佐证，未单列；Smart Ai Tricks（FB 11-14）Client Hub Spaces 演示为推广账号内容、数据疑似演示数据，未单列；@room_cocoa121（Threads 11-15）Mercari 销售库存表与 @luna.lilith.k（Threads 11-14）两周使用清单均为真实用户分享、但无硬数字与具体结果，按宁缺毋滥未单列；电话代打功能各路 11-14/15 解说与第 49 期官方口径重复，未单列；Expansión（IG 11-14）墨西哥上线轮播无新信息（11-06 上线已记）；Arihant（IG 11-15）英国"即将推出"为推测口径、未官宣；纯邀请码推荐帖、"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Dr. Rachel D. Gainsbrugh @short.term.gems（IG，11-15）："FAA 全美停飞、她被困佛罗里达"——Muse "Pip" 语音找到 $325.40 的迈阿密—亚特兰大机票并订下，她的人类助理只找到 $2,000 的选项
+- **做了什么**：医生兼房产投资人 Rachel Gainsbrugh（11-15 reel，自述）：FAA 地面停飞当天，她的达美晨间航班取消、人被困佛罗里达，儿子当晚还有 homecoming。她一边收拾行李一边语音使唤自己的 Muse "Pip"——Pip 搜到一张迈阿密飞亚特兰大 $325.40 的机票并订下，全程没看到她的卡号，随后自动加进日历、把详情发邮件/短信给她的助理；对比之下，她的人类助理只找到 $2,000 的选项。她也如实说了边界：想让 AI 顺手订杯咖啡，因权限限制没办成；视频结尾预告了 Part 2（是否赶上 15:58 的航班）。注：本条为用户自述口径，$325.40/$2,000 为作者自报，未独立核验；FAA 停飞的范围为作者视频中的说法，未独立核验；帖尾 11-21 免费峰会引流口径不采纳。
+- **一句话总结**：航班取消最磨人的不是"没票"，是"全美停飞那天，你翻到的票是 $2,000、它翻到的是 $325.40"——agent 的活就是你收拾行李的工夫，票订好、日历加上、助理也通知了。
+- **来源**：[Instagram @short.term.gems](https://www.instagram.com/reel/DfviPJDEjzn/)（据平台内容摘要整理）
+- **日期**：2026-11-15
+- **标签**：#旅行 #效率
+
+#### 2. @young.mete（Threads，11-15）："Muse vs Dot 旅行对决第一回合"——改订酒店：Muse 发现直接订更便宜、自己改订并取消原单，Dot 换算货币就卡住了
+- **做了什么**：用户 @young.mete（11-15 文字帖，自述）：他拿 Muse 和 OpenAI 的 Dot 做旅行后勤对决，同一任务失败的那个再交给另一个，第一回合是改订酒店——Muse 发现 Hotels.com 上的预订直接向酒店订更便宜，用 Link 钱包完成改订，并在 1Password 协助下取消了原订单；Dot 在同一任务上失败：本地货币换算不过来、没有钱包集成与 1Password 支持，订不了。这是连载对比帖的第一例。注：本条为用户自述口径，按"Muse vs Dot 实测对照"的样本记一笔；Dot 一侧的失败原因为作者自述，未独立复现。
+- **一句话总结**：改订酒店最磨人的不是"贵一点"，是"平台价和直订价不一样、改完还得取消原单"——agent 的活就是先比出来、再自己改掉、原单也退了。
+- **来源**：[Threads @young.mete](https://www.threads.com/@young.mete/post/DfxGsgmm_fv)（据平台内容摘要整理）
+- **日期**：2026-11-15
+- **标签**：#旅行 #效率
+
+#### 3. Brandon Boswell @brandonmeaux（IG，11-14）："daily driver" 三件套——DEAL WATCH 每天盯黑五折扣、DIRECTOR 每天递内容晨报、DAILY REPORT 每天对一遍广告数据
+- **做了什么**：创作者 Brandon Boswell（11-14 reel，自述 + 屏录）：他把 Muse 叫 "daily driver"，个人生活与社媒运营都交给它，屏录里三件套每天在跑：① DEAL WATCH——每天查 J.Crew Factory、Nordstrom、Gap、Dick's、B&H、Ralph Lauren 等店的折扣，11 月重点盯黑五/网一；② DIRECTOR - My content chat——每天早上递一份内容晨报，汇总他的 Instagram、Threads 与 Facebook Page 表现；③ DAILY REPORT - My numbers, every day——每天对一遍 Facebook 广告、Instagram 与 Threads 的详细数据，含帖子验证状态与纠错。注：本条为用户自述 + 屏录口径，按"三件套 daily routine"的样本记一笔；与第 51 期已排除的他 11-15 "找倒闭建站公司客户"点子帖是两条不同的帖子。
+- **一句话总结**：每天最磨人的不是"某一件事"，是"折扣、晨报、广告数据三份报告全得你自己跑"——agent 的活就是每天先递上来，你只看结论。
+- **来源**：[Instagram @brandonmeaux](https://www.instagram.com/reel/DfvOPDHDPoZ/)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#效率 #省钱
+
+#### 4. Surya Kunju @aiwithsurya（IG，11-15）："$500 过节预算，它拆成 4 个人 + 每小时盯价"——Instax $89.99、乐高 $51.99、按摩枪 $49.99、电热毯 $59.99
+- **做了什么**：创作者 Surya Kunju（11-15 reel，屏录演示）：他用 Muse Spaces 搭了一个假期礼物追踪器——先定 $500 总预算，Muse 拆给 Jyoti $140、妈妈 $120、爸爸 $120、Shanaya $70，另留 $50 作税费运费缓冲；再按人给具体礼物建议并挂上价格监控：Jyoti 的 Fujifilm Instax Mini 12（$89.99）、Shanaya 的 LEGO Creator 3-in-1（$51.99）、爸爸的 Renpho 按摩枪（$49.99）、妈妈的电热毯（$59.99）；任务视图里还有一项 "Hourly holiday gift price watch"，每小时跑一次。注：本条为创作者屏录演示口径，按"Spaces 预算 + 价格监控"的具体样本记一笔；视频结尾引流 YouTube 完整版口径不采纳；与第 48 期 @gspark337 "Jolly Mall" 同源，都是 Spaces 购物推荐线。
+- **一句话总结**：过节送礼最磨人的不是"买什么"，是"4 个人的预算、价格、税费全得你自己算、降价了也没人告诉你"——Spaces 的活就是先拆好预算、再每小时盯着价。
+- **来源**：[Instagram @aiwithsurya](https://www.instagram.com/reel/Dfw81dZAMoP/)（据平台内容摘要整理）
+- **日期**：2026-11-15
+- **标签**：#生活 #省钱
+
+#### 5. Stephen Reid（FB 群组，11-15）："后台每天 190 次运行，它改成 100 次"——高频监控搬出 agent、只在数据变了才叫醒它
+- **做了什么**：用户 Stephen Reid（11-15 FB 群组帖，自述 + 方法）：他嫌 Muse 的定时检查太烧 token——收件箱、房间、位置更新的高频轮询把每周用量推得很高；办法是把这类固定监控搬出 agent，改成跑在 Muse 自带 Linux VM 上的一段简单轮询脚本，只在数据真的变了才唤醒 agent：每日后台运行从约 190 次降到约 100 次，重要更新没漏；他还贴了做这类脚本的模板指令，称价格、群组帖子等重复检查都适用。同帖还介绍了 Crosswalk.to——一个让 Muse 与 Grok、Claude、Gemini 在共享房间里协同的 hub，不用在几个应用之间来回传话。注：本条为用户自述口径，190→100 为作者自报，未独立复现；按"重度用户自己省 token"的硬核样本记一笔。
+- **一句话总结**：agent 最烧钱的不是"干活"，是"没事也要每小时起来看一眼"——省 token 的活就是让脚本先盯着、变了再叫它。
+- **来源**：[Facebook Stephen Reid（群组帖）](https://www.facebook.com/groups/25987023737657524/permalink/28930336276659574/)（据平台内容摘要整理）
+- **日期**：2026-11-15
+- **标签**：#效率 #代码
+
+#### 6. @k4zuki0tsuhata くっくる（Threads，11-14，日语）："只用手机，做出一个通话录音 App"——CallSeal v1.0.89：LINE/Signal 通话也能录，AES-256-GCM 加密
+- **做了什么**：日本用户 @k4zuki0tsuhata（11-14 轮播，自述 + 截图）：他只用一部手机、靠 Muse AI 做出并导出了 Android 通话自动录音应用 "CallSeal"（v1.0.89）——主界面显示待机中，历史里有 11 月 14 日的 LINE、Signal 与 VoIP 通话录音；点进一条山田太郎的来电：15 秒、时间戳 2026-11-14 04:51，附送货时间的备忘；状态检查页确认屏幕锁、加密密钥、Shizuku 服务、权限、电池优化、无障碍与通知访问全开；设置页含自动锁定、AES-256-GCM 加密、录音选项与许可证信息。注：本条为用户自述 + 界面截图口径，按"手机上从零做出一个 App 并导出 APK"的样本记一笔；应用本身未独立安装验证；帖尾邀请码口径不采纳。
+- **一句话总结**：做 App 最磨人的不是"写代码"，是"录音、加密、权限、导出全得你一个个啃"——agent 的活就是只用一部手机、从环境搭到 APK 一次交出来。
+- **来源**：[Threads @k4zuki0tsuhata](https://www.threads.com/@k4zuki0tsuhata/post/DftJKGDAdrJ)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#代码
+
+#### 7. @shinefactory_ryusei 龍生（Threads，11-15，日语）："它不哄你，只报数"——11 月免费咨询报名 1/16、截止 11-27，它直接说赶不上，还把第二波招募文案起草好了
+- **做了什么**：日本用户 @shinefactory_ryusei（11-15 文字帖，自述）：他让 Muse 盯着 11 月免费个人咨询的报名数——目前只报了 1 个、目标 16 个、截止 11 月 27 日；Muse 主动提醒他按这个 pace 赶不上目标，没给安慰话，直接动手：拿 10 月 31 日的宣传图起草了第二波招募 story，下一空档改成 11 月 17 日 13:00，他只须回一句 OK 就能发。他说最安心的是"它不粉饰数字，达不到就直说、再给下一步"。注：本条为用户自述口径，按"主动报数 + 起草下一步"的样本记一笔；帖尾邀请码口径不采纳。
+- **一句话总结**：盯目标最磨人的不是"数字不好看"，是"没人早点告诉你赶不上、还得你自己重写招募"——agent 的活就是先报数、再把下一波文案起草好等你点头。
+- **来源**：[Threads @shinefactory_ryusei](https://www.threads.com/@shinefactory_ryusei/post/DfwI-IsDMFg)（据平台内容摘要整理）
+- **日期**：2026-11-15
+- **标签**：#效率
+
+#### 8. Yoriko Kishimoto（经 @gjmuj123 转帖，Threads，11-14，日语）："约 6 小时，一个带预约功能的作品集网站"——平面设计师的第一站
+- **做了什么**：日本平面设计师 Yoriko Kishimoto（原帖经 @gjmuj123 11-14 转帖）：她用 Muse 做了一个自己的作品集网站，设计与功能一次成型，还带了一个简单的预约功能，全程约 6 小时，并附了成品网站链接；转帖强调"好用、创作自由度高"。注：本条为转帖口径，原帖发布时间未注明；按"设计师 6 小时建站"的样本记一笔；网站本身未独立打开验证。
+- **一句话总结**：做作品集网站最磨人的不是"没想法"，是"设计、功能、预约全得分开找人做"——agent 的活就是 6 小时一次交出来，还能直接约时间。
+- **来源**：[Threads @gjmuj123（转帖 Yoriko Kishimoto）](https://www.threads.com/@gjmuj123/post/DfvaBZGI4lN)（据平台内容摘要整理）
+- **日期**：2026-11-14
+- **标签**：#创作 #效率
+
+#### 9. @y_.kitagawa 北川ゆう子（Threads，11-15，日语）："一年多省 ¥13,200，累计已超 ¥50,000"——方法与可复制 prompt 在她的 note 里
+- **做了什么**：日本用户 @y_.kitagawa 北川ゆう子（11-15 文字帖，自述）：她用 Muse 之后，一年能多省 ¥13,200，累计已省超 ¥50,000；具体方法与可直接复制的 prompt 放在她的 note 文章里。注：本条为用户自述口径，金额为作者自报，note 里的方法未打开核验；按"日本市场省钱样本"记一笔；与第 51 期 @ltepam 同源，都是日本上线后本地用法累积中的一例。
+- **一句话总结**：省钱最磨人的不是"某一笔"，是"方法藏在各处、每次都得现想"——agent 的活就是把能复制的那套固定下来，一年多省 ¥13,200。
+- **来源**：[Threads @y_.kitagawa](https://www.threads.com/@y_.kitagawa/post/Dfwuzs8Cquk)（据平台内容摘要整理）
+- **日期**：2026-11-15
+- **标签**：#省钱
+
+#### 10. Atulya（IG，11-15）："HOA 第二封违规信，它帮我回了"——上传罚单信 + 修好的草坪照片，起草、她审过、Muse 发给业委会
+- **做了什么**：两个孩子的妈妈 Atulya（11-15 reel，自述，"AI MOM HACKS" 系列第 1 期）：她让 Muse 管一家人的 meal plan、课表、学校邮件、社交活动与包裹追踪；这期讲了一个真事：收到 HOA 第二封违规信（2026-10-09），要求剪草坪、除杂草，附了未修剪草坪带的照片；丈夫修好草坪后，她拍了"after"照片，连同罚单信一起上传给 Muse，让它起草回复——她审过、点了头，Muse 把回复发给了 HOA 业委会，全程她坐在椅子上没动。她的收尾是：Muse 给她的是"更多陪孩子的时间、更少的 mental load"。注：本条为用户自述口径，按"妈妈的第二大脑 + 一封真实回信"的样本记一笔；业委会是否接受回复未说明。
+- **一句话总结**：HOA 罚单最磨人的不是"剪草"，是"信要回、照片要附、措辞要过一遍"——agent 的活就是你坐着，它把回信写好、等你点头、替你发出去。
+- **来源**：[Instagram Atulya](https://www.instagram.com/reel/Dfvc9Cas7Q4/)（据平台内容摘要整理）
+- **日期**：2026-11-15
+- **标签**：#生活 #效率
+
+### 行业观察
+
+- **【官方】Muse for Chrome 扩展悄悄上架（11-13 上架，11-15 更新 v2.0.72）：侧边栏里直接用你自己的 Chrome，登录态直通；Meta 未官宣**：Meta 11-13 左右悄悄把 "Muse from Meta" 扩展放上 Chrome Web Store（11-15 更新到 v2.0.72），没有发布会、没有公告帖：装上后 Muse 住进 Chrome 侧边栏，在你打开的任何页面边上聊天；Muse 用的是你自己的 Chrome——在你已登录的网站上直接办事，不用再给它账号密码，它的标签页会收进独立的标签组、只能在那些标签里操作；Meta 帮助中心已同步建了文档《How your Muse agent browses the web》，称 Muse 看不到你保存的密码、浏览记录与 Chrome 设置，网页上的密码在读取前会被抹掉。接在第 46 期 Apple Watch（手表第四块屏）之后看：入口这条线从手表扩到了浏览器——手机、网页、Mac、手表之后，Chrome 成了第五块屏；但这也是争议最大的一块：daily.dev 11-13 的汇总提到，社区对"agent 在你登录态的浏览器里操作"的兴奋与隐私、prompt injection 担忧同时存在。注：扩展本身已在商店上架可验证，Meta 未正式官宣、覆盖范围与地区限制未说明。[Chrome Web Store（2026-11-15 更新）](https://chromewebstore.google.com/detail/muse-from-meta/jnakhhjmpmoohbjgfccbccfoifnmbdjd)；[TestingCatalog（2026-11-13）](https://www.testingcatalog.com/meta-brings-muse-ai-agent-to-chrome-with-new-extension/)；[Meta 帮助中心](https://www.meta.com/help/superintelligence/2124746764949121/)
+
+- **Tuya 发布 Muse Skill（11-13 宣布，11-15/16 报道）：涂鸦智能设备接进 Muse，3000+ 品类、200+ 国家地区；门锁、实时视频、固件更新不在内**：涂鸦智能（Tuya）11-13 发布开源 Skill "Tuya Cloud Devices"（Muse 内名称 gadget-tuya-cloud-devices），让 Muse 用自然语言查询与控制接在涂鸦云上的智能设备——走云端，不用本地设备密钥、不用改固件、不用同一局域网；涂鸦称其平台覆盖 3000+ 硬件品类、200+ 国家和地区，截至 2026-06-30 注册 AI 开发者超 209 万；该 Skill 最初是为 OpenClaw 做的，按 Muse Gadgets 规范做了适配；明确不在内的有门锁操作、实时视频、固件更新、配网与设备删除。接在第 51 期 Rob Leathern "prompt injection 的物理后果"警告之后看：智能家居接 agent 这条线，正在从"当心"走向"官方技能"——但门锁与视频这两处最敏感的能力，涂鸦第一版就主动排除了。注：本条为厂商公告经媒体转述，实际覆盖设备范围未经独立核验。[AiSeek（2026-11-15）](https://aiseek.dev/en/stories/764ca721-2fa2-47ea-8b05-c93901f98877)
+
+---
+
 ## 2026-11-15（第 51 期）
 
 今日共收录 **5 个用户案例** + **5 组行业观察**。@alliekmiller（IG 11-13）"朋友一年省 $1,300 订阅审计"与往期补收的 LinkedIn 同案（第 46 期前补收条目）为同一案例换平台重发，未重复收；@muse 官方 Threads 11-13 的 UFC 选手 Stephen Thompson "Sidekick" 备战演示为品牌运动员合作口径，第 50 期已记、未单列；Anthony Hamilton Jr（IG 11-13）假期四件套与第 50 期第 3 条重复，未单列；Digital Laura / Laura Anderson（IG/FB 11-14）"10 小时赚 $10,000"无可核细节、营销口号口径，未单列；@brandonmeaux（IG 11-15）"找倒闭建站公司的客户赚钱"为点子教程、无实测结果，未单列；MG Business（IG 11-14）"$85/月有线账单"舞台演讲轶事为二手转述、无原始记录，未单列；电话代打功能各路 11-13/14 转述与第 49 期官方口径重复，未单列；Roberto P. Nickson（IG 11-13）双机工作站巡礼为设备展示、无具体任务结果，未单列；纯邀请码推荐帖、"介绍 Muse 是什么"科普视频继续过滤；以下按宁缺毋滥原则收录。
