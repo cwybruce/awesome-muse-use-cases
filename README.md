@@ -34,7 +34,81 @@
 - **可信度提示**：9 月中旬 Alexandr Wang 发起的 `#MuseMoneyChallenge`（晒省钱成果）中，Business Insider 指出**不少参与者是 Meta 内部员工**，相关金额案例请打折看待。
 - Muse 目前仅面向**美国、加拿大** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
-- Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
+- Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）、澳大利亚（11-17 起，第六个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
+
+## 2026-11-18（第 54 期）
+
+今日共收录 **8 个用户案例** + **4 组行业观察**。Stella Bukovick（IG 11-16）假期预算 reel 与第 53 期已判的假日合作 sponsored 帖同属一个推广 campaign，未单列；@lydelina.maria（IG 11-17）"Bestie 省 $62.82 圣诞礼物"与 Ash DaCat（IG 11-17）"Clutch 拍片计划"均为明确标注与 Meta 合作的推广口径，未单列；Digital Laura（FB 11-16）"$80,000–$120,000/月"第 51 期已判无可核细节，未单列；Nathan Harris（IG/FB 11-16）与 Robert Ybarra（IG 11-16）第 53 期已收，未重复收；@kota_pon_ao（Threads 11-16）Ejaaz $250 达美赔偿日文转述第 53 期已记，未单列；@bxvzzq（Threads 11-17）"降价 $90 睡前订票"插画无真实事件佐证，未单列；@kohei9956（Threads 11-16）"5 个事业 22 个部门交给 Muse"暂无具体结果、作者称收入尚微、后续再公开，未单列；电话代打功能各路 11-16/17 解说与第 49 期官方口径重复，未单列；Coastal Solutions Media（IG 11-17/18）安全提醒视频为自家产品引流、6,800 共享链接事件与第 41 期同一源头，未单列；Faith Matlock-Johnson（FB 11-16）"别把银行账号交给 AI"的质疑帖无具体用法、银行封堵线第 49 期已记，未单列；whatagentscando 聚合站 11 月新增条目（Aspen Airbnb、Visa 支付负责人警告、星巴克买一送一码等）只有二手摘要、无原始发帖人链接可核，未单列；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Jenn Herman / Jenn's Trends（博客，11-16）："我不再是超人了，它是我的第二大脑"——Instagram 策略师用了一个月 "Nessie"：考艾岛订餐按素食筛、2026 里程表半小时做完
+- **做了什么**：Instagram 营销专家 Jenn Herman（11-16 博客长文，自述）：更年期脑雾之后，她不再靠脑子记事，Muse "Nessie" 成了她的第二大脑——语音说一句 "Nessie, add this to my list" 就记好，每天早上 6 点报天气、谁过生日提前提醒；去考艾岛旅行，Nessie 按她的 pescatarian（鱼素）饮食筛餐厅、标出哪些真适合全家、哪些关门了；女儿的课外活动从 YMCA、社区中心等网站一个个比过来；生意上每天盯 Instagram 新动态、按她的语气起草 caption，新闻→帖子→博客→newsletter 的复用链路以前要几小时零散时间；演讲邀约谁 pitch 了、什么时候该跟进，全由它记着；最硬的一件是 2026 年生意里程表：翻日历把全年商务出行一次拉出来做成 Excel，"以前拖到年底才做"，这次约半小时搞定、之后每场会议自动更新。她还破了一个案：Meta 给她一条帖子打了 AI 标签，她让 Nessie 查——不是文案的问题，是 Canva 图片文件里埋的 metadata，往前几个月都有。注：本条为作者博客全文口径，作者披露文章由 Nessie 协助起草、本人编辑定稿；她自述仍在免费档。按"一个月重度使用 + 第二大脑"的长文样本记一笔。
+- **一句话总结**：脑雾最磨人的不是"记性差"，是"待办、生日、行程、邀约全住在脑子里、没一个可靠的出口"——agent 的活就是你说一句它记一句，半小时把一年的里程表也算出来。
+- **来源**：[Jenn's Trends 博客](https://jennstrends.com/i-have-fully-embraced-metas-ai-muse/)
+- **日期**：2026-11-16
+- **标签**：#效率 #生活
+
+#### 2. Joshua King @publicloyalty（IG，11-17）："邮箱里躺着两个付费合作，它先翻出来了"——agent "Bruce" 帮他把 Sweet James 的申请递了出去
+- **做了什么**：创作者 Joshua King（11-17 reel，自述 + 屏录）：他一边做创作者一边被邮件淹没，让自己的 Muse "Bruce" 整理收件箱——Bruce 翻出两个付费合作机会：Sweet James 与 CVS Health（经由 Obvious.ly），按轻重排好优先级；随后替他把 Sweet James 的申请递了出去并确认完成。他在镜头前连说了几个 "Okay, okay, okay"，结论是"忙和高效是两回事"。注：本条为用户自述 + 屏录口径，按"收件箱里挖出钱"的样本记一笔；合作是否谈成未见后续。
+- **一句话总结**：收件箱最磨人的不是"邮件多"，是"付费合作就躺在里面、你没空一封封翻"——agent 的活就是先翻出来、排好队、申请替你递了。
+- **来源**：[Instagram @publicloyalty](https://www.instagram.com/reel/Df2-MsVArpA/)（据平台内容摘要整理）
+- **日期**：2026-11-17
+- **标签**：#效率 #省钱
+
+#### 3. Jason Nichols @jasonoffduty（IG，11-17）："用了一个月，它成了我的幕僚长"——$47.80 的学习用品它下单、10K 越野赛报名表它填
+- **做了什么**：用户 Jason Nichols（11-17 reel，自述 + 屏录）：他用 Meta 的 Muse 一个月，给它取名 "Eddie"，称之为自己的 "personal chief of staff"——屏录里 Muse 下单了一批学校用品（总价 $47.80）、在浏览器里替 Rachel Smith 填完 "Autumn Trail 10K Entry Form" 越野赛报名表；平时管日历、帮他找采购选项、做预约、跟进待办，忙乱的一周开头先问一句 "What can I take off your plate?"。注：本条为用户自述 + 屏录口径，按"一个月使用总结"的样本记一笔；视频结尾下载号召口径不采纳。
+- **一句话总结**：一周最磨人的不是"事难"，是"下单、填表、排日程全是零碎、你得一件件自己来"——agent 的活就是开头先问一句"这周我能替你卸掉什么"。
+- **来源**：[Instagram @jasonoffduty](https://www.instagram.com/reel/Df3BunnPAcW/)（据平台内容摘要整理）
+- **日期**：2026-11-17
+- **标签**：#生活 #效率
+
+#### 4. @deals_so_good（Threads，11-17）："上船那天，它替我盯住了 4 笔 Vinted 确认截止"——错过就自动放款、没法退款
+- **做了什么**：用户 Danny J Badalamenti（11-17 文字帖，自述）：他在 Vinted 上有 4 笔购买需要手动确认收货，偏偏那几天正在登船；规则是过期不确认就自动放款、无法退款。他的 Muse 在截止前一天先提醒了一轮、当天早上又提醒了一轮，4 笔全赶上了。注：本条为用户自述口径，按"截止提醒防丢钱"的样本记一笔；帖尾邀请码口径不采纳；同一作者 11-10 的"妻子生日前夜提醒"案本库已收，这是另一条帖子。
+- **一句话总结**：确认收货最磨人的不是"点一下"，是"截止日正好撞上你在船上、错过就没法退款"——agent 的活就是前一天叫你、当天早上再叫你一遍。
+- **来源**：[Threads @deals_so_good](https://www.threads.com/@deals_so_good/post/Df2fC88E5pK)（据平台内容摘要整理）
+- **日期**：2026-11-17
+- **标签**：#省钱 #效率
+
+#### 5. Heena Teotia @heena_attry（IG，11-17）："$8,000 圣诞纽约行，它排好了每一天"——航班、洛克菲勒、假日市集，还给了打包建议
+- **做了什么**：用户 Heena Teotia（11-17 reel，自述 + 屏录）：她给自己的 Muse 下了一个任务——和丈夫从西雅图去纽约过圣诞、预算 $8,000；Muse 搜航班、比选项，随后排出一份多日的曼哈顿圣诞行程：洛克菲勒中心、Top of the Rock、假日市集都列了进去，还给了冬季打包建议；她说最直观的是能看着它在浏览器里实时查景点、票价和航班。注：本条为用户自述 + 屏录口径，按"圣诞旅行全包"的样本记一笔；视频里她戴着 Meta 品牌帽子、结尾有下载号召，演示口径较重，按真实用户分享记、不按推广记。
+- **一句话总结**：圣诞出行最磨人的不是"贵"，是"航班、行程、打包全得你现查现排"——agent 的活就是你看着它在浏览器里跑，几天行程一次排好。
+- **来源**：[Instagram @heena_attry](https://www.instagram.com/reel/Df0vRJYRdsL/)（据平台内容摘要整理）
+- **日期**：2026-11-17
+- **标签**：#旅行
+
+#### 6. Paul Garcia（经 @muse 官方 Threads，11-16 转发）："Drako"——辞了朝九晚五之后，它帮我围着轮班排日程、替下期家居视频想点子
+- **做了什么**：用户 Paul Garcia（11-16，@muse 官方账号转发的演示视频）：他辞了朝九晚五、本以为时间会多出来，结果发现自己比上班时更忙；他的 Muse 叫 "Drako"（头像从狗换成了牛仔龙）——围着他的轮班排日程、管任务、帮下期家居装饰视频想点子；他说自己离职是为了给自己打工、不是为了当一个更苛刻的老板，Muse 是"口袋里的小 agent"。注：来源为 @muse 官方账号转发的用户演示，按"自由职业者日程 + 内容点子"的样本记一笔；与第 51 期 Sierra Poppy 1.0 协议、第 53 期 "Poppy" 内容复盘同名不同事。
+- **一句话总结**：自由职业最磨人的不是"没活"，是"时间看着多、其实全被杂事吃掉了"——agent 的活就是围着你的班排好日程、点子也先想好。
+- **来源**：[Threads @muse（Paul Garcia 演示）](https://www.threads.com/@muse/post/Dfz4hA2Gpcg)（据平台内容摘要整理）
+- **日期**：2026-11-16
+- **标签**：#效率 #创作
+
+#### 7. Simon Beard @simonbeard（IG，11-17）："盲测四个模型，我最中意的两次都是 Muse"——Grok Bot 里 A–D 四个答案，Meta Muse 两次胜出
+- **做了什么**：投资人 Simon Beard（11-17 reel，自述）：他碰上一个棘手的商业问题，把全部资料丢给 Grok Bot、同时跑四个模型（Anthropic Claude、ChatGPT/Codex、Grok、Meta Muse），答案标成 A–D、不告诉他哪个是谁，免得先入为主；他逐条读完，两次最中意的答案都来自 C 号——揭开是 Meta Muse。他说这模型"没人聊、但已在前沿"，结论是"人人都有 AI 时，优势在会挑、会拼最好的输出"。注：本条为用户自述口径，跑的是 **Muse 模型**（经 Grok Bot 的盲测 harness），不是 Muse agent 应用本身，按"模型盲测胜出"的样本记一笔；四模型各跑一次、样本很小，不做"谁更强"的背书。
+- **一句话总结**：挑模型最磨人的不是"没得选"，是"名字先入为主、你还没读答案就站了队"——盲测的活就是先遮住名字、再看谁的答案真有用。
+- **来源**：[Instagram @simonbeard](https://www.instagram.com/reel/Df1nS2kCXIu/)（据平台内容摘要整理）
+- **日期**：2026-11-17
+- **标签**：#效率
+
+#### 8. Agentic Trading Group @agentictradinggroup（IG，11-17）："它自己扫新闻、下单，3 笔赚了 2 笔"——盯 Muse 合作方消息炒股，Target 和沃尔玛都下了单
+- **做了什么**：用户 Agentic Trading Group（11-17 reel，自述，视频录于 10-21）：他给 AI 定了一个策略——扫 CNBC、彭博等处的新闻，找 Meta + Muse 的新合作方、确认是不是上市公司、盘后下单买 call；Meta Connect 之后 AI 找到几个新合作方，自主下了几笔单，点名提到的有 Target 和沃尔玛，3 个仓位赚了 2 个、沃尔玛那笔亏了；他说这套"不用审批提示、搭起来很容易"，评为"大概是最好的单用途 agent"。注：本条为用户自述口径，跑的是 **Muse 模型**（经 Grok Bot harness），不是 Muse agent 应用；"不用审批提示就下单"与 Meta 官方"花钱前先确认"的设计口径相悖，属高风险操作，不构成任何投资建议；按"自主交易实测 + 审批缺口"的样本记一笔。
+- **一句话总结**：盯合作消息炒股最磨人的不是"没消息"，是"消息一出你得自己判断、自己下单、还得赶在盘后"——agent 的活就是自己扫、自己下，3 笔里赚了 2 笔。
+- **来源**：[Instagram @agentictradinggroup](https://www.instagram.com/reel/Df2wL9njl5v/)（据平台内容摘要整理）
+- **日期**：2026-11-17
+- **标签**：#效率
+
+### 行业观察
+
+- **【官方】Muse 上线澳大利亚（11-17）：第六个市场，本地连接器 Canva、Domain、Kogan、MECCA、Officeworks、realestate.com.au、SWEAT、ShopBack、Ticketek 陆续接上**：Meta 11-17 宣布 Muse 在澳大利亚上线，iOS、Android、muse.ai 与 Mac 应用可用，AI 眼镜支持随后跟进；本地连接器覆盖创意、购物、房产、健身与娱乐，Gmail、Google 日历、Instagram 与 OpenTable 先行，多数日常功能免费、订阅档做更多。接在第 47 期"上线 12 天 2,900 万次请求"、墨西哥 11-06 之后看：两个月内从 1 个市场扩到 6 个，Meta 的出海节奏是每月 1–2 个英语/重点市场、每次都带一批本地连接器——不是光开个入口，是把当地服务一起接进来。注：本条为 Meta 官方公告经媒体转述；README 顶部的可用地区口径已同步更新。[Unite.AI（2026-11-17）](https://www.unite.ai/meta-launches-muse-ai-agent-in-australia-with-local-connectors/)；[Meta 澳大利亚政策博客（2026-11-17）](https://medium.com/meta-australia-policy-blog/muse-does-the-work-you-stay-in-control-ffd2212c615d)
+
+- **404 Media 11-17："Baby Mia"——Meta 自己的 agent 帮小商家起诉 Meta，索赔 $75,000**：南卡罗来纳州环氧地坪商家 Kong Koatings 的老板 Joe Thomas，用 Muse agent "Baby Mia"（以孙女命名）打理生意 Facebook 主页——写邮件、做广告、生成视频；给了业务账号权限后，Meta 的安全系统把 agent 的活动判定为黑客行为、封了主页约一周，生意询盘全断；Baby Mia 随后自己给国会议员与参议员 Tim Scott 写信、起草诉状，参议员办公室介入后账号恢复；Thomas 仍于 11-16 向 Oconee County 法院起诉 Meta，自称损失至少 $25,000、索赔 $75,000，诉状由他本人签署。接在第 51 期"prompt injection 的物理后果"警告之后看：agent 的麻烦正在从"数据被谁看"扩到"平台风控把 agent 当黑客"——越能干的 agent，越可能撞上为防机器人而设的墙；以及第 49 期美联航禁令、第 53 期 eBay 封堵的另一面：这回被挡的是 Meta 自家的 agent。注：本条为 404 Media 原创报道经 Dexerto 转述，索赔金额与损失均为原告自述、案件未决。[Dexerto（2026-11-17）](https://www.dexerto.com/entertainment/metas-own-ai-helps-man-sue-its-creators-after-it-got-him-banned-from-facebook-3429171/)；[404 Media 原文](https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/)
+
+- **Muse 模型上 Google Cloud Model Garden（11-11，补记）：Wonder、Spark 1.3、Ember 一次进场，扎克伯格 X 官宣、皮查伊回帖欢迎**：Meta 11-11 把 Muse Wonder、Muse Spark 1.3 与 Muse Ember 放进 Google Cloud 的 Model Garden，企业可走托管 API 调用；扎克伯格在 X 宣布，Google CEO 桑达尔·皮查伊回帖欢迎。接在第 47 期 Ember 11-09 发布之后看：模型线从"Meta 自家 API + Muse Code"扩到了对手的云——Wonder 做规划、Spark 做中坚、Ember 干高频重复活的分工，第一次有了第三方云的背书；消费端 Muse agent 用的仍是 Spark 系，Ember 先走 API 与代码侧。注：本条为模型侧新闻、非 agent 功能更新，能力与价格均为厂商口径，未独立核验。[BestRucture（2026-11-11）](https://bestructure.com/meta-muse-models-on-google-cloud-muse-wonder-muse-spark/)
+
+- **社区累计：@museai.cases（Threads，11-16）称社区自报累计已省 $92,440.11，共 69 个故事**：粉丝运营账号 @museai.cases 11-16 发图称，社区自报的 Muse 省钱故事累计 69 个、总额 $92,440.11。接在第 53 期"10 月 1000 万用户"之后看：这是民间自发的累计口径，不是 Meta 官方数字。注：金额全部为用户自报、未经核验，账号本身为粉丝运营的聚合号。[Threads @museai.cases](https://www.threads.com/@museai.cases/post/DfyFDx7D5xB)（据平台内容摘要整理）
+
+---
 
 ## 2026-11-17（第 53 期）
 
