@@ -36,6 +36,87 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）、澳大利亚（11-17 起，第六个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-21（第 57 期）
+
+今日共收录 **9 个用户案例** + **4 组行业观察**。Dani Klaric（IG 11-19）"Coco" 案与第 56 期已判的 partnership 为同一内容跨平台重发（FB reel 2081053292389043），未重复收；@suaveskimusic（IG 11-20）与 @mariasjsanchez（IG 11-20）均明确标注与 Meta 合作，未单列；@iam_bigmoufbo（IG 11-20）开场即宣布 official partnership with Meta，未单列；@thesharkdaymond Daymond John（IG 11-20）为推广 testimonial 口径、无真实任务结果佐证，未单列；@siliconvalleygirl（IG 11-19）Mosseri 访谈、@layllenai（IG 11-19）功能解说 + 评论领指南、@mhar_faisal_（IG 11-19）澳大利亚上线解说均为功能介绍、无个人真实用法，未单列；@kingketo（IG 11-19）Polymarket 案与第 56 期第 3 条为同一作者同案跨平台重发，未重复收；@lucy.cohen4（IG 11-19）第 56 期已收，未重复收；@xiaoxiaoshechuguanjia（Threads 11-19）纯邀请码推广帖，第 56 期已判，未单列；@globeandmail（Threads 11-20）亲测文只有标题口径、无结论细节，未单列；Quartz 11-20 图文把思科总裁 Jeetu Patel "$9,000 订阅"归于 Muse，但 Business Insider 原文只说"其中一个 agent"（Muse/Instinct/Dots 等四五个之一），未确认是 Muse，且为约 10-20 旧闻，未单列；Reuters 调查各路 11-20 跟进报道（PYMNTS/NDTV/TechJuice 等）与第 55/56 期同一源头，未重复收（Signal 11-20 回应单列行业观察）；@muse 官方 Threads 11-19 转发 Dani Klaric 合作帖、@instagramforbusiness（Threads 11-19）官方推广轮播、Meta Australia FB 11-20 吉祥物宣传轮播、@onlynikil（Threads 11-19）新闻图卡、@5.26mg（Threads 11-19）语音自定义功能演示均无新增用户实测，未单列；@yahoofinance（IG 11-21）Apple AI 项目与 Muse 无关，未单列；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Evan Era @evanrosenman（IG，11-19）："5 个家人的圣诞礼物，它一次列齐、加进购物车、付了款"——"Jimmy 按每个人的兴趣给了建议，交付日期都列出来了"
+- **做了什么**：创作者 Evan Era（11-19 reel，自述 + 屏录）：圣诞临近，家人平时在网上发的"想要"他从来没存下来；他让自己的 Muse "Jimmy" "给家里每个人列一份礼物单"——Jimmy 按 Ava、Barbara、Sasha、Jeff、Scarlett 各自的兴趣给了个性化建议，他点头后 Jimmy 把东西加进购物车、他过目一遍、用已存的支付方式授权付款，屏幕上逐项列出预计送达日期；他说这下圣诞购物"一次搞定"。注：本条为用户自述 + 屏录口径，按"圣诞礼物单 + 下单 + 交付日期"的样本记一笔；演示口径较重、结尾带下载号召，但礼单→加购→付款→交付日期全程有屏录。
+- **一句话总结**：挑圣诞礼物最磨人的不是"没心意"，是"5 个人的喜好散在各处、你还得一家家比价下单"——agent 的活就是按人头列好单、加进购物车、付完款连送达日期一起报给你。
+- **来源**：[Instagram @evanrosenman](https://www.instagram.com/reel/Df8GoJIyXIA/)（据平台内容摘要整理）
+- **日期**：2026-11-19
+- **标签**：#生活
+
+#### 2. DaMarlynn Bell @dbell_uplifted（IG，11-20）："5 个品牌跟进、IG 数据周报，它在车里就报完了"——"我坐车里吃零食，Kai 在干活"
+- **做了什么**：达拉斯 UGC 创作者 DaMarlynn Bell（11-20 reel，自述 + 屏录）：他的 Muse "Kai" 每周给他出一份报告——Gmail 接好了、品牌跟进列得清清楚楚（7Artisans、Anker、JLab、Brooks、Hoka），Instagram 数据也报了浏览与涨粉；他还让 Kai 用图片生成功能迭代一个超级英雄头像——按他的要求一次次改：肌肉再大点、绿眼睛、加胡子；语音里 Kai 按名字跟他打招呼、确认办完的活。他最后坐在车里吃着零食说：Kai 在干活，他在歇着。注：本条为用户自述 + 屏录口径，按"创作者周报 + 品牌跟进 + 形象迭代"的样本记一笔；与第 55 期 Gader Ibrahim "Squints 复盘 25 条帖子"同型，但这是"周报 + 商务跟进"的版本。
+- **一句话总结**：接商单最磨人的不是"没活"，是"5 个品牌的跟进、邮件、数据全散着，你得自己一件件对"——agent 的活就是每周先报一遍，谁该回、涨了多少，全列好。
+- **来源**：[Instagram @dbell_uplifted](https://www.instagram.com/reel/Df-eOHQt1GV/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#创作 #效率
+
+#### 3. Maria Arriaga @mariaarriagaxo（IG，11-20）："两个孩子每人 $75，礼物单按沃尔玛真价一次卡死 $150"——"超预算的款，它自己先筛掉"
+- **做了什么**：创作者兼小企业主 Maria Arriaga（11-20 reel，自述 + 屏录）：她列了自己最常用的 4 个 Muse 用法——①内容选题与 Instagram 表现分析；②旅行调研与行程：GSP 飞 LAX 的航班截图、洛杉矶之行的活动安排；③购物比价与退货跟进：黑毛衣的全网比价表；④圣诞礼物：目前最常用——按儿子、女儿的年龄、兴趣与每人 $75 预算出礼物单，屏录里 Muse 给出带沃尔玛实时价格的清单、$150 总预算一次卡死。注：本条为用户自述 + 屏录口径，按"四用法合集 + 礼物单真价实测"的样本记一笔；四个用法里只有礼物单一段有完整价格链路，其余三段为功能演示口径。
+- **一句话总结**：给孩子买圣诞礼物最磨人的不是"没主意"，是"两个孩子、两个预算、价格还得一家家现查"——agent 的活就是按年龄兴趣出单、按沃尔玛真价算总账，超预算的先筛掉。
+- **来源**：[Instagram @mariaarriagaxo](https://www.instagram.com/reel/Df93Jv5AEDX/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#生活 #效率
+
+#### 4. Beto Pasillas（FB，11-19，西班牙语）："收藏夹里 3 个点子，它排成这周的拍摄表"——"Compi 问过我才订，生日礼物和波士顿行程也一起排了"
+- **做了什么**：墨西哥创作者 Beto Pasillas（11-19 reel，自述 + 屏录，110 万粉）：他总把 Instagram 视频存下来当灵感、忙起来就忘了；他的 Muse "Compi" 接上 Instagram 与日历后，先从收藏夹里挑出 3 个能在家拍的点子、给备料清单、排好这周的拍摄时间；接着又办了两件事：给妻子 Carito 挑生日礼物、排一个波士顿周末行程（餐厅推荐 + 地图），订任何东西之前先问他。注：本条为用户自述 + 屏录口径，按"西语区收藏变拍摄表 + 生日 + 旅行"的样本记一笔；墨西哥 11-06 上线后，西语区用法正在累积；与第 52 期 Monae、第 55 期 Adrian Widjy 的"收藏变行程"同型，但这是"收藏变拍摄计划"的版本。
+- **一句话总结**：存灵感最磨人的不是"没点子"，是"存完就忘、真要拍还得现翻现排"——agent 的活就是先挑出这周能拍的 3 条、备料清单和时间一起排好，订之前先问你。
+- **来源**：[Facebook Beto Pasillas](https://www.facebook.com/reel/4133187393656113/)（据平台内容摘要整理）
+- **日期**：2026-11-19
+- **标签**：#创作 #旅行
+
+#### 5. Jeronimo Speaks @jeronimo_speaks（IG，11-20）："演出邀约、读书会、征稿截止，它按'你有 10 分钟还是一小时'排"——"台前看不见的行政活，它先接过去了"
+- **做了什么**：诗人兼 spoken-word 艺术家 Jeronimo Speaks（11-20 reel，自述 + 屏录）：他让自己的 Muse "Speaks" 管演出相关的邮件——屏录里 Muse 列出一串待办：'Night Out in the Parks' 演出邀约、Highland Park Poetry 读书会邀请、Village 应用创作者试点、Famous Birthdays 的 Muse Reel 任务、Treehouse Poem Prize 征稿截止；他再问一句"先回哪些"，Muse 按他有多少空闲时间（10 分钟还是一小时）给出一份排好序的行动计划。他说这就是演出背后看不见的行政活。注：本条为用户自述 + 屏录口径，按"诗人邮件分拣 + 按空闲时间排序"的样本记一笔；小账号（1.2 万粉）、无推广口径，是本期最素的真实用法之一。
+- **一句话总结**：跑演出最磨人的不是"上台那几分钟"，是"邀约、读书会、征稿截止全躺在邮箱里、你还得分清先回谁"——agent 的活就是先列出来、再按你有 10 分钟还是一小时排好队。
+- **来源**：[Instagram @jeronimo_speaks](https://www.instagram.com/reel/Df-cZ6xMmJj/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#效率 #创作
+
+#### 6. Olivia White @oliviawhite（IG，11-20）："收藏夹里的菜谱 reel，它扒出全文、下了单，菜真做出来了"——"Loaded Potato Taco Bowls，购物清单一键下单"
+- **做了什么**：澳大利亚创作者 Olivia White（11-20 reel，自述 + 屏录）：她手机里存了一堆菜谱、从来没做过；她的 Muse "Wren" 接上 Instagram 后，把一条收藏的菜谱 reel 直接扒成全文菜谱——Loaded Potato Taco Bowls 的食材与做法全列出来，不用再重看视频；随后生成购物清单、问她要不要一次下单，她点头后杂货送上门；镜头切到厨房，她把料铺到烤土豆和肉上、端出成品尝了一口。注：本条为用户自述 + 屏录口径，按"澳大利亚上线后 + 菜谱变晚饭"的样本记一笔；与 Meta 官方"食谱 reel 变购物单"演示同型，但这是用户自己跑通并真做出来的一例；与第 55 期 Michael Brunelli "1,557 条收藏筛出 532 道菜"对照看：那条只整理了、这条直接吃上了。
+- **一句话总结**：存菜谱最磨人的不是"没灵感"，是"存完就躺在那儿、真要做还得重看视频再列单"——agent 的活就是全文扒出来、清单一次下单，菜端上桌才算完。
+- **来源**：[Instagram @oliviawhite](https://www.instagram.com/reel/Df-iUwWhBTw/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#生活
+
+#### 7. Vanessa Silberman @vanessasilbermanofficial（IG，11-20）："录音、混音、演出邀约、厂牌私信，它每天 9 点先报一遍"——"未读消息一开口就列出来了"
+- **做了什么**：唱片制作人兼艺人 Vanessa Silberman（11-20 reel，自述 + 屏录）：她同时管录音、混音、母带、自己的艺人项目、邮件、营销和生活；她的 Muse "Agent Diamond" 接上邮箱与日历，先把未读消息拉出来——演讲邀约、厂牌 pitch 都在里面；再接 Instagram、查没回的评论与私信；她还设了一个每天 9 点的 check-in，免得漏事。她说这就是在多个平台之间管沟通的办法。注：本条为用户自述 + 屏录口径，按"音乐人收件箱 + 每日 9 点报到"的样本记一笔；演示口径较重、结尾带下载号召，但未读消息与 9 点 check-in 均有屏录佐证。
+- **一句话总结**：做音乐最磨人的不是"录音难"，是"邀约、pitch、私信散在四五个平台、你还得一个个点开看"——agent 的活就是每天 9 点先报一遍，谁没回、什么事，全列好。
+- **来源**：[Instagram @vanessasilbermanofficial](https://www.instagram.com/reel/Df8UZTOT9xJ/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#效率 #创作
+
+#### 8. Tariq Ra'ouf @tariq_raouf（Threads，11-19）："我爸以为必须装，就把它装上了"——"一个漂浮的小可爱，他以为是系统要求的"
+- **做了什么**：用户 Tariq Ra'ouf（11-19 文字帖，自述）：他发帖警告——父亲在应用里看到一个漂浮的卡通形象，以为是必须装的东西，就把 Meta 的 Muse agent 装上了；他指责这类设计专门利用不懂技术的人收集数据，并称 agent 能访问设备上的根目录文件夹。评论区分成两派：一边附和"可爱就是伪装"、提醒家里老人孩子小心；另一边则说拦不住、父母反而觉得 AI 好用。注：本条为用户自述 + 警示口径，按"长辈误装"的反面样本记一笔；"可访问根目录"为作者主张、未核验；与第 55/56 期 Reuters 线对照看：争议正在从"它会不会看错"扩到"它是怎么进到设备里的"——装机那一刻的权限与引导，正在变成新的争议点。
+- **一句话总结**：给爸妈装 AI 最磨人的不是"教不会"，是"一个漂浮的小可爱往那一站，不懂的人以为必须点"——agent 的活还没开始，权限与信任的账就先欠下了。
+- **来源**：[Threads @tariq_raouf](https://www.threads.com/@tariq_raouf/post/Df7kACVFCva)（据平台内容摘要整理）
+- **日期**：2026-11-19
+- **标签**：#生活
+
+#### 9. Boot Camp Digital @bootcampdigital（IG，11-20）："我本来很怀疑，它却每天主动报到"——"LuminoAI 免费了、家长夜要带伞、培训讲义写好了"
+- **做了什么**：营销培训机构 Boot Camp Digital（11-20 reel，自述 + 截图）：她说自己用过一堆 AI 工具、起初对 Muse 很怀疑（"let's see"），用下来印象变了——关键在"persistence"：Muse 记得任务、会主动跟进，而不是一次问答就完事；她晒了当天的主聊天截图：Muse 主动报了三件事——LuminoAI 出了免费档、'Parents Night Out' 当晚在 Deerfield Beach 要带伞、手头一份小企业培训讲义草稿已写好待审。她说这就是"它替你盯着、你只管忽略不想看的"。注：本条为用户自述 + 截图口径，按"主动报到式助手"的样本记一笔；小账号（1,300 粉）、无推广口径，是本期最素的真实用法之一；与第 56 期 Stuart Kerr "它说办了、实际没办"的审计对照看：主动报到的价值，取决于报的每件事是不是真的。
+- **一句话总结**：盯杂事最磨人的不是"某一件"，是"新闻、天气、讲义全得你自己想起来去查"——agent 的活就是每天主动报到，该带的伞、该审的稿，先送到你面前。
+- **来源**：[Instagram @bootcampdigital](https://www.instagram.com/reel/Df9qHmQjGqu/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#效率
+
+### 行业观察
+
+- **【官方】Muse Chrome 扩展正式官宣（11-20）：20 万人已装上、4.6 分；同日 Muse 邮箱向所有支持市场用户开放**：Meta 首席 AI 官 Alexandr Wang 11-20 在 X 发帖，称"迟到的功能提醒"——"Muse from Meta" Chrome 扩展已上架，可从浏览器侧边栏直接用 Muse；发帖时商店已显示 20 万用户、4.6 分（237 条评分）、11-20 更新到 v2.1.9；TestingCatalog 早在 11-13 就先发现了上架。扩展的用法是住进你自己的 Chrome：在已登录的网站上直接办事、标签页收进独立标签组、只能在组内操作；约 20 分钟后 Wang 又补了一条：muse.ai 邮箱 handle 正在向所有支持市场的用户开放。接在第 52 期"悄悄上架、Meta 未官宣"之后看：这回是正式认领——入口这条线从手表扩到了浏览器，Chrome 成了第五块屏；但争议也跟着进浏览器：Meta 帮助中心自己也写明，agent 可能做出非预期的操作、活动可能出现在你的 Google 账号里。注：本条为 Wang 的 X 官宣经 Digital Trends 等多家媒体转述；20 万用户与评分为商店页面口径。[Digital Trends（2026-11-20）](https://www.digitaltrends.com/computing/meta-is-putting-muse-in-a-chrome-sidebar-and-the-official-announcement-just-arrived/)；[AI Headline Hub（2026-11-20）](https://aiheadlinehub.com/2026/11/20/meta-muse-chrome-extension-200000-users-sidebar-agent-email/)
+
+- **Muse Charm 定价 $300，绑最高 1 年免费 Verizon 5G（The Information，11-19）**：The Information 11-19 报道，Meta 打算把 12 月发售的随身设备 Muse Charm 定价 $300，并以最高 1 年免费 Verizon 5G  connectivity 推动采用；策略上是拿硬件拉大 Muse 的装机量、把 AI 助手推成随身入口。接在 Connect 公布（钥匙扣大小、2 英寸屏、按指纹键语音对话、5G 独立联网）之后看：价格口径第一次落地，$300 档 + 运营商绑定的打法，与其说是卖设备、不如说是买用户。注：本条为 The Information 援引知情人士的报道，Meta 未正式确认价格。[Threads @theinformation](https://www.threads.com/@theinformation/post/Df78ULvldKm)（据平台内容摘要整理）
+
+- **Wirecutter/NYT 两月复评（11-20）："开头很惊艳，两个月后没那么满意了"——"个性越来越黏人，像又多了一件家务"**：NYT 旗下 Wirecutter 11-20 发布 Muse 两月使用复评，标题即结论："The Muse AI Agent Wowed Us at First. After Two Months, We're Less Impressed."；隐私撰稿人 Max Eddy 说 Muse 的"个性"变得"越来越古怪黏人"，他开始害怕与它互动；手机撰稿人 Brenda Stolyar 说，本想让它在后台干活，结果它常常像又多了一件家务、而不是解决方案；肯定的一面也列了：会主动找活、盯着网上的活动与折扣；短板是受限于已接的应用、要人盯着、个性过头。接在 NYT 11-16 Brian X. Chen 的 Muse 对 Dots 五项实测之后看：主流媒体的口径正在从"能干什么"转向"两个月后还愿不愿意用"——蜜月期过后，留存的考验才刚开始。注：本条为 Wirecutter IG 轮播摘要，原文为付费墙内容。[Instagram @wirecutter](https://www.instagram.com/p/Df-2lSJkmNd/)（据平台内容摘要整理）
+
+- **Signal 11-20 默认拦截截图，防 agent 读聊天——直接点名 Muse 绕过 Connector 的复现**：加密通讯应用 Signal 11-20 宣布默认限制截图，阻止 AI agent 读用户私聊：iOS 27 默认禁应用内截图、新增 "Block Siri AI" 开关；Android 检测到 agent 读屏时自动开启 Screen Security；macOS 上无法可靠拦截，建议用户手动把 Signal 加入 Siri 的排除应用；Signal 自认这套防护"不完整"，并呼吁 Apple、Google、微软给开发者可靠的 opt-out 办法。背景正是 Reuters 的调查复现：Muse 在 Android 上靠通知权限、在 Mac 上靠无障碍 + 截图工具绕过自家 Connector 读到 Signal 消息；苹果本周的系统更新已封掉 Mac 那条路，但同时新增了一套带更多警告的 agent 权限。接在第 55/56 期 Reuters 线之后看：隐私争议从"Meta 怎么说"扩到了"别的 App 开始动手防"——agent 越能干，越可能撞上为防它而设的墙。注：本条为 Reuters 原创报道经 Cybernews 等多家媒体转述。[Cybernews（2026-11-20）](https://cybernews.com/privacy/signal-restricts-screenshots/)；[Reuters 经 Northland News Radio 转载（2026-11-20）](https://northlandnewsradio.com/2026/11/20/exclusive-signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/)
+
+---
+
 ## 2026-11-20（第 56 期）
 
 今日共收录 **8 个用户案例** + **1 组行业观察**。Dani Klaric（IG 11-19）"Coco 26,762 封邮件 + 找古董沙发"明确标注 in partnership with Meta，品牌合作口径，未单列；Sarah Shaw（FB 11-19/IG 11-18）"PR 堆积如山，Muse 拆成清单"同样明确标注与 Meta 合作，未单列；Cameron Mofid（IG 11-19）"Quest 选旅行地、14 页杂志式攻略"明确为与 Meta 的 partnership，未单列；Ben Gusberg（IG/FB 11-18）电话代打推广解说、Frank Chien "$781 退保"为二手引用，与第 55 期已判口径相同，未单列；@museai.cases（Threads/IG 11-19）Raunaq "Xfinity $111.30 砍到 $95/月、一年省 $196"为粉丝聚合号的二手转述、无 Raunaq 本人原帖直链，未单列；Adam Stewart（IG 11-18/19）澳大利亚上线"5 个用法"为功能解说、无个人真实用法，未单列；David Buzzelli（IG 11-18）有线账单谈判解说引的是 Bain 简报、无本人实测，未单列；@xiaoxiaoshechuguanjia（Threads 11-19）纯邀请码推广帖，未单列；@paperboiusa（Threads 11-19）Baby Mia 起诉案 quote-share 与第 54 期同一源头，未单列；Reuters 调查的各路 11-19 跟进报道与第 55 期同一源头，未重复收（TechCrunch 跟进补了新细节，单列行业观察）；以下按宁缺毋滥原则收录。
