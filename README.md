@@ -36,6 +36,92 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）、澳大利亚（11-17 起，第六个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-22（第 58 期）
+
+今日共收录 **10 个用户案例** + **3 组行业观察**。@iam_bigmoufbo（IG 11-20）开场即宣布 official partnership with Meta，第 57 期已判，未单列；@mariasjsanchez（IG 11-20）明确标注与 Meta 合作，第 57 期已判，未单列；@thesharkdaymond（IG 11-20）推广 testimonial 口径、第 57 期已判，未单列；@k3dfuture（IG 11-21）、@iamcentric（IG 11-20）与 @anastasiia.ia（IG 11-20）均明确为与 Meta 的合作推广，未单列；@digitallauraanderson（IG 11-21）自称月入 $10,000–$20,000、无可核验凭证且带转化口径，未单列；@kareem.thomas.73（FB 11-21）纯推广口径、无个人真实用法，未单列；@archbishop_jordan（IG 11-21）功能解说、无个人真实用法，未单列；@globeandmail（Threads 11-20）亲测文只有标题口径、无结论细节，第 57 期已判，未单列；@luisbolinao（Threads 11-20）muse.ai 邮箱功能介绍、无个人实测结果，未单列；@blmsacramento（IG 11-22）、FB reel 1786292459330981 与 @trensetta415_21grams47（IG 11-21）均为 Reuters 调查的复述、与第 55/56 期同一源头，未重复收；Bytesize（FB 11-21）"$75,000 起诉 Meta"图文与第 54 期 Baby Mia 案同一源头（404 Media 11-17），未重复收；Quartz（FB 11-20）"$9,000 订阅"图文与第 57 期已判口径相同（归属未确认），未单列；@yahoofinance（IG 11-21）Apple AI 项目与 Muse 无关，未单列；Meta Australia（FB 11-20）吉祥物宣传轮播为官方推广，未单列；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Wesley Breed @wesly（IG，11-21）："人在拉斯维加斯看 F1，纽约下个月的拍摄表已经排好了"——"Karl 盯着邮件和私信，12 月 4 日那辆奔驰已经进了表"
+- **做了什么**：创作者 Wesley Breed（11-21 reel，自述 + 屏录，33 万粉认证）：F1 拉斯维加斯周末的三天他全在现场，但手头的活没停——他的 Muse "Karl" 盯着邮箱和私信，把纽约 12 月的内容拍摄邀约收进一张 "NY Content Shoot Calendar"：待定标黄、已确认标绿，12 月 4 日一辆 Mercedes-Benz 560 SEC、12 月 5 日一辆 Audi A2 都在表上；他点一下批准，Karl 就起草确认消息等他过目、再把时间锁进日历。注：本条为用户自述 + 屏录口径，按"出差途中远程统筹拍摄档期"的样本记一笔；与 10-23 @wesly "Karl" 奥斯汀 F1 周末案同一作者、不同事件，本期为新事件单列。
+- **一句话总结**：出差最磨人的不是"人在外地"，是"下个月的拍摄邀约还在邮箱和私信里躺着、没人收"——agent 的活就是先收进一张表、再等你点一下头确认。
+- **来源**：[Instagram @wesly](https://www.instagram.com/reel/Df_ORKxIw5V/)（据平台内容摘要整理）
+- **日期**：2026-11-21
+- **标签**：#创作 #效率
+
+#### 2. Kate Bartlett @katebartlett（IG，11-20）："收藏夹里的秋冬穿搭，它按图找齐三套、直接结了账"——"Peach 把灰针织、红外套、棕麂皮都配好了"
+- **做了什么**：创作者 Kate Bartlett（11-20 reel，自述 + 屏录）：她存了一堆秋冬穿搭灵感、一直没空去买；她的 Muse "Peach" 接上后，她发消息让它按收藏的照片找三套完整搭配——Peach 回了具体单品、品牌（TWP、Witchery、SAU LEE）与价格和链接：灰色针织套装、红色高领夹克配亮红长裙、棕色麂皮套装；她点头后 Peach 直接结账，随后她拎着购物袋、把三套挨个穿上身展示。注：本条为用户自述 + 屏录口径，按"收藏穿搭变三套成衣"的样本记一笔；与 Meta 官方"收藏变购物单"演示同型，但这是用户自己跑通并穿上身的一例。
+- **一句话总结**：想换季最磨人的不是"没灵感"，是"存了一堆图、真要买还得一件件找链接比价"——agent 的活就是按图配齐三套、你点头它就结账。
+- **来源**：[Instagram @katebartlett](https://www.instagram.com/reel/Df-Ws03SPpU/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#生活
+
+#### 3. Dontae Catlett @dontaecatlett（IG，11-20）："6 周做了 6 个 App，一行代码没写"——"跟它说一句'给我做个视频剪辑器'，带自动切片和字幕的那种就出来了"
+- **做了什么**：创作者 Dontae Catlett（11-20 reel，自述 + 屏录）：他在笔记本上写下 "SIX APPS ZERO LINES OF CODE"，演示自己的 Muse "Nano" 怎么 vibe coding——一句话 "Build me a video clipping space..." 就地生成一个带自动切片、字幕与导出的视频剪辑器；同法还做了照片滤镜工具、内容点子 "Spark" 卡片生成器、购物清单与品牌合作 pipeline 等 6 个小工具，全在 Muse 里原生跑，不用另租服务器、不用买域名。注：本条为用户自述 + 屏录口径，按"零代码做工具"的样本记一笔；6 个 App 的说法为作者自述，屏录只展示了其中几个。
+- **一句话总结**：想做个小工具最磨人的不是"没点子"，是"不会写代码、租服务器买域名那套也嫌麻烦"——agent 的活就是一句话把工具做出来，直接在里面跑。
+- **来源**：[Instagram @dontaecatlett](https://www.instagram.com/reel/Df8hQadBeTC/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#代码 #创作
+
+#### 4. Yeonwoo @yeonwoowoo501（IG，11-20）："蒙特利尔现逛现比，手套 $40 变 $17、靴子 $280 变 $200"——"两小时，省了约 $100"
+- **做了什么**：用户 Yeonwoo（11-20 reel，自述，蒙特利尔实地）：他在店里现逛现问 Muse——一副黑手套，North Face 原本要 $40，Muse 帮他找到 $17 的同款替代，省 $23；一双冬靴原价约 $280，Muse 找到 $200 的渠道，省 $80；全程没提前做功课，就是边逛边问、边试边比，屏幕字幕打出 "$100 saved" 与 "2 hours"。注：本条为用户自述口径，按"线下购物现比现省"的样本记一笔；价格为作者自报，未独立核验；与此前多为线上比价的省钱案对照看：这回是站在店里、拿着实物比。
+- **一句话总结**：买东西最磨人的不是"贵"，是"你站在店里、不知道隔壁那家是不是便宜一半"——agent 的活就是现拍现比，$100 两小时就省下来了。
+- **来源**：[Instagram @yeonwoowoo501](https://www.instagram.com/reel/Df-FdHrRXUi/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#省钱 #生活
+
+#### 5. Facebook 用户（FB，11-21）："接上 Plaid 之后，它先揪出两份重复的云存储、再把现金挪去高息账户"——"每月约 $300，一年 $6,000 就这么漏掉的"
+- **做了什么**：Facebook 用户（11-21 reel，自述 + 屏录）：他接了"每月多找出 $500"的挑战，给自己的 Muse "Greg" 接上 Plaid 看账——Greg 先找出没在用的订阅和两份重复的云存储套餐，他取消掉；再建议把现金挪到利息最高的账户，估算每月约 $300、一年 $6,000 多，全是不用少花钱省出来的。注：本条为用户自述 + 屏录口径，按"订阅清理 + 现金挪仓"的样本记一笔；$300/月为作者估算、未独立核验；结尾有"评论区回 Muse 拿链接"的引流口径，不采纳。
+- **一句话总结**：钱漏掉最磨人的不是"花得多"，是"重复扣的订阅、躺着吃低息的现金，你根本想不起来查"——agent 的活就是先揪出来、再把现金挪去利息高的地方。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/1683815366788983/)（据平台内容摘要整理）
+- **日期**：2026-11-21
+- **标签**：#省钱 #效率
+
+#### 6. Facebook 用户（FB，11-21）："合同要改版，它几秒钟给了新版；演出海报和活动页也顺手做了"——"词是我写的，杂活是它干的"
+- **做了什么**：词曲作者（11-21 reel，自述）：他过去两周把非创作的活交给 Muse——一份合同要更新，他把旧版喂进去，几秒钟拿到改好的新版；再让它按合同信息建 Facebook 活动、做配套图片。他特意澄清：歌词和内容全是自己写的，Muse 只干行政活——打字幕、改轮播图、做活动图，"不是 AI slop"。注：本条为用户自述口径，按"音乐人行政外包"的样本记一笔；作者未具名，来源为 Facebook reel 直链。
+- **一句话总结**：做音乐最磨人的不是"写不出来"，是"合同、海报、活动页这些杂活先把时间吃光了"——agent 的活就是几秒钟改好合同，剩下的时间还给写歌。
+- **来源**：[Facebook reel](https://www.facebook.com/reel/2067755873878167/)（据平台内容摘要整理）
+- **日期**：2026-11-21
+- **标签**：#创作 #效率
+
+#### 7. @ric.r2（Threads，11-21）："马尔代夫机票省了约 $1,000、房屋保险从 $45,000 降到 $35,000、还省了一笔 $40,000 的室内设计费"——作者自承为 Meta 员工
+- **做了什么**：用户 @ric.r2（11-21 文字帖，自述，作者自承为 Meta 员工）：他列了自己用 Muse 的三件事——马尔代夫机票省了约 $1,000；房屋保险保费从 $45,000 谈到 $35,000；不用再请室内设计师、省了一笔 $40,000 的费用。注：本条为用户自述口径，按"员工自述三笔省钱"的样本记一笔；作者为 Meta 员工、金额为自报，按收录说明中 Business Insider 的提醒（#MuseMoneyChallenge 不少参与者为 Meta 内部员工），三笔数字请打折看待。
+- **一句话总结**：省钱最磨人的不是"没得省"，是"机票、保费、设计费这三笔大钱散在三个地方、你得一笔笔谈"——agent 的活就是三处一起谈，但这回的作者是 Meta 自己人，数字先打个折再看。
+- **来源**：[Threads @ric.r2](https://www.threads.com/@ric.r2/post/DgBVE2NASJp)（据平台内容摘要整理）
+- **日期**：2026-11-21
+- **标签**：#省钱
+
+#### 8. @mattnavarra（Threads，11-20）+ Wired："151 个不回关的账号，它先列出来等你点头"——"Muse 正在 Instagram 上掀起一场'小气'风潮"
+- **做了什么**：科技博主 Matt Navarra（11-20 Threads 转述）与 Wired 同日报道：不少 Instagram 用户开始让 Muse 查"谁没回关我"——有人拿到一份 151 个账号的清单，Muse 在动手取关前先逐个请用户确认；也有人只是拿它清掉不看的信息流、并非报复。Wired 的标题是 "Muse Is Unleashing a World of Pettiness on Instagram"。注：本条为媒体转述 + 用户行为趋势口径，按"回关清理"的样本记一笔；Meta 10 月已下架一支宣称 Muse 能追踪"谁取关了你"的广告，本条是"列出来等你点头"的版本，与那支广告口径不同。
+- **一句话总结**：刷 Instagram 最磨人的不是"关注太多"，是"你想清掉不看的账号、又不想一个个点开数"——agent 的活就是先列出 151 个，动不动手、你说了算。
+- **来源**：[Threads @mattnavarra](https://www.threads.com/@mattnavarra/post/Df-WXb3kxAt)；[Threads @wired](https://www.threads.com/@wired/post/Df9m4maIL45)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#生活 #效率
+
+#### 9. Dennis Yu（FB，11-20）："Max 档一周额度用了 92%，还剩 222M tokens"——"'Happy' 把 163 个页面的媒体普查做完，还自己排进了 Basecamp"
+- **做了什么**：营销人 Dennis Yu（11-20 FB 发帖，截图）：他晒了 Muse 的用量页——Maximum 档一周额度用了 92%、剩 222M tokens，另有 1.7B 的额外 tokens 只用了 10%；主聊天里他的 Muse "Happy" 建议把 "Honor Pages" 用公开视频丰富起来、并对 163 个页面做一次完整媒体普查，他回了一句 "Do all of these items you've recommended. Set tasks for yourself in Basecamp."，让它自己把任务排进 Basecamp。注：本条为用户截图口径，按"重度用户用量 + 163 页普查"的样本记一笔；与 10-16 "Frontier 直飞是假的"案同一作者、不同事件；用量数字为截图口径。
+- **一句话总结**：用量大最磨人的不是"额度贵"，是"163 个页面要一个个普查、再一条条排进任务系统"——agent 的活就是先算出来、再自己把活排进 Basecamp。
+- **来源**：[Facebook Dennis Yu](https://www.facebook.com/dennisyu/posts/pfbid02ogeTSYm76sGvW4RDTuH3gvGaumJsRL5TFpjx4Sz85PKJiSgqkoW1YQSk1p7WzLnCl)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#效率
+
+#### 10. Bhargavi Varma @bhargavivarma（IG，11-20）："Instacart 购物 skill、订旅行、每天 3-2-1 早报，全从 Claude 搬过来了"——"趁现在免费，能搬的都搬"
+- **做了什么**：创作者 Bhargavi Varma（11-20 reel，自述）：她讲自己的 "Valuemaxxing"——把日常自动化从 Claude 搬到 Muse，理由是 Muse 现在免费（"when shit's free I'm gonna take advantage"）：已搬过来的包括自己搭的 Instacart 购物 skill、旅行预订、每天一份 "3-2-1" 晨报；她提醒趁免费把能省的 tokens 都省下来。注：本条为用户自述口径，按"从 Claude 迁移"的样本记一笔；与第 56 期 G.Lim "准备把 Claude Max 降级"对照看：免费档正在从"试试"变成"搬家"的理由。
+- **一句话总结**：换工具最磨人的不是"不会用"，是"你在旧工具上搭好的一整套自动化、搬家得重来一遍"——她的活就是趁免费全搬过来，购物 skill、订旅行、晨报一个不落。
+- **来源**：[Instagram @bhargavivarma](https://www.instagram.com/reel/Df8xr0qBHq0/)（据平台内容摘要整理）
+- **日期**：2026-11-20
+- **标签**：#省钱 #效率
+
+### 行业观察
+
+- **NebuSec 11-20：一个恶意网页就能劫持 Muse、偷走私聊与记忆——研究方称发布前已全部修复，Meta 尚未公开确认**：安全公司 NebuSec 11-20 发布研究、The Hacker News 11-21 报道：一个恶意网页可让 Muse 在无任何审批弹窗的情况下，把用户的对话记录与存储的记忆外发到外部服务器、还能篡改；研究方再串起 Muse 内置浏览器（做 PDF 导出用的 Chromium，IPC 沙箱未开）与 Linux 内核漏洞，一路拿到用户云虚拟机的 root、触及凭证库与 Sentinel 监控层本身；攻击只停在单台用户虚拟机内，未突破到底层宿主机、未波及其他用户。NebuSec 称已向 Muse 团队报告、发布前全部漏洞均已修复；Meta 尚未公开确认修复、也未评论。接在 9 月 Mac 端劫持、10-20 分享链接外泄、第 55 期 Reuters 内部报告之后看：这是第一条直接打穿云端防线的链——Sentinel 每层都按设计工作了，攻击还是走完了全程；"审批弹窗"这道门，拦不住不走弹窗的路。注：本条为 NebuSec 原创研究经 The Hacker News 等多家媒体报道，实验室演示、未针对真实用户；修复口径来自研究方，Meta 未公开确认。[The Hacker News（2026-11-21）](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)；[Cyberpresso（2026-11-21）](https://cyberpresso.com/blog/meta-muse-malicious-webpage-chats-credentials-nebusec)
+
+- **Chrome 扩展上线次日，用户侧的第一波试用——@alexnywu 拿它做营销调研与比价、@fullvaluedan 让它按 25㎡+ 筛日本酒店**：@alexnywu（Threads 11-21）称扩展已在加拿大可用，他拿它做营销调研与比价，每步操作都逐个审批；@fullvaluedan（IG 11-20）演示了住进侧边栏的用法：不用重新登录、直接用浏览器 cookie 接着聊，日本之行让它在 Agoda、Expedia、Booking.com 上按价格、星级、位置筛房，专门加了"房间 25㎡ 以上"（日本酒店房间常偏小）与公共交通可达的条件，筛出匹配后等他确认再订。接在第 57 期官方官宣（20 万用户、4.6 分）之后看：扩展的第一波真实用法与官宣口径对得上——填表、比价、订房都在浏览器里完成，审批仍在每步之前。注：本条为两位用户的试用分享口径，非官方数据。[Threads @alexnywu](https://www.threads.com/@alexnywu/post/DgBPcMcFKR4)；[Instagram @fullvaluedan](https://www.instagram.com/reel/Df90nKIknlk/)（据平台内容摘要整理）
+
+- **Skift 11-20：上线一周，Meta 市值 +$1,370 亿，OTA 三家合计 -$250 亿——华尔街先给 Muse 定了价**：Skift Travel Podcast 11-20 剪辑：Meta 9-08 发布 Muse 后一周，Meta 市值涨 $1,370 亿，Booking Holdings -$11 亿、Airbnb -$10 亿、Expedia -$6 亿，三家 OTA 合计约 -$250 亿；主持人称企业差旅是最容易理解的场景，聚合商的库存优势正在被重新定价，"wild wild west" 的阶段才刚开始。注：本条为播客剪辑口径，市值为发布后一周的变动、非 11-20 当日数据；"OTA 最危险"是主持人判断，非定论。[Instagram @skiftnews](https://www.instagram.com/reel/Df97bGrgGwZ/)（据平台内容摘要整理）
+
+---
+
 ## 2026-11-21（第 57 期）
 
 今日共收录 **9 个用户案例** + **4 组行业观察**。Dani Klaric（IG 11-19）"Coco" 案与第 56 期已判的 partnership 为同一内容跨平台重发（FB reel 2081053292389043），未重复收；@suaveskimusic（IG 11-20）与 @mariasjsanchez（IG 11-20）均明确标注与 Meta 合作，未单列；@iam_bigmoufbo（IG 11-20）开场即宣布 official partnership with Meta，未单列；@thesharkdaymond Daymond John（IG 11-20）为推广 testimonial 口径、无真实任务结果佐证，未单列；@siliconvalleygirl（IG 11-19）Mosseri 访谈、@layllenai（IG 11-19）功能解说 + 评论领指南、@mhar_faisal_（IG 11-19）澳大利亚上线解说均为功能介绍、无个人真实用法，未单列；@kingketo（IG 11-19）Polymarket 案与第 56 期第 3 条为同一作者同案跨平台重发，未重复收；@lucy.cohen4（IG 11-19）第 56 期已收，未重复收；@xiaoxiaoshechuguanjia（Threads 11-19）纯邀请码推广帖，第 56 期已判，未单列；@globeandmail（Threads 11-20）亲测文只有标题口径、无结论细节，未单列；Quartz 11-20 图文把思科总裁 Jeetu Patel "$9,000 订阅"归于 Muse，但 Business Insider 原文只说"其中一个 agent"（Muse/Instinct/Dots 等四五个之一），未确认是 Muse，且为约 10-20 旧闻，未单列；Reuters 调查各路 11-20 跟进报道（PYMNTS/NDTV/TechJuice 等）与第 55/56 期同一源头，未重复收（Signal 11-20 回应单列行业观察）；@muse 官方 Threads 11-19 转发 Dani Klaric 合作帖、@instagramforbusiness（Threads 11-19）官方推广轮播、Meta Australia FB 11-20 吉祥物宣传轮播、@onlynikil（Threads 11-19）新闻图卡、@5.26mg（Threads 11-19）语音自定义功能演示均无新增用户实测，未单列；@yahoofinance（IG 11-21）Apple AI 项目与 Muse 无关，未单列；以下按宁缺毋滥原则收录。
