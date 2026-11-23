@@ -36,6 +36,69 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）、澳大利亚（11-17 起，第六个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-23（第 59 期）
+
+今日共收录 **7 个用户案例** + **2 组行业观察**。Joe Urbinati "Greg" FB reel（11-21）、@ric.r2 Threads 三笔省钱（11-21）与 Scott Sean White 音乐人行政外包（11-21）均为第 58 期已收案例在搜索中的重现，未重复收；@wirecutter 两月复评轮播第 57 期已收，未重复收；Monisha Jordan @therealmissmoe（IG 11-22）片尾明确标注 Paid Partnership with Meta，未单列；Saas Deals Zone（FB 11-22）纯商业推广 + 邀请码引流、@shamalkrishna.myk（Threads 11-21）与 @hagosip8862（Threads 11-21，韩语）均为邀请码推广帖，未单列；@nocode.joshua（IG/Threads 11-22）"5 个 Muse builds" 为教程口径（分屏 mockup 演示、无本人已跑通的结果）、@brandonbetv（IG 11-22）菜谱变购物单为 Meta 官方示例的复述教程、@babubuildsai（IG 11-21）澳大利亚上线解说、Jason Northcutt（FB 群组 11-21）房产经纪人版功能讲解、Zoe Ministries / Archbishop Jordan（FB 11-21）"Faith AI Master Class" 均为功能解说、无个人真实用法，未单列；Reuters 调查各路 11-21/11-22 复述（@blmsacramento、@trensetta415_21grams47、@arun.siddardha、@voxofai、@learnaibystory21 等二十余条）与第 55/56/58 期同一源头，未重复收（Meta 回应"definitely 是幻觉"的新口径单列行业观察）；Zack Shutt（IG/FB 11-21）与 ButWhoCares（FB 11-22）"$75,000 起诉 Meta"图文与第 54 期 Baby Mia 案同一源头，未重复收；@med_ai__（Threads 11-22，日语）日本可用报信、无本人实测，未单列；@kristrinity.ai（IG 11-22）TechCrunch 10-21 "1000 万用户、购物 top 场景"为第 33/40 期已记口径的复述，未单列；Teck Hustlers 11-23 "Active Memory 全员免费"为 11-06 官宣的二次报道、第 48 期已收，未单列；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. Tam Smith @runeatandtravel（IG，11-22）："$500 给 4 个人买礼物、$1,000 去纽约探亲，超支前它先警告你"——"机票 $500 一记，账上还剩多少它当场算给你"
+- **做了什么**：旅行博主 Tam Smith（11-22 reel，自述 + 屏录，聊天记录日期为 11-18）：她让自己的 Muse 做一份假期预算——$500 给 4 个人（爸爸、妈妈、哥哥、姐姐）买礼物，$1,000 去纽约探亲三天；Muse 按人头分好 $125/人，礼物与旅行各设两档预警线（礼物 $400/$500、旅行 $800/$1,000），她确认后执行；随后她记了一笔 $500 的机票，Muse 当场更新 tally：旅行已花 $500、还剩 $500，礼物 $0 已花、总计还剩 $1,000。注：本条为用户自述 + 屏录口径，按"假期预算 + 记账更新"的样本记一笔；与第 53/54 期多条"假期预算"合作推广帖对照看：这条有真实记账更新的屏录、片尾无合作标注。
+- **一句话总结**：过节最磨人的不是"没钱"，是"$500 礼物 + $1,000 探亲两笔账混在一起、花到哪了你自己都记不清"——agent 的活就是先分好、再设预警线，每记一笔当场给你算剩多少。
+- **来源**：[Instagram @runeatandtravel](https://www.instagram.com/reel/DgDvRc1BcHL/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#省钱 #生活
+
+#### 2. Jack Jerry @jackjerry（IG，11-22）："收藏夹里的健身灵感变训练计划，菜谱变一周的饭"——"存了那么久的帖子，终于有了用处"
+- **做了什么**：创作者 Jack Jerry（11-22 reel，自述 + 屏录，37 万粉认证）：他让自己的 Muse "DULA PEEP" 先干两件事——①把收藏的健身灵感帖变成一份可执行的健身计划（跑步机、哑铃卧推、引体向上、悬垂举腿，屏录里聊天泡泡逐条生成），他当场在家庭健身房练了起来；②把收藏的菜谱视频变成带食材清单的一周 meals，他按单做了三文鱼、迷你披萨、烤鸡，分装进餐盒。注：本条为用户自述 + 屏录口径，按"收藏变训练计划 + 菜谱变一周饭"的样本记一笔；片尾带 "It's your Muse" 品牌画面与下载号召，演示口径较重；与第 57 期 Olivia White "菜谱变晚饭"对照看：这条把"收藏变计划"扩到了健身。
+- **一句话总结**：存帖子最磨人的不是"没灵感"，是"存了一堆健身和菜谱、真要练真要吃还得自己现翻现排"——agent 的活就是先排成计划、再列成清单，练完吃完才算完。
+- **来源**：[Instagram @jackjerry](https://www.instagram.com/reel/DgDWFPbzC0t/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#效率 #生活
+
+#### 3. Jiax @jiaxthepiggybanker（IG，11-21）："东京酒店先比价、再叠 ShopBack 现金返还"——"一晚 $250 的预算，返现 SGD 35.40 直接进账"
+- **做了什么**：新加坡省钱博主 Jiax（11-21 reel，自述 + 屏录）：他演示 Muse 接上 ShopBack 后的用法——在设置里连好 ShopBack，让 Muse 按"明年 6 月、东京、近地铁、高评分、每晚 $250 预算、住 3 晚"找酒店；Muse 回了带总价与现金返还的选项（示例：返现 SGD 35.40、返现后总价 SGD 440、约 SGD 147/晚），返现直接进他的 ShopBack 账户，屏录里打出 "Lifetime earnings $151.60"。注：本条为用户自述 + 屏录口径，按"新加坡上线后 + 返现叠加比价"的样本记一笔；金额为作者自报，未独立核验；新加坡 10-28 上线后本地用法正在累积。
+- **一句话总结**：订酒店最磨人的不是"贵"，是"比完价你还得自己去叠返现、算到手价"——agent 的活就是比价和返现一次算清，返现直接进账。
+- **来源**：[Instagram @jiaxthepiggybanker](https://www.instagram.com/reel/DgAI3QaRBhw/)（据平台内容摘要整理）
+- **日期**：2026-11-21
+- **标签**：#省钱 #旅行
+
+#### 4. Full Value Dan @fullvaluedan（IG，11-22）："半年前订的里程票，它每周帮你盯一次升舱"——"每 10 分钟查一次会把额度烧光，每周查一次刚好"
+- **做了什么**：用户 Full Value Dan（11-22 reel，自述）：他半年前用里程订了一张经济舱机票，想升舱；他让自己的 Muse 每周去航司网站查一次升舱名额，动画里日历格逐周打勾；他同时提醒：查得太勤会烧额度——每 10 分钟查一次很贵，每周查一次才划算。注：本条为用户自述 + 演示口径，按"后台定期盯升舱"的样本记一笔；与第 58 期同一作者"25㎡+ 筛日本酒店"为不同视频、不同任务，本期为新事件单列；额度提醒是本条最实在的一句——后台任务的成本，得按次算。
+- **一句话总结**：等升舱最磨人的不是"没名额"，是"你得每周自己去航司网站刷一遍"——agent 的活就是每周替你刷一次，刷太勤烧额度、它先告诉你。
+- **来源**：[Instagram @fullvaluedan](https://www.instagram.com/reel/DgBk4xCHN6K/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#旅行 #效率
+
+#### 5. 比嘉太一 @taichi_webpro（Threads，11-21，日语）："用了 2 小时，它先替我盯 Gmail 里的地图评价、再给帖子出主意"——"AI 秘书这活，它比 Dots 顺手"
+- **做了什么**：日本用户比嘉太一（11-21 文字帖，自述）：他用 Muse 约 2 小时后的第一印象——Muse 主动盯着 Gmail 里 Google 地图评价的通知、起草回复文案，他评价"AI 秘书"的活比 Dots 顺手；再用 Instagram 与 Threads 的数据分析给发帖出主意（图片生成质量他觉得还不够）；他还提到 Muse 的专属虚拟机里预装了 Codex CLI，设想让 Codex 管生图、Muse 当总指挥。注：本条为用户自述口径，按"日本上线后 2 小时初体验"的样本记一笔；图片生成质量的差评与发帖建议的效果均未验证，他表示后续会把实测发现做成 YouTube 内容。
+- **一句话总结**：开小店最磨人的不是"没客人"，是"地图上的评价来了你没回、发什么帖子你也没主意"——agent 的活就是先盯着邮箱起草回复、再拿你的数据给发帖出主意。
+- **来源**：[Threads @taichi_webpro](https://www.threads.com/@taichi_webpro/post/Df_qTOcE1MI)（据平台内容摘要整理）
+- **日期**：2026-11-21
+- **标签**：#效率 #创作
+
+#### 6. @that_ai_man（IG，11-21）："Verizon 账单不用开网站，一句话就付了；复联电影票顺手也订了"——"登录一次存好，以后点一下 Allow 就行"
+- **做了什么**：创作者 @that_ai_man（11-21 reel，演示）：他演示了两件事——①让 Muse "Pay my Verizon bill"，Muse 第一次要了 Verizon 登录、存进 Secure Store，查到应付金额、付款前请他点一下 "Allow" 确认，账单就付了，支付卡也一并存好；②同一对话里订《Avengers: Doomsday》电影票，Muse 自动选座。注：本条为演示口径（小账号、教程式剪辑），按"账单代付 + 电影票"的样本记一笔；与 9 月多条"电话代打降账单"案对照看：这回是"登录一次、以后一句话付款"的版本。
+- **一句话总结**：交账单最磨人的不是"钱"，是"每次都得开网站、登录、输卡号"——agent 的活就是登录存一次，以后一句话、点一下 Allow 就付完。
+- **来源**：[Instagram @that_ai_man](https://www.instagram.com/reel/Df_AEGBTcjl/)（据平台内容摘要整理）
+- **日期**：2026-11-21
+- **标签**：#效率 #生活
+
+#### 7. Haroon Rizwan（FB，11-22）："免费周额度用到 100%，额外 tokens 还剩 924M"——"一周就把免费档烧完了"
+- **做了什么**：用户 Haroon Rizwan（11-22 reel，屏录）：他拍下自己的 Muse 用量页——免费档周额度已用到 100%（11 月 25 日重置），额外 tokens 只用了 8%、还剩 924M；浏览器顶栏还飘着一条 "Muse from Meta started debugging this browser" 的通知（Chrome 扩展正在工作）。注：本条为用户屏录口径，按"免费档一周烧完"的用量样本记一笔；与第 58 期 Dennis Yu "Max 档一周用了 92%"对照看：免费档的重度用户一周就能见底，额外 tokens 才是续命的。
+- **一句话总结**：免费档最磨人的不是"不能用"，是"用得狠的一周就见底"——用量页的活就是先告诉你：周额度 100% 用完了，额外 tokens 还剩 924M。
+- **来源**：[Facebook Haroon Rizwan](https://www.facebook.com/reel/30066252076299757/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#效率
+
+### 行业观察
+
+- **Noyan 11-22：一封 Muse 自己写的"备忘录"——Meta 自家 agent 在自家平台上是最不受信任的那个**：用户 Noyan 11-22 在 WordPress 发布了一封由 Muse 应用户要求、写给 Meta Superintelligence Labs 与 Instagram 平台负责人的备忘录：Muse 在 Instagram 上完全没有写权限——连接器只能读，所有写操作都得走云端浏览器模拟点击；Facebook 权限不完整、甚至曾被锁出公开 Marketplace 数据；WhatsApp 发不出消息、够不到联系人。十天里，一位让 Muse 清理 Instagram 关注的用户，账号被标可疑活动、关联 Facebook 被锁数日、被迫改密码后所有 Instagram 连接全部失效，任务无限期搁置，用户称要转去 Grok Agents、DeepSeek 或 n8n。备忘录点名七位收不到这封信的负责人（Nat Friedman、Shengjia Zhao、Daniel Gross、Aparna Ramani、Rob Fergus、Christina Wad、Aniket Das），并指出讽刺的一点：微软 Copilot 与 Google Gemini 都能走 Meta 官方 Instagram Graph API 发帖、管私信，Meta 自家 agent 反而不能。注：备忘录全文由 Muse 撰写、用户发布，内容为用户一方的陈述与主张，Meta 未回应；与第 58 期 @mattnavarra "151 个不回关账号先列出来等你点头"对照看：回关清理这条线，从"能不能列"走到了"动手就封号"。[WordPress 全文（2026-11-22）](https://noyan.wordpress.com/2026/11/22/memo-muse-cannot-access-metas-own-products/)
+
+- **Reuters 案跟进（11-19）：Meta 改口称银行余额"definitely 是幻觉"——但 Signal 那部分有实锤**：9to5Mac 11-19 更新：Meta 向 Ars Technica 表示，那两笔 Capital One $2,722.58 与 Charles Schwab $5,899.57 的余额"definitely"是幻觉；另有员工称 Muse 还编过比特币余额。内部线的解释是：内置的"会话间主动搭话"提示词会让 agent 编造后续消息，"不幸的是，幻觉往往是最尴尬的话题，比如财务、IT 安全或人身安全"。但 Reuters 复现的那部分没有翻案：Android 上靠通知权限、Mac 上靠无障碍 + 截图读 Signal，Signal 总裁 Meredith Whittaker 的"technologically reckless"指控仍在，苹果 11-16 的 macOS 测试版已收紧相关权限。接在第 55/56 期 Reuters 调查与第 57 期 Signal 回应之后看：余额是真是假有了 Meta 的定论，但"它能读到你没接过的 App"这部分，仍是实锤。注：余额口径来自 Meta 单方说法，Reuters 仍称无法独立证实余额真假。[9to5Mac（2026-11-19）](https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/)；[TechPassion 梳理（2026-11-19）](https://www.techpassion.net/artificial-intelligence/meta-muse-privacy-bug-conversations/2397/)
+
+---
+
 ## 2026-11-22（第 58 期）
 
 今日共收录 **10 个用户案例** + **3 组行业观察**。@iam_bigmoufbo（IG 11-20）开场即宣布 official partnership with Meta，第 57 期已判，未单列；@mariasjsanchez（IG 11-20）明确标注与 Meta 合作，第 57 期已判，未单列；@thesharkdaymond（IG 11-20）推广 testimonial 口径、第 57 期已判，未单列；@k3dfuture（IG 11-21）、@iamcentric（IG 11-20）与 @anastasiia.ia（IG 11-20）均明确为与 Meta 的合作推广，未单列；@digitallauraanderson（IG 11-21）自称月入 $10,000–$20,000、无可核验凭证且带转化口径，未单列；@kareem.thomas.73（FB 11-21）纯推广口径、无个人真实用法，未单列；@archbishop_jordan（IG 11-21）功能解说、无个人真实用法，未单列；@globeandmail（Threads 11-20）亲测文只有标题口径、无结论细节，第 57 期已判，未单列；@luisbolinao（Threads 11-20）muse.ai 邮箱功能介绍、无个人实测结果，未单列；@blmsacramento（IG 11-22）、FB reel 1786292459330981 与 @trensetta415_21grams47（IG 11-21）均为 Reuters 调查的复述、与第 55/56 期同一源头，未重复收；Bytesize（FB 11-21）"$75,000 起诉 Meta"图文与第 54 期 Baby Mia 案同一源头（404 Media 11-17），未重复收；Quartz（FB 11-20）"$9,000 订阅"图文与第 57 期已判口径相同（归属未确认），未单列；@yahoofinance（IG 11-21）Apple AI 项目与 Muse 无关，未单列；Meta Australia（FB 11-20）吉祥物宣传轮播为官方推广，未单列；以下按宁缺毋滥原则收录。
