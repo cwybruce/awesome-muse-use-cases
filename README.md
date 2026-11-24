@@ -36,6 +36,94 @@
 
 - Muse 目前仅面向**美国、加拿大、日本（日本 10-23 起，北美以外首个市场）、新加坡（10-28 起，第四个市场）、墨西哥（11-06 起，拉美首个市场）、澳大利亚（11-17 起，第六个市场）** 18 岁以上用户开放（免费版 + $20/$100 两档订阅），中文区用户暂时用不上——做内容时可作为"前瞻"选题。
 
+## 2026-11-24（第 60 期）
+
+今日共收录 **10 个用户案例** + **4 组行业观察**。Priyanka Naik @chefpriyanka（IG/Threads 11-23）"Chunky" 海滩写食谱：Threads 同内容帖带 #metapartner 标签、属合作推广，未单列（11-14 旧金山周末版往期已收）；D'angelo Glass @dangeloglass（IG 11-23）铁三训练排期、Noah Mujalli @noahmujalli（IG 11-22）南意 3 天行程、Michael Rizzo @michaelrizzzo（IG 11-23）剪辑排期、NARDIO @janardio（IG 11-23）Secret Santa 均明确为与 Meta 的合作推广，未单列；@muse 官方 IG（11-23）Johan "School Monitor" 为官方账号的 Featured Space 推广（结尾带下载号召），非独立用户发帖，未单列；@museai.cases（Threads 11-22）"共同抚养看门狗：家教费 $314.10 涨到 $639 被拦下"为聚合号二手转述、无原帖直链，该账号此前已两次因同一原因未单列；Jared McCain @jmac（IG 11-23）"Dorthy" 出行提醒结尾为品牌推广画面、按疑似合作口径未单列；Fred Todisco（FB/IG 11-23）"AI FOR BEGINNERS" 降网费动画、Brandon Boswell @brandonbetv（IG 11-22）"黑五购物 6 条规则"均为教程口径、无个人真实用法，未单列；Brit Frank @britxfrank（IG 11-22）"1 个人打 3 份工"、Angee Smallz @angeesmallz（IG 11-22）生日周 + 感恩节排期、Clay @clay2wavyyy（IG 11-23）"一天排期"、Taylor Allen @ya_girl_taylor_allen（IG 11-23）孕期 + 假期演示均为推广口径演示、无可核验的完成结果，未单列；ButWhoCares（FB 11-22）"$75,000 起诉 Meta"图文与第 54 期 Baby Mia 案同一源头，第 59 期已判；@blmsacramento（IG 11-22）Reuters 复述与第 55/56 期同一源头，未重复收；Reuters 各路 11-23 跟进（Malwarebytes、PYMNTS、TLDR）无超出第 59 期"definitely 是幻觉"口径的新事实，未重复收；Ayana / @ijamesharkness（IG 11-23）AI Policy School 隐私批评为评论口径、无新增用法，且误称 Muse 发布于 2025 年 9 月（实为 2026 年 9 月），未单列；Jack Jerry @jackjerry 与 Tam Smith @runeatandtravel（IG 11-22）第 59 期已收，未重复收；以下按宁缺毋滥原则收录。
+
+### 用户案例
+
+#### 1. K. Janea' Daniel @_sunkizzed（IG，11-23）："$400 预算买 4 件圣诞礼物，它比完 4 家店只花了 $169.92"——"降价是它先截住的，不是我刷到的"
+- **做了什么**：创作者 K. Janea' Daniel（11-23 reel，自述 + 屏录）：黑五将至，她给自己的 Muse 设了一条黑五盯价任务——$400 总预算、4 件指定礼物（游戏耳机、加重毯、便携蓝牙音箱、旅行化妆包），让它去 Best Buy、沃尔玛、Target、Kohl's 比价，并设每周降价追踪、只在价格跌破基准线时提醒；Muse 回的首选清单合计 $169.92，远低于预算，并标出哪些已是季节低价；随后户外一段她收到更新：Muse 截住了一次真实降价、核验无误，全程零跑店。注：本条为用户自述 + 屏录口径，按"黑五盯价 + 截降价"的样本记一笔；$169.92 为屏录显示的清单合计，未独立核验；与第 57 期 Maria Arriaga "礼物单按沃尔玛真价卡死 $150"对照看：这条多了一层"降价追踪 + 截住降价"的动作。
+- **一句话总结**：黑五最磨人的不是"没折扣"，是"4 件礼物散在 4 家店、降价了你也不知道"——agent 的活就是先比完价、再替你盯着，降价那一下它先截住。
+- **来源**：[Instagram @_sunkizzed](https://www.instagram.com/reel/DgFrN1hoMEO/)（据平台内容摘要整理）
+- **日期**：2026-11-23
+- **标签**：#省钱 #生活
+
+#### 2. Brent Bowles（FB/IG，11-22）："两个邮箱几百封信，它筛到只剩 2 封要回；包裹在底特律卡了 5 天，它也查到了"——"我只管点头，挖信的活是它干的"
+- **做了什么**：创作者 Brent Bowles（11-22 文字帖 + 视频，自述）：一通电话里，他的 Muse 扫了他两个爆满的邮箱（几百封），筛到只剩 2 封要处理——一封紧急的 Vendor Support 工单（#306925），一封排期消息；Muse 把工单邮件逐字读给他听、按他的语气起草了一封态度强硬的专业回复、存进草稿等他批准，全程没自动发出；同一通电话里 Muse 还查了 USPS 实时物流：一个 dbrand 手机壳包裹在底特律/庞蒂亚克卡了 5 天、刚到俄亥俄托莱多；他还提到 Muse 此前曾逐题带他走完一份很长的法律表格。注：本条为用户自述 + 屏录口径，按"收件箱清筛 + 物流追踪"的样本记一笔；工单号与物流节点为视频显示，未独立核验；与第 57 期 Jeronimo Speaks "按 10 分钟还是一小时排邮件"对照看：这条是"几百封筛到 2 封"的版本。
+- **一句话总结**：收件箱最磨人的不是"某一封"，是"几百封里混着 2 封要命的、你得一封封翻"——agent 的活就是先筛到只剩 2 封、再把回复起草好等你点头。
+- **来源**：[Facebook Brent Bowles](https://www.facebook.com/brentrbowles/posts/pfbid02T2B7yhwT1uDvdkL1yFfCYJriXyBNpp75Zz11LdXntWJTFmfj16zDiimm7K47RJe1l)；[Instagram @brentbowles405](https://www.instagram.com/reel/DgDpZtBDyM4/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#效率
+
+#### 3. Ashley Chaney @iamashleychaney（IG，11-23）："衣柜里不穿的衣服，它 $75 一袋挂上 Marketplace、真卖出去了"——"拍照、写标题、定价、发帖，全是它"
+- **做了什么**：用户 Ashley Chaney（11-23 reel，自述 + 屏录）：圣诞季她想卖掉不穿的衣服赚点钱，让自己的 Muse "Doralee" 帮忙——她上传衣柜里牛仔裤、运动上衣的照片，Muse 提议按 "Mystery Bag" 打包、每袋 $75（设计师牛仔裤 + 运动装），经她批准后提交了两条 Facebook Marketplace 本地自提 listing，屏录显示状态为 "Live and available"；结尾她在街头把一个紫色纸袋交到买家手里。注：本条为用户自述 + 屏录口径，按"闲置变现 + 代发帖"的样本记一笔；街头交货为画面暗示、收款金额未证实，不做"已收款 $75"背书；与 10 月多条"卖车/卖旧相机谈判剧本"对照看：这回是真发帖、真交货的版本。
+- **一句话总结**：卖闲置最磨人的不是"没人要"，是"拍照、写标题、定价、发帖全得你自己一件件来"——agent 的活就是先打包定价、再挂上去，袋子递出去才算完。
+- **来源**：[Instagram @iamashleychaney](https://www.instagram.com/reel/DgF44eOMlzG/)（据平台内容摘要整理）
+- **日期**：2026-11-23
+- **标签**：#省钱 #生活
+
+#### 4. Tara Bomar @tarabomar（IG，11-23）："女儿房间那几件东西，它一件件找齐、还按孩子算总账"——"圣诞购物不烧脑，是因为有人先帮你记着"
+- **做了什么**：用户 Tara Bomar（11-23 reel，自述 + 聊天截图）：她自称圣诞购物季很容易 burnout 的妈妈，让 Muse 帮她找女儿房间要的几件具体东西——白色农舍风荷叶边被套、仙女灯、波西米亚花卉蕾丝床幔，Muse 逐件描述确认；还帮她找了一支适合她头痛体质的蜡烛，并持续盯着 Birkenstock 凉鞋、Hollister 衣服等单品的价格，黑五打折就提醒；Muse 还会按每个孩子加总花费、提醒她出差时别错过促销。注：本条为用户自述 + 截图口径，按"圣诞购物 + 按孩子算总账"的样本记一笔；小账号（3,600 粉）、无推广口径，是本期最素的真实用法之一；价格与折扣为作者自述，未独立核验。
+- **一句话总结**：给孩子买圣诞礼物最磨人的不是"没主意"，是"几件东西散在几家店、每个孩子的总账还得你自己加"——agent 的活就是先找齐、再按孩子算总账，打折了先告诉你。
+- **来源**：[Instagram @tarabomar](https://www.instagram.com/reel/DgEXkLjRtAd/)（据平台内容摘要整理）
+- **日期**：2026-11-23
+- **标签**：#省钱 #生活
+
+#### 5. Daniela DiMaggio @danimurielm（IG，11-23）："用了快一个月，它连女儿生日要找的钢琴都管了"——"Glimmer 是只熊猫，干的活可不萌"
+- **做了什么**：用户 Daniela DiMaggio（11-23 reel，自述 + 屏录）：她用 Muse 快一个月了，自己的 agent 叫 "Glimmer"（一只穿圣诞毛衣的熊猫）；屏录里 Glimmer 帮她对周六的日程（健身、买礼物、Magic of Lights 灯展）、管品牌邮件与社媒发帖（批准一条火鸡 reel 发 Facebook）、改创作者简介（"Latina mom filming crafts"）、给女儿 Arianna 生日找钢琴、把芭蕾与音乐课加进日历；她还提到 Glimmer 每晚会做邮件检查、帮她联系品牌、改视频。注：本条为用户自述 + 屏录口径，按"一个月多任务合集"的样本记一笔；结尾带下载号召，但多项任务均有屏录佐证；与第 57 期 Maria Arriaga "四用法合集"同型，但这是"一个月持续用"的版本。
+- **一句话总结**：带娃 + 做内容最磨人的不是"某一件事"，是"日程、邮件、发帖、孩子的事全堆在同一天"——agent 的活就是一件件先接过去，你只管点头。
+- **来源**：[Instagram @danimurielm](https://www.instagram.com/reel/DgGK2YDRpQ6/)（据平台内容摘要整理）
+- **日期**：2026-11-23
+- **标签**：#效率 #生活
+
+#### 6. Madison Ludwig @madisonludwig（IG，11-22）："高蛋白、不吃菜，它给了 3 道菜、我选了烤盘鸡肉土豆"——"备餐清单一步到位"
+- **做了什么**：用户 Madison Ludwig（11-22 reel，自述 + 屏录）：她说自己脑子乱、备餐总拖着，让 Muse 帮忙想一周的饭——她报了偏好（不要蔬菜、要高蛋白），Muse 给了 3 道菜（鸡肉卷饼碗、烤盘鸡肉土豆、火鸡塔可意面），她选了烤盘鸡肉土豆，Muse 随即给出购物清单与分步做法；她还翻了 Muse 的其他功能页：购物折扣、健康与健身追踪、目标设定（健康、关系、财务、职业、兴趣、效率）。注：本条为用户自述 + 屏录口径，按"备餐规划 + 购物清单"的样本记一笔；演示口径较重、菜尚未见做出来，与第 57 期 Olivia White "菜真做出来了"对照看：这条只到清单一步。
+- **一句话总结**：备餐最磨人的不是"不会做"，是"想吃什么、买什么、怎么做，全得你现想"——agent 的活就是先给 3 个选项、你点一个，清单和步骤一次给齐。
+- **来源**：[Instagram @madisonludwig](https://www.instagram.com/reel/DgD0UuHz9jL/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#生活
+
+#### 7. Daria Shark @daria_shark_（IG，11-22）："半夜醒来怕门没锁，它列了清单、每晚 8 点还提醒你"——"锁完打勾，才能安心睡"
+- **做了什么**：用户 Daria Shark（11-22 reel，自述 + 屏录，65 万粉）：她半夜在沙发上惊醒、怕门没锁，让自己的 Muse "Mira" 列一份夜间锁门清单、每天 20:00 提醒她；Mira 列出前门、后门、厨房窗、推拉门、车库门，变成可打勾的清单；她随即按单走了一圈：锁前门智能锁、锁推拉玻璃门并拉窗帘、检查并锁通往车库的门、卧室门再加一道粉色安全杆，手机上逐项打勾后才去睡。注：本条为用户自述 + 屏录口径，按"夜间锁门清单 + 每日提醒"的样本记一笔；演示口径较重、结尾带下载号召，但清单与逐项执行均有画面佐证；与"睡前例行检查"类用法对照看：这是第一例"安防清单"样本。
+- **一句话总结**：半夜最磨人的不是"锁门"，是"你躺下了才想起来、不知道哪扇还没锁"——agent 的活就是先列成清单、每天 8 点提醒你，打完勾再睡。
+- **来源**：[Instagram @daria_shark_](https://www.instagram.com/reel/DgBsKqxNuhm/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#生活 #效率
+
+#### 8. Anthony Donatelli @anthony_donatelli（IG，11-22）："周日看球赛那顿饭，它按部门列了张约 $50 的采购单"——"翅膀、滑块、玉米片，一个不少"
+- **做了什么**：用户 Anthony Donatelli（11-22 reel，自述 + 屏录）：他说办 Football Sunday 像打第二份工——吃的喝的都得赛前备好；他让自己的 Muse "Ted"（泰迪熊形象）排一份合家欢、便宜的菜单：鸡翅、滑块、玉米片与蘸酱，Ted 给了详细菜单与做法提示；他再要一份完整购物清单，Ted 按果蔬、乳品冷藏、烘焙、罐头、零食分部门列出、带数量与估价，合计约 $50；随后画面打出 "FOOTBALL SUNDAY" 菜单图（玉米片吧、鸡翅吧、滑块站）。注：本条为用户自述口径，按"看球赛菜单 + 采购单"的样本记一笔；演示口径较重、菜尚未见做出来，与第 6 条 Madison Ludwig 同属"只到清单一步"的样本。
+- **一句话总结**：请人看球最磨人的不是"没菜谱"，是"菜单、采购、预算全得你赛前一天现想"——agent 的活就是先排好菜单、再按部门列好单，约 $50 一次算清。
+- **来源**：[Instagram @anthony_donatelli](https://www.instagram.com/reel/DgDL1wFNDRB/)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#生活
+
+#### 9. Renee @renee.decoded（IG，11-23）："黑五清单我让它比价、盯预算，但卡绝不给它"——"前银行职员的底线：比价可以，结账我自己来"
+- **做了什么**：用户 Renee（11-23 reel，自述，澳大利亚）：她说自己用 Muse 做了一份黑五愿望清单与预算，每天和它开一次 "daily standup"——Muse 帮她跨店比价、把购买记到预算里，她自己保留结账决定权；她强调自己是前银行职员、见过太多聪明人栽在诈骗上，所以绝不把卡交给 AI；她还引用 Logica Research 的一项研究：只有 4% 的澳大利亚网购者希望 AI 帮他们结账。注：本条为用户自述口径，按"比价 + 盯预算、但不交卡"的审慎样本记一笔；小账号（39 粉）、无推广口径；4% 数据为作者引用的第三方研究，未独立核验；与本期行业观察沃尔玛 Agent Gateway（可直接结账）对照看：这是"只比价、不代付"的另一端。
+- **一句话总结**：黑五最磨人的不是"比价"，是"比完价你还得防着它直接把卡刷了"——她的活就是只让它比价和记账，卡留在自己手里。
+- **来源**：[Instagram @renee.decoded](https://www.instagram.com/reel/DgFTk47MXu-/)（据平台内容摘要整理）
+- **日期**：2026-11-23
+- **标签**：#省钱 #生活
+
+#### 10. Richmond Dinh（FB，11-22）："21 节 Instagram 课，它替我上完、还提炼了要点"——"自称省了 15 小时以上"
+- **做了什么**：用户 Richmond Dinh（11-22 文字帖，自述）：他称自己让 Muse 替他上完了一门 21 节的 Instagram 课程、并提炼了要点，自称省了 15 小时以上的学习时间；随后他邀请观众索取这份要点总结。注：本条为用户自述口径，按"代学课程 + 提炼要点"的样本记一笔；"15 小时以上"为作者自报、未独立核验，且帖子本身带索取要点的引流口径，"省时"数字先打个折再看；与 10 月"代读长文/代看视频"类用法同型，但这是第一例"整门课"的口径。
+- **一句话总结**：学课最磨人的不是"难"，是"21 节课、你得一节节坐下来看完"——agent 的活就是先替你看完、再把要点一次交出来。
+- **来源**：[Facebook Richmond Dinh](https://www.facebook.com/coachrichmonddinh/posts/pfbid0fxT3KFsJM4BSDFjGLybKXAHcLUMunUujnEEprRURUYavYvEBG8jexFQqzHYomGR5l)（据平台内容摘要整理）
+- **日期**：2026-11-22
+- **标签**：#学习 #效率
+
+### 行业观察
+
+- **沃尔玛 Agent Gateway 11-23 上线，Muse 是首个接入的 agent（The Verge，11-23）：黑五代购进了对话里，消费上限你说了算**：The Verge 11-23 报道，沃尔玛 10-21 公布的 Agent Gateway 已上线、Muse 是首个接入的 agent：用户在对话里告诉 Muse 要什么（比如黑五电视折扣），Muse 经沃尔玛自家助手 Sparky 找货、建购物车；首次加购时在沃尔玛账号里建一个 "Agent Profile"（agent 专属空间），设消费上限、逐笔审批、随时可查 Muse 买过什么、随时可删；结账在对话里完成、用沃尔玛账号里存的卡，价格与 Walmart.com 一致、退货政策照旧；网关走 MCP 直连、不经过浏览器点按，也不把用户的购买历史交给 agent。发布当天还闹了个小插曲：沃尔玛先告诉 The Verge 推迟到 11-24，几小时后又改口称 11-23 当天就上。接在 9-20 亚马逊封禁 Muse、eBay 同样封堵之后看：沃尔玛是第一家反向开门的美国大零售商，Muse 的购物线从"浏览器代操作"变成了"官方通道 + 消费上限"；但与本期第 9 条 Renee "卡绝不给它"对照看：通道开了，用户交不交卡仍是另一回事。注：本条为 The Verge 首发、多家媒体跟进；上限档位示例为 $50/$100/$200。[The Verge（2026-11-23）](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)；[Threads @verge](https://www.threads.com/@verge/post/DgFOtl7m0JK)（据平台内容摘要整理）
+
+- **ABC News 11-23 黑五实测：盯 Cotopaxi 背包降价，Muse 能提醒、还能绑卡后自动买；Gemini 只能天天查、Claude 干不了**：ABC News 11-23 节目里，记者 Becky Worley 让 Muse、Google Gemini 与 ChatGPT 同时盯一只 Cotopaxi 55 升旅行包的降价：Claude 明确表示做不了，Gemini 可以每天查一次、在应用内提醒，Muse 可以设提醒、绑卡之后还能自动下单；节目还采访了 Klaviyo 首席营销官 Jamie Domenici：购物者愿意让 AI 逛、但不愿意把钱包交出去，更想自己握着付款决定。接在本期沃尔玛 Agent Gateway 上线同一天看：媒体实测与官方通道对上了——"提醒 + 自动买"这条线，Muse 是三家里唯一走通的；但 Domenici 那句"逛可以、钱包不行"，与本期第 9 条 Renee 的底线是同一句话。注：本条为 ABC News 节目口径，未独立复现三家实测。[Instagram @abcnewslive](https://www.instagram.com/reel/DgGbVgPxDZn/)（据平台内容摘要整理）
+
+- **ABC Australia 11-23："我让 Muse 用了 24 小时，起名 Poo Poo Mcgoo"——翻邮件找到租房押金、订了餐厅，但每 2 小时就黏上来一次**：ABC Australia 11-23 的第一人称实测：记者在 Instagram 广告里看到 Muse、给了它 24 小时数据权限，起名 "Poo Poo Mcgoo"；24 小时里 Muse 扫了她的邮件、找到了租房押金信息、订了一家餐厅，她认为处理琐事有用；但抱怨也具体：通知每 2 小时黏上来一次，包括一个她根本不去的音乐节提醒；她还引用了此前被报道的翻车——Marketplace 代卖误发住址、读私信（Meta 对这两点有异议）；24 小时后她注销了账号，但自嘲"Meta 反正已经有我的数据了"。接在 11-20 Wirecutter 两月复评（"开头惊艳、两个月后没那么满意"）之后看：主流媒体的实测口径正在收敛——"琐事能办、黏人难忍、隐私账没算清"。注：本条为媒体 24 小时实测口径，翻车引用为转述、Meta 有异议。[Instagram @abcaustralia](https://www.instagram.com/reel/DgER8yySATK/)（据平台内容摘要整理）
+
+- **Cequence 安全指数 11-23：Muse 上线头 30 天，占了"会办事的 agent 访问"里的 40%——agent 访问里"不止浏览"的比例半年涨了近 10 倍**：Cequence Security 11-23 发布的首份 Agentic AI Security Index 报告（GlobeNewswire 通稿）：过去 6 个月里，agent 访问中"登录、订购、购买或管理账户"（不止浏览）的比例从 1.4% 涨到 13%，接近 10 倍；其中 Meta Muse 上线头 30 天就占了全部"会办事的 agent 访问"里的 40%，一半的 Muse 访问都办了点什么（登录、买、订、管理账户）；分行业看，旅行最高——59% 的 agent 访问不止浏览，大多是直接订行程；临近假期，agent 访问里最终成交的比例从年初 0.2% 涨到 3.0%，agent 购买量比 6 月 Prime Day 高约 1,600%。接在 9-08 上线、11-23 沃尔玛开门之后看：这是第一份用网站侧实测流量给 Muse 定量的报告——"agent 真在替人办事"不再是发布会口径，是访问日志里的比例。注：本条为 Cequence 自家受保护网站的流量样本（2026-05-16 至 11-15），非全网数据；"40%" 指其样本内占比。[GlobeNewswire（2026-11-23）](https://www.globenewswire.com/news-release/2026/11/23/3408504/0/en/ai-agents-now-sign-in-book-and-buy-for-customers-while-bots-posing-as-agents-probe-for-secrets-based-on-cequence-agentic-ai-security-index-report.html)
+
+---
+
 ## 2026-11-23（第 59 期）
 
 今日共收录 **7 个用户案例** + **2 组行业观察**。Joe Urbinati "Greg" FB reel（11-21）、@ric.r2 Threads 三笔省钱（11-21）与 Scott Sean White 音乐人行政外包（11-21）均为第 58 期已收案例在搜索中的重现，未重复收；@wirecutter 两月复评轮播第 57 期已收，未重复收；Monisha Jordan @therealmissmoe（IG 11-22）片尾明确标注 Paid Partnership with Meta，未单列；Saas Deals Zone（FB 11-22）纯商业推广 + 邀请码引流、@shamalkrishna.myk（Threads 11-21）与 @hagosip8862（Threads 11-21，韩语）均为邀请码推广帖，未单列；@nocode.joshua（IG/Threads 11-22）"5 个 Muse builds" 为教程口径（分屏 mockup 演示、无本人已跑通的结果）、@brandonbetv（IG 11-22）菜谱变购物单为 Meta 官方示例的复述教程、@babubuildsai（IG 11-21）澳大利亚上线解说、Jason Northcutt（FB 群组 11-21）房产经纪人版功能讲解、Zoe Ministries / Archbishop Jordan（FB 11-21）"Faith AI Master Class" 均为功能解说、无个人真实用法，未单列；Reuters 调查各路 11-21/11-22 复述（@blmsacramento、@trensetta415_21grams47、@arun.siddardha、@voxofai、@learnaibystory21 等二十余条）与第 55/56/58 期同一源头，未重复收（Meta 回应"definitely 是幻觉"的新口径单列行业观察）；Zack Shutt（IG/FB 11-21）与 ButWhoCares（FB 11-22）"$75,000 起诉 Meta"图文与第 54 期 Baby Mia 案同一源头，未重复收；@med_ai__（Threads 11-22，日语）日本可用报信、无本人实测，未单列；@kristrinity.ai（IG 11-22）TechCrunch 10-21 "1000 万用户、购物 top 场景"为第 33/40 期已记口径的复述，未单列；Teck Hustlers 11-23 "Active Memory 全员免费"为 11-06 官宣的二次报道、第 48 期已收，未单列；以下按宁缺毋滥原则收录。
